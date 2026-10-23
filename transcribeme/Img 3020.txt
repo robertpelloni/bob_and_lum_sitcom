@@ -1,0 +1,62 @@
+Speaker 1
+around us right now. Do you get it? Like to maximize these devices. Yeah. To do that. Right.
+
+Speaker 2
+So, so, okay. Oh, right. So, okay. So, so, so, so at this point, like we can have the AI, um,
+
+Speaker 2
+rebuild like the operating system, um, to, to enable all of, all of this functionality with,
+
+Speaker 2
+with, with, with what you're saying. Yeah. So the AI can do it and it like, it'll just like start
+
+Speaker 2
+with like rust and it'll, and it will be like absolutely efficient. Right. And then, okay.
+
+Speaker 2
+So that's amazing. You're saying this and then have, and then have like the, the like wireless
+
+Speaker 2
+cluster, like auto clustering built into the hardware or built into the, like, like using the
+
+Speaker 2
+hardware's capability built into the operating system, which is just a new operating system.
+
+Speaker 2
+Right. But built by the AI built by AI in rust. Yeah. Um, okay. And then go, that's the one that's like a little bit loose. Right.
+
+Speaker 2
+Yeah. Go is like loose and floppy. Like go is, so we need that balance. So go is really, really good at network connections.
+
+Speaker 2
+Lots and lots of network connections. Yeah. So go, so go is like Google built it and funded it and needed it.
+
+Speaker 2
+And they had the original like C designers, um, uh, built it, like designed the language and they, and so it can, it can easily handle like millions of, of, um, like connections from different devices.
+
+Speaker 1
+That's what I'm saying. That's what this needs. Right. So, so. And it can like, like, it can handle the regions and like take it over here. Yeah. And over here.
+
+Speaker 2
+But like other, other, other, other programming languages don't scale as well to so many threads and so many different like network, um, network channels.
+
+Speaker 2
+Then with Go. With Go. Wow. So it's like the yin to the yang bro. Yeah. So it goes this like loose sloppy, like it can handle a lot of stuff, but it's very wasteful. It's like, it's like, um, it uses a lot of resources. It's very resource heavy. So it's like the opposite of rust.
+
+Speaker 1
+But that's like what we're doing in America. And that's what I've heard. Like how Trump say it is like any AI company or like company like Amazon, for example, any company that wants to do business in the United States has to provide their what? Own power supply, like a big company like that. So that's like amazing. Yeah. That's a good concept to go along with this empowering it, like using those companies that are already established. Yeah.
+
+Speaker 1
+We're just doing it in a different way where it connects the world and it gives us all a new operating system. Like I said, we do need one dude kind of because we've all arrived here. And I feel like with Microsoft, like, like just holding and stitching and making it work, bro. You know, like up until this point, it's such a fascinating, beautiful thing. Now we got all the data. We know what happened with that experience. Can we make it new?
+
+Speaker 1
+With this, like, I don't know, with a new operating system. That's what I'm saying. With this new one device powered by whatever country. We're all global. We're all working to like power whatever. You know, everybody that works at Amazon. I mean, Elon Musk is going to have bots, autonomous robots for sale, you know, after the axing, which I think is a very genius business move.
+
+Speaker 1
+Yeah. How he saw that they only had 3% of sales for those and like he had a use case for these autonomous bots. Right. And like it should be able to control those too somehow. Yeah. Right. Right. Right. Like your own bot. You can control your bot with it too. Okay. Interesting. Yeah. Very interesting. Okay. Right. Yeah. I think, I think the bots, I think that's why they're building so many data centers so that robots have their
+
+Speaker 2
+brains wirelessly transmitting, transmitting from, from somewhere close by because the robot brain is still the size of a refrigerator. Exactly. And it's like, it's amazing how we can like take that and like send it to a bot and like have it do tasks. That's amazing. It's basically like an, uh, a freaking eight year old.
+
+Speaker 1
+- Oh, it hurts.

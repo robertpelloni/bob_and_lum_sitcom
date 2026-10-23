@@ -1,0 +1,21 @@
+# Ignore video and audio files
+*.mp4
+*.mp3
+*.avi
+*.mkv
+*.mov
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.webm
+*.wmv
+*.flv
+
+# Ignore large generated outputs
+*.zip
+*.tar.gz
+*.rar
+
+# Keep transcribeme tracked
+!transcribeme/

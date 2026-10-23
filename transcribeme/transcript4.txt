@@ -1,0 +1,4239 @@
+
+00:00:00.000 Who does this?
+00:00:01.040 >> Okay. Who else does this?
+00:00:03.400 >> is nothing
+00:00:04.240 >> No, there is nothing else in the in the
+00:00:06.920 same category as HyperNexus right now.
+00:00:09.080 HyperNexus is is the standard.
+00:00:12.920 >> It's Okay, so
+00:00:13.840 >> So, what Okay, let me Okay, so what is
+00:00:16.079 HyperNexus and how does it fit into the
+00:00:18.560 average everyday AI model? Like chat
+00:00:21.280 Like chat GPT, Gemini, and all that.
+00:00:25.120 >> Okay, so
+00:00:26.200 >> [music]
+00:00:26.320 >> um OpenAI has Codex.
+00:00:29.360 Right? If you want to use OpenAI, you
+00:00:31.520 have to download the Codex application
+00:00:34.120 and run [music] it on your computer and
+00:00:36.280 you open Codex and then you can use
+00:00:37.760 Codex.
+00:00:38.280 >> Okay.
+00:00:38.880 >> If you want to use
+00:00:41.160 um Gemini, you have to download
+00:00:43.360 Anti-Gravity. [music]
+00:00:45.040 >> Right.
+00:00:45.400 >> And you can only use Anti-Gravity and
+00:00:48.040 there is no other option except for
+00:00:49.840 Anti-Gravity. They used to have Gemini
+00:00:51.800 CLI, but they shut it down.
+00:00:53.840 >> they just came out with a CLI, but we'll
+00:00:56.120 look into it after.
+00:00:57.000 >> Well, they do have an Anti-Gravity CLI,
+00:00:59.200 but but it's not the same as the Gemini
+00:01:02.000 CLI.
+00:01:02.480 >> I miss Gemini.
+00:01:03.600 >> Right. So, but Anti-Gravity is the
+00:01:05.360 replacement for Gemini CLI. So, if you
+00:01:07.760 use If you want to use Gemini, you have
+00:01:10.440 to use Anti-Gravity. If you want to use
+00:01:13.040 chat GPT, you have to use Codex.
+00:01:16.160 >> if I wanted to use Claude?
+00:01:17.600 >> If you want to use Claude, [music]
+00:01:19.160 you have to use Claude code or Claude
+00:01:22.160 desktop or [music and snorts] Claude
+00:01:23.800 code in Claude desktop, right? So,
+00:01:27.240 >> If I want to use third-party agents, do
+00:01:28.920 I have to use them, too?
+00:01:30.040 >> So, so all of these companies are not
+00:01:33.720 trying to improve interop [music] inter
+00:01:37.960 operability.
+00:01:39.240 >> Right.
+00:01:39.480 >> So, they're not So, Google is never
+00:01:42.160 going to [music] make it so that the
+00:01:44.800 memory between Anti-Gravity and Claude
+00:01:47.480 is shared. [music]
+00:01:48.760 And Claude is never going to make it so
+00:01:51.080 that Claude can access Anti-Gravity's
+00:01:54.520 Gemini memory. And Gemini is never going
+00:01:56.880 to be able to access Claude's memory,
+00:01:58.920 right? But there's no reason that they
+00:02:00.600 can't. The only reason that they can't
+00:02:03.141 [music] is because the companies want to
+00:02:05.040 keep you
+00:02:06.400 um in their in their like products
+00:02:08.758 ecosystem.
+00:02:10.080 In their ecosystem. So,
+00:02:11.656 >> [music]
+00:02:11.880 >> um so there is a need for a for an
+00:02:15.440 open-source standard
+00:02:18.520 um
+00:02:18.861 >> [music]
+00:02:19.160 >> like like software that is like a glue
+00:02:22.000 that combines all of those ecosystems
+00:02:24.440 together in a standardized way with
+00:02:27.520 standardized features that that all that
+00:02:30.200 everyone that in the community agrees
+00:02:33.880 all of those tools should have [snorts]
+00:02:36.160 equally. So, it is an equalizer. So,
+00:02:39.840 if
+00:02:40.760 Antigravity [music]
+00:02:41.959 happens to have a function
+00:02:45.360 that Google puts into it
+00:02:47.026 >> [music]
+00:02:47.160 >> that Codex does not have or Claude does
+00:02:50.600 not have,
+00:02:51.320 >> Right.
+00:02:52.000 >> Hypernexus
+00:02:53.560 can have that function and then can
+00:02:56.400 equalize it so that Claude does have
+00:02:58.800 that ability and and uh Codex does have
+00:03:01.959 that that ability now. So,
+00:03:04.239 it gives all of the abilities of all of
+00:03:06.800 the tools to all of the tools.
+00:03:09.480 >> At any moment.
+00:03:11.160 >> Yes. That's what it is. So, it's
+00:03:13.120 Hypernexus is the glue that is the it is
+00:03:17.080 the the tool that glues together or
+00:03:19.120 combines together all of the other AI
+00:03:21.880 tools in the in the different
+00:03:23.400 ecosystems.
+00:03:24.320 >> You don't even have
+00:03:25.040 >> to like say like block builder, it's a
+00:03:27.120 glue, for real, because like
+00:03:28.947 [clears throat]
+00:03:29.800 it
+00:03:31.600 >> How about the memory? How about the
+00:03:32.959 memory thing and like security? What
+00:03:35.080 people's always asking about security.
+00:03:37.200 >> is So, the memory is a is is a good
+00:03:40.200 question. Uh security
+00:03:41.959 >> two questions. My bad.
+00:03:43.280 >> Security is less is is less um
+00:03:47.000 prominent of a question at this
+00:03:50.040 particular moment because um we haven't
+00:03:52.480 done that much diving into memory into
+00:03:55.160 security, but um, security is is
+00:03:57.800 completely [ __ ]
+00:03:59.320 Uh, like like regardless.
+00:04:01.800 >> How about for um, Hyper Nexus?
+00:04:04.120 >> Oh, so
+00:04:05.560 just in general, computer security is
+00:04:07.240 [ __ ]
+00:04:08.160 Like computers are over. So
+00:04:09.959 >> Cool.
+00:04:10.480 >> Um
+00:04:11.240 >> Platform another [ __ ] day.
+00:04:12.880 >> Yeah, yeah, that's already that's
+00:04:14.560 already a thing. So, [music] so um
+00:04:16.959 um
+00:04:19.560 um, but okay, so for memory
+00:04:22.520 like like
+00:04:24.520 all of the clients, all of the different
+00:04:26.720 clients are adding memory to their to
+00:04:29.919 their platform. Um, but nobody is adding
+00:04:33.600 in unified memory that connects the
+00:04:35.840 memory between the platforms. And so
+00:04:39.240 that is still important. Memory is still
+00:04:41.240 important. And
+00:04:42.160 >> one of the most coolest [ __ ] things.
+00:04:44.800 >> that is that is like one of the primary
+00:04:47.600 features right now. And the other most
+00:04:50.000 primary feature is MCP and skill um,
+00:04:54.640 uh, tool progressive disclosure uh, and
+00:04:57.720 and tool prediction. So, um, instead of
+00:05:01.320 instead of like
+00:05:02.960 like at the beginning of the
+00:05:03.919 conversation
+00:05:06.240 um, with AI
+00:05:07.960 um,
+00:05:08.520 normally
+00:05:09.960 uh, a un- like a naive client um, like
+00:05:13.440 Codex or something or Claude Code or
+00:05:15.880 Anti-Gravity would just like
+00:05:19.040 tell the AI like all of the tools that
+00:05:21.720 it has available, right? [music] And so
+00:05:23.640 if you give it
+00:05:25.240 the entire like Home Depot full of tools
+00:05:29.080 at the beginning of every conversation,
+00:05:31.080 it just dumps the entire
+00:05:33.040 >> catalog
+00:05:33.680 >> catalog onto the AI. And it's like, I
+00:05:36.360 have all of these tools available to me,
+00:05:38.320 right?
+00:05:39.440 Boom. And the AI doesn't do anything
+00:05:41.120 with it, because it's just overwhelmed.
+00:05:43.040 And it's and it's wasteful. It wastes
+00:05:45.188 [music] tokens. And it wastes contacts.
+00:05:47.640 >> Yeah. Wow.
+00:05:48.400 >> So, what you actually want is you want
+00:05:50.080 like a secondary AI that is that is like
+00:05:53.240 in that's like a local AI that it
+00:05:55.160 doesn't need to be very smart, but it
+00:05:57.280 needs to be able to watch your con- to
+00:05:59.120 read the conversation and then suggest
+00:06:02.400 the most useful tools when they're
+00:06:06.440 most needed.
+00:06:07.600 >> I
+00:06:08.440 hence the uh what was that uh
+00:06:11.520 uh we have downloaded at the office?
+00:06:14.240 Um
+00:06:15.520 to do that the the smaller LLM?
+00:06:17.800 >> Oh, uh lo- uh local LLM
+00:06:20.880 uh LLM Studio.
+00:06:21.280 >> LLM Studio, yes. Okay. I mean, is that
+00:06:23.040 what you're talking about?
+00:06:23.960 >> Uh yes.
+00:06:24.480 >> Okay.
+00:06:24.800 >> Yeah. Yeah. So, so yeah, something like
+00:06:26.960 that. So, so um
+00:06:29.080 >> We're on like GLM.
+00:06:30.120 >> Yeah. So, so if so, you're having your
+00:06:32.160 normal conversation with your AI
+00:06:34.600 about doing a about uh making your CRM
+00:06:37.919 or whatever, right? And um and you start
+00:06:40.480 talking about doing like a billing page
+00:06:42.240 or something, right?
+00:06:43.600 >> Yeah.
+00:06:43.880 >> And so,
+00:06:45.240 so Hyper Nexus would then
+00:06:47.680 go through all the different like the
+00:06:49.080 tool catalog and find everything related
+00:06:51.240 to like banking and billing.
+00:06:53.960 >> Okay.
+00:06:54.440 >> And like and then be like, &quot;Okay, the
+00:06:56.200 most useful set of tools is is like
+00:07:00.160 is like, you know, these things.&quot; And
+00:07:02.200 like dump it in front in in front of um
+00:07:05.640 the AI [music]
+00:07:06.600 during the conversation. So, the AI sees
+00:07:08.640 it.
+00:07:09.040 >> Oh my gosh.
+00:07:10.160 >> So,
+00:07:10.560 >> That's how I have it set up.
+00:07:12.080 >> of right, instead of at the beginning of
+00:07:13.880 the conversation, it just goes, &quot;Here's
+00:07:16.000 the whole store of tools.&quot; And like
+00:07:18.960 like assuming hoping that the AI like
+00:07:21.800 remembers, &quot;Oh yeah, like I have a
+00:07:24.680 chainsaw.&quot; You know what I mean? Like
+00:07:26.280 like the
+00:07:28.240 you set it in front of the AI when it
+00:07:30.080 needs it most. And then it just it just
+00:07:32.000 picks it up and uses it.
+00:07:33.240 >> Yeah.
+00:07:33.680 >> That's it. And it you know, that's
+00:07:35.240 that's very powerful for a lot of other
+00:07:37.280 things, too. And it's not just the CRM,
+00:07:39.360 because I noticed it my coding,
+00:07:41.120 >> Yeah.
+00:07:42.040 >> which I I I know what the issue is. I
+00:07:43.960 got to restart my uh
+00:07:46.280 OLM Studios.
+00:07:48.480 But, that's what the problem was I was
+00:07:50.240 trying to ask you about. I answered the
+00:07:51.720 question to my head right there for
+00:07:54.480 Hyper Nexus, but like
+00:07:56.190 >> [music]
+00:07:56.560 >> man, I'm noticing uh
+00:07:59.200 I'm noticing these things you're talking
+00:08:00.480 about on the coding level as well, like
+00:08:02.320 how powerful it is. You know what I
+00:08:04.680 mean? Especially like if you get lost in
+00:08:06.600 your workspace and
+00:08:08.840 you you know, you ask your your model
+00:08:11.480 several questions and like you run
+00:08:13.880 whatever prompts you're running
+00:08:16.560 and you need to find like a specific
+00:08:18.680 chunk of information or data from a
+00:08:21.400 specific date or like from a specific
+00:08:24.600 timeline regarding like whatever like it
+00:08:28.880 does it, man. You know, you can have
+00:08:30.360 Hyper Nexus [ __ ] pull it up.
+00:08:32.640 >> I don't know that Hyper Nexus is is
+00:08:34.179 [snorts] necessarily going to do that.
+00:08:35.360 Hyper Nexus
+00:08:36.000 >> I think it did.
+00:08:36.960 >> So, what it will do is it will like
+00:08:39.360 track it does it does automatically
+00:08:42.960 um harvest [music] the context memory.
+00:08:45.240 So, it so as you talk to it
+00:08:47.360 >> That's what that is. Okay.
+00:08:48.480 >> as you talk to it, it it automatically
+00:08:51.320 thinks to remember the most [music]
+00:08:54.000 important things you talk about.
+00:08:57.200 >> But then what what if it it doesn't
+00:08:59.120 think that it's important?
+00:09:01.080 >> So, so
+00:09:03.440 it AI is pretty good at deciding which
+00:09:05.839 things are important and which things
+00:09:07.280 are are are like fluff.
+00:09:10.400 So, like it it it will condense down the
+00:09:13.200 details of your conversation as much as
+00:09:15.520 possible.
+00:09:16.640 >> Where it knows what it was.
+00:09:18.360 >> And then it will keep the most important
+00:09:20.320 parts of [music] that automatically all
+00:09:22.640 the time.
+00:09:23.080 >> But we've had to dig for some important
+00:09:24.600 vital information on the human pipeline
+00:09:26.960 together.
+00:09:27.520 >> Together, yeah.
+00:09:28.520 >> You were like we we were like trying to
+00:09:29.960 prompt it all for like 3 days.
+00:09:31.839 >> as as as you use Hyper Nexus with it, it
+00:09:35.520 that shouldn't be an issue anymore. It
+00:09:36.920 should learn and it should be
+00:09:38.400 >> Exactly. all those That's what it does.
+00:09:41.040 I learned that.
+00:09:43.640 Cuz I'm using it on every project that
+00:09:45.800 I'm coding right now.
+00:09:47.280 >> That's awesome.
+00:09:49.320 Did you have any pizza?
+00:09:50.800 >> Yeah. Just take one of my slices, dude.
+00:09:53.160 It's really good. Did you want to get
+00:09:54.720 that sauce, man?
+00:09:56.480 >> Not yet. Did you have any pizza?
+00:09:58.360 >> Yeah. It's It goes down so quickly.
+00:10:01.320 >> two pieces.
+00:10:02.720 >> Dude, I haven't eaten in so long.
+00:10:03.880 >> You had two pieces of pizza.
+00:10:05.560 >> I'm going to have one of yours. I'm
+00:10:06.640 going to have one of yours.
+00:10:07.400 >> Yeah, take two.
+00:10:08.400 >> I'm taking one.
+00:10:09.760 I cannot believe you only had two
+00:10:11.120 pieces.
+00:10:14.240 >> You You can't [ __ ] believe that. You
+00:10:16.760 know how I eat.
+00:10:18.320 >> No.
+00:10:18.560 >> Here, use this. That's some good [ __ ]
+00:10:20.960 >> You should have eaten more.
+00:10:21.640 >> Um
+00:10:22.240 >> You should have eaten more.
+00:10:23.600 >> I will, dude. I had a [ __ ] ton of candy,
+00:10:25.440 too, man, like an [ __ ]
+00:10:26.800 >> Yeah.
+00:10:28.360 >> My mom would have kicked my [ __ ] head
+00:10:29.960 in, dude.
+00:10:30.680 >> Huh.
+00:10:31.400 >> I'm just kidding.
+00:10:34.720 I don't know. I got some
+
+
+# tactiq.io free youtube transcript
+# 20260901 224706
+# https://www.youtube.com/watch/sUrMHwRD3ho
+
+00:00:00.000 hood
+00:00:01.640 you've experienced it a few different
+00:00:03.520 ways I'm I'm thinking.
+00:00:05.160 >> I have like
+00:00:08.000 I just
+00:00:08.360 >> [ __ ] modern hung in the [ __ ]
+00:00:09.840 picture and everything, dude. What the
+00:00:11.520 [ __ ]
+00:00:12.360 >> What?
+00:00:13.360 >> I'm a homie.
+00:00:18.400 Okay, so you had an expectation
+00:00:20.320 >> Oh,
+00:00:21.000 oh, yeah.
+00:00:21.440 >> of like what the hood was before you we
+00:00:23.360 hung out with me or like you experience
+00:00:25.040 you've never experienced it the way that
+00:00:26.760 you have with me.
+00:00:27.960 >> Right, right, right, right.
+00:00:30.160 >> You've been to Detroit before? Me?
+00:00:31.880 >> Uh no, not really.
+00:00:34.120 >> Maybe.
+00:00:35.080 >> Not really.
+00:00:36.040 >> Hm.
+00:00:36.640 >> I don't think so. I mean I like went to
+00:00:38.160 like City Club a few times.
+00:00:40.160 >> Is that downtown?
+00:00:41.520 >> Uh yeah, it was.
+00:00:43.520 But like I don't know anything about
+00:00:45.440 Detroit other than that.
+00:00:47.800 At all.
+00:00:48.840 >> Oh, [ __ ] really?
+00:00:50.280 >> Yeah.
+00:00:50.680 >> What did you think of it before you
+00:00:52.440 went?
+00:00:53.440 >> I don't have any opinion.
+00:00:55.760 >> You had to have, dude. You've heard of
+00:00:57.400 bad [ __ ] happening in Detroit.
+00:00:59.760 >> I mean
+00:01:01.400 >> Your church talks about it. Our our
+00:01:03.280 church talks about it, right?
+00:01:04.559 >> I don't want bad like I don't want bad
+00:01:06.360 things to happen in Detroit.
+00:01:07.920 >> I know I didn't say that, but when you
+00:01:09.680 hear that happening, what do you you
+00:01:11.480 know?
+00:01:11.960 >> Yeah.
+00:01:12.360 >> What was your ideal What was your idea
+00:01:14.520 of Detroit, man?
+00:01:15.520 >> It's just [snorts] like
+00:01:16.400 >> You had to have some kind of [ __ ] You
+00:01:18.640 You didn't think that it was equal to
+00:01:19.960 Shelby Township.
+00:01:22.530 >> [snorts]
+00:01:22.800 >> No, I don't know. Yeah, I know it's I
+00:01:24.760 know it's not Shelby Township. I know
+00:01:26.160 it's very different. But I never I never
+00:01:28.360 felt like um
+00:01:30.360 I never felt any
+00:01:33.360 like
+00:01:35.840 like connection with Detroit like like
+00:01:39.400 >> Like it was your home?
+00:01:40.840 >> Right. Like like I I felt like it was
+00:01:42.760 like too cool for me.
+00:01:44.400 Right? So like like I didn't want to I
+00:01:46.120 didn't I never like connected myself to
+00:01:47.880 Detroit because I was like
+00:01:49.920 I felt like I was just not [snorts]
+00:01:50.920 really of
+00:01:52.880 I'm not really Detroit.
+00:01:54.280 >> Oh, I can see that.
+00:01:55.280 >> Does that make sense?
+00:01:56.040 >> Yeah, that does.
+00:01:56.920 >> Right? So like I was just
+00:01:58.920 I never tried to do that
+00:02:01.760 because I don't think that.
+00:02:04.920 >> Okay.
+00:02:05.680 >> If any but like if anything
+00:02:09.720 um
+00:02:10.800 like
+00:02:11.880 I wanted to do something that
+00:02:13.920 that was not even like
+00:02:18.360 visible really.
+00:02:20.320 Like I like I didn't want I didn't like
+00:02:22.680 even
+00:02:24.720 um
+00:02:27.160 when I like when I came back here I
+00:02:29.000 didn't intend to try to stand out.
+00:02:31.760 >> I'm Silicon Valley.
+00:02:33.080 >> in any way, yeah.
+00:02:34.480 >> Okay.
+00:02:34.880 >> Like I did not like like I did not want
+00:02:36.800 to stand out in any way.
+00:02:39.166 >> [laughter]
+00:02:39.959 >> You made a nice arcade.
+00:02:41.920 >> Right.
+00:02:42.320 >> And then you did something good with
+00:02:43.320 those video those arcades.
+00:02:45.080 >> I did not want to
+00:02:47.560 do the arcade.
+00:02:49.280 It was like an
+00:02:50.040 >> know what you're saying.
+00:02:51.160 >> It was like an accident.
+00:02:53.000 Hey, so it was not
+00:02:55.040 something I even like planned.
+00:02:57.480 >> Really?
+00:02:58.000 >> Yes.
+00:02:58.520 >> How did that even become an accident?
+00:03:04.440 >> So
+00:03:05.519 I was doing
+00:03:07.680 my Amazon business.
+00:03:10.560 >> The olive oil X80?
+00:03:12.120 >> Yes. Which like itself was like kind of
+00:03:15.400 an accident.
+00:03:17.040 Right? So like
+00:03:17.959 >> we're all accident.
+00:03:19.760 >> Right. Well, I don't know. Maybe
+00:03:21.480 >> Waiting to happen.
+00:03:22.720 >> Maybe. So
+00:03:24.720 the olive oil thing
+00:03:27.440 was just
+00:03:28.959 I wanted to make it for myself
+00:03:31.120 because I read about it on the internet.
+00:03:33.080 >> Mhm.
+00:03:33.959 >> And I thought it was interesting.
+00:03:36.959 So I never intended
+00:03:39.160 for that to become
+00:03:41.280 a business.
+00:03:43.040 Especially a business that
+00:03:45.400 like did well.
+00:03:47.720 >> Dude, it was all out of like like your
+00:03:49.920 your the love of your body and health
+00:03:52.120 and knowledge of like, you know, your
+00:03:53.840 body and what what it it needed.
+00:03:55.520 >> It was literally just
+00:03:57.112 >> [music]
+00:03:57.200 >> doing it
+00:03:58.480 because I was interested in doing it for
+00:04:00.600 myself.
+00:04:01.600 >> That's cool.
+00:04:02.280 >> That's it. And I want and I wanted to be
+00:04:05.040 I wanted to afford
+00:04:07.600 being able to take it for myself because
+00:04:09.800 it was expensive.
+00:04:12.200 So, if I made it for a bunch of people,
+00:04:14.360 I could take it for myself.
+00:04:17.600 So, that's
+00:04:18.798 So, that was
+00:04:20.519 literally like an accident.
+00:04:23.560 It it it it blew up.
+00:04:25.760 And then, I just wanted
+00:04:29.160 like
+00:04:29.863 >> [music]
+00:04:30.160 >> I wanted to exercise. I was
+00:04:33.000 obsessed with exercising.
+00:04:36.680 And I would have been [music] and I
+00:04:38.440 that's
+00:04:39.360 in Silicon Valley, I lived in my car and
+00:04:41.400 I ran at the gym all the time.
+00:04:45.280 That's like how I dealt with the
+00:04:46.560 situation.
+00:04:47.548 >> [music]
+00:04:49.160 >> So,
+00:04:49.960 >> I don't know, man.
+00:04:51.120 >> I don't know.
+00:04:52.720 >> I mean, chasing your dreams, that is
+00:04:53.960 great. [music]
+00:04:54.400 >> Well, I don't know. I don't know. I
+00:04:56.640 don't know if it is good or not,
+00:04:58.683 >> [music]
+00:04:58.840 >> but
+00:04:59.800 whatever
+00:05:01.080 it is.
+00:05:02.440 >> Do you think things would have changed
+00:05:03.520 if you had like the resources and money
+00:05:05.800 to stay where you needed to do or do
+00:05:07.360 what you needed to do when you needed to
+00:05:09.000 do it?
+00:05:10.120 Would have things turned out any
+00:05:11.560 different?
+00:05:13.560 >> I don't know.
+00:05:14.880 >> What do you think?
+00:05:16.400 >> I don't know.
+00:05:17.560 So,
+00:05:19.400 I know
+00:05:20.560 like I [music]
+00:05:21.680 I know
+00:05:27.400 >> You know what you know.
+00:05:29.440 >> Yeah, so I like so I regret like
+00:05:31.760 smoking.
+00:05:34.053 >> [snorts]
+00:05:34.120 >> So, you were you went on a health
+00:05:35.600 >> I'm glad that I quit smoking. I still
+00:05:38.440 vape. I'm glad I quit smoking. I was
+00:05:41.200 really bad. I'm glad that's like gone.
+00:05:43.878 >> [music]
+00:05:44.360 >> You know what? I agree with you, man.
+00:05:46.000 That's one of the best things I did as
+00:05:47.480 well. And
+00:05:50.428 >> [music]
+00:05:51.240 >> Um
+00:05:52.200 good for you, man.
+00:05:53.880 Because we did smoke heavy. But [music]
+00:05:56.120 right, so
+00:06:01.000 Yeah, if I would have had the situation
+00:06:03.160 just just
+00:06:04.960 like exist and do what
+00:06:08.200 I felt I was meant to [music] do
+00:06:10.480 or supposed to do, I think I would have
+00:06:12.400 been fine.
+00:06:15.560 And I think [music] like it is fine
+00:06:18.040 mostly.
+00:06:19.480 But I definitely made uh mistakes.
+00:06:23.179 >> [music]
+00:06:23.560 >> Like
+00:06:24.800 and did things wrong and dealt with
+00:06:26.520 things wrong. But a lot of things wasn't
+00:06:28.919 on purpose. Like Like the arcade
+00:06:31.600 >> You came out about like
+00:06:32.760 >> the olive oil wasn't on purpose and then
+00:06:34.280 that became its own responsibility and I
+00:06:36.919 was like working [music]
+00:06:38.360 morning till night just like packing
+00:06:40.240 orders.
+00:06:40.919 >> And then you're manufacturing it as
+00:06:42.160 well?
+00:06:42.520 >> Yeah, and like and like trying to figure
+00:06:44.560 out like a way to do that to keep up
+00:06:46.560 with demand.
+00:06:47.600 >> Literally in an apartment, right?
+00:06:49.280 >> yeah, and then And then I wanted to
+00:06:51.840 exercise because I was because I had
+00:06:53.880 become
+00:06:55.240 like obsessed with running. I ran I ran
+00:06:58.240 like 10 miles every morning.
+00:07:00.400 >> That's amazing.
+00:07:01.560 >> And like
+00:07:03.000 And like that and like
+00:07:04.560 obsessed with like going to the gym.
+00:07:07.080 And so I wanted instead
+00:07:10.680 like the gym I thought was boring and I
+00:07:14.919 wanted to play DDR instead of [music]
+00:07:18.080 going to the gym.
+00:07:19.640 And
+00:07:21.480 um and then it was like for myself.
+00:07:23.440 [music]
+00:07:23.840 >> Cuz you're good at DDR, too.
+00:07:25.080 >> It was It was for myself because I I
+00:07:27.000 realized that's like that's like maybe
+00:07:28.919 the best form of exercise. It was like
+00:07:31.720 It was like like this like perfect
+00:07:33.400 exercise machine. It's like this [music]
+00:07:35.320 like like a treadmill
+00:07:37.640 but it has like a soundtrack.
+00:07:39.640 >> Right?
+00:07:40.320 >> Yeah.
+00:07:40.880 >> And like
+00:07:42.480 uh
+00:07:43.040 and like the gameplay is actually fun
+00:07:45.710 >> [music]
+00:07:46.560 >> and it's actually like to the music.
+00:07:48.240 Like that's that's what it is. So it's
+00:07:49.720 like it's like it's like almost perfect
+00:07:51.920 game.
+00:07:53.440 In my opinion. I think it's great. Like
+00:07:56.160 the core mechanism of that game is so is
+00:07:58.840 like so unique.
+00:08:01.120 It's
+00:08:01.430 >> [music]
+00:08:01.640 >> that it
+00:08:02.680 is its own thing. It's like not it's
+00:08:05.360 like barely even
+00:08:07.320 a video game.
+00:08:08.680 >> It's it's amazing.
+00:08:10.040 >> almost its own thing.
+00:08:11.440 >> And that's why I you know this summer
+00:08:14.720 was so special because I really thought
+00:08:16.960 like
+00:08:18.320 the idea of dance [music]
+00:08:21.160 and what's behind that idea is one of
+00:08:23.480 the best ideas
+00:08:25.000 >> like
+00:08:25.560 >> Yeah, of the summer.
+00:08:26.600 >> Yeah.
+00:08:27.040 >> of the
+00:08:27.880 of the world and for like gaming in
+00:08:30.160 itself.
+00:08:30.919 >> Right. I feel like that is
+00:08:32.039 >> That's it.
+00:08:32.840 >> That is like the game.
+00:08:34.159 >> It is it.
+00:08:34.960 >> And then like every other game
+00:08:37.320 is like an imitation of that game.
+00:08:40.479 And there's like a few different games
+00:08:42.120 that we play in reality.
+00:08:44.839 And and like dance is like the the fun
+00:08:47.480 one. That's like the the ritual. That's
+00:08:49.400 the
+00:08:50.280 that's the the festival. That's the
+00:08:52.560 celebration.
+00:08:54.480 And like that's like what we're here to
+00:08:56.600 do primarily is that. [music] So doing
+00:08:59.839 it as a
+00:09:01.200 doing it as a as a a video game
+00:09:04.311 >> [music]
+00:09:04.360 >> is
+00:09:06.040 is like the most interesting video game,
+00:09:08.480 I guess, but it's like also its own
+00:09:10.280 thing.
+00:09:11.600 And then and I thought like [music]
+00:09:13.640 maybe try it
+00:09:15.280 maybe like do it as a exercise machine
+00:09:18.600 because that exercise is sort of its own
+00:09:21.200 thing.
+00:09:22.240 And um there's some overlap there, so
+00:09:24.480 that might make the best exercise thing.
+00:09:27.280 Maybe that's a
+00:09:29.080 like
+00:09:29.960 maybe that's like a good application.
+00:09:33.520 And maybe it's not.
+00:09:35.120 >> It could fit it any platform.
+00:09:37.200 >> Right. So Right, it might But that's
+00:09:39.440 what I'm saying, like maybe it it it
+00:09:41.120 might be a good application. It might be
+00:09:43.440 the best application for a certain
+00:09:45.000 technology. It might not be.
+00:09:47.040 But it could be.
+00:09:48.280 Like maybe the dance maybe like a dance
+00:09:50.080 video game would be like the best video
+00:09:51.880 game or the best video game. Maybe not.
+00:09:53.840 >> You could dance to anything Spotify at
+00:09:55.680 the same time.
+00:09:57.040 >> Maybe it would be the best exercise
+00:09:58.480 thing. Or it doesn't really matter.
+00:10:01.280 >> It would definitely revolutionize gaming
+00:10:03.240 to another a degree of like innovation.
+00:10:06.400 >> Yeah, maybe it doesn't actually matter
+00:10:07.920 and you don't actually need any of the
+00:10:10.000 technology at all to do
+00:10:13.440 the same thing to do the thing, which is
+00:10:15.840 dancing.
+00:10:16.560 >> Well, you could do anything with it.
+00:10:17.880 >> dance instead of
+00:10:19.680 instead of
+00:10:21.440 having to make it [music] an exercise or
+00:10:24.200 a video game.
+00:10:24.840 >> You could make it a US Army's
+00:10:27.840 [ __ ] like simulation course.
+00:10:30.840 Right?
+00:10:32.280 >> Yeah, right. You could just dance, like
+00:10:34.640 you've got me it doesn't need to be a
+00:10:36.160 video game.
+00:10:37.160 >> Right. You could make it into anything.
+00:10:39.160 >> It doesn't need to be
+00:10:41.160 um
+00:10:42.480 an exercise and um
+00:10:47.400 You could just do it for fun.
+00:10:48.920 You don't need technology to do it.
+00:10:51.320 Right?
+00:10:52.120 >> Right.
+00:10:53.760 >> And you don't need a reason to do it and
+00:10:55.120 you don't need to pay to do it and you
+00:10:56.640 don't need to be paid to do it.
+00:10:59.960 >> Do it, want to do it.
+00:11:01.960 >> And you don't need to pay anyone to do
+00:11:03.400 it.
+
+
+# tactiq.io free youtube transcript
+# 20260901 214407
+# https://www.youtube.com/watch/TI8AylhahMw
+
+00:00:00.160 Sorry. To get into your game, you got
+00:00:02.080 felt pressured and your family was like
+00:00:03.840 wanting you like it was with the biggest
+00:00:05.600 pressure.
+00:00:06.640 >> What
+00:00:07.359 >> was your family like the biggest part of
+00:00:08.880 your pressure?
+00:00:09.760 >> I didn't need to do anything with it
+00:00:10.719 yet.
+00:00:10.960 >> Oh, that's what you had just said. But
+00:00:12.639 yeah, so I'm like so
+00:00:16.239 like
+00:00:17.920 um
+00:00:24.880 but the biggest thing to put get you
+00:00:27.119 >> Yeah. Yes. No, I would not have chosen
+00:00:30.720 to like approach Nintendo at all. Um,
+00:00:35.840 >> yeah. How did that even come up? Because
+00:00:37.520 you said something.
+00:00:38.719 >> Yeah. So, that was
+00:00:39.520 >> that that intrigued me. You said
+00:00:41.600 something that was like like it was like
+00:00:44.399 forced upon you or something.
+00:00:45.760 >> It wasn't It was It was just like like
+00:00:47.840 just like pressure in general. Like I
+00:00:49.600 >> The pressure that's what it So I had So
+00:00:51.520 I had
+00:00:53.710 >> [music]
+00:00:53.760 >> um I had like like basically like I
+00:00:56.960 begged my parents to pay my rent on an
+00:01:00.320 apartment for a while so that I could
+00:01:02.399 work on the game.
+00:01:04.720 >> How old were you at that time?
+00:01:06.000 >> In like isolation. That was in my 20s.
+00:01:07.920 >> Like what was that around when we were
+00:01:09.840 hanging out or after?
+00:01:10.960 >> Before.
+00:01:11.520 >> Before so that was in like 2006
+00:01:15.840 seven or something. Okay. Like in like
+00:01:18.159 two different apartments too. So like
+00:01:20.479 >> like I lived in a in like a dorm for a
+00:01:24.320 bit and then I lived in a in um River's
+00:01:28.159 Edge Apartments in Waterford for a bit.
+00:01:31.520 >> Nice.
+00:01:32.159 >> And um
+00:01:34.880 that's like like I I just I had ADHD
+00:01:39.200 and I didn't know that I I didn't
+00:01:40.880 understand my ADHD.
+00:01:43.360 And so, um, I was I was doing what's
+00:01:46.320 called scaffolding, which is like
+00:01:48.720 selfisolation to try to focus, to try to
+00:01:52.079 like like gain control of your executive
+00:01:54.399 functioning.
+00:01:56.159 Um, people who are scaffolding,
+00:01:59.439 who have ADHD, [music]
+00:02:01.360 try to
+00:02:03.280 control everything around them in their
+00:02:05.200 life because they can't control
+00:02:06.640 themselves.
+00:02:07.360 >> Yes. So, they're like, &quot;I'm going to put
+00:02:08.878 my desk in the middle of the room in
+00:02:11.360 like an empty room and like not have
+00:02:13.360 anything to look at in the room.&quot; And
+00:02:16.400 that's what I did. And I like covered
+00:02:18.080 the windows and like and like didn't
+00:02:21.680 have anything like in my
+00:02:22.800 >> You blocked out all distractions.
+00:02:24.560 >> Yeah. Like, so I didn't have anything in
+00:02:26.480 my line of vision to distract me and I
+00:02:30.319 didn't I didn't have like internet
+00:02:31.599 access. I [music] just had like a
+00:02:32.879 computer
+00:02:33.760 >> coding
+00:02:34.720 >> sitting on a desk in the middle of the
+00:02:36.640 room with like nothing else.
+00:02:38.560 >> Did you have a CD player at the time?
+00:02:40.640 >> I uh I mean on your computer
+00:02:43.760 >> I would have listened to like yeah MP3s
+00:02:45.680 on on the computer and I did do I did do
+00:02:48.000 stuff like that and it was all like very
+00:02:49.920 offline and very much like
+00:02:52.720 >> like organic.
+00:02:54.080 >> I would I would like take like a USB
+00:02:57.360 flash drive to the library and like
+00:02:59.440 download music files on it. Nice.
+00:03:01.840 >> And then like listen to those like music
+00:03:03.760 files for like a month.
+00:03:05.200 >> Did you even have a cell phone at the
+00:03:06.800 time?
+00:03:07.760 >> Yeah. No. So that was those like pre
+00:03:10.720 iPhone pre- cell like the cell phones at
+00:03:13.599 the time were like the you know gas
+00:03:15.040 station like burner phones with the
+00:03:16.480 buttons like just
+00:03:17.920 >> Yeah.
+00:03:18.400 >> The the old throwback Noas and the Star
+00:03:20.959 Tat flips.
+00:03:21.840 >> Yeah. Exactly. So
+00:03:24.319 um
+00:03:26.080 >> so you locked yourself and away from
+00:03:29.040 society and took like any outside
+00:03:31.440 [ __ ] source.
+00:03:32.400 >> So I wasn't so so at that time I wasn't
+00:03:34.959 ready to do anything with my game cuz it
+00:03:37.120 wasn't far enough along. I wasn't
+00:03:38.799 satisfied with how far enough along I
+00:03:40.640 was with it. Although I had done like
+00:03:42.959 most of the artwork and stuff by then
+00:03:45.920 which was like
+00:03:47.280 >> like maybe like like a bulk of the most
+00:03:51.200 tedious parts of the game development
+00:03:53.920 process. So, I had a lot invested into
+00:03:56.879 it, but I didn't have enough invested
+00:03:59.280 into it to where I was like comfortable.
+00:04:01.360 I'm going to go approach publishers now.
+00:04:03.840 But like my family didn't know how to
+00:04:07.120 deal with my ambition and [music] they
+00:04:10.560 didn't know. So, it's not their fault
+00:04:12.640 either. They didn't know whether they
+00:04:14.080 should continue supporting me. And so it
+00:04:16.880 put me in a position where
+00:04:19.358 it was like it put like pressure on me
+00:04:23.120 to have to try to prove to my family
+00:04:28.320 that there was some benefit
+00:04:32.639 that to what I was doing that like there
+00:04:35.120 was some chance that what I was doing
+00:04:36.800 was going to work out cuz my family just
+00:04:38.400 didn't have any experience with any sort
+00:04:41.120 of media or publishing industry at all.
+00:04:45.440 No.
+00:04:46.880 >> So, they did not understand the career
+00:04:49.280 path that I was trying to choose.
+00:04:51.520 >> Yeah.
+00:04:52.000 >> At all.
+00:04:52.800 >> They didn't know how to support you the
+00:04:54.240 way they they wanted to.
+00:04:55.280 >> So, it's not their fault. But in that
+00:04:58.000 situation,
+00:04:59.759 basically like like pressure was put on
+00:05:02.880 me to like have to prove what I [music]
+00:05:06.560 was doing would work before I was ready
+00:05:09.360 to do that
+00:05:10.240 >> by your your family and other people or
+00:05:13.120 not. No. No other promising. No other
+00:05:15.280 promises.
+00:05:16.080 >> Then I got involved with you guys and
+00:05:20.400 like Chris and we took it a different
+00:05:22.560 direction and I think Chris understood
+00:05:25.360 that [music] I wasn't ready. And so and
+00:05:28.160 I think Chris was like I'm going to
+00:05:29.600 support you anyway.
+00:05:32.639 Um, and like we're gonna go with this
+00:05:35.120 sort of like like rockstar persona,
+00:05:38.960 which like
+00:05:41.440 like I don't feel like that was I feel
+00:05:43.759 like that that that really was just a
+00:05:47.280 persona like in [music] a like it it was
+00:05:49.840 more it I feel like in in a sense it was
+00:05:52.320 more like the way that maybe
+00:05:56.880 um like Chris saw like Tulle like the
+00:06:00.639 members of Tulle. Yeah. Are these like
+00:06:03.680 >> what's that?
+00:06:04.319 >> Adam Jones. Like Yeah. You kind of like
+00:06:06.800 had that.
+00:06:07.520 >> Yeah. Right. And Right. And and like how
+00:06:12.319 sort of like um like [music]
+00:06:16.240 freewheeling or like like wild or like
+00:06:19.440 freespirited they are, right? And so
+00:06:22.160 like and Chris wanted to like sort of go
+00:06:23.680 in that direction and like I'm Chris's
+00:06:26.319 friend and I and so and like so I want
+00:06:28.720 to go in that direction too, right? So
+00:06:30.880 like together we went in this like new
+00:06:33.199 direction that was never the intention
+00:06:36.479 >> from the beginning because in the
+00:06:38.160 beginning it was just me doing it but
+00:06:41.199 alone
+00:06:41.919 >> in the dark
+00:06:43.840 >> basically.
+00:06:44.560 >> Yeah. In the dark completely isolated. I
+00:06:46.560 didn't even have internet access and I
+00:06:48.240 was just like my parents were helping me
+00:06:50.000 pay for an apartment
+00:06:51.280 >> in the middle of nowhere by myself.
+00:06:52.880 >> Everybody had to come and check in on
+00:06:54.240 you physically.
+00:06:55.360 >> Yeah. Yeah. And Right. There was no and
+00:06:58.160 it was just I was just sitting there
+00:06:59.280 like doing like pixel art like offline
+00:07:01.759 like on a computer and I didn't have
+00:07:03.440 anything else. Now, when you said it was
+00:07:05.520 a persona,
+00:07:07.199 I totally understand that it was because
+00:07:09.360 I was around you
+00:07:11.199 >> during that and like,
+00:07:13.199 >> yeah,
+00:07:13.680 >> you had cool style though, like, you
+00:07:15.840 know what I mean? But like, it was
+00:07:18.240 nothing like
+00:07:20.319 what I've read or seen, you know what
+00:07:22.130 [laughter] I mean? Like, and it was a
+00:07:24.000 controlled persona because I did see
+00:07:26.160 like when uh you guys did go to Jersey
+00:07:30.880 or New York with Harry.
+00:07:32.720 >> Yeah. Yeah. Like that was that was so
+00:07:34.960 cool, man. You know, like
+00:07:36.800 >> I mean you guys had a purpose and like
+00:07:39.680 >> we we really were
+00:07:41.440 >> it it made so much sense at the time.
+00:07:43.199 >> We really were just like taking a bunch
+00:07:46.319 of drugs and like [ __ ] around. That's
+00:07:48.880 it. We were like we were like laughing
+00:07:50.400 the whole time. We were we like like we
+00:07:54.000 had a bunch of shrooms. Like Chris had a
+00:07:55.599 big big old bag of shrooms.
+00:07:58.000 >> Yeah. Right.
+00:07:58.960 >> All the time.
+00:07:59.680 >> All the time. And we took a [ __ ] ton of
+00:08:01.919 shrooms and we were just like and we got
+00:08:03.919 stoned and we were just like laughing
+00:08:05.599 like what if we
+00:08:06.960 >> what if we made Nintendo the villain,
+00:08:09.199 right? It's like because which is absurd
+00:08:11.759 because like everyone loves Nintendo and
+00:08:13.919 like they're they're like the most like
+00:08:15.680 familyfriendly like
+00:08:17.680 >> likeing
+00:08:18.800 >> like [music]
+00:08:19.680 neutral
+00:08:20.479 >> everything in place like
+00:08:22.240 >> connected live
+00:08:24.080 >> uh
+00:08:24.560 >> their most accepted biggest brand in
+00:08:26.479 gaming in the world.
+00:08:27.599 >> Yeah. Right. They're like they're like
+00:08:28.879 the good guys like so so absurd to make
+00:08:32.640 them the villain in like like as using
+00:08:36.559 their own like their own styling like
+00:08:39.839 their own like storytelling techniques,
+00:08:42.399 you know, the same like naming
+00:08:43.919 techniques.
+00:08:44.800 >> So like
+00:08:46.640 >> that was just that was absurd. And we
+00:08:48.399 were we were it it was funny. We were
+00:08:51.360 high. [laughter] I know.
+00:08:53.200 >> We were like let's do this thing, right?
+00:08:54.560 I just can't believe like you know you
+00:08:56.560 put that little funny thing out there
+00:08:58.480 and like everybody thinks that's you.
+00:09:00.240 >> Yeah. Pure hilarious creative, right? It
+00:09:02.480 was like purely creative and it and it
+00:09:04.320 really it like
+00:09:06.800 >> Yeah. And it it took a life of its own
+00:09:09.279 and then definitely and then like I
+00:09:11.600 could not do anything to correct that
+00:09:13.839 >> and so I've just dealt with it since.
+00:09:16.080 It's just like okay
+00:09:17.360 >> you have
+00:09:18.640 >> by not looking at it. So it's Yeah. So I
+00:09:21.279 I don't even bother to look at it
+00:09:22.640 anymore because it just took a life of
+00:09:24.000 its own. It stopped having any any like
+00:09:28.160 relation or bearing on reality like at
+00:09:31.200 all.
+00:09:31.519 >> It never influenced any of your choices
+00:09:34.000 moving forward because you already
+00:09:35.600 developed like several things, man. And
+00:09:38.880 like your GitHub has proof to is like
+00:09:41.760 proof to back that up in its own. But
+00:09:43.519 like with Hyper Nexus, bro, like so far
+00:09:46.320 with up to the point that I joined, you
+00:09:50.080 know, on boarded with you till now, that
+00:09:53.600 thing is like world class. You know what
+00:09:56.800 I'm saying? So like the Bob then till
+00:09:59.200 now. Yes, I I could see how it has not
+00:10:01.519 affected you, but at the same time
+00:10:05.120 >> like
+00:10:06.080 >> Okay. So yeah, I think I think my skills
+00:10:08.320 got so like I didn't I didn't have any
+00:10:11.040 skills at the beginning and then I think
+00:10:13.120 my skills got like pretty okay like as I
+00:10:16.640 as I
+00:10:17.519 >> they got great
+00:10:18.560 >> worked on worked on stuff and I like
+00:10:22.000 developed my abilities or whatever and
+00:10:24.959 refined myself and and that was I feel
+00:10:26.880 like very very important and very
+00:10:29.519 constructive for self-development.
+00:10:32.959 Um,
+00:10:35.600 but like it's [music] and that that
+00:10:39.760 like ultimately I feel like I got pretty
+00:10:42.000 good at at like development stuff,
+00:10:46.160 computer stuff in general. Um, but when
+00:10:49.760 I was in Silicon Valley, I feel like
+00:10:52.320 everybody I met was at about that level
+00:10:55.839 or better. So like [music]
+00:10:58.399 like it's not it's is like There's
+00:11:02.880 nothing special about it, right? So, and
+00:11:04.480 I don't feel like there's anything
+00:11:05.519 special about
+00:11:07.279 me or really anything that I've worked
+00:11:10.800 on, but [music] the the only thing that
+00:11:13.760 is like maybe unique is that I was able
+00:11:17.040 to put like all of my energy and focus
+00:11:20.720 into personal projects and only a few
+00:11:24.160 personal projects over time. And then
+00:11:26.480 all of my expertise over all of that
+00:11:29.120 time got sort of
+00:11:32.160 like [music] put into
+00:11:34.560 um like this this these last projects or
+00:11:38.480 whatever. So, it's like
+00:11:39.680 >> and helping other people.
+00:11:40.959 >> It's it's it's like it's like its own
+00:11:43.440 its own like art form, [laughter]
+00:11:46.720 right?
+00:11:47.279 >> Well, yeah, there's definitely uh
+00:11:49.760 there's a structure behind it, a story
+00:11:51.680 behind it, and a lot of
+00:11:55.519 energy, you know, behind it that's been
+00:11:58.560 harnessed into something beautiful. And
+00:12:00.720 like the way that you're trying to
+00:12:02.160 present it right now in the world is
+00:12:03.760 just like amazing because you're
+00:12:05.519 starting literally from a negative place
+00:12:08.560 on the internet to some people or
+00:12:10.720 whoever who knows you have some internet
+00:12:12.959 presence right but like you're starting
+00:12:14.880 basically from [ __ ] zero dude again
+00:12:17.920 with what you had and like we're
+00:12:19.920 addressing all of that as we go but on
+00:12:22.079 the at the same time you've already
+00:12:23.360 developed a worldass tool that can
+00:12:26.000 actually help the biggest thing in the
+00:12:27.839 world right now AI any model and
+00:12:30.399 anything and I'm like learning more and
+00:12:32.959 more about MCP
+00:12:35.920 protocol and how your tool works man
+00:12:38.160 like you know so [music] it it's pretty
+00:12:41.760 it's pretty fascinating like how the
+00:12:43.760 memory works on on that tool by the way
+00:12:46.160 I'm getting off topic but like dude I
+00:12:48.978 [music] I apply trying to like plug my
+00:12:51.120 tool I appreciate that
+00:12:53.040 >> but dude no I I really did like do what
+00:12:55.519 you said today and I'm like okay like I
+00:12:58.800 tested my system and like okay what's up
+00:13:01.120 what's the difference here what's what's
+00:13:03.120 going on what's on you know and it was
+00:13:05.440 like funny because it was like yeah I
+00:13:06.800 have hyperex here and then to Nexus
+00:13:10.000 doing this and then I this is not
+00:13:13.120 working and I was like okay get it to
+00:13:15.279 work you know what I mean
+00:13:16.959 >> so I was like checking that out but then
+00:13:18.720 something popped up and I was like ah
+00:13:20.480 >> so it it it actually almost doesn't
+00:13:22.480 really even matter like what
+00:13:25.360 >> I want to do the install now
+00:13:27.519 >> what
+00:13:28.079 >> anyway go on So it almost actually
+00:13:29.920 doesn't even matter what um like what
+00:13:33.440 Hyper Nexus is useful for right now
+00:13:36.000 immediately. It's like it's it's more
+00:13:39.680 actually useful that there is um like
+00:13:45.120 that there is a
+00:13:47.839 dominant [music]
+00:13:49.040 AI
+00:13:52.240 um like like omni tool
+00:13:55.519 that is open source that is developed by
+00:13:58.160 the community [music]
+00:13:59.600 that um in that functions across
+00:14:05.360 and with all the existing AI ecosystem
+00:14:11.120 because there's not really a standard
+00:14:13.839 for that. And that's what I'm hoping
+00:14:16.720 Hyper Nexus
+00:14:19.040 can be can be or or [music] can become
+00:14:22.240 or or will be hopefully is.
+00:14:25.519 >> I mean, it's already that, but like can
+00:14:27.440 it be adapted into it [ __ ] use case?
+00:14:30.880 We just need acceptance of it because
+00:14:33.680 there there is a definite um there is
+00:14:36.639 like [music] a definite void where um
+00:14:40.320 something like that is is needed and
+00:14:42.399 would be like extremely beneficial and
+00:14:44.560 then we could just standardize like the
+00:14:46.480 community can just sort of standardize
+00:14:48.480 on a set of uh features [music]
+00:14:52.720 um and functionality
+00:14:54.880 um that like every AI tool should have
+00:14:57.839 and Hyper Nexus like fills in the blanks
+00:15:00.079 for every for every [music] single tool.
+00:15:02.399 >> I mean, and like
+00:15:04.639 >> it does,
+00:15:05.199 >> right? It does, right? But and it and it
+00:15:07.519 makes it so that um it it it sort of
+00:15:11.120 like like um equalizes the playing field
+00:15:14.880 across [music] like um a bunch of
+00:15:18.000 different communities in a bunch of
+00:15:19.600 different um like closed sourced or
+00:15:22.260 [music]
+00:15:23.360 um like
+00:15:25.839 um
+00:15:27.440 >> like software like like Yeah. So like
+00:15:29.839 like like [music]
+00:15:30.880 corporate ecosystems, right? Like like
+00:15:33.839 like
+00:15:35.680 >> Google wants everybody to be using
+00:15:37.839 anti-gravity,
+00:15:39.360 right? And like that's not going to
+00:15:41.040 change.
+00:15:42.480 >> No, it just stays.
+00:15:43.760 >> So something needs to connect your
+00:15:46.720 anti-gravity memory with [music] your
+00:15:50.240 Claude memory,
+00:15:52.160 >> right? Or like that's not going to
+00:15:55.360 happen. Claude is never going to do
+00:15:58.240 that. [music] Claude is never going to
+00:15:59.839 connect the claude memory to the Google
+00:16:03.120 memory. And Google is never going to
+00:16:05.199 connect the Google memory to the cloud
+00:16:07.519 memory. Never. They're never going to do
+00:16:09.440 that. It's not going to happen. So,
+00:16:11.519 there is a need for a third-party
+00:16:15.040 open-source tool
+00:16:17.680 to be the glue that connects all of
+00:16:20.079 those things together. And that's what
+00:16:21.519 Hyper Nexus is.
+00:16:25.360 >> Nice. It's okay.
+
+# tactiq.io free youtube transcript
+# 20260901 211827
+# https://www.youtube.com/watch/VYyBOx8dg2w
+
+00:00:00.240 strip everything away. You can't let
+00:00:02.399 them still [ __ ] have everything and
+00:00:04.480 they have a change of heart from being a
+00:00:06.240 selfish [ __ ] capitalist all your life.
+00:00:08.639 And like you can't. It's ingrained in
+00:00:12.000 you. And like you have to have a serious
+00:00:14.160 change of heart and mind.
+00:00:16.720 That's a collective thing too because
+00:00:18.560 let's just say it's not going to catch
+00:00:20.240 on 100% because people are going to feel
+00:00:22.240 slighted. There's going to be emotion
+00:00:23.680 behind it. And like
+00:00:26.720 >> as much as
+00:00:27.840 >> I wish that's [ __ ] possible, bro.
+00:00:30.560 >> That's great.
+00:00:31.279 >> Like that would be the ideal way of
+00:00:32.800 life. Yes.
+00:00:34.719 >> But like people, man, like
+00:00:38.480 people are going to always like even if
+00:00:40.160 it's handed to you, man. They're going
+00:00:41.920 to [ __ ] want more. That's like human
+00:00:44.559 nature, dude. And like maybe the the
+00:00:46.960 collective would would primarily be
+00:00:49.920 good, but there's always going to be the
+00:00:51.200 outliers and the groups and the factions
+00:00:53.360 underneath. You can basically already
+00:00:55.680 have all of it is what I'm saying. Like,
+00:01:00.879 >> yeah, but it's it's it's up to us. It's
+00:01:03.520 up to us as a people, dude. It's just
+00:01:06.960 not up to like a government to say it
+00:01:08.799 it's going to happen,
+00:01:11.280 >> right? But
+00:01:12.479 >> it's not.
+00:01:15.119 >> No. Well, the people the the government
+00:01:18.720 is the people. The people are the
+00:01:20.560 government.
+00:01:24.880 The people are the government.
+00:01:27.280 The government is for us. Government is
+00:01:29.200 for the people of the people.
+00:01:32.320 >> It should be.
+00:01:33.360 >> Yeah, it is.
+00:01:34.640 >> I think so.
+00:01:35.680 >> No,
+00:01:37.200 >> I don't think it's treated that way
+00:01:38.799 wholeheartedly. This I mean it's a bunch
+00:01:41.439 of lies when you go just look at the
+00:01:43.119 election.
+00:01:46.640 Look at the the powers to be the
+00:01:48.640 interests, man. Like [ __ ] stupid.
+00:01:50.960 there's an interest in like these wars
+00:01:52.479 in Ukraine. Why are they still going on?
+00:01:54.000 There's a reason.
+00:01:54.960 >> Yeah. Just stupid.
+00:01:57.360 I don't think it's necessary
+00:02:00.000 to have guns to get people to like
+00:02:03.600 respect the idea of money.
+00:02:08.239 And I think that would actually like
+00:02:11.520 work a lot better.
+00:02:22.000 Okay. So,
+00:02:31.360 >> we didn't have to pay
+00:02:34.080 for all these [ __ ] tanks and [ __ ]
+00:02:37.920 >> and just the maintenance on everything.
+00:02:39.760 >> What's that?
+00:02:40.480 >> The maintenance on it alone.
+00:02:42.879 >> Yeah. We didn't have to [ __ ] pay to
+00:02:45.280 keep up all these like aircraft carriers
+00:02:47.120 and [ __ ] jets and tanks and [ __ ]
+00:02:50.080 Like
+00:02:53.120 people could put their
+00:02:55.519 all that energy
+00:02:58.160 just I mean most probably just going to
+00:03:00.239 go to [ __ ] but like most of it is
+00:03:03.200 going to go to or like some of it is
+00:03:04.800 going to go to like
+00:03:06.959 actual contribution to society because
+00:03:10.159 there's like like energy is going to go
+00:03:13.440 somewhere like people got to have
+00:03:15.200 [ __ ] something to do here. Try these.
+00:03:18.879 They're good. Um, yeah, people, you
+00:03:22.159 know, that that goes down to like what I
+00:03:23.920 was saying. If you have dedicated,
+00:03:27.440 you know, the way that we pay for things
+00:03:28.879 instead of giving all this money to
+00:03:30.560 insurance companies to hold on to and
+00:03:32.959 like
+00:03:34.480 just handle all this [ __ ] money. This
+00:03:37.440 money could be easily solve all of our
+00:03:40.319 [ __ ] problems
+00:03:43.040 with a new way of thinking in the
+00:03:45.280 collective where the money's caps.
+00:03:49.040 Everything would change, dude. For real.
+00:03:53.200 It would. And then you could see where
+00:03:54.640 we could go from there because you're
+00:03:55.760 not we're not going to have that change
+00:03:57.360 overnight. There's going to be wars
+00:03:58.640 fought over. There's going to be
+00:03:59.599 debates. There's going to be [ __ ]
+00:04:00.959 dust. There's going to be statements
+00:04:02.959 made,
+00:04:04.080 >> right? Well,
+00:04:07.599 >> in the meanwhile, look at Detroit.
+00:04:08.902 [music] It's [ __ ]
+00:04:11.439 It's what
+00:04:13.120 >> I mean, [music] they're rebuilding Henry
+00:04:14.560 Ford after how long, you know,
+00:04:17.279 >> right?
+00:04:19.600 So
+00:04:30.479 yeah, I don't I don't know. I don't I
+00:04:32.479 don't know what form. There has to be
+00:04:34.479 levels. I don't know what form it's
+00:04:36.560 going to take.
+00:04:39.120 I don't know what's going on.
+00:04:43.280 Well,
+00:04:45.759 it's
+00:04:45.919 >> all you could break it down to a
+00:04:47.199 psychological and spiritual standpoint.
+00:04:50.240 >> Maybe. Yeah. I don't like I don't
+00:04:55.680 I don't know.
+00:04:56.560 >> We're not [ __ ] future readers.
+00:04:59.280 >> What? [music]
+00:04:59.919 >> We're not fortune tellers.
+00:05:01.680 >> Right.
+00:05:03.919 >> Right. Yeah. Right.
+00:05:07.520 >> But with what we know and what's out
+00:05:09.759 there, [ __ ] dude.
+00:05:13.120 I think I think like everything is
+00:05:14.720 broken.
+00:05:17.600 Everything [music] is everything's
+00:05:18.880 broken now.
+00:05:21.440 Um I
+00:05:22.918 >> [music]
+00:05:23.039 >> uh I I I'm I'm like shocked
+00:05:28.880 that it is as [music] stable as it has
+00:05:31.600 been and as stable as it is considering.
+00:05:36.880 But I think that like
+00:05:38.560 >> someone's gonna pop off.
+00:05:40.080 >> Yeah. I think it's I think it's like
+00:05:41.520 it's going to pop off. It's going to pop
+00:05:43.520 and it's going to pop off in like in
+00:05:45.280 like ways that [music] no one expects or
+00:05:47.440 understands or is going to make any
+00:05:49.039 sense. I think Elon Musk what he said I
+00:05:52.160 think it's going to be the opposite.
+00:05:55.520 >> What's that?
+00:05:56.400 >> I think that [music] there is going to
+00:05:57.840 be a resistance and they're going to use
+00:05:59.280 that maybe idea to do whatever they're
+00:06:01.440 going to do. But [music] in the end
+00:06:02.800 they're going to win cuz they got better
+00:06:04.479 technology than the people.
+00:06:07.120 If we rise up against the [ __ ] Elon
+00:06:09.360 Musk taking over, he could easily lock
+00:06:11.759 down the world. [music]
+00:06:13.600 >> He could.
+00:06:14.319 >> Yeah.
+00:06:18.560 >> They can kill us with frequencies off of
+00:06:20.639 these 5G towers
+00:06:22.560 >> in our ears.
+00:06:23.680 >> Yeah. Right. [music]
+00:06:25.039 Yeah.
+00:06:26.880 Right. So it might be a [ __ ] world
+00:06:30.880 domination takeover
+00:06:34.560 and the resistance fights or joins,
+00:06:37.360 >> right? I feel like that's like
+00:06:38.960 >> and then maybe peace would come to it,
+00:06:41.520 >> but he might have to get stern.
+00:06:43.120 >> Yeah, it's it's I feel like it's just
+00:06:44.639 like a natural like evolution of like
+00:06:46.479 civilization. It's not it's that's
+00:06:48.560 always going to occur. Like it's just
+00:06:51.360 going to keep occurring over and over
+00:06:52.720 and over. It doesn't really matter. We
+00:06:55.520 arrive at the same point of this
+00:06:57.600 conversation every time we talk about
+00:06:59.120 it. And it's true. It's human behav like
+00:07:02.479 [music] history. It's patterns and
+00:07:03.759 behavior and thinking, man. Like it
+00:07:05.680 happens, bro. Like if you don't learn
+00:07:07.919 from it, which I think a lot of us have
+00:07:10.800 the wisdom to understand what's
+00:07:12.240 happening in the world today and like
+00:07:13.919 have some sort of like what's going on
+00:07:16.319 and where do we ought to go and like if
+00:07:18.000 we can only just like take that, put it
+00:07:19.840 together.
+00:07:20.720 >> Yeah. man. And like have it be listened
+00:07:22.960 to by each and every soul [music] that
+00:07:24.880 can hear it and implement a way for us
+00:07:28.240 to [ __ ] get one only one step closer
+00:07:30.960 to that with like maybe a [ __ ] road
+00:07:32.960 map plan,
+00:07:35.120 you know?
+00:07:35.759 >> Like a what?
+00:07:36.960 >> Like [music] with a a conglomerate goal,
+00:07:39.120 dude. Like a a a a goal with like
+00:07:43.520 steps levels for [music]
+00:07:44.960 the whole world to [ __ ] take as a as
+00:07:47.120 a collective to get there. But like
+00:07:50.080 government has to be on it. It has
+00:07:51.605 [music] to be enforced and it has to be
+00:07:52.960 adapt adopted like truly Bravo truly.
+00:07:57.440 And maybe who could say [music] like
+00:07:59.120 maybe if they do roll out with like
+00:08:00.720 something astonishing in tech that you
+00:08:04.319 can pair it with it and give the people
+00:08:05.680 the option but like it's not going to
+00:08:07.280 happen because of
+00:08:09.440 spirits and principalities.
+00:08:11.599 You know there are spirits and
+00:08:13.440 principalities man. Like there are
+00:08:15.599 controlling forces in this world, dude,
+00:08:17.759 that we don't even know about.
+00:08:19.680 >> Yeah.
+00:08:20.800 >> I mean, look at Switzerland, dude. [ __ ]
+00:08:22.800 man.
+00:08:23.520 >> I don't Yeah. I don't know like what
+00:08:30.560 what I don't know what's going to
+00:08:32.159 happen.
+00:08:33.120 >> You keep saying that, man. We don't We
+00:08:35.679 don't know.
+00:08:36.159 >> Yeah, we don't know. Here,
+00:08:38.880 >> you drop something.
+00:08:40.159 >> No, I got it.
+00:08:45.279 You [music] know what?
+00:08:49.040 >> Our thoughts and how we act on them.
+00:08:52.640 >> You know what? We're doing the right
+00:08:54.000 thing right now. We're staying focused.
+00:08:57.120 >> We're not like veering off to the left
+00:08:58.720 and right like [ __ ] Except for when
+00:09:01.040 we do too much drugs. That's about it.
+00:09:04.720 >> Are we
+00:09:06.399 doing fine?
+00:09:07.760 >> I think we're doing fine.
+00:09:09.760 >> I think we're doing great. Find yours.
+00:09:11.760 >> We're not out here being [ __ ]
+00:09:15.200 Only the Dollar Tree because they're
+00:09:16.959 [ __ ]
+00:09:18.720 That's about it.
+00:09:20.800 >> They deserve what they get.
+00:09:23.360 >> I think they're fine.
+00:09:24.480 >> Take a
+00:09:26.880 piece of
+00:09:28.720 a [ __ ] gum wrapper in the aisle
+00:09:30.399 there. [ __ ] them.
+00:09:31.680 >> No. I I [singing and music] feel like
+00:09:33.519 they worked very hard to make it an
+00:09:35.279 inefficient business model, but like the
+00:09:37.760 like it's just like not a sustainable
+00:09:39.760 business model.
+00:09:40.480 >> Let's [ __ ] take over Dollar Tree.
+00:09:42.399 >> Yeah. Like I I I I definitely like 100%
+00:09:47.120 like [music] like empathize like support
+00:09:51.200 and and like like appreciate the spirit
+00:09:55.200 behind Dollar Tree. And I want to meet
+00:09:58.000 the people that developed Dollar Tree.
+00:09:59.760 And I want to give them like a round of
+00:10:01.200 applause cuz like good job. But like
+00:10:03.120 also it's kind of shitty. It's like also
+00:10:06.160 kind
+00:10:06.720 >> There's room for improvement. Dollar
+00:10:08.160 Tree.
+00:10:08.720 >> Yeah.
+00:10:09.040 >> [ __ ]
+00:10:09.920 >> Yeah.
+00:10:11.040 >> You hear that? That comes from a former
+00:10:12.720 employee and [ __ ]
+00:10:15.600 head AI developer, you [ __ ]
+00:10:18.000 >> Yeah. Like they they
+00:10:20.240 >> undercover bosed you at Dollar Tree with
+00:10:22.240 your 1515 and your trucks and the bottom
+00:10:25.360 of the barrel [ __ ] start over with
+00:10:27.120 Dollar Tree like what what would benefit
+00:10:29.360 Dollar Tree the most.
+00:10:30.399 >> Let's call it Dollar Roots, [ __ ]
+00:10:32.079 >> What? Yeah, they should be they should
+00:10:34.079 rename to Dollar Roots and then um and
+00:10:37.279 then make everything in the store $3 and
+00:10:40.160 then like like go to the factory for
+00:10:43.519 every single product in the store
+00:10:45.837 [music] and be like do better like next
+00:10:49.360 level like make it next level and if it
+00:10:52.399 doesn't work and if it's not good
+00:10:54.800 >> Yeah. don't make it anymore.
+00:10:57.920 >> Like Amazon.
+00:10:59.839 >> Yeah. Like so like Dollar Tree Dollar
+00:11:02.880 Tree
+00:11:05.200 is
+00:11:06.959 is like like flower
+00:11:12.320 is what? Um,
+00:11:14.959 like like they they tried really hard to
+00:11:17.360 like have a bunch of to to have like
+00:11:19.200 products that are really good or
+00:11:20.399 whatever, but I feel like I feel like
+00:11:23.200 half of the store it's their like first
+00:11:25.600 attempt at that product.
+00:11:28.560 >> Oh, I get it.
+00:11:29.680 >> You know what I mean?
+00:11:30.320 >> Yeah. Startup.
+00:11:31.360 >> Yeah. [music]
+00:11:31.920 >> Or like some guy that took over a
+00:11:33.519 [ __ ] company that somebody died from
+00:11:34.959 and you don't know how to make the
+00:11:36.000 [ __ ] pills yet.
+00:11:37.040 >> Yeah. [music] Yeah. And like it's like
+00:11:38.959 almost good and [laughter] and but they
+00:11:42.079 need to like they [music] need to do
+00:11:43.440 like a version two of like everything in
+00:11:45.680 the store that's not a name brand.
+00:11:47.120 >> Dude, you and I could go in there from
+00:11:48.880 design to pricing to store layout to
+00:11:51.519 [ __ ] everything and make it better.
+00:11:53.760 >> Everything.
+00:11:54.480 >> Yeah. Yeah. It's so funny. And like
+00:11:56.580 [music] and like the design the the the
+00:11:59.920 business model of the store is like
+00:12:02.079 everything's a dollar and like that
+00:12:03.680 doesn't work anymore.
+00:12:04.880 >> It's got to be a $150 plus tax, bro. Oh,
+00:12:07.360 nice. That's what I'm saying. Just make
+00:12:08.880 it [ __ ] $3 and like revise your and
+00:12:11.839 like like fix your [ __ ] instead of
+00:12:14.240 letting it like decay in this [ __ ] up
+00:12:17.600 way that
+00:12:18.079 >> Let's just call it $2 [clears throat]
+00:12:21.120 bill.
+00:12:21.440 >> [ __ ] $3 tree, man. Just who gives a
+00:12:23.600 [ __ ] that everything
+00:12:24.320 >> dollar $3 dollar tree.
+00:12:26.320 >> Everything's $3 but everything is like
+00:12:28.399 really good.
+00:12:30.240 >> That would be a good
+00:12:31.120 >> That's like value world. No, that's like
+00:12:33.040 value. What's that one? That's family
+00:12:34.800 dollar now. It would be a good No, it'd
+00:12:37.040 be better than than all of those stores.
+00:12:39.040 All of those stores have the same
+00:12:40.320 problem, which is that they have
+00:12:41.760 >> I think Five Below is the exact thing
+00:12:43.680 what you're talking about, right?
+00:12:45.120 >> Close. Yes, correct. But yes, um Five
+00:12:49.680 and Below is more like geared towards
+00:12:52.959 >> twins and Dollar Tree is like whole
+00:12:56.160 family.
+00:12:56.800 >> We should do this. We should like start
+00:12:58.399 our own store, patent it
+00:13:00.800 >> and then get it popular in a region.
+00:13:03.200 >> Yeah. Yeah, like a dollar like $3, no
+00:13:05.760 three Dollar Tree and like [ __ ] we'll
+00:13:09.600 find five of those bestselling items and
+00:13:11.839 undercut them with one of the suppliers
+00:13:14.880 and then [ __ ] make them buy us.
+00:13:18.320 >> That way we're we're done and we can
+00:13:19.839 make a few million.
+00:13:21.279 >> Yeah,
+00:13:21.920 >> why don't we do it?
+00:13:23.440 >> I don't think so.
+00:13:24.480 >> We should do it. I feel like
+00:13:26.560 >> the the issue with Dollar Tree is that
+00:13:30.480 >> get that weeping.
+00:13:32.720 >> By the time you get up the chain to the
+00:13:36.639 point that you can communicate with any
+00:13:38.639 of those the factories or the suppliers,
+00:13:41.040 >> we can do that.
+00:13:42.720 >> You basically like that's like a
+00:13:45.200 lifelong pursuit to like [music] become
+00:13:47.040 like a highle executive in the
+00:13:49.360 corporation and it's indistinguishable
+00:13:52.320 from that. And the issue is is that most
+00:13:55.200 of the people vying for that position in
+00:13:57.519 the company by the time they get the
+00:14:00.079 position
+00:14:01.920 either they never have the right
+00:14:04.959 goal or they have the wrong goal or they
+00:14:09.279 don't have a goal or their goal is
+00:14:11.279 selfish.
+00:14:12.240 >> Yeah.
+00:14:12.720 >> Like the CEOs,
+00:14:14.800 >> right? Like, so like, so like what
+00:14:16.800 Dollar Tree needs is they need like a
+00:14:18.959 new CEO that actually gives a [ __ ] about
+00:14:22.399 what the store does. And like I feel
+00:14:25.279 like it's like impossible for them to
+00:14:26.720 get that.
+00:14:27.519 >> Yeah.
+00:14:28.000 >> And so they're just they're just going
+00:14:29.440 to like like languish and and flail
+00:14:33.600 around and die like [music]
+00:14:37.360 die like a weird a weird corporate
+00:14:39.279 death.
+00:14:42.079 What what other companies are dying like
+00:14:43.920 that right now? There there are a
+00:14:46.000 couple.
+00:14:47.519 Wasn't uh I I know it was a pretty big
+00:14:49.760 company that they did that to Harry was
+00:14:51.920 telling me about a few cases that
+00:14:55.040 >> what
+00:14:55.680 >> exactly what you just said.
+00:14:56.880 >> What I just said?
+00:14:57.680 >> Yeah.
+00:14:58.720 >> Um
+00:15:00.079 >> who who are some of the big companies
+00:15:01.519 that just got like [ __ ] right aid? I
+00:15:03.760 don't know. Like
+00:15:04.959 >> Yeah. I feel like all the dollar stores
+00:15:07.519 have are dying and they're and they're
+00:15:09.600 like eating each other and like so but
+00:15:12.399 we might see we might see like an
+00:15:14.560 acquisition that like shakes everything
+00:15:16.160 up at some point. That'd be [music]
+00:15:18.480 really interesting.
+00:15:23.040 But like how how do you work your way
+00:15:25.279 into that system? Like I'm going to be
+00:15:27.440 an executive write a [music] like it's
+00:15:29.760 never going to happen. You know what I
+00:15:30.720 mean? Like
+00:15:31.040 >> Yeah. It's all about who you know and
+00:15:32.560 how you know them and who you blow and
+00:15:34.880 [ __ ] in the ass and like come in your
+00:15:36.720 mouth and [ __ ] bust on your wife's t
+00:15:38.800 titties.
+00:15:39.519 >> Yeah. Yeah. Yeah.
+00:15:40.720 >> It's all perverted. It's all [ __ ]
+00:15:42.639 [ __ ]
+00:15:43.920 >> That's very funny.
+00:15:46.720 >> That's what my dad said about the
+00:15:48.079 military, bro.
+00:15:49.279 >> Really?
+00:15:49.680 >> He said, &quot;Don't join the military.&quot; He's
+00:15:51.680 like, &quot;Don't ever [music] get a a
+00:15:53.440 [ __ ] career where you have to carry a
+00:15:55.199 gun.&quot; He says, &quot;If you join the military
+00:15:57.680 and you the more stripes you got means
+00:16:00.240 uh if you have more stripes than uh me,
+00:16:03.680 he's going to [ __ ] your wife if he wants
+00:16:05.600 to.&quot; That's the culture.
+00:16:08.480 You see how [ __ ] controlled they are,
+00:16:10.639 dude? They got them like on [ __ ]
+00:16:12.000 leashes. Yeah.
+00:16:13.360 >> You know, attention left, right, left,
+00:16:16.399 right, left, right, about face, right?
+00:16:22.079 >> You know?
+00:16:22.800 >> Yeah. I had to learn all those commands
+00:16:24.480 like a dog.
+00:16:25.759 >> You did?
+00:16:26.320 >> Yeah.
+00:16:26.720 >> When?
+00:16:27.199 >> In boot camp.
+00:16:28.639 >> Wow.
+00:16:29.120 >> At prison boot camp, bro.
+00:16:32.399 >> It's like horrible. Like it's like
+00:16:34.399 military like and horrible. But like at
+00:16:36.959 the same time, I think it's good too
+00:16:38.480 because
+00:16:40.720 >> purpose of it is to break a man down and
+00:16:43.279 build him back up with honor and dignity
+00:16:46.240 and integrity and like be a patriot,
+00:16:48.959 right?
+00:16:50.240 >> There's nothing wrong with that.
+00:16:52.720 from the best seat in the house.
+00:16:54.320 >> We've gotten away from that. Okay.
+00:16:56.959 >> We've became soft when other countries
+00:16:58.959 are not.
+00:16:59.759 >> That's right.
+00:17:00.639 >> We became
+00:17:02.480 too [ __ ] much in our feelings, dude.
+00:17:04.959 When it becomes the military,
+00:17:06.799 >> I don't think that it was ever a good
+00:17:09.119 idea or healthy in the first place to to
+00:17:13.439 do that. And I feel like it's a it's
+00:17:14.959 like it's a toxic meme. It's like it's
+00:17:17.520 like a tough guy meme that like
+00:17:21.359 like because like someone someone in the
+00:17:23.919 class
+00:17:25.919 >> here's the thing
+00:17:26.799 >> like has like a tough guy dad and so he
+00:17:28.960 like comes to school and he like and he
+00:17:31.280 plays the tough guy role during gym
+00:17:33.520 class.
+00:17:34.160 >> Yeah.
+00:17:34.480 >> And [music] like
+00:17:35.039 >> that was my best friend in elementary
+00:17:36.720 school did the same [ __ ]
+00:17:37.840 >> and then like
+00:17:39.679 >> like another kid does the same thing
+00:17:41.840 because the first kid did it. I feel
+00:17:43.280 like that's like military. That's what
+00:17:44.799 the military is. military is kind of
+00:17:46.240 that way. Yeah, there in an aspect, but
+00:17:48.240 then there's other other [ __ ] reasons
+00:17:50.720 why too, man. Because for one, there's
+00:17:53.919 been a military
+00:17:56.400 ever since you can remember documented.
+00:17:58.799 Okay, for one, and that's always going
+00:18:00.799 to be a thing. For two, think about why.
+00:18:05.520 I mean, on top of like
+00:18:08.622 [music] fighting for your country or
+00:18:10.160 defending territory, wanting to get
+00:18:12.080 more, you're either a man or a woman and
+00:18:15.120 you have certain hormones, bro. Like
+00:18:17.440 testosterone
+00:18:19.120 coupled with, let's just say that you
+00:18:21.919 were in an early [ __ ] early
+00:18:24.240 civilization with like no boundaries,
+00:18:26.559 but kind of knew and like you knew like
+00:18:28.400 the other people in the other lands
+00:18:30.000 around you.
+00:18:32.240 I mean, you guys are all living happily
+00:18:34.000 until like maybe a tiff happened with
+00:18:36.080 like a family member between another
+00:18:38.160 kingdom and like or some something, you
+00:18:41.120 know, and like now you have to like
+00:18:43.440 stand up for what you believe in.
+00:18:45.302 [music] It's like you have to stand up
+00:18:46.640 for what you believe in today. You're
+00:18:48.000 not going to let somebody come and just
+00:18:49.360 take your [ __ ] project and say,
+00:18:50.960 &quot;Yeah, it's mine, [ __ ] bitch.&quot;
+00:18:53.120 And you know what? It's uh and there's
+00:18:54.799 nothing you can do about it. How
+00:18:56.160 >> right. That's what that's what people do
+00:18:58.960 on the internet and it happens and you
+00:19:02.000 do have to prepare for that.
+00:19:04.559 >> I'm ready to I'm prepared but like we
+00:19:06.880 prepare for it by being our best.
+00:19:09.600 >> Exactly. And and and in in practice
+00:19:13.280 usually nobody does that. And [music] so
+00:19:16.000 it's it it actually was like it was
+00:19:18.720 actually like a developmental step
+00:19:21.328 [music] for you to get past um
+00:19:23.840 protectiveness over your own project.
+00:19:26.640 um for so like
+00:19:29.280 >> it it it actually it's actually a good
+00:19:31.360 thing.
+00:19:32.000 >> Yeah. You kept telling me that remember?
+00:19:34.320 >> Yeah.
+00:19:35.039 >> When I was like why the [ __ ] do I have
+00:19:36.559 this follower? [music]
+00:19:37.600 >> Yeah.
+00:19:38.400 >> Yeah.
+00:19:38.960 >> It freaked me out cuz he was a Gentics
+00:19:41.760 uh CRM developer.
+00:19:43.440 >> It like it gets you it prepares you for
+00:19:45.600 like not giving a [ __ ] because you can't
+00:19:48.000 control the world
+00:19:51.600 and how they [music] react to you at
+00:19:53.200 all. Like you can't control like what
+00:19:54.880 anyone outside yourself does. You can
+00:19:56.640 only control yourself.
+00:19:57.600 >> I mean, yeah, you can control a large
+00:20:00.000 part of it through certain things like
+00:20:02.559 training in a different way or being a
+00:20:05.760 total [music] [ __ ] [ __ ] or like a
+00:20:08.160 fake [ __ ]
+00:20:09.039 >> That's like not control. Well, [music]
+00:20:11.440 you can't you can that's like
+00:20:13.679 >> you can do it. There's ways there's
+00:20:15.280 certain ways to do it. Those are all
+00:20:16.720 techniques to influence
+00:20:19.280 and and maybe and maybe gain some in
+00:20:22.080 like influence, but it's not direct
+00:20:24.160 control. Control is like like
+00:20:26.799 >> cultlike [ __ ]
+00:20:27.679 >> Like you have, you know, you control you
+00:20:30.000 have your hand on the lever.
+00:20:32.880 >> No one can stop you.
+00:20:33.919 >> Nuclear.
+00:20:34.799 >> No one can stop you.
+00:20:37.520 >> I don't know, [music] man.
+00:20:39.600 I feel like that's very short.
+00:20:42.960 >> Yeah.
+00:20:52.960 What?
+00:20:56.159 >> Right.
+00:21:07.439 [music]
+00:21:15.954 >> [music]
+00:21:21.919 >> Sometimes you can feel free to do the
+00:21:23.600 dishes too.
+00:21:26.720 >> I could feel free to do the dishes.
+00:21:28.559 >> Yeah. Okay,
+00:21:29.520 >> I will do it.
+00:21:30.240 >> Like you're at home or something.
+00:21:31.840 >> Okay. [music]
+00:21:33.760 >> Thank you.
+00:21:34.240 >> You're welcome. Well, thank you. Thank
+00:21:35.840 you for
+00:21:36.559 >> I just say that because I'm like I love
+00:21:38.320 you and everything, but like [music]
+00:21:39.600 I've been cleaning up after you forever.
+00:21:42.080 >> Yeah. Yeah. Right. Right. Right. Thank
+00:21:44.400 you for mentioning that. That's what I'm
+00:21:45.520 saying. Like because I don't know. I
+00:21:46.880 don't know. Like I don't know what to
+00:21:48.559 do. Like
+00:21:49.360 >> that's like at my mom's house like I
+00:21:50.960 can't do anything, you know? I'm only in
+00:21:52.640 control of my own space there because my
+00:21:54.400 dad don't even like at one point [music]
+00:21:56.640 he would be like, &quot;Don't go in the
+00:21:58.159 kitchen. That's your mom's space.&quot; Cuz I
+00:22:00.159 was in the kitchen talking to mom and
+00:22:01.600 made a laugh or something and get all
+00:22:03.115 [music] insecure. Oh, don't go in the
+00:22:05.360 refrigerator. You know, only your mom
+00:22:08.240 can do it. If you want something from
+00:22:09.840 the refrigerator, ask her. She'll get it
+00:22:11.840 and serve it to you. You know, and then
+00:22:15.120 growing up, our dad would say,
+00:22:18.400 &quot;Every time you open up that ice box, it
+00:22:20.559 cost a nickel. Every time you flush the
+00:22:22.640 toilet, it cost 10 cents.&quot; You know what
+00:22:24.320 I mean?
+00:22:24.799 >> Your dad would say that.
+00:22:25.760 >> Yeah.
+00:22:27.120 >> Holy [ __ ]
+00:22:28.480 >> He said that.
+00:22:29.039 >> He says, &quot;When you use shampoo, use a
+00:22:30.640 dime size. That's all you need.&quot;
+00:22:33.440 Yeah, mutual
+00:22:35.840 >> as we stole toilet paper from [ __ ]
+00:22:37.679 Jibralu trade center. One ply [ __ ]
+00:22:40.000 big rolls
+00:22:41.679 >> to use. Like he he would have to like
+00:22:43.520 get toilet paper like from like places.
+00:22:46.000 My mom gaffle it. You know what I mean?
+00:22:48.159 >> Yeah. Yeah.
+00:22:48.720 >> Yeah.
+00:22:49.919 >> I mean Yeah. I totally understand. Like
+00:22:52.720 all of that is good advice too though.
+00:22:54.320 It was like good to like to to to
+00:22:56.170 [music] be efficient
+00:23:00.159 >> surviving that way was just like I
+00:23:01.679 always brought up like getting napkins
+00:23:03.200 from McDonald's.
+00:23:04.720 >> Yeah.
+00:23:05.520 >> Why not use them anyway?
+00:23:06.960 >> Is like a what is like a startup?
+00:23:09.120 >> What?
+00:23:09.520 >> What did you say?
+00:23:10.159 >> I don't know
+00:23:10.960 >> what
+00:23:11.360 >> I don't know.
+00:23:12.320 >> You said something startup I thought.
+00:23:14.511 [music]
+00:23:15.280 >> No.
+00:23:16.400 >> Living that way is like
+00:23:19.600 something.
+00:23:21.200 It's kind of like a startup. [music]
+00:23:22.400 Yes. Maybe like your your like
+00:23:26.640 >> it's not in here. I don't know.
+00:23:28.000 >> Like you're like like um [music]
+00:23:32.880 um
+00:23:36.781 [music]
+00:23:37.840 amassing resources from nothing.
+00:23:41.600 >> Yeah. I know how to follow my [ __ ]
+00:23:43.679 ass in the middle of the woods and come
+00:23:45.600 out like the [music] man, you know?
+00:23:48.400 >> Yeah.
+00:23:48.880 >> Or in an urban setting cuz I've had to
+00:23:51.120 do it.
+00:23:51.679 >> Yeah. You Yeah. multiple times.
+00:23:53.760 >> You are probably much better off than
+00:23:55.840 me.
+00:23:56.640 >> Well, I [music] you're learning.
+00:23:58.799 >> That's why you need to go kill a elk or
+00:24:00.720 something, you know, and like pray
+00:24:02.320 before you do it and sacrifice [music]
+00:24:03.760 it for the spirit and like that spirit
+00:24:05.679 becomes part of you kind of thing.
+00:24:07.679 >> Yeah.
+00:24:08.000 >> Like learn how to that Native Americans
+00:24:10.080 do it and like maybe you honor it and
+00:24:11.840 like try it for yourself.
+00:24:13.760 >> No pressure, but I [music] think that
+00:24:15.200 would do a lot of help. It would help
+00:24:16.880 you in a lot of ways.
+00:24:18.240 >> Really?
+00:24:18.640 >> I believe so. Cuz I I did it when I was
+00:24:22.159 12 years old.
+00:24:23.279 >> In like a hunting kind of way.
+00:24:24.799 >> Yeah. In like the Native American
+00:24:26.480 hunting spirit type of way or like godly
+00:24:28.320 type of way. If you do it that way,
+00:24:29.840 honoring the animal and like knowing the
+00:24:31.840 spirit's going to be a part of yours.
+00:24:33.520 >> Yeah.
+00:24:34.159 >> I think like you should experience that
+00:24:36.400 because like it changes your life.
+00:24:39.360 >> Okay.
+00:24:40.159 >> It does.
+00:24:40.880 >> Interesting. Yeah, I can see that. I I
+00:24:42.640 feel like I've never had that kind of
+00:24:43.919 like
+00:24:45.919 like predator
+00:24:48.640 role. Like I've never like played like a
+00:24:50.559 Predator role.
+00:24:51.279 >> Yeah, I know.
+00:24:52.080 >> All like
+00:24:53.200 >> Except for the Nintendo.
+00:24:56.692 [laughter]
+00:24:58.159 >> You went after them [ __ ]
+00:25:01.520 >> I really didn't though. I didn't mean
+00:25:04.000 to. I didn't mean I didn't.
+00:25:05.120 >> That was out of anger, wasn't it?
+00:25:06.720 >> No,
+00:25:07.279 >> it was that.
+00:25:08.240 >> No.
+00:25:08.799 >> What the [ __ ] were we'll talk about that
+00:25:10.640 some other time then?
+00:25:12.960 Yeah,
+00:25:13.840 >> you know, I'm trying to say for hunting
+00:25:15.760 like
+00:25:18.159 >> that was
+00:25:21.120 that was I wasn't ready to I wasn't I
+00:25:24.799 wasn't ready to like do anything with my
+00:25:26.559 game and I got pushed into it and then
+00:25:29.679 >> What do you mean pushed into it though?
+00:25:31.440 I got like pressured into it like like
+00:25:33.039 my family wanted me to do something with
+00:25:36.080 what I
+
+
+# tactiq.io free youtube transcript
+# 20260901 202427
+# https://www.youtube.com/watch/k9I3HH2dHNE
+
+00:00:00.080 They really are. Big pharma is [ __ ]
+00:00:02.159 bro. I say like half of it is because a
+00:00:04.880 lot of people get into it not knowing,
+00:00:06.799 but the other half do. And the ones that
+00:00:08.960 [ __ ] get into it with good intentions
+00:00:11.040 get [ __ ] jaded, dude. And carry
+00:00:14.080 around so much guilt. It's [ __ ] up.
+00:00:19.520 I'm sorry to be [ __ ] yelling here,
+00:00:21.359 but like [ __ ] dude.
+00:00:24.160 >> Right.
+00:00:24.720 >> I'm sick of this [ __ ] dude.
+00:00:26.640 >> What is the guilt from?
+00:00:29.760 from the people.
+00:00:31.439 >> Yeah,
+00:00:32.320 >> [ __ ] It's from like
+00:00:34.800 it's from like it's not guilt. It's like
+00:00:37.120 an awakening, man. It's like a [ __ ]
+00:00:39.600 they get jaded, bro. When they you join
+00:00:42.399 something for a cause that's good in
+00:00:44.239 your heart with good intentions and the
+00:00:46.239 motivations may have came from like
+00:00:48.480 >> tragedy or trauma in your life or they
+00:00:50.640 could be a [ __ ] good place.
+00:00:52.320 >> Yeah.
+00:00:53.039 >> But [ __ ]
+00:00:58.480 It's like
+00:01:01.440 you you go to college, right? And then
+00:01:03.440 you get you're [ __ ] either going to
+00:01:05.920 stand up for what you you were like
+00:01:07.760 [ __ ] brought up to be and the person
+00:01:10.320 you were before you went with the
+00:01:11.840 original intentions or it gets your
+00:01:15.119 vantage point changes and you know you
+00:01:18.159 totally have a a change of heart and
+00:01:20.000 mind towards what your you you you know
+00:01:22.560 your views were before as opposed to
+00:01:24.960 getting a little bit of education from a
+00:01:28.240 school and from people that are part of
+00:01:31.200 whatever it was that made your dynamic.
+00:01:32.720 dynamic shift on a subject and then you
+00:01:36.079 [ __ ] get you get molded into and
+00:01:39.040 selected by these [ __ ] big
+00:01:40.799 pharmaceutical companies based upon you
+00:01:43.759 know your recommendation and or whatever
+00:01:46.000 [ __ ] school you went to we all know
+00:01:48.159 that Stanford right it's a tech school
+00:01:50.960 correct like there you know
+00:01:54.880 you know big pharma is like killing the
+00:01:56.880 game man dude of like [ __ ]
+00:02:00.399 advertisers are paid off by big pharma,
+00:02:03.439 man. How do you think they could [ __ ]
+00:02:05.520 do such a great job with the other ones,
+00:02:08.639 man, and like have so much control? If
+00:02:10.560 you have one co client, if you're big
+00:02:12.400 advertising firm and you have one client
+00:02:14.480 that's [ __ ] big pharma that's paying
+00:02:17.440 like [ __ ] 70% of your [ __ ] your
+00:02:20.560 company's profit and wages to operate,
+00:02:22.879 bro.
+00:02:23.440 >> Yeah.
+00:02:24.000 >> [ __ ] man. I mean, think about that,
+00:02:26.640 bro. The other 30%.
+00:02:30.239 It's kind of like you got to give those
+00:02:32.239 30% just as equal [ __ ]
+00:02:36.959 quality [ __ ] care. And they they've
+00:02:38.800 managed to take that money from big
+00:02:40.959 pharma for their advertising dollars and
+00:02:43.519 lock it down in a certain way. And like
+00:02:46.239 it don't even matter if they do or not.
+00:02:48.160 They just have to make some stupid ads
+00:02:50.000 to keep it in the back of the people's
+00:02:51.519 mind. Meanwhile,
+00:02:55.200 doctors are persuaded
+00:02:57.840 either by for whatever reason, dude.
+00:03:00.640 Financial [ __ ] pleasurable, whatever
+00:03:03.360 it is, dude. Money by the reps, okay, to
+00:03:09.680 either sling this medication or not. Oh,
+00:03:12.879 you're not going to be in the Fiser,
+00:03:14.239 fam. Jeez.
+00:03:18.159 You know, especially if a doctor [ __ ]
+00:03:19.920 took money or is like pressured into
+00:03:22.080 that and had lost their job because they
+00:03:24.400 didn't take the [ __ ] money. That puts
+00:03:26.159 a label on them right there. Is that
+00:03:27.840 fair?
+00:03:28.800 >> I bet you that's happened in a lot of
+00:03:31.040 [ __ ] situations, man.
+00:03:32.560 >> The pharma the ph pharmacy pharmacy
+00:03:34.720 industry pharmaceutical industry is
+00:03:36.720 [ __ ] weird.
+00:03:38.080 >> It's horrible.
+00:03:39.120 >> It's horrible and weird.
+00:03:40.879 >> How about like for the good side of it
+00:03:42.720 though? Like the ones that are really
+00:03:43.840 trying to do it. How about for the
+00:03:45.440 holistic side of everything? like that
+00:03:47.920 seems to be [ __ ] like uh put at a
+00:03:50.640 level that it can't surpass will never
+00:03:53.040 be holistic. You know what I mean,
+00:03:55.440 >> right?
+00:03:56.000 >> Free energy. How about that? So, it's
+00:03:57.760 like energy pharma.
+00:04:02.000 Energy and pharma, dude.
+00:04:04.799 But anyway, I could get go on to more
+00:04:06.640 cuz it's just not energy and pharma. But
+00:04:08.400 God,
+00:04:10.799 >> these companies [ __ ] values though.
+00:04:13.040 Like I want to pull this up for you
+00:04:14.560 because this is crazy [ __ ] man. Like,
+00:04:21.040 and this is the [ __ ] that I think that
+00:04:23.040 we all know subconsciously, but like
+00:04:29.360 it's just a [ __ ] example of how
+00:04:31.199 powerful
+00:04:33.440 of a [ __ ] loop they got you us in as
+00:04:37.280 a nation and as a a [ __ ] globe, dude.
+00:04:40.880 And like same applies for like any like
+00:04:44.160 country like Cuba or North Korea, man.
+00:04:46.479 They do the same thing,
+00:04:50.560 >> you know?
+00:04:51.199 >> Yeah.
+00:04:52.160 >> To their people.
+00:04:53.280 >> Yeah.
+00:04:53.759 >> Now we got to go help people customize
+00:04:55.280 and save.
+00:04:56.240 >> Wait, what is North Korea?
+00:04:57.840 >> Yeah. They supposedly, maybe it's a big
+00:05:00.400 [ __ ] joke cuz I never been there.
+00:05:02.560 Worship the [ __ ] Ken Jangun, you
+00:05:06.000 know, like
+00:05:07.120 >> I'm sure
+00:05:07.840 >> my cousin
+00:05:10.479 I'm sure like
+00:05:14.720 >> people know
+00:05:16.400 >> [ __ ] up.
+00:05:18.880 >> It's ridiculous.
+00:05:20.560 >> Like like young like children probably
+00:05:23.680 know this is ridiculous.
+00:05:26.639 >> I don't know, man.
+00:05:27.759 >> And then like after a certain period of
+00:05:31.440 adulthood,
+00:05:33.360 >> the like social pressure like like
+00:05:35.360 forces people to conform mentally. And
+00:05:38.560 so the parents are just like sh just put
+00:05:40.960 up with it.
+00:05:41.759 >> Oh yeah, that's Yeah, dude. Um [music]
+00:05:44.479 even before like that to that point like
+00:05:47.440 when um the kids are learning about this
+00:05:50.400 stuff from external s sources outside of
+00:05:53.280 the home.
+00:05:54.000 >> Yeah. like television, wherever they get
+00:05:56.560 their media from or billboards or going
+00:05:59.440 to the doctors and seeing [ __ ] ads
+00:06:01.120 are hearing, you know, kids in school
+00:06:02.800 talking about the good drugs that the
+00:06:05.039 bad kids use or they saw on [ __ ] TV.
+00:06:08.080 You know what I mean? Like there's a
+00:06:10.000 layer right there of
+00:06:11.680 >> innocence that is very vital to the
+00:06:15.440 development on someone's [ __ ] beliefs
+00:06:18.880 because you got this theory, you got
+00:06:21.680 this idea as an innocent young kid, you
+00:06:24.000 know, in [ __ ] fifth grade about
+00:06:26.080 drugs. Obviously, they have the DARE
+00:06:28.080 program, you know what I mean? So,
+00:06:30.160 they're educating us about drugs at a
+00:06:31.840 very young age. So, it's [ __ ]
+00:06:33.520 naturally like I didn't It's sad that I
+00:06:37.759 had to learn about [ __ ] heroin and
+00:06:39.600 crack cocaine at [ __ ] uh fifth grade.
+00:06:43.280 >> Yeah.
+00:06:43.919 >> But like they they put that [ __ ] in our
+00:06:46.800 head and you're either going to be on
+00:06:48.080 one side or the other, but every kid
+00:06:50.400 starts out good. They don't start out
+00:06:51.840 [ __ ] like wanting to salt and use
+00:06:54.080 [ __ ] drugs. So like
+00:06:57.440 that's a pivotal moment in [ __ ]
+00:07:00.639 addiction and or just like [ __ ] in
+00:07:03.680 your me me me me me me me me me me me me
+00:07:04.479 me me me me me me me me me me me me me
+00:07:04.560 me me me me me me me me me me me me me
+00:07:04.560 me me mental thinking dude of
+00:07:06.560 formulating
+00:07:08.160 a core core belief dude at that age
+00:07:10.639 because it's very impactful. I've seen
+00:07:12.319 it in my [ __ ] ex's sons at that age
+00:07:15.520 and you know I had to handle it the
+00:07:17.120 right way cuz I've been through it. You
+00:07:19.360 know what I mean? and not do what you
+00:07:22.080 just said they do most of the time is
+00:07:23.759 like sh push up. You know what I mean?
+00:07:25.919 And that comes later on after you've
+00:07:28.160 already formulated a [ __ ] opinion
+00:07:30.160 that makes you [ __ ] even not want to
+00:07:32.240 be around those people even more. You
+00:07:34.240 despise those people that are telling
+00:07:35.680 you to shush up more if you really have
+00:07:37.599 a strong othersided opinion,
+00:07:39.759 >> right?
+00:07:41.919 >> But either way, I think it's [ __ ]
+00:07:51.039 Yeah. I mean, it is. So, so that's sort
+00:07:55.039 of like I feel like the
+00:07:59.599 >> You good?
+00:08:00.400 >> Yeah.
+00:08:01.520 >> What are you doing?
+00:08:02.240 >> I'm just pulling something up. Go ahead.
+00:08:03.919 I'm listening to you.
+00:08:05.039 >> Oh. Um,
+00:08:06.800 >> sorry.
+00:08:08.879 >> Um,
+00:08:12.400 >> I'm going to send you this interview.
+00:08:14.479 Sorry. Go ahead. I just think like drugs
+00:08:17.599 as a
+00:08:20.080 drugs as a as a
+00:08:24.720 good as like a good
+00:08:27.440 tool
+00:08:28.960 is it's it needs like it's it's not it's
+00:08:32.880 not the same game as the rest of
+00:08:34.880 capitalism. Like
+00:08:36.799 >> wait wait wait. drugs as far as it like
+00:08:38.880 before it hits the [ __ ] the user or
+00:08:42.799 drugs sold or drugs like made or
+00:08:45.279 harvested
+00:08:45.839 >> in general as a as a good.
+00:08:48.160 >> So like a finished product like both
+00:08:50.480 good and like pharmaceutical and street
+00:08:53.360 drugs.
+00:08:53.920 >> Y
+00:08:55.760 >> it's it's like fundamentally like like a
+00:08:58.800 different a different product. It's it's
+00:09:01.360 in the same it's in the category of
+00:09:03.519 food.
+00:09:05.680 >> True.
+00:09:07.040 But
+00:09:09.200 we subsidize food, but we don't
+00:09:11.760 subsidize drugs. Instead, we have the we
+00:09:14.720 have the pharmaceutical industry and the
+00:09:16.720 and the legal industry, and they're both
+00:09:19.279 disasters. [music]
+00:09:20.720 >> You know, it's interesting because down
+00:09:22.560 in like Peru or Bolivia,
+00:09:26.399 you can uh like when you talk about
+00:09:28.880 subsidizing it, they actually do it in
+00:09:31.360 its [ __ ] or most organic pure form.
+00:09:34.480 They take the cocaine base, the paste,
+00:09:38.800 and they use it to barter with. They
+00:09:41.279 It's It's a currency.
+00:09:44.880 Yeah. So, if they treated
+00:09:48.880 food like they do drugs,
+00:09:52.560 instead of going to the Kroger's
+00:09:55.200 and being able to buy like
+00:09:58.560 a bunch of bananas for a dollar,
+00:10:01.951 [music] there would be like
+00:10:06.536 >> [music]
+00:10:06.880 >> There would be like the illegal bananas.
+00:10:09.680 >> Yeah. Like the organics and the
+00:10:12.000 >> like there would be like Well, no, there
+00:10:13.600 would be like [music] there would be
+00:10:14.959 like the fancy organic bananas that are
+00:10:17.600 like $100.
+00:10:18.880 >> Yeah.
+00:10:19.279 >> And then there would be like the free
+00:10:22.160 like ghetto bananas that like you can
+00:10:26.399 just like eat out of a bin, but [music]
+00:10:28.959 like you get beat up for doing it.
+00:10:32.399 kind of like Trey Hawking in in prison.
+00:10:34.959 >> Yeah.
+00:10:35.440 >> Like you got the guys that like [ __ ]
+00:10:37.680 are you gonna eat that? You know what I
+00:10:39.440 mean? Like or like sit there and they
+00:10:41.600 [ __ ] wait for you to put your tray
+00:10:43.279 down and if there's anything on it, they
+00:10:44.800 just talk to it and grab it.
+00:10:46.079 >> Oh [ __ ]
+00:10:46.560 >> Kind of [ __ ] pile, right?
+00:10:48.160 >> Wow.
+00:10:48.880 >> Yeah. It's like the lowest of the
+00:10:50.640 [ __ ] low. And they making money on
+00:10:53.760 each [ __ ] level.
+00:10:55.200 >> Wow.
+00:10:55.839 >> Right. The pharmaceutical companies,
+00:10:59.360 >> right? Yeah. Yeah. So that's the problem
+00:11:02.079 is like drugs
+00:11:04.480 is that food is subsidized. Drugs are
+00:11:07.519 only subsidized
+00:11:09.360 up to like like [music] sugar and
+00:11:12.480 ibuprofen and like over the counter
+00:11:14.320 things.
+00:11:14.640 >> And those are two things that I took
+00:11:16.160 today.
+00:11:16.959 >> Yes. And and it works really well for
+00:11:19.600 being subsidized like the subsidized
+00:11:21.920 drugs that there are. But when it comes
+00:11:24.079 to when it comes to actual like the like
+00:11:27.040 drugs that are like therapies or
+00:11:28.560 treatments for diseases or like like
+00:11:30.640 cures for diseases
+00:11:32.800 um [music] they're not subsidized.
+00:11:35.680 They're subsidized instead by insurance,
+00:11:38.880 which is like a racket. That's like
+00:11:40.880 private subsidized.
+00:11:42.079 >> Yeah. Private private subsidiz
+00:11:45.120 >> where in [music] which
+00:11:47.120 everyone pays a [ __ ] ton of money for
+00:11:49.279 their health insurance that they can
+00:11:51.440 barely afford that barely does anything
+00:11:53.279 for them
+00:11:53.760 >> that they don't rarely use, by the way.
+00:11:56.480 They they use fear tactics. God,
+00:11:58.640 >> right? And then there's like And then
+00:12:00.320 there's like
+00:12:02.399 um there's like like weird
+00:12:06.959 uh like kickbacks and like inflated
+00:12:11.600 prices to like manipulate and take
+00:12:15.600 advantage of
+00:12:18.000 the insurance industry. And it's like
+00:12:20.000 the how the insurance industry like
+00:12:22.560 developed.
+00:12:24.240 And so, so
+00:12:27.440 >> in instead of it being like
+00:12:29.519 >> you're doing all this
+00:12:31.200 >> kind of like
+00:12:32.639 >> like the ideal thing would be you go to
+00:12:34.880 the hospital with like a broken arm
+00:12:38.079 >> and look you pay
+00:12:41.040 >> somebody just bought your hat
+00:12:44.639 >> for the subsidized
+00:12:47.440 >> treat.
+00:12:50.560 Would that be like
+00:12:52.240 >> you only have to pay
+00:12:55.040 like whatever 50 bucks, you know, for
+00:12:57.360 your broken arm to get treated
+00:12:59.120 >> because your policy like you got this
+00:13:01.120 deductible and like this premium you
+00:13:03.360 could use all of this.
+00:13:05.279 >> We [snorts] don't even have health
+00:13:06.320 insurance because the because the
+00:13:08.880 government handles it or something.
+00:13:10.000 >> Oh, you're talking about like [ __ ]
+00:13:11.200 health care as it is now on like
+00:13:12.959 >> Yeah. I'm just saying in general
+00:13:14.160 >> Medicaid
+00:13:14.959 >> what it should be
+00:13:16.560 >> is you go to the hospital and you just
+00:13:18.560 take care of your thing and it's like a
+00:13:19.920 nominal fee for you because it's a
+00:13:21.920 common occurrence and it's a necessary
+00:13:23.839 occurrence and so it's subsidized like
+00:13:25.760 all of the other things that are
+00:13:28.000 necessary in life. But instead they
+00:13:31.839 charge you like like $5,000 and then
+00:13:35.360 char and then like charge the insurance
+00:13:37.440 company $5,000
+00:13:39.680 which and then like charge the insurance
+00:13:41.680 company like $500 for like for like two
+00:13:44.720 ibuprofen or something or like a special
+00:13:49.839 >> [ __ ] Yeah. like like patented
+00:13:52.880 medicine or something, you know, like
+00:13:54.720 and then and then like the insurance
+00:13:56.720 company racket like handles handles it
+00:13:59.120 for you. And it's like stupid. It's
+00:14:01.120 stupid. It doesn't make any sense. It's
+00:14:02.639 just like inflated numbers for like
+00:14:05.600 these like like corrupt industries to
+00:14:08.560 like feed off each other.
+00:14:10.720 >> Weird.
+00:14:11.120 >> It is [ __ ] weird. And by the way,
+00:14:14.480 I got something to say about that, man.
+00:14:16.639 Like before I do, we were talking about
+00:14:19.440 drugs
+00:14:20.480 >> and like food, but like they [ __ ] say
+00:14:22.880 like food is a [ __ ] drug and they
+00:14:25.519 [ __ ] have marked it is
+00:14:27.120 >> right.
+00:14:27.680 >> But then like it is a mind [ __ ] in a way
+00:14:30.560 like you just said with these scumbag
+00:14:32.399 companies trying to [ __ ] like squeeze
+00:14:34.320 every cent out to make something work
+00:14:37.040 while they take [ __ ] while they steal
+00:14:39.040 or do whatever with the money. Okay, now
+00:14:41.760 think about this.
+00:14:44.079 It would be like a real [ __ ] America
+00:14:47.760 if let's take your your plan if like it
+00:14:51.680 was subsidized. Correct. [music]
+00:14:54.320 Not subsidized. You would just go to the
+00:14:56.320 doctor and pay like $1,200 for a broken
+00:14:59.120 arm.
+00:14:59.839 >> Yeah. [music]
+00:15:00.399 >> Okay. And maybe like a set like a set
+00:15:03.279 inside of a a set range. Yeah. for like
+00:15:06.800 going to whatever practice you want all
+00:15:08.720 the way up to this amount.
+00:15:11.519 A practice can charge, you know, based
+00:15:13.680 on their services or whatnot to stay
+00:15:15.600 inside of a guideline like fuel, but you
+00:15:18.160 could go to like any provider. Now, with
+00:15:20.800 this, it gives everyone a choice instead
+00:15:23.440 of funneling to certain [ __ ]
+00:15:25.360 providers that you're forced to go to
+00:15:28.079 because of that government insurance
+00:15:30.160 that we currently have. Now, [music] how
+00:15:32.720 about the ones like Hank and my, you
+00:15:35.360 know, like our parents that are paying
+00:15:37.279 for private insurance, right? How much
+00:15:40.639 do they [ __ ] put in, dude?
+00:15:43.199 >> A lot. Let's just say that like for a
+00:15:45.279 married couple, they're putting like
+00:15:46.560 $10,000 a year for insurance and they
+00:15:49.279 still have to [ __ ] pay
+00:15:50.880 >> like premiums and all this [ __ ] to be
+00:15:53.120 seen and you have to and they force you
+00:15:56.240 because they give you like a certain
+00:15:57.839 amount of like up to like a certain like
+00:16:01.680 $6,000 worth of like you could go
+00:16:04.079 wherever you want, do whatever you want,
+00:16:05.600 but with like the one the the providers
+00:16:08.160 that take our insurance. Right now,
+00:16:11.920 think about it. But if with your with
+00:16:14.160 what you're talking about, if we were
+00:16:16.320 all to save that money, okay, and put
+00:16:18.959 the money like actually to where it's
+00:16:21.199 supposed to go in the world and like in
+00:16:23.199 our country as far as the federal level
+00:16:25.279 and the state level and the county level
+00:16:27.440 with taxes
+00:16:29.279 into the things that are [ __ ] really
+00:16:31.360 needed for the people and the [ __ ]
+00:16:33.360 infrastructure to survive and prevail.
+00:16:36.000 Now, all of that money, like I don't
+00:16:39.279 know how many [ __ ] boomers are out
+00:16:41.600 there in Michigan. You could look it up.
+00:16:43.839 There's thousands, right? Hundreds of
+00:16:45.680 thousands that are all paying at least
+00:16:48.160 what between what? Three to [ __ ]
+00:16:50.320 probably 25,000 or even more in
+00:16:53.120 insurance per month for their family and
+00:16:55.680 spouses and loved ones. Now, like do
+00:16:57.440 that math. if that was to stay in the
+00:17:00.639 [ __ ]
+00:17:02.720 in our pockets and even add like a a
+00:17:05.119 [ __ ] like
+00:17:06.959 an equivalent to like purchasing a park
+00:17:09.199 pass at the Secretary of State like
+00:17:12.290 [music] on that whatever premium you
+00:17:14.559 have like every time that you use it
+00:17:16.640 there's like another like [ __ ] like
+00:17:18.240 $20 that gets taken out and put in into
+00:17:20.880 a fund. You know what I mean?
+00:17:22.880 >> Yeah.
+00:17:24.319 The only thing that we would need to be
+00:17:26.799 insured on technically would be car
+00:17:29.360 insurance and that could be regulated
+00:17:31.120 way better and it could be way looser.
+00:17:33.600 >> Yeah.
+00:17:34.000 >> You know.
+00:17:34.559 >> Yeah, for sure.
+00:17:36.960 >> I don't know.
+00:17:37.520 >> All of those industries need to get like
+00:17:40.080 need to get like destroyed by AI and
+00:17:42.160 they can
+00:17:43.200 >> I mean they need to get re Yeah. They're
+00:17:45.360 going to be taken over by AI.
+00:17:47.120 >> Yeah.
+00:17:47.360 >> I mean it's only a matter of time but
+00:17:49.360 the you know but that that is even a
+00:17:51.600 bigger [ __ ] debacle. They're going to
+00:17:53.280 stop making sense is what's going to
+00:17:54.720 happen.
+00:17:55.200 >> I mean, I hope it does because like if
+00:17:57.200 it doesn't then what it's going to
+00:17:58.559 happen is it all falls down back to the
+00:18:01.840 [ __ ] the people who have most of the
+00:18:03.840 control of everything which is very few.
+00:18:06.657 [music]
+00:18:06.880 >> Yeah.
+00:18:07.679 >> We're still under the illusion if
+00:18:10.160 >> it's Yeah. It's it's really a matter
+00:18:13.207 [music] of resource distribution more
+00:18:16.640 than anything.
+00:18:17.360 >> Yeah. And like money. I mean, as far as
+00:18:20.000 that, like could you imagine like all
+00:18:22.320 the billions and [ __ ] probably
+00:18:24.559 trillions of dollars, bro, that [ __ ]
+00:18:28.400 insurance companies like that are
+00:18:30.240 sitting in accounts right now not being
+00:18:32.000 [ __ ] used. Stimulate our economy and
+00:18:34.960 then like let's see what happens. You
+00:18:36.880 know what I mean? You can easily
+00:18:38.880 stimulate the economy by having the way
+00:18:42.240 that you said like going to the doctor
+00:18:44.559 and like expecting this or that or that
+00:18:47.039 or this. And like even if you did have
+00:18:49.039 that money and you were a good American,
+00:18:50.799 which you're going to have a high credit
+00:18:52.080 score because you're not giving
+00:18:53.280 thousands of [ __ ] extra dollars to
+00:18:56.000 something that you can't even [ __ ]
+00:18:57.440 see that you're just on a [ __ ] hope
+00:18:59.120 and prayer that your health stays good.
+00:19:01.280 But then we all know that you're going
+00:19:02.720 to [ __ ] get sick and die because food
+00:19:04.880 is a drug, sugar's a drug, drugs are
+00:19:07.120 drugs.
+00:19:07.679 >> Yeah.
+00:19:08.080 >> Okay. Plus, you don't know how you're
+00:19:10.160 going to [ __ ] go. Just think about
+00:19:12.559 like how that would work, man. Like it
+00:19:15.440 would really really create real wealth
+00:19:17.760 for everybody in our country.
+00:19:20.080 >> Yeah.
+00:19:21.760 >> Even on the provider doctor side, man.
+00:19:27.360 >> I mean,
+00:19:28.400 >> because there's still going to be
+00:19:29.440 private treatments. Like you can't
+00:19:30.799 [ __ ] stop plastic surgery and like
+00:19:33.118 [music] t like limit them to like what a
+00:19:35.600 [ __ ] hip replacement would be. You
+00:19:37.600 know what I mean? And like even then
+00:19:39.440 you're going to have high credit. I
+00:19:40.720 forgot what I was going to say. You're
+00:19:42.080 you're going to have high credit. you're
+00:19:43.840 going to be a [ __ ] like top rated
+00:19:45.760 [ __ ] person. So like if you did need
+00:19:48.000 extensive care or something and it goes
+00:19:51.360 beyond the means of your assets and like
+00:19:53.760 your your whole net worth
+00:19:56.320 >> there there should be like it would it
+00:19:58.400 would leave room for us to develop
+00:20:01.520 tailored [ __ ] financial plans that
+00:20:04.640 benefit both family who is American and
+00:20:08.160 the [ __ ] American doctors, right? It
+00:20:11.840 would it would actually like be more
+00:20:13.679 [ __ ] human and more reasonable. And I
+00:20:17.039 think that would be very much achievable
+00:20:19.679 if every American didn't have to pay for
+00:20:22.559 the [ __ ] insurance, man, the way that
+00:20:24.240 they do. And if they didn't have the
+00:20:25.919 game rigged up like we just [ __ ] said
+00:20:28.559 it is. Like honestly, dude, it would
+00:20:31.520 stimulate the economy so bad. It would
+00:20:33.760 help the [ __ ] car companies. It would
+00:20:35.840 help everybody.
+00:20:42.880 We can afford to pay a higher [ __ ]
+00:20:44.559 premium for auto insurance then.
+00:20:46.559 >> Yeah. [ __ ]
+00:20:48.159 >> It's like like
+00:20:50.320 it's the system is not that bad. The way
+00:20:53.440 it's not it's really not like that bad.
+00:20:55.840 The issue is that people need to have
+00:20:58.000 income streams that are reasonable and
+00:20:59.840 like most of the available opportunities
+00:21:02.240 don't have reasonable income streams. So
+00:21:04.559 it's like they keep they keep like
+00:21:06.480 >> tightening tightening the reigns on like
+00:21:09.200 on like wages like regardless of of
+00:21:13.280 inflation. And so that's like gotten
+00:21:14.799 like progressively worse since the
+00:21:16.320 1970s.
+00:21:18.000 >> Yeah. The [ __ ] inflation thing is
+00:21:19.919 like death to the uh to the middle class
+00:21:22.880 that's non-existent.
+00:21:23.919 >> Yeah. It doesn't even like like it
+00:21:26.559 doesn't even make sense how you survive
+00:21:29.440 anymore. Like like live like life.
+00:21:33.360 >> Yeah. How many billions of dollars do
+00:21:35.200 you need? Is that what your motivation
+00:21:36.720 is or like is it just [ __ ] power at
+00:21:39.440 some point, dude?
+00:21:40.400 >> Right. [ __ ]
+00:21:41.280 >> Like just being alive like and and and
+00:21:44.960 and trying to like play by the rules
+00:21:47.039 does it doesn't make any sense. Now
+00:21:49.600 >> we should like try to write out a
+00:21:51.200 private plan and get a bunch of people
+00:21:53.200 to like that agree with that and we
+00:21:55.840 should do a trial.
+00:21:58.159 >> We should.
+00:21:58.960 >> Okay.
+00:22:00.159 >> A trial of what?
+00:22:02.559 Why? We have two
+00:22:03.919 >> not to pay into insurance but like
+00:22:05.679 without I don't know how that law is but
+00:22:07.520 like
+00:22:08.080 >> we have double music two musics.
+00:22:10.720 >> No, it's probably here. That's why it's
+00:22:12.880 me.
+00:22:16.240 Oh, it's you.
+00:22:18.080 >> It's me.
+
+
+
+
+# tactiq.io free youtube transcript
+# 20260831 230451
+# https://www.youtube.com/watch/HKa8hhBaeL0
+
+00:00:00.080 We have to do the emails, right? Like if
+00:00:02.639 we're going to [ __ ] hit these
+00:00:03.679 companies, guess like the first part is
+00:00:05.920 what?
+00:00:07.860 [music] We just said what?
+00:00:12.320 >> Um,
+00:00:13.759 >> context tie.
+00:00:15.040 >> Context tie
+00:00:17.119 >> the first part of the like [ __ ]
+00:00:19.439 presenting this to like [ __ ] like
+00:00:21.680 selling the the tool.
+00:00:23.519 >> So we're So I'm selling like I'm selling
+00:00:25.840 like the company. I'm selling myself.
+00:00:28.640 I'm selling the company.
+00:00:29.840 >> Yeah.
+00:00:30.720 >> And I'm selling the products separately
+00:00:33.040 like as like three different approaches,
+00:00:35.440 right? So like there's a creative
+00:00:38.000 approach and like a like a like a
+00:00:41.920 company approach and there then there's
+00:00:45.440 the then there's like a
+00:00:49.120 like business approach like serious more
+00:00:51.745 [music] serious approach. Um, we're just
+00:00:54.800 still still just like they're all good.
+00:00:59.039 So, just keep pushing all all of them.
+00:01:05.500 [music]
+00:01:06.560 >> Okay.
+00:01:09.680 >> I don't know what else we could do after
+00:01:11.520 that though. like what what happens if
+00:01:14.799 we email everybody and [music]
+00:01:20.880 >> like like
+00:01:21.600 >> we just have to make it a good like
+00:01:23.360 campaign. It's just we can't leave it up
+00:01:25.040 to just one email because I'll tell you
+00:01:27.119 this cold calling in real estate [music]
+00:01:29.200 >> Yeah.
+00:01:29.680 >> there's a formula to it and it's true
+00:01:32.000 because I've been doing it for such a
+00:01:33.600 long time and you've heard me do it.
+00:01:35.680 [ __ ] um dude [music]
+00:01:39.680 it takes like
+00:01:42.320 out of a thousand leads like Right.
+00:01:45.759 >> Yeah.
+00:01:46.399 >> Maybe like warm too. Like warm leads
+00:01:48.640 that maybe like they wanted to [ __ ]
+00:01:50.479 like do something.
+00:01:51.840 >> Yeah.
+00:01:53.200 >> To like you got to call a thousand of
+00:01:55.920 them and have like 100 conversations.
+00:01:59.600 >> Wow.
+00:02:00.320 >> And out of that 100 conversations, you
+00:02:02.960 may get 10 appointments. And out of
+00:02:05.119 those 10 appointments, you may get one
+00:02:07.119 sale.
+00:02:07.759 >> Wow. Yeah. I think the same applies to
+00:02:11.200 this.
+00:02:11.920 >> Yeah, I think [music] you're right. So
+00:02:15.599 that's maybe that's what we got to be
+00:02:17.200 doing.
+00:02:21.360 >> So at least we see that. So maybe we
+00:02:24.319 should think about it.
+00:02:25.280 >> Yeah, I think like we're I feel like
+00:02:27.120 that's what
+00:02:28.959 >> we're sort of like naturally like
+00:02:30.239 falling into that like pattern.
+00:02:32.080 >> Yeah, we are. We should we should be
+00:02:35.200 better.
+00:02:36.879 I mean, like I think we're pretty
+00:02:38.080 [ __ ] good. Like, what am I talking
+00:02:40.239 about?
+00:02:40.720 >> Yeah, we are. And then like we also have
+00:02:43.760 like every approach is we we've sort of
+00:02:46.400 got like every approach covered, which
+00:02:48.800 is great. Like like if like
+00:02:52.720 >> Yeah. Right.
+00:02:53.760 >> Like like
+00:02:58.080 dislike all of our approaches. Like some
+00:03:01.680 something's going to work for
+00:03:03.040 >> Yeah. As long as you're comfortable with
+00:03:04.560 it, I am too, you know. But I got your
+00:03:06.560 back through it all, so it don't matter.
+00:03:15.120 >> Want some chip and dip?
+00:03:16.879 >> No, I'm good.
+00:03:18.800 >> Yeah, man.
+00:03:25.920 >> You should be resting, right? Let's
+00:03:27.599 rest.
+00:03:28.080 >> No, I'm good.
+00:03:29.360 >> No,
+00:03:30.959 you don't want to just chill and watch
+00:03:32.159 Audacity,
+00:03:34.480 >> maybe.
+00:03:35.760 Yeah, it's 11:08. You said you need a
+00:03:37.840 rest, right?
+00:03:39.040 >> No,
+00:03:39.599 >> your body.
+00:03:40.560 >> No, I'm
+00:03:41.920 >> I think you just said that.
+00:03:43.360 >> I don't know. Like I I did for a minute.
+00:03:45.280 I just wanted to like listen to the
+00:03:46.560 music, but now I want to do this.
+00:03:48.959 >> Okay.
+00:03:59.120 I'm just glad that you feel good.
+00:04:01.760 >> That's what I'm so happy about.
+00:04:06.560 Usually it's not that way.
+00:04:09.760 >> Usually I have to run to Detroit.
+00:04:13.439 >> Oh [ __ ]
+00:04:17.120 >> What?
+00:04:17.759 >> Mhm.
+00:04:18.399 >> For what? More.
+00:04:20.720 >> Mhm.
+00:04:21.199 >> Oh my gosh. What the [ __ ]
+00:04:24.720 >> That's what happens, man. Like people
+00:04:26.720 that overdo it that have a a habit.
+00:04:29.208 [music]
+00:04:29.280 >> Yeah. Oh man.
+00:04:30.560 >> An addiction.
+00:04:31.600 >> Yeah.
+00:04:33.120 Terrible. It knocks it all out. And if
+00:04:35.680 nobody has, it's like you have to do
+00:04:38.160 double, I believe.
+00:04:42.000 >> Because like that shit's like on your uh
+00:04:44.240 receptors, you know, kind of like I
+00:04:45.919 don't know how it works, but it's like
+00:04:47.199 you have to do a little bit more or you
+00:04:49.280 have to do some just to like [ __ ]
+00:04:50.880 feel normal.
+00:04:52.240 >> Yeah.
+00:04:57.680 >> All right.
+00:04:58.400 >> And when feeling normal becomes a rush,
+00:05:00.560 that sucks,
+00:05:02.080 >> right? Yeah,
+00:05:11.919 >> so many levels of addiction.
+00:05:15.840 >> Oh, thank you, man. I didn't see you set
+00:05:17.360 this here.
+00:05:21.520 >> Maybe we should hit it together. All
+00:05:23.280 right. Um,
+00:05:25.840 I remember I was locked up one time in a
+00:05:29.120 call county jail. [music]
+00:05:30.240 >> Yeah.
+00:05:33.120 I forget. Maybe I was locked up already
+00:05:35.360 for like a I was doing a year, but
+00:05:37.328 [music] like I got sent back to the DB
+00:05:39.360 blocks or something. No, no, no. I got
+00:05:42.320 arrested
+00:05:45.919 in a different uh
+00:05:48.960 I got arrested and I went um
+00:05:53.360 to the D blocks and I was coming off of
+00:05:55.360 heroin.
+00:05:56.000 >> Yeah.
+00:05:57.840 >> Excuse me.
+00:06:18.080 What's up?
+00:06:25.360 >> No. What was I saying? Is it deb? It's
+00:06:28.800 not hitting.
+00:06:29.680 >> Oh, just hit it like hit it harder. It's
+00:06:32.319 like blocked probably.
+00:06:36.080 >> It'll like unblock itself.
+00:06:39.440 >> Did you get it? Yeah. Yeah.
+00:06:42.560 >> All right.
+00:06:45.919 >> Hit it.
+00:06:48.400 >> I forget what I was going to say though
+00:06:50.479 about the DB blocks, man. Oh, [ __ ]
+00:06:54.160 anyway. I was in there. I'm kicking
+00:06:56.080 heroin. Lower DB blocks. So, I'm in
+00:06:58.080 there with a couple guys that I was in
+00:06:59.440 there in the past or like knew about in
+00:07:01.199 the streets. Like maybe two or three of
+00:07:03.039 them. But that's enough to like control.
+00:07:06.400 One, two, three, four, five, six, seven,
+00:07:10.080 eight, nine, 10, 11, 12, 13, [music] 14,
+00:07:14.160 15, 16 guys in like
+00:07:20.164 [music]
+00:07:22.319 in uh a [ __ ] like cell that's like
+00:07:25.520 just about almost the size as my dining
+00:07:27.840 room and kitchen.
+00:07:29.440 >> Wow.
+00:07:30.880 >> Wa.
+00:07:31.599 >> Maybe just a little bit bigger,
+00:07:34.160 >> you know, with like a shower.
+00:07:35.599 >> Yeah. and like nothing but bars right
+00:07:37.599 here and bars right here and a guard
+00:07:39.840 would walk past you, you know, and down
+00:07:41.680 a catwalk that way.
+00:07:43.199 >> Yeah.
+00:07:43.520 >> Cuz then this like biker guy came in
+00:07:45.280 there all [ __ ] up like cigarettes
+00:07:47.675 [music] and like he thought he was all
+00:07:49.120 cool like giving us cigarettes, but he
+00:07:50.800 was like all nodding out.
+00:07:52.319 >> Yeah.
+00:07:52.800 >> We're like, &quot;Dude, this guy's like
+00:07:54.000 [ __ ] up on something, you know?&quot; And
+00:07:55.840 he was like, we're like, &quot;Come on, man.
+00:07:57.360 Hook us up, bro.&quot; You know, like
+00:07:59.599 >> he was being stingy about the
+00:08:01.039 cigarettes, too, you know? So, I'm like,
+00:08:02.879 &quot;Jesus, man. this guy's kind of a dick,
+00:08:05.039 you know, and like everybody's like,
+00:08:06.479 &quot;This guy's a [ __ ] asshole.&quot;
+00:08:08.879 >> So, uh, one of the guys came up to me
+00:08:11.199 and was like, &quot;Hey, man. This guy's got
+00:08:12.720 like some [ __ ] um some Xanax on
+00:08:15.840 him.&quot; And I was like, &quot;What?&quot; And like
+00:08:18.080 they're like, &quot;Yeah.&quot; Or like Suboxin. I
+00:08:20.000 was like, &quot;I want the Suboxin.&quot; And
+00:08:21.840 like, so like there was this big like
+00:08:23.360 [ __ ] like guy that was like 6'5&quot; I
+00:08:25.599 knew.
+00:08:26.240 >> Yes. [music]
+00:08:28.080 >> And uh
+00:08:30.080 No, this guy was just like a tag along.
+00:08:32.399 this guy I think uh a tag along and then
+00:08:35.120 I knew Eric K. He was like this big
+00:08:37.679 white guy that's [ __ ] like a
+00:08:39.279 baldheaded [ __ ] like honky from like
+00:08:41.599 New Baltimore
+00:08:43.440 and uh some other like [ __ ] like big
+00:08:46.720 dude. We're like I'm like let's just
+00:08:48.399 [ __ ] take his [ __ ]
+00:08:51.120 And I'm like okay so here's what we're
+00:08:52.800 going to do. I was like, &quot;We'll just
+00:08:54.959 [ __ ] stuff him with a [ __ ]
+00:08:56.399 mattress and then you grab it and then
+00:08:58.640 you you bring the drugs to me.&quot;
+00:09:02.959 We went to go like uh I went to go get
+00:09:05.200 it
+00:09:05.839 >> and then like I'm like we're like you
+00:09:07.839 could just hand it over nicely or we're
+00:09:09.680 just going to [ __ ] take it from you.
+00:09:12.080 >> Oh [ __ ]
+00:09:12.560 >> And then [ __ ] boom, man. And like we
+00:09:14.800 just [ __ ] like stuffed him and
+00:09:17.040 paranoized him and took his [ __ ]
+00:09:20.240 >> And like [ __ ] I grabbed the suboxin
+00:09:22.320 cuz I was like coming off heroin so
+00:09:24.240 hard, dude. And I wanted that suboxin so
+00:09:27.040 bad, you know? But I still grabbed like
+00:09:29.200 a Xanax and like we got all the tobacco
+00:09:32.000 and like I just like passed it out. I
+00:09:34.080 was like I don't give [music] a [ __ ] I
+00:09:35.760 took like a Xanax and everybody passed
+00:09:37.600 it out to everybody, dude.
+00:09:39.200 >> Wow.
+00:09:39.680 >> Yeah.
+00:09:40.800 >> Wow.
+00:09:41.519 >> Mhm. And the guy started bitching about
+00:09:43.440 it, dude. He was like, &quot;Motherfucker
+00:09:46.000 stole my&quot; I He's like, &quot;I don't care.&quot;
+00:09:48.640 After a while, he's like, &quot;I just want
+00:09:50.080 my suboxin.&quot; I was like, &quot;You ain't
+00:09:51.760 going to get that, motherfucker.&quot;
+00:09:53.200 >> Oh, wow. Oh, wow.
+00:09:54.640 >> I didn't I don't give a [ __ ] I didn't
+00:09:56.640 give a [ __ ] at that time, dude.
+00:09:58.399 >> Wow. What was this
+00:10:01.200 >> [ __ ] dude? I I had to be in my like
+00:10:03.519 late [music] like
+00:10:06.000 that was like my early 30s, dude. Wow.
+00:10:10.399 Wow.
+00:10:13.440 Wow.
+00:10:14.160 >> Yeah.
+00:10:15.760 >> That is like such a wild story.
+00:10:17.839 >> Yeah.
+00:10:22.240 >> So many crazy stories, man.
+00:10:27.497 [laughter]
+00:10:29.200 Oh my god, dude.
+00:10:31.600 >> We all got shook down, too, dude. I had
+00:10:33.600 to I had to put that suboxin in my
+00:10:35.600 booty, bro.
+00:10:37.279 >> Yeah.
+00:10:39.600 >> Wow.
+00:10:42.640 I wasn't going to lose that
+00:10:43.920 [ __ ]
+00:10:46.240 >> You already know how it feels to be
+00:10:47.680 dopesick, don't you?
+00:10:49.200 >> Yeah. [music]
+00:10:50.160 >> You would do anything, right?
+00:10:52.480 >> I mean,
+00:10:53.600 >> at one point you would
+00:10:55.680 >> if I had So, yeah, the only if I had to
+00:10:59.040 do anything that that seems to be the
+00:11:01.200 issue like it's like [music]
+00:11:03.120 like you can't like you can't you can't
+00:11:07.760 function.
+00:11:09.680 You can't,
+00:11:11.600 >> right?
+00:11:12.320 >> Yeah.
+00:11:14.959 >> How did you even get over that 708
+00:11:17.920 [ __ ]
+00:11:19.760 >> How?
+00:11:20.399 >> Yeah.
+00:11:22.517 [music]
+00:11:22.720 >> I mean, it wasn't it wasn't that like
+00:11:25.839 that bad like just
+00:11:28.880 just like [music] sitting there and
+00:11:31.120 doing nothing. So that's what I did.
+00:11:37.279 You sat there and did nothing. But How
+00:11:39.200 about the
+00:11:40.880 >> I don't know, man. Central nervous
+00:11:43.440 system.
+00:11:44.640 >> Yeah, I just like laid
+00:11:45.839 >> the [ __ ] like dope sickness.
+00:11:48.079 >> Oh my god. It's a tough one to deal
+00:11:50.160 with, bro.
+00:11:51.760 >> I feel like it's not It can't be as bad
+00:11:53.839 as heroin.
+00:11:54.399 >> The nausea as heroin.
+00:11:57.360 >> Nausea.
+00:11:59.200 >> It's the same thing.
+00:12:00.240 >> Probably half as bad. I bet it's like
+00:12:02.240 half as bad. But like
+00:12:04.399 >> I don't know, man. You were pretty bad.
+00:12:06.000 You said
+00:12:06.399 >> it's still it's still there and like
+00:12:09.120 >> you were out of it, dude.
+00:12:10.480 >> Yeah, right.
+00:12:11.839 >> You were.
+00:12:12.639 >> Yeah. I just I just laid there nothing.
+00:12:14.560 It was fine. [music]
+00:12:18.320 >> Okay.
+00:12:22.399 >> You took a look at man. I had to take a
+00:12:25.279 look at man and all cement, bro. [music]
+00:12:27.760 All [ __ ] Yeah, that's that so much
+00:12:31.360 harder to me. Oh my god. puke. Like
+00:12:33.839 that's like
+00:12:35.680 I'm so like intimidated.
+00:12:37.760 >> That's like punishment, dude.
+00:12:40.560 >> Oh my god, dude.
+00:12:42.560 >> I puked on myself.
+00:12:44.720 >> Oh man.
+00:12:45.440 >> Yeah.
+00:12:47.360 And then when the the deputy said, uh,
+00:12:50.560 he found out that I wasn't in there for
+00:12:52.959 drinking. He was he found out I was in
+00:12:55.360 there for heroin. He's like, &quot;Oh, you
+00:12:56.720 you get no mercy from me, [music]
+00:12:58.560 [ __ ] heroin addicts.&quot;
+00:13:00.480 >> Wow.
+00:13:02.560 Thank you.
+00:13:04.720 >> Oh, that's terrible, [music]
+00:13:06.399 >> dude. It's a don't matter, you know? It
+00:13:09.839 don't matter. I've had cops do good to
+00:13:11.920 me, though. That arrested me
+00:13:18.320 like like as much as possible [music]
+00:13:22.160 in the world should be
+00:13:25.600 like a positive
+00:13:28.079 experience.
+00:13:29.680 be like like a like a
+00:13:34.240 be like a placeful or like experience
+00:13:38.959 more so than
+00:13:40.240 >> Mhm.
+00:13:44.480 >> a brash [ __ ] judgmental [ __ ]
+00:13:46.880 harsh.
+00:13:48.000 >> Yeah.
+00:13:48.560 >> Judgmental, harsh [music]
+00:13:51.279 brash [ __ ] egotistical [ __ ]
+00:13:55.120 reactionalbased.
+00:13:56.880 >> Everything is Yeah. Everything is just
+00:13:58.480 like
+00:14:03.120 Not quite there yet,
+00:14:05.680 but he's getting there.
+00:14:09.600 >> Oakland University.
+00:14:11.519 >> You want to have a laugh?
+00:14:15.440 >> Have you ever watched 90day Fiance?
+00:14:18.800 >> That shit's hilarious, bro.
+00:14:21.120 >> It's like re reality TV.
+00:14:25.040 >> Have you ever watched reality TV?
+00:14:28.480 That shit's funny, dude.
+00:14:30.560 >> I've seen a little bit.
+00:14:32.560 >> Hank and Tracy watch it. Like Hank
+00:14:34.720 reluctantly does, but like I used to
+00:14:36.480 watch this with my ex
+00:14:38.959 >> time. It's kind of [ __ ] funny cuz you
+00:14:41.279 look at everybody's perspective from
+00:14:43.120 their dating and love.
+00:14:44.880 >> Yeah.
+00:14:45.199 >> And they meet each other and they have
+00:14:46.560 90 days to see if they want to marry
+00:14:48.240 each other or not.
+00:14:49.199 >> Oh wow.
+00:14:50.320 >> It's kind of like you and Kim.
+00:14:52.160 >> Oh wow.
+00:14:52.880 >> Yeah,
+00:14:54.959 kind of.
+00:15:00.800 Maybe some other time. You want to just
+00:15:03.040 chill and listen to some music or do you
+00:15:04.800 want to watch Audacity or do you want to
+00:15:06.320 watch 90Day Fiance or
+00:15:08.320 >> I don't know.
+00:15:09.120 >> You want to work? You want to just chill
+00:15:11.040 on the computers and [ __ ]
+00:15:13.120 >> I would watch Let's watch like some of
+00:15:14.800 this with it like the sound like really
+00:15:16.800 low and like subtitles.
+00:15:20.320 >> Oh, I don't know how to do I might need
+00:15:22.000 your help with that.
+00:15:23.040 >> Okay,
+00:15:23.600 >> subtitles.
+00:15:26.240 spy on.
+00:15:27.760 >> No.
+00:15:29.680 Okay, now they are.
+00:15:32.079 What style
+00:15:35.519 style? What kind do you like?
+00:15:37.680 >> I don't know. That's fine.
+00:15:39.760 >> The black and white. Yeah.
+00:15:41.440 >> Okay.
+00:15:43.920 All right, dog.
+00:15:46.240 It's kind of funny, though. I mean,
+00:15:47.839 like, the subtitles don't do it justice.
+00:15:51.680 Like, these [ __ ] come from
+00:15:52.880 across the world and [ __ ]
+00:15:55.000 >> [laughter]
+00:15:56.310 [snorts]
+00:15:56.880 >> Oh my god.
+00:16:12.000 >> Maybe we can like get you to get on one
+00:16:14.800 of these shows, man. How about that?
+00:16:20.160 Maybe we could get one of me to be one
+00:16:21.839 on one show. What?
+00:16:25.759 Maybe you and I could get on a show like
+00:16:27.680 this.
+00:16:30.320 >> I don't I don't feel like I'm like
+00:16:32.639 photogenic enough.
+00:16:34.079 >> Oh, you're good
+00:16:35.279 >> to be on TV.
+00:16:36.399 >> No, you're good.
+00:16:37.279 >> I don't think so.
+00:16:38.480 >> Cameras, angles. Yeah.
+00:16:41.279 >> No, I don't think so.
+00:16:42.160 >> Look at this guy. I mean, like there's a
+00:16:44.800 lot of like you wouldn't believe, you
+00:16:46.720 know? Like he's got like a crooked cleft
+00:16:48.959 chin. You know what I'm saying? Cleft
+00:16:50.880 lip chin. I think I think people are
+00:16:53.040 more these people are are more
+00:16:54.959 photogenic than we are. And I think
+00:16:56.571 [music] there's I think people I think
+00:16:57.759 they're literally like selective for
+00:16:59.360 that reason.
+00:17:01.199 >> Yeah, perhaps they are.
+00:17:04.240 >> I feel there's probably like a lot
+00:17:06.640 involved [music] in like
+00:17:08.000 >> Yeah, I'm just ugly as [ __ ]
+00:17:10.240 >> And like a whole application process and
+00:17:12.400 then they probably like fly you out and
+00:17:14.000 you have to like
+00:17:16.079 >> audition in person and then like you
+00:17:17.679 still might not get it and stuff like
+00:17:19.199 that.
+00:17:19.839 >> Oh, [ __ ] that.
+00:17:22.160 I wouldn't do that. Look at this. Or you
+00:17:24.160 could be like a freak like that.
+00:17:30.320 >> I think there's like one like like one
+00:17:33.120 of one of your only options like e
+00:17:37.520 either you're like
+00:17:40.400 like already photogenic
+00:17:43.039 or or you could like try to make
+00:17:45.360 yourself
+00:17:46.720 >> plastic surgery.
+00:17:47.679 >> Photogenic. Yeah. Why did Christina
+00:17:49.840 [ __ ] do it to herself? She was
+00:17:51.280 already photogenic.
+00:17:54.240 Look at I mean like some of these black
+00:17:55.760 girls aren't that good looking on here,
+00:17:58.720 >> right? That's the family member.
+00:18:00.559 >> I want I want
+00:18:02.640 >> That's That adds to the parody, I guess.
+00:18:05.520 >> I want to get [music] plastic surgery
+00:18:08.720 >> for what?
+00:18:09.600 >> What? I want to be like a bimbo. I want
+00:18:12.400 to be like a Barbie bimbo.
+00:18:16.880 Okay.
+00:18:18.799 Do you want to get rid of your penis?
+00:18:20.799 >> No.
+00:18:22.799 >> Would be a Barbie bimbo.
+00:18:25.120 >> So, what do you would you do differently
+00:18:26.799 then?
+00:18:27.840 >> Nothing.
+00:18:30.720 >> You said you wanted to get plastic
+00:18:32.080 surgery, [ __ ]
+00:18:33.440 >> I get plastic surgery.
+00:18:35.120 >> What would you do?
+00:18:39.120 >> Whatever they said.
+00:18:40.720 >> Whatever they Whatever.
+00:18:41.760 >> Oh, you you're just saying like what
+00:18:43.360 would they It would be multiple things.
+00:18:45.200 >> Yeah. whatever whatever the whatever the
+00:18:47.200 whatever the the the professionals would
+00:18:51.039 would would want to do to upgrade my
+00:18:55.200 avatar.
+00:18:58.400 >> Does that make sense?
+00:18:58.960 >> I mean, yeah. Yeah. You wouldn't just
+00:19:01.520 like limit it to one thing, but you
+00:19:03.200 would still keep your dick is what
+00:19:04.640 you're saying,
+00:19:06.160 >> right?
+00:19:06.640 >> Yeah.
+00:19:07.200 >> Okay.
+00:19:07.679 >> I guess so. Yeah. That wasn't that
+00:19:09.840 wasn't really like [music] really
+00:19:11.440 necessarily part of the deal.
+00:19:14.880 What? What do you mean part of what that
+00:19:16.960 deal?
+00:19:17.679 >> Like I wasn't I wasn't that like wasn't
+00:19:20.160 under under consideration necessarily.
+00:19:25.919 >> Oh, you said you would get rid of it.
+00:19:29.520 >> That's what you just said, right?
+00:19:30.880 >> No, you said it like like it wasn't
+00:19:32.640 really like under consideration.
+00:19:35.039 >> Oh, you would never get rid of it.
+00:19:36.720 >> Yeah, I was I wasn't thinking about it
+00:19:38.480 at all.
+00:19:39.120 >> Okay.
+00:19:40.160 >> Yeah, it's just funny. I guess it is it
+00:19:42.080 is like sort of part of the same to say
+00:19:44.559 everything. But
+00:19:45.520 >> that's the same thing they called do,
+00:19:47.200 man.
+00:19:47.679 >> No, I would do I wouldn't do that. I
+00:19:49.919 would I would um get
+00:19:53.360 >> That's what it's saying. They say
+00:19:55.120 >> I'd get plastic surgery.
+00:19:57.440 What? A cult.
+00:19:58.480 >> A cult.
+00:19:59.360 >> A cult.
+00:20:01.520 >> Man turns into a boy. If I were a boy.
+00:20:06.160 >> That Beyonce song.
+00:20:07.919 >> A destructive. Well, cults are cults are
+00:20:10.640 just like destructive. No, like the
+00:20:13.440 occult.
+00:20:14.320 >> Oh, oult.
+00:20:15.360 >> Yes.
+00:20:15.760 >> Oh,
+00:20:17.520 >> yeah.
+00:20:19.520 That like [ __ ] like how like you
+00:20:22.400 know, you know what I mean now?
+00:20:24.559 >> Yeah.
+00:20:26.000 >> Like a um transformation.
+00:20:30.320 >> I don't know. From like a
+00:20:32.480 >> a boy into a woman
+00:20:34.720 >> or a woman into a man. Yeah.
+00:20:36.720 >> Spooky magic stuff.
+00:20:40.000 >> But
+00:20:42.000 Nowadays, we have plastic surgery.
+00:20:46.159 >> We could just do it.
+00:20:50.080 >> Let me play some tunes. Bro, what
+00:20:51.600 happened?
+00:20:58.320 >> It's funny.
+00:20:59.679 >> Yeah.
+00:21:04.819 [clears throat]
+00:21:05.200 >> Oh, yeah.
+00:21:15.280 Did you ask Gemini how he could get
+00:21:16.880 popular in Japan?
+00:21:22.320 >> No, not yet.
+00:21:26.799 >> That's what I was going to ask. Gemini.
+00:21:50.159 What?
+00:21:51.919 What? Whoa. Whoa.
+00:21:52.799 >> Oh, I don't know.
+00:21:55.120 Is that good?
+00:22:11.600 What if you did like a Bob's game,
+00:22:14.640 Mary's,
+00:22:17.520 you know, like Barbara's game,
+00:22:22.480 >> you know what I mean?
+00:22:23.840 like a duality type of thing
+00:22:26.000 >> like where you do your um
+00:22:29.200 >> if you were to do a transformation or
+00:22:31.360 something like that or like you could
+00:22:32.880 play out the transformation that way
+00:22:34.799 >> like a female persona version of the
+00:22:36.799 game. [music]
+00:22:37.360 >> Yeah. No, no, no, no. Like of like
+00:22:40.159 marketing it.
+00:22:42.400 >> Okay.
+00:22:43.120 >> Oh man, maybe I just forgot.
+00:22:45.039 >> That is kind of Well, that's sort of
+00:22:46.400 what I'm doing.
+00:22:47.679 >> Yeah. I'm trying to um I had an idea
+00:22:49.760 about how to uh [ __ ] do it though.
+00:22:53.840 It will come back.
+00:23:03.520 >> I'm like I'm like
+00:23:06.080 >> Yeah, I see. I I see a better I think I
+00:23:08.640 can like help help with that a little
+00:23:10.320 bit. I just got to think about it, you
+00:23:12.960 know?
+00:23:13.200 >> I'm kind of like enjoying this like this
+00:23:15.520 like direction
+00:23:18.320 >> what what you're doing.
+00:23:20.080 >> Yeah. [music]
+00:23:20.480 >> Yeah.
+00:23:22.080 Good.
+00:23:28.720 >> It's at least interesting.
+00:23:32.559 >> As opposed to what?
+00:23:35.679 >> I don't know.
+00:23:37.840 >> I mean, I guess you're right. [ __ ]
+00:23:41.760 wild in it,
+00:23:44.960 man.
+00:23:48.000 Hey, what was that thing you said there?
+00:23:49.840 Uh, was Alzheimer's uh not around before
+00:23:53.760 the '7s? You said
+00:24:00.240 >> I don't think I said that.
+00:24:03.760 >> I wonder who said that.
+00:24:11.120 >> Or dementia. I'm sorry.
+00:24:14.320 >> I don't think I said that either.
+00:24:15.760 >> I don't know. Do you know anything about
+00:24:17.200 it?
+00:24:17.840 >> Not really.
+00:24:21.600 Maybe a doll. I don't know.
+00:24:25.679 >> Now we got to go and save.
+00:24:30.559 >> Oh, here. I got it.
+00:24:33.039 >> I got it.
+00:24:36.559 >> What you looking for, dog?
+00:24:47.679 >> I don't know.
+00:24:53.600 What do I do now?
+00:24:57.120 >> What you looking for? What you need?
+00:24:59.120 >> You forgetting.
+00:25:00.480 >> What do I do now?
+00:25:04.159 >> I don't think you're supposed to do
+00:25:05.039 anything.
+00:25:05.919 >> For what?
+00:25:07.039 >> What's What am I supposed to do now?
+00:25:09.039 >> As far as what?
+00:25:10.640 >> Anything. I don't think you're supposed
+00:25:11.840 to do anything.
+00:25:13.760 No, we just [ __ ] sit back, relax,
+00:25:16.240 smoke a Jay, and [ __ ] chill.
+00:25:18.400 >> That's why it's so hard.
+00:25:20.240 >> I see why it's so hard.
+00:25:23.200 >> I think that we're uh we need a [ __ ]
+00:25:26.240 sale, man. [ __ ]
+00:25:31.440 >> Yeah.
+00:25:34.320 I just want one person in this world to
+00:25:36.159 [ __ ] buy it.
+00:25:37.600 >> Yeah. I don't know like what
+00:25:40.240 what's holding it up really.
+00:25:48.240 put a [ __ ] ant out there be like what
+00:25:49.919 the [ __ ] you know is hold why the you
+00:25:53.760 holding up on buying you the best in out
+00:25:56.640 there
+00:25:58.640 you know how you dance like
+00:26:04.799 what what
+00:26:07.360 do I have to do to like to like
+00:26:11.600 after that.
+00:26:16.320 >> We're going to have to like [ __ ] like
+00:26:18.000 rebel against [ __ ] like uh we're
+00:26:20.480 going to have to take Elon Musk's side
+00:26:21.840 and [ __ ] Sam Alman up.
+00:26:24.799 >> Or we're going to have to take Sam
+00:26:26.000 Alman's side.
+00:26:27.120 >> No.
+00:26:28.480 >> What?
+00:26:29.200 >> No.
+00:26:33.679 >> He'll take his sides.
+00:26:37.440 >> I'm going to have two.
+00:26:49.679 How do we get attract them to us?
+00:26:56.720 I don't know. Maybe that's like what?
+00:26:59.039 Let's put 25% of thought into that
+00:27:03.919 and then let's put the rest into like
+00:27:05.919 some other marketing [music] ideas.
+00:27:08.880 How about that? How can we get these
+00:27:11.600 [ __ ] to like get attention on us?
+00:27:21.840 >> If we're brainstorming, like you said
+00:27:24.240 before,
+00:27:24.880 >> like
+00:27:31.360 create
+00:27:32.960 a sort of like like interest or like
+00:27:36.159 hook
+00:27:38.480 Mhm.
+00:27:39.120 >> that that attracts people
+00:27:43.279 that attracts people's interest
+00:27:47.760 in such a way
+00:27:50.640 that [music] like we could imagine
+00:27:53.760 ourselves being in those shoes
+00:27:57.200 and [music] like making making a sale.
+00:28:01.039 So, like think about like the things
+00:28:02.960 that
+00:28:05.919 most commonly
+00:28:08.640 lead to like you buying something or
+00:28:11.039 making a purchase like whatever it is.
+00:28:14.640 Like ever you think of as many scenarios
+00:28:18.960 as you can of when when and where and
+00:28:22.399 how you make purchases normally
+00:28:25.919 especially
+00:28:28.320 anything similar
+00:28:30.720 to [music]
+00:28:31.760 um like an online subscription or
+00:28:34.640 purchase.
+00:28:35.440 >> That's lethal.
+00:28:37.679 >> What? That's crazy, dude.
+00:28:39.679 >> Well, if you can imagine
+00:28:44.399 all the as many like remember like
+00:28:47.919 thinking back how many [music]
+00:28:49.919 internet purchases or online purchases
+00:28:52.559 you have made
+00:28:55.200 >> since the beginning.
+00:28:56.559 >> Yeah. It's like it's not that common
+00:28:58.960 like I feel like I feel like like I
+00:29:01.840 certainly don't like order order that
+00:29:05.200 much stuff from the internet
+00:29:07.600 even
+00:29:08.799 >> some people do.
+00:29:09.840 >> Yeah. I like I've had times in my life
+00:29:11.919 where I did,
+00:29:13.520 >> but it's pretty
+00:29:14.080 >> Oh, yeah. When you had the businesses
+00:29:15.360 and stuff.
+00:29:15.919 >> Yeah. But it's pretty it's pretty rare
+00:29:17.679 that that it was like a pain in the ass
+00:29:20.159 to like just keep up with all that. Like
+00:29:24.320 >> like
+00:29:24.799 >> it is, man. It's not easy.
+00:29:26.720 >> Yeah. You just like like ordering
+00:29:29.360 supplies for that business was like a
+00:29:32.000 full-time job.
+00:29:34.320 >> Holy [ __ ] just like
+00:29:38.000 just like keeping track of the timing
+00:29:40.559 for all that [ __ ] cuz
+00:29:43.360 >> Yeah. That's nuts. Yeah.
+00:29:44.880 >> Yeah. Like
+00:29:45.600 >> you're dealing with foreign countries.
+00:29:47.679 >> Yeah. [music]
+00:29:48.720 And like so things weren't always
+00:29:52.159 like smooth, but sometimes they were.
+00:29:56.399 So, so we developed like a a schedule
+00:30:00.480 around that
+00:30:02.559 like exactly like what like when when I
+00:30:04.720 had to order stuff and like how
+00:30:10.799 and and we extinguished all the um
+00:30:15.360 like certain certain [music] categories
+00:30:17.919 of like goods
+00:30:21.200 like um in our case like plastic
+00:30:23.360 bottles.
+00:30:24.720 >> Okay. That's cool.
+00:30:26.399 >> We went through all the plastic bottle
+00:30:29.120 suppliers
+00:30:32.399 >> like like all of them
+00:30:34.399 >> for what purpose?
+00:30:36.559 >> Um to order to order plastic bottles. It
+00:30:40.960 turns out there's not that many
+00:30:45.200 >> plastic bottles to use for what?
+00:30:47.360 >> There's there's just not that many like
+00:30:49.760 plastic bottle manufacturing
+00:30:52.399 factories
+00:30:54.159 that have on like an online internet
+00:30:58.320 presence in the world. There's like
+00:31:01.679 there's like maybe like
+00:31:04.640 a couple dozen and then that's it.
+00:31:07.679 That's like all there is.
+00:31:09.279 >> Is that why there's Amway so to speak?
+00:31:12.240 >> Yeah. Like different
+00:31:14.480 like different supplier conglomerates.
+00:31:17.760 Yeah. There like um
+00:31:19.520 >> they're like a club of [ __ ]
+00:31:21.200 conservatives, right? or whoever wants
+00:31:23.520 to join to sell that [ __ ]
+00:31:25.360 >> Oh, that
+00:31:26.320 >> Amway products.
+00:31:27.440 >> That's like a That's like a like a
+00:31:29.760 >> Do you remember it?
+00:31:30.720 >> Yeah, that's like pyramid scheme.
+00:31:32.000 >> Mitt Romney's [ __ ]
+00:31:33.520 >> Yeah, it's a pyramid scheme like MLM
+00:31:36.000 sort of thing.
+00:31:37.600 >> It's like an early version of MLM.
+00:31:39.919 >> Yeah, definitely was. My dad was a part
+00:31:42.399 of that. He got sucked into it, but he
+00:31:44.640 didn't go far. This stuff is
+00:31:48.720 just such a bad business design
+00:31:51.679 >> opportunity.
+00:31:52.399 >> It's like it's like a business virus
+00:31:54.240 that someone wrote. It's like it's like
+00:31:57.279 >> is it
+00:31:57.840 >> doesn't
+00:31:58.880 >> [ __ ] people over or what?
+00:32:01.279 >> It doesn't
+00:32:03.120 it doesn't really like accomplish much.
+00:32:05.519 >> Yeah.
+00:32:06.720 >> So,
+00:32:08.880 but
+00:32:10.480 it's it's a little bit similar [snorts]
+00:32:13.519 to like
+00:32:16.159 most of the the store um
+00:32:21.679 most of like the general store
+00:32:24.799 >> um brands like Walmart or like
+00:32:30.159 Target or Kroger, Meer, like all those
+00:32:35.039 all of those are [music]
+00:32:40.799 >> like like Walmart is um
+00:32:45.919 Walmart is is like a knockoff.
+00:32:50.480 >> Yeah,
+00:32:50.960 >> like a like a knockoff company.
+00:32:54.799 >> Discounted company.
+00:32:56.480 >> What?
+00:32:58.240 >> They're like I remember them being like
+00:32:59.919 a uh discount cheaper than
+00:33:03.440 >> Yeah, they're a knockoff company. So So
+00:33:05.840 Walmart's thing
+00:33:07.519 >> My dad was in love with them. Their
+00:33:09.919 thing is
+00:33:11.840 they
+00:33:12.559 >> to pretend to be a a store.
+00:33:17.120 >> Yeah.
+00:33:18.399 >> And they sell like the real
+00:33:24.000 they sell like the real pair of like
+00:33:26.720 Reeboks or whatever.
+00:33:30.159 >> Yeah. And do you see how they do their
+00:33:31.840 warehousing and their their club their
+00:33:34.640 club membership [ __ ]
+00:33:36.480 >> Yeah. And then and then they also so
+00:33:38.799 they sell like the like the like the
+00:33:41.600 brand name like Reebox.
+00:33:44.080 >> Yeah.
+00:33:44.559 >> And then they sell the Walmart version
+00:33:46.320 of Reebox.
+00:33:47.760 >> Yeah.
+00:33:48.240 >> And that's that's like [music] literally
+00:33:51.279 like every single item in the store has
+00:33:54.159 a Walmart copy.
+00:33:56.480 >> That's what we're That's what we're
+00:33:57.840 talking about. Like the big
+00:33:58.880 manufacturing [singing]
+00:33:59.679 companies are all the same.
+00:34:01.840 >> Yeah. Right.
+00:34:04.720 Yeah.
+00:34:07.440 Yeah. [music] So, so, so, so like,
+00:34:11.119 >> you know, like all these Yeah. They just
+00:34:12.560 put a different label on.
+00:34:13.918 >> Yeah. So, like Amway is like a maybe
+00:34:17.359 maybe not that different. It's like an
+00:34:19.280 early sort of an early version of that
+00:34:21.839 or something. [music]
+00:34:22.960 >> Okay.
+00:34:23.679 >> But it still is like But it's like the
+00:34:25.918 way that it's structured is different.
+00:34:29.040 It's like like a Walmart if Walmart was
+00:34:32.000 a pyramid scheme. Huh?
+00:34:34.800 >> Walmart was a parent.
+00:34:36.560 >> Yeah. Yeah. Yeah. But like they're the
+00:34:39.199 biggest retailers in the world,
+00:34:41.520 >> aren't they?
+00:34:42.480 >> The Waltons, aren't I? I think they
+00:34:44.000 still are.
+00:34:44.719 >> Yeah.
+00:34:46.000 >> And you know what?
+00:34:47.199 >> You think they have Amazon does that?
+00:34:50.800 >> Amazon is a is a is a like a a copy
+00:34:57.280 store.
+00:34:59.280 >> What do you mean like a copy?
+00:35:01.760 Amazon did what Walmart [music]
+00:35:04.640 did, but they did it on the internet.
+00:35:09.440 >> That's amazing.
+00:35:10.560 >> Yeah. So,
+00:35:11.599 >> Oh, you mean they just take other [ __ ]
+00:35:13.119 and sell it?
+00:35:13.920 >> Yeah. So, so yeah, Amazon took all the
+00:35:17.440 their all those the top selling products
+00:35:20.560 on Amazon and made their own their own
+00:35:23.359 copy of it.
+00:35:25.440 >> Like the Walmart brand.
+00:35:26.800 >> Oh [ __ ] How do you do that?
+00:35:29.200 >> Amazon did that. How do you even do
+00:35:31.280 that?
+00:35:32.079 >> Because they had all the data
+00:35:33.839 >> because they had China, too, right?
+00:35:35.520 >> Yeah.
+00:35:35.839 >> Holy [ __ ]
+00:35:36.560 >> They just copied everything.
+00:35:37.920 >> That's amazing.
+00:35:38.880 >> Yeah. [music]
+00:35:40.320 >> They pulled a [ __ ] Walmart online.
+00:35:43.760 >> Yeah.
+00:35:44.400 >> Holy [ __ ]
+00:35:49.119 >> They had They started with books, man.
+00:35:52.400 >> Yeah.
+00:35:53.680 >> Yeah, dude. They [ __ ] They had a They
+00:35:56.000 took over like a army, dude.
+00:35:58.800 >> Yeah. like a [ __ ] army.
+00:36:00.960 >> They sure did.
+00:36:02.000 >> How?
+00:36:04.160 >> We'll never know,
+00:36:06.800 >> right?
+00:36:08.480 >> Um just don't I don't believe what they
+00:36:10.720 put it out there.
+00:36:11.599 >> I kind I kind of know.
+00:36:13.920 >> So I know that um Walmart internally
+00:36:20.079 >> was like a cult.
+00:36:23.119 >> It was like
+00:36:23.680 >> the Waltons.
+00:36:25.359 >> No. Uh, no, no. I'm um, sorry, Amazon.
+00:36:29.200 Amazon internally was like
+00:36:32.400 >> um
+00:36:32.640 >> I know nothing.
+00:36:33.520 >> When I sold when I sold stuff on on like
+00:36:36.560 eBay
+00:36:37.280 >> Mhm.
+00:36:40.000 >> you just sell something on eBay and like
+00:36:42.640 you get your money and like you're good
+00:36:46.079 until the next time.
+00:36:46.880 >> It's done, right?
+00:36:47.599 >> Yeah. Until the next time you sell
+00:36:48.960 something at eBay. And like Amazon seems
+00:36:51.440 like it's going to be like that at
+00:36:53.119 first, but it's not. Like if you sell
+00:36:55.200 something on Amazon
+00:36:57.599 and like it's successful and like like
+00:37:01.040 the Amazon people like knock on your
+00:37:03.200 front door and like take you take you to
+00:37:06.160 like a
+00:37:08.320 >> like a training a training facility
+00:37:10.960 >> we're around here.
+00:37:12.400 >> No.
+00:37:12.880 >> Oh
+00:37:13.200 >> no. like figuratively like that's that
+00:37:15.440 is kind of actually what it's like like
+00:37:17.200 they're
+00:37:18.240 >> they like they like come and like reach
+00:37:20.800 out to you and then like suck you into
+00:37:22.640 their like [music] their weird like
+00:37:26.400 >> Amazon [ __ ] way of doing business on
+00:37:28.640 their platform.
+00:37:29.680 >> Yeah. Welcome to like the community and
+00:37:33.599 like
+00:37:35.119 >> Oh my god.
+00:37:36.320 >> Yeah.
+00:37:36.720 >> Yeah. Yeah. I get ads like that.
+00:37:43.280 And then and then
+00:37:47.359 like they're really pushy
+00:37:50.880 >> and they and they try to like and they
+00:37:52.800 try to like um
+00:37:56.960 like
+00:37:59.200 get like get you involved in a bunch of
+00:38:03.760 programs and stuff like that. So like
+00:38:05.520 they'll
+00:38:07.359 um
+00:38:09.119 there there's like okay you're selling
+00:38:12.480 like you're selling this much in this
+00:38:15.599 region. Um we also think that you would
+00:38:19.200 do well in Canada and you'll double your
+00:38:21.280 sales. Um but if you if you if you
+00:38:26.720 decide to do that then you have to have
+00:38:29.359 weekly meetings with our like enter
+00:38:33.920 inter the National
+00:38:37.760 Advisor Council
+00:38:40.160 through Zoom
+00:38:43.520 and you have to set
+00:38:47.200 a shipping target of 250 units a week.
+00:38:53.119 >> They're setting [ __ ] like
+00:38:55.119 expectations on you
+00:38:56.560 >> and you have to pay it a week and a half
+00:38:58.800 in advance out of your funds.
+00:39:01.440 >> Holy [ __ ]
+00:39:03.617 [clears throat] Really?
+00:39:04.320 >> And all orders have a two-day turnar
+00:39:07.359 around time.
+00:39:10.079 >> Well, I guess if it's guaranteed, it's
+00:39:11.760 guaranteed, right?
+00:39:12.880 >> Right. And then So, so it's they like
+00:39:17.839 >> Is it guaranteed money?
+00:39:19.440 >> Yeah. So, Right. So, they like hook you
+00:39:23.520 and they're like, &quot;We're going to give
+00:39:24.720 you twice as much money.&quot; And you're
+00:39:26.560 like, &quot;Fuck yeah.&quot; And then like
+00:39:28.320 >> So, they're making money off of your
+00:39:29.760 [ __ ]
+00:39:30.480 >> Yeah. Wow. And then
+00:39:33.359 so they rope you in and they hook you
+00:39:38.400 >> and then like you're and then you
+00:39:40.320 basically like you work for Amazon now.
+00:39:43.440 >> Yeah. and and like you're basically an
+00:39:46.320 Amazon employee and
+00:39:48.160 >> your product is now theirs
+00:39:49.839 >> and then and then they copy it
+00:39:53.119 >> and they pay their own brand their own
+00:39:54.960 branding of your channel
+00:39:58.720 >> because of the terms
+00:40:00.560 >> just just
+00:40:02.560 Yeah. Like just like because that's what
+00:40:04.560 they do and like if your if your product
+00:40:07.599 becomes successful enough
+00:40:09.440 >> Yeah. Yeah. Yeah.
+00:40:10.880 >> that's their that's their business
+00:40:12.640 model. Do you get a piece of it?
+00:40:14.240 >> So they help you? No, they they help you
+00:40:18.960 become like awesome. [laughter]
+00:40:22.240 >> They like raise you up and then just
+00:40:24.079 like slaughter you.
+00:40:29.422 [laughter]
+00:40:32.640 >> It's [ __ ] weird.
+00:40:34.960 >> You got to be [ __ ] [ __ ] me.
+00:40:36.720 >> It's like for real.
+00:40:37.839 >> That's some [ __ ] dog. Okay. Funny.
+00:40:42.480 >> I mean, you you still sell
+00:40:44.320 >> You think they would hook somebody up
+00:40:45.359 with royalties, man.
+00:40:46.960 >> No, you still But you still you can
+00:40:49.520 still sell on their platform, but like
+00:40:52.320 >> you're out of there, dude.
+00:40:53.599 >> They sell like the exact same products
+00:40:55.440 for like $5 less. [laughter]
+00:40:59.680 >> You can't you can't lower your price.
+00:41:02.319 >> And you're locked in a contract with
+00:41:03.920 these [ __ ]
+00:41:05.280 >> No.
+00:41:05.680 >> Oh, okay.
+00:41:06.480 >> Well, you might be. Yeah. By that point,
+00:41:08.240 you might be, but even if you're not
+00:41:10.480 locked into like a contract necessarily,
+00:41:12.800 you're definitely like locked in to like
+00:41:15.520 >> something
+00:41:16.000 >> all their programs and like schedules
+00:41:18.160 and stuff.
+00:41:19.440 >> Like,
+00:41:19.920 >> you're so [ __ ]
+00:41:21.040 >> Yeah,
+00:41:24.160 >> it was really funny.
+00:41:25.839 >> I don't know. I'm glad I'm not like one
+00:41:27.440 of those online [ __ ] retailers right
+00:41:29.599 now.
+00:41:30.319 >> Yeah, it was hard. It was hard and it
+00:41:33.520 was like and it was like really
+00:41:34.720 frustrating because because I
+00:41:37.200 >> Yeah, that sounds like a [ __ ]
+00:41:39.119 >> like you get sense of like I'm finally
+00:41:41.520 going to be my own boss and like working
+00:41:43.760 for myself,
+00:41:44.720 >> right?
+00:41:45.280 >> It's not at all.
+00:41:53.119 >> Oh man.
+00:41:55.200 >> Oh my god, dude.
+00:41:57.280 >> Dude, we're like so we're like super
+00:41:59.440 vital right now.
+00:42:01.359 Yeah, we're we got 500.
+00:42:03.920 >> What?
+00:42:04.560 >> We got 500 requests, 500 uniques every
+00:42:08.480 30 minutes.
+00:42:09.680 >> Did you post anything?
+00:42:11.440 >> No, it's really good. It's all New
+00:42:13.920 Zealand.
+00:42:15.280 >> Oh [ __ ]
+00:42:16.560 >> There's a lot of Chinese and Korean
+00:42:18.480 people in New Zealand.
+00:42:20.800 >> New Zealand is waking up.
+00:42:22.800 >> That's so [ __ ] funny, dude.
+00:42:24.720 >> Getting out of bed. Checkpoint.com.
+00:42:28.640 So easy. You think it's a bot?
+00:42:31.839 >> I don't know. Some Yeah, some amount of
+00:42:33.839 it,
+00:42:34.800 >> but it's I mean it's a lot of traffic.
+00:42:36.640 Like
+00:42:37.280 >> that is kind of I don't
+00:42:38.960 >> That's like um
+00:42:41.440 normal is like it's like a 100 or maybe
+00:42:44.400 up to 200, but it's it's normally around
+00:42:48.240 100ish. So it's it's like it's up a lot
+00:42:51.440 right now.
+00:42:52.319 >> That's several times more than usual.
+00:42:59.520 We should do our live stream thing
+00:43:01.200 though.
+00:43:03.440 >> Yeah,
+00:43:04.160 >> just to have our avatar.
+00:43:05.280 >> Oh, that's what I remember.
+00:43:07.839 >> We were supposed to We were just about
+00:43:09.440 to like record our our our disclaimer
+00:43:13.599 videos.
+00:43:15.280 >> Oh, when?
+00:43:16.720 >> Before I died again.
+00:43:18.400 >> No, we weren't.
+00:43:19.119 >> We weren't.
+00:43:19.680 >> No, I thought we were.
+00:43:20.560 >> I said we better not die on you again.
+00:43:23.119 >> I thought we were And then I was like I
+00:43:24.880 thought we were like, &quot;Oh, we should
+00:43:26.000 record that thing. Mm-m.
+00:43:28.240 >> No.
+00:43:28.800 >> No. Cuz I think maybe
+00:43:31.119 >> I still think we should.
+00:43:32.480 >> We No. I think you said we still haven't
+00:43:34.720 recorded that.
+00:43:35.680 >> Yeah. I thought I was about to. I
+00:43:37.680 literally thought I was like I was like
+00:43:39.680 >> No.
+00:43:40.160 >> I have this memory like standing up and
+00:43:42.079 being like, &quot;Okay, here's hit record.&quot;
+00:43:44.720 And
+00:43:45.040 >> No, no, no, no, no. That's probably what
+00:43:46.880 you thought you wanted to do.
+00:43:48.400 >> Yeah.
+00:43:49.280 >> Cuz we didn't do that.
+00:43:50.480 >> Yeah, we should do that.
+00:43:52.720 >> Do you want to do that right now or do
+00:43:54.000 you want to do that like when we're
+00:43:55.040 sober?
+00:43:55.440 >> We should do that now. We should do it
+00:43:56.640 when we're sober.
+00:43:57.280 >> Yeah, we should do it right now.
+00:43:58.319 >> No.
+00:43:58.720 >> Yeah.
+00:43:59.200 >> No, cuz it won't mean nothing when we're
+00:44:00.880 not sober.
+00:44:02.400 >> Yeah, it will.
+00:44:05.440 >> Yeah, it totally will.
+00:44:06.880 >> You think it will?
+00:44:07.920 >> Yeah.
+00:44:08.800 >> Right now? All right,
+00:44:12.079 I'll do yours.
+00:44:14.319 3 2
+
+
+
+# tactiq.io free youtube transcript
+# 20260831 213815
+# https://www.youtube.com/watch/-b27gFtJe3s
+
+00:00:00.000 So, like, assume, assume that it's going
+00:00:02.440 to be like
+00:00:03.274 >> [music]
+00:00:03.560 >> like twisted and like cherry picked and
+00:00:06.320 like
+00:00:08.480 torn apart in like ways that you don't
+00:00:10.480 expect.
+00:00:11.120 >> Yeah, but you know what? What's the
+00:00:12.560 great thing about it? They can do it,
+00:00:14.600 but they when you have it out there from
+00:00:17.040 your mouth, that's what matters.
+00:00:19.440 >> Yes. Yeah, so that's
+00:00:20.800 >> They're going to find a way to back to
+00:00:22.160 you.
+00:00:22.560 >> Yeah, the the conclusion
+00:00:25.160 Well, the conclusion is that
+00:00:27.520 most people don't care
+00:00:30.400 about
+00:00:31.480 >> That's true.
+00:00:32.479 >> like
+00:00:33.960 about like that kind of stuff.
+00:00:37.120 And so, the majority of people
+00:00:40.920 either just believe it
+00:00:44.120 like
+00:00:45.480 but they don't really care.
+00:00:47.680 It doesn't matter. It's just like It's
+00:00:49.640 just like
+00:00:53.040 entertainment, right? It's just like
+00:00:55.040 like Hollywood gossip [ __ ]
+00:00:56.760 >> They can.
+00:00:58.800 >> What?
+00:00:59.320 >> They can
+00:01:00.760 They can't be this way, yes.
+00:01:02.400 >> Yeah.
+00:01:02.840 >> I was I was going to say, but then like
+00:01:04.640 what I was also going to say is maybe we
+00:01:06.200 should keep it like a short
+00:01:09.560 We should do like a short compacted
+00:01:11.560 version.
+00:01:12.480 >> Yeah.
+00:01:14.000 >> Okay? Somehow? And then like just keep
+00:01:17.000 working on the the fully
+00:01:19.360 grand mastered one for like [music] the
+00:01:22.720 the feedback.
+00:01:25.600 Do you get it?
+00:01:26.520 >> I I guess so.
+00:01:27.770 >> [music]
+00:01:28.120 >> So
+00:01:29.920 >> Because like they could Let them say
+00:01:31.120 what they want to say about the short
+00:01:32.800 tailored one.
+00:01:33.640 >> Yeah. Yeah.
+00:01:34.200 >> And then [ __ ] like let them all have
+00:01:36.360 it and then just address it with the
+00:01:38.400 real real truth. Boom, and it's done.
+00:01:40.920 >> So, here's the here's here's the thing.
+00:01:44.680 More people are going to look at the at
+00:01:46.960 the negative version than are going to
+00:01:50.000 look at the at the the real documentary.
+00:01:53.840 >> Are they going to torch you that badly?
+00:01:56.591 >> [music]
+00:01:56.800 >> No, that's just how that's human nature.
+00:01:59.880 So, that's what that's like like one of
+00:02:01.760 the things I learned is that
+00:02:04.880 drama, that's sort of like the like
+00:02:07.400 drama and like mud
+00:02:09.440 slinging [ __ ]
+00:02:11.200 is
+00:02:12.000 is a lot more effective than [music]
+00:02:14.720 other than like a that like a
+00:02:16.760 constructive
+00:02:18.400 piece.
+00:02:20.600 So, it's not about
+00:02:24.240 it's not it's not about me.
+00:02:27.120 It's about
+00:02:29.040 mud slinging at some someone.
+00:02:32.360 Right? That's the thing that's exciting.
+00:02:34.120 >> you're going to be iron.
+00:02:36.120 >> What?
+00:02:36.560 >> You're going to be iron. You have like a
+00:02:38.000 breastplate of [ __ ] steel now.
+00:02:41.520 >> Yeah.
+00:02:42.360 >> Cuz you've never even looked at the
+00:02:43.680 [ __ ]
+00:02:44.480 >> Right, so
+00:02:46.560 so
+00:02:48.000 we so
+00:02:49.880 people a lot more people are going to
+00:02:52.160 see
+00:02:53.400 the the tabloids
+00:02:56.196 >> [music]
+00:02:56.520 >> than
+00:02:57.360 >> Okay.
+00:02:58.160 >> Like they're like think about
+00:02:59.519 >> Okay, okay, okay, okay.
+00:03:00.519 >> the National Enquirer in the in the in
+00:03:02.080 the grocery store.
+00:03:02.760 >> Yeah, so we need a
+00:03:03.760 >> You used to walk past that [ __ ]
+00:03:05.080 >> So, okay. Okay, I get it. I get it now.
+00:03:08.200 So, we need [music] to counter strike
+00:03:10.720 with
+00:03:12.519 with reels of like Christianity, like
+00:03:14.440 people that like get it and like do it
+00:03:16.200 at that's why we have to involve the
+00:03:17.519 church with it, too. If like Trinity's
+00:03:19.680 involved with it, like they know your
+00:03:21.040 story. If we do our test your testimony
+00:03:23.200 and my testimony one one night at a
+00:03:25.000 Bible study there.
+00:03:26.320 >> Yeah.
+00:03:26.640 >> That's all it takes.
+00:03:27.320 >> Yeah.
+00:03:27.637 >> [music]
+00:03:27.880 >> But think think remember that like in
+00:03:30.320 the '90s
+00:03:31.800 like the tabloids in the grocery store
+00:03:33.440 >> Yes.
+00:03:35.497 >> [music]
+00:03:35.880 >> So, you'd see it, but not care.
+00:03:38.320 >> Right.
+00:03:38.959 >> And like you don't know.
+00:03:40.440 >> Robert F. Kennedy Jr.'s a sexy guy.
+00:03:43.000 >> Yeah, you just
+00:03:44.000 >> Most sexiest guy in the world.
+00:03:46.880 Aliens. [music]
+00:03:48.959 Spears. It's Britney.
+00:03:51.040 >> It's it's it's like information that's
+00:03:53.080 like not even information. It's like so
+00:03:55.080 nonsensical that It's like literally has
+00:03:58.960 like no effect other than registering.
+00:04:03.007 >> [music]
+00:04:03.920 >> So, you recognize that name more.
+00:04:07.200 >> Yeah.
+00:04:07.800 >> Yeah. So, now we put we chop up the good
+00:04:10.200 content with like shorts everywhere,
+00:04:12.832 [music] reels of good content. We get
+00:04:14.720 like We get like a couple good like
+00:04:16.720 YouTubers to interview you that are
+00:04:18.399 Christians and then put it out there.
+00:04:20.079 >> Yeah.
+00:04:20.480 >> You know what I mean?
+00:04:21.519 >> Yeah. But, that's what I'm That's what
+00:04:23.200 I'm saying.
+00:04:26.280 That sort of attention is literally does
+00:04:28.919 not matter.
+00:04:30.520 >> So, just do it.
+00:04:31.919 >> What?
+00:04:34.160 It says because it is a 100%
+00:04:38.160 about
+00:04:39.840 brand awareness.
+00:04:42.520 That's what it is. It's establishing
+00:04:48.720 a memory
+00:04:50.560 of
+00:04:51.760 of a combination of syllables
+00:04:55.000 that they haven't Right. heard before
+00:04:59.080 flashed in their brain.
+00:05:01.040 >> Right, the combination, yes.
+00:05:02.760 >> And it doesn't matter
+00:05:04.680 what it even it is or what it's about or
+00:05:07.600 like what type of thing it is. Is it a
+00:05:11.840 Is it a person, a place,
+00:05:14.360 thing? You know You know what I'm
+00:05:16.000 saying?
+00:05:16.880 Like it's literally just exposure to a
+00:05:21.840 to a specific stimulus.
+00:05:25.520 So,
+00:05:26.800 that
+00:05:28.280 is
+00:05:30.400 valuable. That in itself is valuable
+00:05:33.398 [music] because there's a thing in
+00:05:34.760 advertising
+00:05:35.840 >> It's a mechanism.
+00:05:36.720 >> that
+00:05:37.560 that
+00:05:39.120 you have to be exposed
+00:05:41.560 to
+00:05:42.720 a stimulus
+00:05:45.760 some
+00:05:46.960 average number of times
+00:05:51.920 >> Yeah.
+00:05:52.480 >> that would amount to
+00:05:55.120 you selecting that one
+00:05:58.400 over the other one.
+00:06:01.400 If you ever need to buy it.
+00:06:03.520 >> Okay.
+00:06:05.600 >> That's the only effect. So, what you're
+00:06:10.040 I'm trying to accomplish, what you're
+00:06:11.880 accomplishing, what you're paying for,
+00:06:14.240 the goal,
+00:06:16.160 whatever. [music]
+00:06:17.800 Like
+00:06:19.840 glue all that together.
+00:06:22.520 The outcome that we're trying to
+00:06:25.560 get
+00:06:26.760 are doing
+00:06:30.600 is
+00:06:31.919 brand [music] awareness.
+00:06:34.120 And that's what we're That's what we
+00:06:36.160 established.
+00:06:40.080 >> Okay, we did.
+00:06:41.680 >> Yes. Yes. So, that is
+00:06:44.919 That's our goal.
+00:06:46.040 >> Okay.
+00:06:47.600 >> is
+00:06:49.360 is
+00:06:50.320 >> brand awareness.
+00:06:52.560 >> Yes.
+00:06:53.680 The goal is is to create a new word.
+00:06:58.549 >> [music]
+00:06:58.919 >> And now that we have created
+00:07:00.240 >> the new word. It's a new word. Yay, we
+00:07:03.040 created a thing.
+00:07:04.200 >> Okay. [music]
+00:07:05.520 >> Nothing else
+00:07:07.200 has been called that before.
+00:07:09.029 >> [music]
+00:07:10.080 >> And now
+00:07:11.160 something is called that.
+00:07:13.240 >> Yeah.
+00:07:13.760 >> It went from
+00:07:15.160 zero
+00:07:16.360 non-existing to
+00:07:18.240 one existing.
+00:07:19.760 >> Yay! [music]
+00:07:20.800 Here to chill, says.
+00:07:22.680 >> Because
+00:07:24.080 the Antichrist is coming soon.
+00:07:26.440 >> It could be me.
+00:07:27.680 >> Right.
+00:07:28.200 >> Oh, no.
+00:07:31.600 I don't think I am.
+00:07:32.160 >> Exactly.
+00:07:33.160 Right.
+00:07:33.840 >> Right. Right.
+00:07:35.885 >> [music]
+00:07:36.040 >> That's where I'm at with that. So, I
+00:07:38.320 don't think there's anything else I
+00:07:39.600 could do about that.
+00:07:40.720 >> No.
+00:07:42.040 >> No. So, [singing] okay. I'm there with
+00:07:44.120 I've been there with that. Like, I get
+00:07:45.600 it.
+00:07:49.040 You know. You know what [music]
+00:07:51.200 So,
+00:07:51.960 like, that's where I'm at with that.
+00:07:54.120 Okay. I [music] get it.
+00:07:55.920 Okay.
+00:07:56.960 Um
+00:07:59.600 And
+00:08:00.520 Talk about jams, baby. Yeah. So, yeah.
+00:08:03.200 It's just whatever.
+00:08:05.360 Are you all right? Let's keep going.
+00:08:07.200 Okay.
+00:08:08.200 I'm going to
+00:08:09.320 Yeah. Let's keep going.
+
+
+
+
+# tactiq.io free youtube transcript
+# 20260831 210805
+# https://www.youtube.com/watch/x4lr9N6HZhk
+
+00:00:00.640 You're not you're not worried about what
+00:00:02.240 anybody else has judgments on you
+00:00:04.319 anymore.
+00:00:06.400 >> Yeah.
+00:00:07.120 >> I mean, I'm not either at all.
+00:00:10.639 >> Good.
+00:00:13.280 >> I mean, I'm thoughtful and cognizant of
+00:00:16.640 my actions. I'm I I mean, like, if I
+00:00:19.279 react, it's in a good way. Like, most of
+00:00:22.000 the time, unless like some like I feel
+00:00:23.840 threatened or something or like off,
+00:00:25.840 then I'm going to [ __ ] call it out,
+00:00:28.240 you know?
+00:00:31.359 I just I'm not to be [ __ ] with
+00:00:32.880 anymore, man. [music]
+00:00:33.760 >> Yeah,
+00:00:34.160 >> I'm not.
+00:00:34.880 >> Yeah, I get that.
+00:00:44.000 >> I know you do.
+00:00:46.399 >> I hear you. I adequately fear you.
+00:00:49.280 >> I'm not talking about just me. I know
+00:00:51.440 you feel that.
+00:00:53.520 And I know that you you feel the same
+00:00:55.280 way I do.
+00:00:58.960 But like at the same time, you do honor
+00:01:00.879 your your parents so nice.
+00:01:03.600 You are thoughtful. Think about others
+00:01:05.840 more than yourself practically.
+00:01:08.400 >> Your what?
+00:01:09.119 >> You think about the ones that you love
+00:01:10.560 more than yourself.
+00:01:14.400 >> Like my parents,
+00:01:15.840 >> your parents,
+00:01:17.759 um spouse, you know what I mean?
+00:01:20.400 Whoever, [music] man.
+00:01:22.159 >> John, him.
+00:01:23.439 >> Yeah.
+00:01:25.439 >> Uh-huh. That's true. That's from my
+00:01:27.759 experience.
+00:01:55.280 What?
+00:01:56.000 >> This music's great.
+00:01:57.759 >> Yeah,
+00:02:01.176 [music]
+00:02:03.200 >> I should have download Ableton on here
+00:02:05.280 if you want if I would start [ __ ]
+00:02:08.318 with it [music] for some.
+00:02:10.000 >> You already did.
+00:02:11.280 >> Oh,
+00:02:11.760 >> it's on there.
+00:02:12.640 >> Did you do it already?
+00:02:14.640 >> Yeah.
+00:02:15.360 >> Oh, thanks. I didn't know you did it.
+00:02:20.319 >> It downloaded. Yeah. You got me do it
+00:02:22.080 last night,
+00:02:26.480 >> man.
+00:02:28.800 I was gone last night, Bob. Sorry.
+00:02:32.080 >> I needed that.
+00:02:36.800 I feel like you need a night. Like
+00:02:38.480 you're just knocked the [ __ ] out.
+00:02:42.640 >> Yeah.
+00:02:44.319 >> I feel like I'm good now.
+00:02:47.840 Yeah, I feel like you are good, dude. I
+00:02:49.599 feel like you are getting more
+00:02:50.640 competent, too.
+00:02:52.400 >> I like that.
+00:02:56.480 I like that.
+00:02:58.400 >> Me, too. Thank you. You
+00:03:01.360 >> It's not me, dude. It's up to you, man.
+00:03:03.599 It's up to you. I know like what I'm
+00:03:05.920 here to do. You're my brother, man. Um
+00:03:09.120 I'm going to lift you up no matter what.
+00:03:12.560 You know what I mean? Even if you get
+00:03:14.000 [ __ ] on them, they're, you know, like
+00:03:15.760 that's what real [ __ ] family does.
+00:03:17.680 They never turn their back on anybody
+00:03:19.760 ever.
+00:03:21.680 >> You know what I mean? And plus, we're
+00:03:23.360 not like little [ __ ] man. You don't
+00:03:26.159 [ __ ] turn your back on your [ __ ]
+00:03:28.480 friends. I don't think you have.
+00:03:33.120 >> Have you?
+00:03:34.239 >> No.
+00:03:34.720 >> I don't think you have.
+00:03:35.680 >> I don't think so.
+00:03:40.400 >> I know you haven't.
+00:03:46.239 You protect the ones you love, man.
+00:04:10.080 I want to go to a side trance event
+00:04:11.840 though. Sometimes during my Khole uh
+00:04:14.959 journeys, bro,
+00:04:16.560 >> um I find myself like
+00:04:19.120 >> journeying like going through my journey
+00:04:22.000 of life,
+00:04:24.160 okay? And like figuring out like, oh my
+00:04:27.280 god, these are the things that I'm doing
+00:04:29.360 wrong. These are the things that I'm
+00:04:31.280 hiding from other people. like my
+00:04:33.919 addiction.
+00:04:35.759 I look at that, you know, and then like
+00:04:40.320 um
+00:04:42.720 it just like it makes me journey and see
+00:04:44.960 everything like as a
+00:04:49.520 from a spiritual aspect, you know, of
+00:04:51.600 what I'm doing right and wrong, and then
+00:04:54.880 I just spiral back into it. You know
+00:04:57.120 what I mean?
+00:04:59.759 It's kind of like mushrooms in a sense.
+00:05:02.400 Have you ever help felt that on K?
+00:05:03.923 [music]
+00:05:04.320 >> What?
+00:05:04.720 >> Like you were on mushrooms like that
+00:05:06.320 spiritual,
+00:05:10.160 >> oh man, I could be doing this and like
+00:05:12.479 you figure out, oh my god, if I did
+00:05:14.000 this, this would happen and like you get
+00:05:15.520 like enlightened kind of.
+00:05:18.320 >> Yeah.
+00:05:20.400 >> But if you can't like remember it, then
+00:05:22.400 it's [ __ ] up. You know what I mean?
+00:05:23.919 Cuz I forgot a couple of them. Have you?
+00:05:27.680 >> Trying to make sense out of the trip.
+00:05:30.400 >> Yeah.
+00:05:33.759 Yeah, I feel like I don't I haven't I
+00:05:36.160 don't remember all the all the stuff
+00:05:37.759 that I figure out,
+00:05:41.120 >> right?
+00:05:42.880 That's a good way to put it. Thank you.
+00:05:44.800 That's a good great way to put it. Thank
+00:05:46.320 you.
+00:05:49.440 >> No, it is. And I I feel like we do each
+00:05:52.080 and every time we do more and more.
+00:05:54.479 >> Yeah.
+00:05:58.720 But what were we talking about earlier,
+00:06:00.560 man?
+00:06:02.400 We're uh I opened up to you about
+00:06:04.319 something. You said something. [music]
+00:06:13.440 I don't know.
+00:06:16.880 What were we talking about?
+00:06:19.904 [music]
+00:06:21.360 I don't know, man.
+00:06:25.199 There was a reason why.
+00:06:27.919 Oh, we were talking about the [ __ ]
+00:06:29.520 stupid Xanax, man. [music]
+00:06:33.440 >> Okay.
+00:06:34.000 >> The Oh, that thing. Like you you felt
+00:06:36.160 like I was I'm mad at you or holding
+00:06:38.479 something against you, bro.
+00:06:41.600 >> I knew you felt that way. Why?
+00:06:43.919 >> No, no, no. I feel like I feel like you
+00:06:46.800 you got [music] suspicious of me because
+00:06:49.280 of of the missing Xanax and I want to
+00:06:50.880 get past that. So that that's not even
+00:06:52.560 like a it shouldn't because it shouldn't
+00:06:55.199 be it shouldn't it's not
+00:06:56.319 >> it should be it should be zero because I
+00:06:58.080 didn't do it.
+00:06:58.960 >> I know. Okay. So you know that how I
+00:07:02.560 feel about that now, right?
+00:07:03.919 >> Yeah.
+00:07:04.160 >> Oh, okay.
+00:07:05.039 >> That's what I wanted to.
+00:07:06.080 >> But I still want I still want to resolve
+00:07:07.440 it cuz even like even if it's like
+00:07:09.360 >> Dude, it's okay. Like the only way it's
+00:07:11.120 going to get resolved is like
+00:07:13.599 >> we move on cuz I I already lost it, man.
+00:07:16.560 Like it's [music] done.
+00:07:18.000 >> I got to be I got to take a loss.
+00:07:19.680 >> It's not done. And it has to be
+00:07:21.120 somewhere.
+00:07:23.360 >> The way I'm I looked at it too is if
+00:07:25.199 it's somewhere then I'm going to pop up.
+00:07:26.800 It's going to pop up in here somewhere,
+00:07:28.560 dude. So cool.
+00:07:29.759 >> Yeah.
+00:07:32.479 >> When it does, I'll be like, you know,
+00:07:35.199 kind of thing.
+00:07:36.160 >> Yeah,
+00:07:36.479 >> cuz like I got like [ __ ] a bunch of
+00:07:38.880 marijuana in that garbage can right
+00:07:40.639 there.
+00:07:41.199 >> Right. So it's Right. It's going to be
+00:07:42.960 right. It should be here somewhere. So
+00:07:45.039 >> yeah, I'm not worried about it, Bob. I
+00:07:47.280 was just pissed about Harry to be real
+00:07:49.120 with you, man.
+00:08:05.120 Hurry, man. I just like [ __ ] man.
+00:08:09.759 What? You know, like
+00:08:15.840 a little while ago he was like trying to
+00:08:17.919 like come down off these [ __ ] things
+00:08:19.770 [music] and now it's like he doubled
+00:08:21.199 them, you know?
+00:08:22.639 >> He doubled.
+00:08:23.599 >> Yeah.
+00:08:26.160 And
+00:08:29.280 like I know he's [ __ ] like he's
+00:08:31.560 [music] broke right now again, you know?
+00:08:34.000 It's like what the [ __ ] dude?
+00:08:38.399 Man,
+00:08:40.559 I don't know.
+00:08:43.039 But like I just feel like you got to
+00:08:48.560 I try to help him out. You know what I
+00:08:50.160 mean? Like I give them to him for
+00:08:51.600 whatever, but I'm not What What should I
+00:08:53.440 do? I feel like I should just uh if I
+00:08:56.240 just give them to him, Bob, like he's
+00:08:57.839 going to become dependent on it. You
+00:08:59.839 know what I mean?
+00:09:01.279 >> Yeah.
+00:09:02.640 >> And expect it, right? Because it's going
+00:09:04.640 to have to shoot and lose them and all
+00:09:06.080 this stuff. And that's like a lot of
+00:09:07.360 pressure, dude. So,
+00:09:10.640 I don't know how to talk to him or like
+00:09:12.560 get him to really commit to anything if
+00:09:14.720 he don't want to do it. You know what I
+00:09:16.800 mean?
+00:09:17.440 >> Yeah.
+00:09:17.920 >> So, I don't know.
+00:09:22.000 I don't know what to do with that, man.
+00:09:24.240 >> You don't WhatsApp
+00:09:25.440 >> I don't know what to do with that, bro.
+00:09:27.236 [music]
+00:09:27.440 >> Yeah.
+00:09:34.560 >> I don't know either.
+00:09:50.161 >> [music]
+00:09:57.680 >> Yeah,
+00:09:59.440 I just uh it just takes honesty is all.
+00:10:07.600 You know,
+00:10:20.959 >> I'm trying to remember what what the
+00:10:22.640 thing you said before that was.
+00:10:24.240 >> Huh?
+00:10:24.800 >> I'm trying to remember what the thing
+00:10:26.000 before that.
+00:10:26.800 >> Oh, nothing. We're I'm just Yeah, I'm
+00:10:29.680 just thinking to myself
+00:10:33.440 what I was saying was about Harry.
+00:10:58.282 >> [music]
+00:11:03.522 [music]
+00:11:08.800 >> Nice.
+00:11:15.440 What?
+00:11:17.120 >> This [ __ ] that like beat that drop.
+00:11:20.480 >> No.
+00:11:22.079 >> So good. So good. [music]
+00:11:47.408 >> [music]
+00:11:52.480 >> Heat. Heat. [music]
+00:12:03.128 >> [music]
+00:12:05.920 >> Mhm.
+00:12:10.988 [music]
+00:12:19.503 [music]
+00:12:26.560 Heat. Heat.
+00:12:53.839 Yeah.
+00:12:56.880 >> Yeah.
+00:12:57.440 >> Oh, [ __ ]
+00:12:58.480 >> Oh, no.
+00:12:59.760 >> No. No. No. No. No. No.
+00:13:03.920 >> Okay. What you What were you about to
+00:13:05.519 say?
+00:13:11.200 We should have stole some more candy.
+00:13:13.200 >> We should have
+00:13:14.959 >> time. Is it right now?
+00:13:17.440 >> No, it's not.
+00:13:19.600 >> Yeah, it is.
+00:13:20.079 >> We could go [ __ ] steal some candy and
+00:13:22.800 cash.
+00:13:24.320 >> What? [laughter]
+00:13:26.240 >> I'm just kidding about the cash.
+00:13:29.040 >> Oh, candy and cash.
+00:13:32.079 >> We should go get some candy, though.
+00:13:35.200 Maybe.
+00:13:35.760 >> Let's go. I thought I had a ton.
+00:13:38.399 >> Oh, I do.
+00:13:40.399 >> Right here. [music]
+00:13:43.040 >> Let's go. [ __ ] spend the money that
+00:13:45.040 you [ __ ] um
+00:13:49.920 >> have like one to roll my weed though.
+00:13:51.680 >> Where are we going to go?
+00:13:54.160 >> Family Dollar.
+00:13:56.480 It's right there.
+00:13:58.880 >> Oh, are you working on something
+00:14:00.079 important?
+00:14:02.320 If not, if if if you are a time,
+00:14:05.440 >> I was just thinking about both of us.
+00:14:06.959 That's awesome.
+00:14:07.920 >> All right.
+00:14:11.199 >> We're going to go to the Family Dollar.
+00:14:13.279 >> No, I guess not.
+00:14:14.480 >> Why not?
+00:14:15.120 >> Cuz you don't want to go.
+00:14:21.279 It's okay.
+00:14:22.480 >> Um, I'll go.
+00:14:24.639 >> No, I'll go. Just give me a second.
+00:14:26.160 >> Actually, what time is it? 9:30. 9:22.
+00:14:29.360 >> 9:22.
+00:14:32.160 Okay.
+00:14:32.560 >> Actually, I don't know, man. I'm kind of
+00:14:34.240 [ __ ] high.
+00:14:35.600 >> Okay.
+00:14:48.320 Yeah.
+00:14:52.240 >> Oh, god damn. I'm That's my fault.
+00:14:55.920 >> No, you're good. It was my fault. I'm
+00:14:57.920 not athletic. Yeah, but I forgot about
+00:15:00.320 the coordination. We got to work on
+00:15:01.839 that.
+00:15:02.320 >> I know.
+00:15:02.800 >> How are we going to do that?
+00:15:04.079 >> Um, just sport. I mean, like, you know,
+00:15:07.120 play basketball or something.
+00:15:15.920 How about this thing?
+00:15:18.720 >> I have one of those headbands where if
+00:15:20.560 you like you got to kind of like hit it
+00:15:24.320 with your hand.
+00:15:25.600 >> Yeah.
+00:15:26.880 >> You know?
+00:15:27.360 >> Yeah. Maybe if we do this like for 2
+00:15:29.680 minutes a day. If you hit it 1 2 3 4 5.
+00:15:34.560 You want to try it?
+00:15:36.800 >> I'll do it with you.
+00:15:38.480 >> Um
+00:15:40.240 I I would be fine with just playing like
+00:15:44.079 >> you got to try this.
+00:15:45.519 >> A greater variety of activities that are
+00:15:49.199 >> How about this?
+00:15:49.920 >> Just other activities. Like I don't need
+00:15:51.440 to
+00:15:52.320 >> How about this?
+00:15:53.360 >> What? I don't even know if I can do it
+00:15:55.519 because I'm not that coordinated,
+00:15:56.880 believe it or not.
+00:15:58.959 It's always been kind of an issue for
+00:16:00.560 me. Like I I had no rhythm, you know?
+00:16:05.120 But like if you take your hands like
+00:16:06.560 this, look looking straight forward and
+00:16:09.120 try to like connect your fingertips.
+00:16:12.240 Can you try that?
+00:16:13.600 >> Why?
+00:16:14.959 >> Cuz I thought I could do it at first.
+00:16:16.720 Maybe. Can you
+00:16:18.560 >> try to connect your fingertips?
+00:16:19.920 >> Yeah.
+00:16:20.240 >> That seems hard. Yeah. Go, go.
+00:16:24.800 Very good, dude.
+00:16:26.959 >> So, you can do it. You can learn
+00:16:28.639 coordination. Really? You know,
+00:16:31.279 >> that's really good. Some people cannot
+00:16:32.720 do that. I could not do that my first
+00:16:34.880 try.
+00:16:35.519 >> Yeah.
+00:16:45.600 >> But like pickle ball is good too, right?
+00:16:47.680 >> What?
+00:16:48.560 >> Tennis and pickle ball and all that
+00:16:50.160 [ __ ] Ping pong.
+00:16:53.839 I feel like my mom's really great at
+00:16:55.519 ping pong, but she's not coordinated.
+00:16:58.639 What the [ __ ]
+00:17:02.880 >> All right.
+00:17:04.431 [music] Your mom would like pickle ball
+00:17:05.679 cuz that's just ping pong.
+00:17:07.679 >> Yeah. I would
+00:17:10.000 >> a bigger ball and paddles. Like bigger
+00:17:12.000 paddles.
+00:17:12.880 >> No [ __ ]
+00:17:13.439 >> And you're like on the table
+00:17:14.559 >> on
+00:17:15.919 >> Is there a table or a court?
+00:17:17.359 >> It's a court. You're stand but it's the
+00:17:18.799 same. You're standing on the table.
+00:17:20.240 You're standing on the big one table.
+00:17:21.520 >> I got you.
+00:17:22.000 >> Yeah.
+00:17:22.480 >> Okay.
+00:17:23.839 >> I think they should make like another
+00:17:25.359 version where the ball is even bigger
+00:17:27.679 that's like the size of a soccer ball.
+00:17:30.559 >> Yeah.
+00:17:30.960 >> And you have to like use your feet or
+00:17:32.480 something.
+00:17:36.240 Like pickle pickle ball.
+00:17:38.960 >> Whatever that is.
+00:17:41.520 >> That'd be cool. They have Do you ever
+00:17:43.919 play kickball?
+00:17:46.960 >> Have I ever played kickball?
+00:17:49.120 Yeah, it's kind of like that, ain't it?
+00:17:54.160 >> I don't know.
+00:17:55.600 >> Um,
+00:17:56.960 >> but there's no net.
+00:17:59.919 >> Yeah, pickall is Yeah, kind of like
+00:18:03.120 that. Yeah.
+00:18:06.960 >> Kind of a violent game, dude.
+00:18:09.280 >> Yeah.
+00:18:10.640 >> Oh, do you remember playing dodgeball in
+00:18:12.640 [ __ ] elementary school?
+00:18:13.919 >> That's what I was thinking of.
+00:18:14.799 Dodgeball.
+00:18:16.720 Yeah, I forgot dodge ball and keep
+00:18:18.720 different.
+00:18:20.080 >> Yeah, man. That [ __ ] was real, dude.
+00:18:22.720 >> Yeah,
+00:18:23.840 >> everybody would team up on your ass and
+00:18:25.440 just start [ __ ] violently throwing
+00:18:27.440 the ball at the last person if you made
+00:18:30.400 it, you know?
+00:18:31.360 >> Yeah,
+00:18:31.679 >> I remember those matches. Holy [ __ ]
+00:18:39.919 >> Those were the days, man. [ __ ]
+00:19:02.000 Yep.
+00:19:12.799 So powerful it will eradicate the human
+00:19:15.840 species.
+00:19:18.400 >> Yeah.
+00:19:20.640 U
+00:19:32.080 money money.
+00:19:36.880 Lots of people drink coffee before they
+00:19:40.080 go to work. Of course, others,
+00:19:44.320 believe it or not, drop
+00:19:47.120 >> I don't believe it
+00:19:50.080 cuz you can't you can't drop acid every
+00:19:52.880 day.

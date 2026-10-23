@@ -1,0 +1,257 @@
+Speaker 1
+because nothing else does this so hypernexus nothing else there is nothing else in in the
+
+Speaker 1
+same category as hypernexus right now hypernexus is is the standard okay so so what okay let me
+
+Speaker 2
+okay okay so what is hypernexus and how does it fit into the average everyday ai model okay like
+
+Speaker 1
+chat like chat gpt gemini and all that yeah okay so um open ai has codex right if you want to use
+
+Speaker 1
+open ai you have to download the codex application and run it on your computer and you open codex and
+
+Speaker 1
+you use codex okay if you want to use um gemini you have to download anti-gravity and you can only
+
+Speaker 1
+use anti-gravity and there is no other option except for anti-gravity they used to have gemini cli
+
+Speaker 2
+but they shut it down i think they just came out with a cli but we'll look into it well they do have
+
+Speaker 1
+an anti-gravity cli but but it's not the same as the gemini i missed them right so but anti-gravity is
+
+Speaker 1
+the replacement for gemini cli so if you use if you want to use gemini you have to use anti-gravity
+
+Speaker 1
+if you want to use chat gpt you have to use codex if i want to use cloud if you want to use clod you
+
+Speaker 1
+have to use clod code or clod desktop or clod code in clod desktop right so if i want to use her me
+
+Speaker 1
+agents do i have to use them too so yeah so all of these companies are not trying to improve interrupt
+
+Speaker 1
+interoperability right so they're not so google is never going to make it so that the memory between
+
+Speaker 1
+anti-gravity and clod is shared and clod is never going to make it so that clod can access anti-gravity's
+
+Speaker 1
+gemini memory and gemini is never going to be able to access clod's memory right but there's no reason
+
+Speaker 1
+that they can't the only reason that they can't is because the companies want to keep you um in their
+
+Speaker 1
+in their like product ecosystem their products in their ecosystem so um so there is a need for a for an
+
+Speaker 1
+open source standard um like like software that is like a glue that combines all of those ecosystems
+
+Speaker 1
+together in a standardized way with standardized features that that all that everyone that in the
+
+Speaker 1
+community agrees all of those tools should have equally so it is an equalizer so if anti-gravity
+
+Speaker 1
+happens to have a function that google puts into it that codex does not have or clod does not have right
+
+Speaker 1
+hypernexus can have that function and then can equalize it so that plot does have that ability
+
+Speaker 1
+and and uh codex does have that that ability now so it gives all of the abilities of all of the tools
+
+Speaker 1
+to all of the tools at any moment yes that's what it is so hypernexus is the glue that is the it is the the
+
+Speaker 1
+tool that glues together or combines together all of the other ai tools in the in the different
+
+Speaker 2
+people you don't even have to like say like block builder it's a glue for real because like it
+
+Speaker 2
+how about the memory how about the memory thing and like security so people's always asking about
+
+Speaker 1
+security so that is so the memory is a is is a good question uh security yeah it's two questions my bad
+
+Speaker 1
+security is less is is less um prominent of a question at this particular moment because um we
+
+Speaker 1
+haven't done that much diving into memory into security but um security is is completely fucked uh like
+
+Speaker 1
+like regardless how about for uh hypernaxis okay so just in general computer security is
+
+Speaker 1
+fucked i know computers are over so who um back for another fucking day yeah yeah that's already that's
+
+Speaker 1
+already a thing so so um um uh uh but okay so for memory like like all of the clients all of the
+
+Speaker 1
+different clients are adding memory to their to their platform um but nobody is adding in unified memory
+
+Speaker 1
+that connects the memory between the platforms and so that is still important memory is still important
+
+Speaker 1
+that's like one of the most coolest fucking things so that is that is like one of the primary features
+
+Speaker 1
+right now and the other most primary feature is mcp and skill um uh tool progressive disclosure uh and
+
+Speaker 1
+and tool prediction so um instead of instead of like like at the beginning of the conversation
+
+Speaker 1
+um with ai um normally uh a like a naive client uh like codex or something or flawed code or anti-gravity
+
+Speaker 1
+would just like tell the ai like all of the tools that it has available right and so if you give it
+
+Speaker 1
+the entire like home depot full of tools at the beginning of every conversation it just dumps the entire
+
+Speaker 1
+catalog catalog catalog onto the ai and it's like i have all of these tools available to me right boom boom
+
+Speaker 1
+and the ai doesn't do anything with it because it's just overwhelmed and it's and it's wasteful it wastes
+
+Speaker 1
+tokens and it wastes contacts yeah so what you actually want is you want like a secondary ai
+
+Speaker 1
+that is that is like in that's like a local ai that it doesn't need to be very smart but it needs to be able
+
+Speaker 1
+to watch your con to read the conversation and then suggest the most useful tools when they're
+
+Speaker 2
+most needed i hence the uh what was that uh we have downloaded at the office um to do that the smaller
+
+Speaker 1
+local lm uh uh local lm studio okay is that what you're talking about uh yes okay yeah yeah so so
+
+Speaker 1
+so yeah something like that so so um we're on like glm yeah so so so you're having your normal
+
+Speaker 1
+conversation with your ai about doing about uh making your crm or whatever right and um you and you
+
+Speaker 1
+start talking about doing like a billing page or something right yeah and so so hypernexus would then
+
+Speaker 1
+go through all the different like the tool catalog and find everything related to like banking and billing
+
+Speaker 1
+okay and like and then be like okay the most useful set of tools is is like is like you know these
+
+Speaker 1
+things and like dump it in front in in front of um the ai during the conversation so the ai sees it oh my
+
+Speaker 1
+god so that's how i have it set up so instead of right instead of at the beginning of the conversation
+
+Speaker 1
+it just goes here's the whole store of tools and like like assuming hoping that the ai like remembers oh
+
+Speaker 1
+yeah like i have a chainsaw you know what i mean like like that you set it in front of the ai when
+
+Speaker 1
+it needs it most and then it just it just picks it up and uses it yeah that's it and it and you know
+
+Speaker 2
+that's that's very powerful for a lot of other things too and not just the crm because i noticed in my
+
+Speaker 2
+coding yeah which i i know what the issue is i gotta uh restart my uh uh lm studios but that's what the
+
+Speaker 2
+problem was i was trying to ask you about i answered the question to my head right there for hypernexus but
+
+Speaker 2
+like man i'm noticing uh i'm noticing these things you're talking about on the coding level as well
+
+Speaker 2
+like how powerful it is you know what i mean especially like if you get lost in your workspace and
+
+Speaker 2
+you're you know you ask your your model several questions and like you run whatever prompts you're
+
+Speaker 2
+up information or data from a specific date or like from a specific timeline regarding like
+
+Speaker 2
+whatever like it does it man you know you can have hypernexus fucking pull it up i don't know that
+
+Speaker 1
+hypernexus is necessarily going to do that hypernexus i think it did so what it will do is it will like
+
+Speaker 1
+track it does it does automatically um harvest the context memory so it so as you talk to it that's
+
+Speaker 1
+what that is okay as you talk to it it automatically thinks to remember the most important things you
+
+Speaker 2
+talk about but then what if it it doesn't think that it's important so so ai is pretty good at
+
+Speaker 1
+deciding which things are important and which things are are like fluff so like it really it will condense
+
+Speaker 1
+down the details of your conversation as much as possible to where it knows what it was and then it
+
+Speaker 1
+will keep the most important parts of that automatically all the time but we've had to dig for some important
+
+Speaker 2
+vital information on the humania pipeline together do you remember yeah but you're like you're like
+
+Speaker 1
+trying to prompt it all for like three days as as as you use hypernexus with it it that shouldn't be an issue
+
+Speaker 2
+anymore it should learn and it should exactly remember all those that's what it does yeah i learned that yay
+
+Speaker 2
+that's awesome because i'm using it on every project that i'm coding right now that's awesome
+
+Speaker 2
+did you have any pizza yeah just take one of my slices dude it's really good did you want to get that
+
+Speaker 2
+sauce man not yet you want that you better part that yeah i really it's it went it goes down so quickly
+
+Speaker 1
+like two pieces you have some you have two pieces of pizza i'm gonna have one of yours i'm gonna have
+
+Speaker 1
+one of yours yeah i'm taking one i cannot believe you only have two pieces
+
+Speaker 2
+you can't believe that you know how i eat no here use this that's some good shit um you should eat more
+
+Speaker 2
+i will dude i had a shit ton of candy too man like an asshole yeah my mom would have kicked my
+
+Speaker 2
+fucking head in dude huh i'm just kidding
+
+Speaker 2
+i don't know i got some

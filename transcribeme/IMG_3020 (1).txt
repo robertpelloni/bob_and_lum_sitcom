@@ -1,0 +1,116 @@
+Speaker 1
+not around us right now. Do you get it? Like to maximize these devices. Yeah. To do that. Right.
+
+Speaker 2
+So, so, okay. Oh, right. So, okay. So, so, so, so at this point, like we can have the AI, um,
+
+Speaker 2
+rebuild like the operating system, um, to, to enable all of, all of this functionality with,
+
+Speaker 2
+with, with what you're saying. Yeah. So the AI can do it and it like, it'll just like start with like
+
+Speaker 2
+rust and it'll, and it will be like absolutely efficient. Right. And then, okay. So that's
+
+Speaker 2
+amazing. You're saying this and then have, and then have like the, the like wireless cluster,
+
+Speaker 2
+like auto clustering built into the hardware or built into the, like, like using the hardware's
+
+Speaker 2
+capability built into the operating system, which is just a new operating system. Right.
+
+Speaker 2
+Built by the AI built by AI in rust. Yeah. Um, okay. And then go, that's the one that's like a little bit
+
+Speaker 2
+loose, right? Yeah. Go is like loose and floppy. Like go is, so we need that balance. So go is really,
+
+Speaker 2
+really good at network connections, lots and lots of network connections. Yeah. So go, so go is like
+
+Speaker 2
+Google built it and funded it and needed it. And they had the original like C designers, um, uh, built it,
+
+Speaker 2
+like designed the language and they, and so it can, it can easily handle like millions of, of, um, like connections from different devices.
+
+Speaker 2
+that's what i'm saying that's what this needs right so so it can like like it can handle the
+
+Speaker 1
+regions and like take it over here yeah and over here like other other other other programming
+
+Speaker 2
+languages don't scale as well to so many threads and so many different like network um network
+
+Speaker 1
+channels then with go with go wow so it's like the ying to the yang bro yeah so it goes this like
+
+Speaker 2
+loose sloppy like it can handle a lot of stuff but it's very wasteful it's like it's like um it uses
+
+Speaker 2
+a lot of resources it's very resource heavy so it's like the opposite of rust but that's like what
+
+Speaker 1
+we're doing in america and that's what i've heard like how a jump say it is like any ai company or
+
+Speaker 1
+like company like amazon for example any company that wants to do business in the united states has
+
+Speaker 1
+to provide their what own power supply like a big company like that so that's like amazing yeah
+
+Speaker 1
+that's a good concept to go along with this empowering it like using those companies that are
+
+Speaker 1
+already established we're just doing it a different way where it connects the world and it can it gives
+
+Speaker 1
+us all a new operating system like you said we do need one dude kind of because we've all arrived here
+
+Speaker 1
+and i feel like with microsoft like like just holding and stitching and making it work bro you know like
+
+Speaker 1
+up until this point it's such a fascinating beautiful thing now we got all the data we know what happened
+
+Speaker 1
+with that experience can we make it new with this like i don't know with a new operating system
+
+Speaker 1
+that's what i'm saying with this new one device powered by whatever country we're all global we're
+
+Speaker 1
+all working to like power whatever you know everybody that works at amazon i mean you know i must
+
+Speaker 1
+is going to have bots autonomous robots for sale you know after the axing which i think is a very genius
+
+Speaker 1
+business move yeah how he saw that they only had three percent of sales for those and like he had a
+
+Speaker 1
+use case for these autonomous bots right and like it should be able to control those too somehow
+
+Speaker 1
+yeah right right right like your own bot you can control your bot with it too okay interesting yeah
+
+Speaker 2
+very interesting okay right yeah i think i think i think the bots i think that's why they're building so
+
+Speaker 2
+many data centers so that robots have their brains wirelessly transmitting transmitting from from
+
+Speaker 2
+somewhere close by like because the robot brain is still the size of a refrigerator exactly and it's
+
+Speaker 1
+like it's amazing how we can like take that and like send it to a bot and like have it do tasks that's
+
+Speaker 1
+amazing it's basically like an uh a freaking eight year old oh all right

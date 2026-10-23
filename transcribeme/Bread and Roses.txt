@@ -1,0 +1,957 @@
+Speaker 1
+he was talking about and I fixed it right away okay I was like okay I saw exactly what he was
+
+Speaker 2
+saying he's like well I wasn't getting the same information that we usually subscribe to that we
+
+Speaker 2
+he has to pay money out of his pocket with to my face right here in this program it's broken
+
+Speaker 2
+something's broken between these two and like we were like hey there's something wrong I'm like
+
+Speaker 2
+the time the whole guy over there was like yeah there is something wrong and then Rafi was like hey
+
+Speaker 2
+there's something wrong but we got like way more users than my plus right and like we know there's
+
+Speaker 2
+a little problem here but like that little problem is going to become a greater problem for a lot of
+
+Speaker 2
+people yeah so we need to pick patch yeah this until we can fix it yeah you know what I'm saying like so
+
+Speaker 3
+yeah I remember I saw I saw some of your conversation with one of with one of the the engineers at lofty
+
+Speaker 3
+yeah and he was and he was like mad at you you showed me that oh John that one where he was like
+
+Speaker 3
+mad at AI yeah yeah yeah he he and I talked to his very funny dude I gotta show you that's very funny yeah that's super funny yeah he's actually he's actually a very good he's a mathematical genius wow oh because he developed it well he has his crew there he has his shauna he
+
+Speaker 2
+has his cam he has his cam he has his blaine he has his larry too yeah you get it yeah and like his luminary and shauna's talk to our alum harry and shauna's and hanks you know what I'm saying yeah like we get it it's fucking weird dude I just love it
+
+Speaker 2
+it's fucking weird dude we have our we have our our our our tree yeah it's a tree our fractal I just want the tree to produce fruit and for fruit we need resources and resources in this uh life that we're in that the bible speaks of is money like fruit could be love love love love but we need money man give what is to god is god and give it to caesar what is caesar you know man and money
+
+Speaker 2
+it's just i'm just following i'm trusting you but
+
+Here we go. Click. Go back. I don't like this one. Go back to this one. I want to pull a clearer one. Go this one. Forward. Go forward. Okay. Um, sorry. Um, try this one.
+
+Speaker 2
+Hit it? Yep. I like, what kind of style of art is that? I like that. I want something like that for our real estate website. See what this website is. It looks cool. So we're visualizing. I like how it did that. Yeah, it's like, yeah, it's very, like, it grabs your attention. Try this thing, maybe? Okay, try it, like, quick story. See if it's, okay. Yeah, this is good.
+
+Okay, so if you randomize a bunch of data from numbers, so this represents numbers, right? And, and, like, one is, is the lowest one. And then, like, 100 is the highest one. And we just, we just scrambled the numbers. This is visually showing you, um, the mathematical ways to sort, um, um, um, to sort 100 numbers. There's different, there's, there's, there's only so many, um, there's only so many strategies, right?
+
+Speaker 3
+So, so think about it. How would you put those in order? If you, if you have a list of, a list of random, of random integers, right? Yeah, okay. So, and you, and you, like, a deck of cards from one to 100, and you, and you throw them on the floor and scramble them, right? And you pick it, then shuffle it, and pick it back up, and it's shuffled. Yeah. How do you put it back in order?
+
+Speaker 2
+Without seeing it or seeing it? Um, seeing it. You can see it. I can see the numbers. Okay, but, but, but, but, so, describe, you know, so this is what computers are good at, is stuff like that. Yeah. Right? Because that would take you, it'd be a fucking pain in the ass. Yeah, it'd be a fucking pain in the ass. Dude, I'd probably get to almost done and have to restart again.
+
+Speaker 2
+But why can a computer do that in, in an instant? Because there's no distractions doing it at the ass. Stop. And it does it, and it, and it, and it's able to, but think about the instructions.
+
+So, the instructions for doing that, how would you instruct somebody to put that deck in order? If you have, imagine that you have a child, and the child is like, Daddy, how do I put this deck in order?
+
+Speaker 2
+I shuffle, and, and, right? Right? And you have to give instructions to the child. Exact instructions. Well, you have to give more instructions than, I would be like, if you were like, here's, here's me, and you would be like, say it on me. Here's, here's the, here's the, here's the, right, I get that.
+
+Speaker 1
+Right, so, so what would the instructions be like? It would be like, well, flip over the first card, and see what it is. Right? It's a two of spades. Right, so, so we're, this is computer programming right now. We're writing a computer program out of words. Okay.
+
+Speaker 3
+How to sort a shuffle deck of cards. Yeah. From one to a hundred. In order. How can we do that? Well, how would you start? I would, how I do it is, I would take all of them. You would, wait, you would, break it down, break it down into each action individually. Oh, yeah, like, how I would do it. In each action individually. Oh, okay. First, I would flip over the first card, and see if it is the correct number. See if it, oh, you were trying to get them in order from one to a hundred.
+
+Speaker 3
+Yeah. Yeah, I would be like, okay, let me grab this one. Is it 78? So, so, so, so, so what's the first thing that you would do? Maybe you have to start with the number one, right? It depends on which card you flip over. Well, imagine that you're talking to, to, to, to something that doesn't know, it doesn't have any idea how to do this. Right? It doesn't even know what numbers are. And so you have to explain that to them, too. And so you're saying, okay, flip over the first card and look at the number. Is it the number?
+
+Speaker 3
+Is it the number one? No, it's not. No. Right? I mean, one out of a hundred it is. It could be, right? One out of a hundred it may be. Right. So is it the number one? No, it's not. Okay. Put that deck, put that card on the end of the deck. Okay. Okay. Take the next card. So the instruction is go through the deck card by card until you find the number one and start there. That's the first move.
+
+Speaker 3
+So you have 99 tries. I mean, you have as many tries as you want. You do? Yep. Okay. So yeah, you didn't stipulate that. So what this website is, what this website is, is here is a, there's a mathematical way, um, sequence of instructions. These are all the possible ways that humans have ever discovered on how to shuffle, on how to reorder the deck.
+
+Speaker 3
+From shuffle, I see. In order. It's kind of like the Bible verses. Everything that's been done under the sun, it's been done before. Yes. Yeah. Yeah. So, so, so these are all the possible ways, the strategies that people have invented over, since, since, um, since like mathematics has existed. Um, to,
+
+Speaker 3
+To order a shuffled deck of 100 cards in order, this, the different ways that you could do them. There's that many ways. But there's probably more than that. So watch this. Watch this. Okay. Yeah. Let me see this. This is the coolest card, right? All right. You can watch it do it. Oh, sweet. That's kind of like, that's kind of like winter stat.
+
+Speaker 3
+This is the strategy. So look at that. Did you see that? See it? See you're ordering it? Okay. You ready? Done. You ready? Wow. Here's the other way that you could do that. Hold on. Let's shuffle the deck. You could also do it this way. Right. But if you do it this way, what happens? Like, hold on. Watch it. See how it's markedly different? It's very different how it acts. It's different and the timing's different.
+
+Speaker 3
+Yes. Exactly. The timing is different. So now we're in, that's called measuring computational speed. How fast is this algorithm? Is that what we're fucking racing for? Okay. You ready? Let's see how Heapsort would sort the deck of cards. Totally different. Whoa. This is going in a different direction. Totally fucking.
+
+Speaker 3
+Fucking different. There's a million ways to do this. But it's still working. It's completely different. But it still has the same results. It's still doing this. And the timing is different. And the sequences is different. So think about it. In some situations, one way to sort it might be much faster than another way. For instance. Exactly. What if it's a deck of a thousand cards? Right. The one that is slowest on the
+
+Speaker 2
+A hundred cards? Might be the fastest. Might be the fastest. Might be the fastest. Might be the thousand cards. Yeah. You see what I mean? That's just like life. That is computer science. I get it. Complete. I get it. I understand. That's what I've been trying to explain to you about life. Isn't it beautiful? There's like so many. And they literally are mathematical terms. Dude. What is this site, man? It's a sword visualizer.
+
+Speaker 3
+So this one's called bubble sword. You can do it this way too. Go through it. And if the seven is less than the eight, then put it below the eight.
+
+Speaker 3
+And then move on to the next two cards. You see what I'm saying? Yeah. You can totally envision it, can't you? Isn't it crazy? It's fucking nuts.
+
+Speaker 2
+That's just amazing, dude. So like, that's all we're trying to do is like the same thing that humans have thought about before, but like we're in this time of like, I feel like it's a realization, a time of realization of so much power that needs to be harnessed the right way. Help people, not hurt them. Like that's the thing. You know, because I feel like people are getting hurt.
+
+Speaker 2
+For some reason, you know, in my findings, you know, in my findings, you know, say that again, I feel like people are getting hurt out here. How? Um, if I wanted to explain it to you, from my perspective, I just see like from when we grew up, how life was like, we're breaking away from a way that we used to do things.
+
+Speaker 2
+And trying to accept a new way. And like, there's people that won't accept it. And there's people that are like, oh, shit, we should do it this way. You know, and it's like, uh, everything in between, the cause and effect of that, like, of, uh, either going a different direction or not, is what's happening right now in the world.
+
+Speaker 2
+It's like very confusing right because everything is kind of the same but we feel like there's something different happening. Collectively. So I don't know. I don't know. I don't know either. I thought he would scream at me. Damn. Oh no. That was amazing. Maybe it wasn't supposed to be that way out here. But like that's fucking sick. Is that cool? All those sorts. So like.
+
+Speaker 3
+What do these lines represent though? That's just the backdrop. These lines represent the numbers from 1 to 100 in a deck of cards that has been shuffled. This is a deck of cards? Yes. Of 100 cards? Yes. But there's 52 cards. But this is a different game than playing cards. You can make it 52 if you want. Yeah we should. We should try to do it to 52 and then beat the casino.
+
+Speaker 3
+You see how it doesn't know? It actually doesn't matter how the size of the deck. It does it well. It looks like we get the only 50. Alright we're missing a couple jokers.
+
+Speaker 3
+Go through them one by one. If the one is less than the other put it behind it. And then move on.
+
+Speaker 2
+So if one is shorter than the one in front of you. What do you do? Keep going through the deck. If you keep going through the deck. If you start right here.
+
+Speaker 3
+You keep going through the deck. Take the top card off. And then the next card. And compare them. If this card is less than this card. Keep it on top. If this card is less than this card. Then switch them. Then put both of those cards at the back of the deck. And put two new cards. That's what bubble sword is. Let's play this later. I want to play this later. I want to play this with the real deck cards.
+
+Speaker 3
+then put both of those cards at the back of the deck and put two new cards.
+
+Speaker 2
+That's what bubble sword is. Let's play those later. I want to play those like real deck of cards.
+
+Speaker 3
+Yeah, isn't that cool? Yeah. We could do all of these sorts on a deck of cards shuffled like that.
+
+Speaker 2
+Let's try that theory and let's record it and put it on your site. Okay.
+
+Speaker 3
+Wait. Isn't that fucking cool? Yeah. So now if you have a deck of a billion cards. Well, how about eight?
+
+Speaker 3
+Right. Exactly. Like a dental life. Like a company that services everyone on the planet.
+
+Speaker 3
+With resources. How do you sort that data into alphabetical order?
+
+Speaker 3
+You would have to do it with one of these techniques. You have to do it with one of these techniques.
+
+Speaker 3
+Because it's the same thing. Alphabetical order is numerical order.
+
+Speaker 3
+Right. So if you have a giant stack of a billion cards and you need to put them in order and your eBay.
+
+Speaker 2
+Oh my God, dude. It's pretty freaking cool.
+
+Speaker 3
+Then you hire computer scientists to determine the fastest way for you to do that.
+
+Speaker 2
+Oh, just like with these algorithm guys. Yes. That's what it is.
+
+Speaker 2
+Like getting to our fathers, getting to us. And they're like, we know because like we're weathering
+
+Speaker 2
+the storm and we have like a sense of like a prediction of what's going to happen in a situation.
+
+Speaker 2
+Yeah. Yeah. But with this, it like plays everything out and gives you the advantage by presenting you with
+
+Speaker 4
+everything that could happen out of this situation. Okay. That's kind of like God.
+
+Speaker 3
+I think, I think God is the, is, is all of it. Is God is, God is in this algorithm. God created
+
+Speaker 2
+this algorithm and is this algorithm. Yeah. And like our language is what we consider to be an artist.
+
+Speaker 2
+That's why our language is important. Yeah. Hey, Harry. Great. I don't care. I just need an artist.
+
+I don't care. I don't care. I don't care. I don't care. What up?
+
+Speaker 2
+So I said, give me 27 possibilities to rename this name. United Beats. No, no, I'm keeping it. I'm keeping it. For very, there's, there's, there's, there's, there's many other reasons why.
+
+Speaker 2
+It's not just that. Well, tell me about other reasons. Start with one. Any of them. Um, because
+
+Speaker 3
+for instance, Japan got owned by the United States with, um, like the, the United States made Japan their
+
+Speaker 3
+bitch with the bombs, right? In like a sort of unfair way. And Japan did this like super, super respectable, honorable,
+
+Speaker 3
+noble thing of we're going to be the best. And then they did. And then, um, and then like, um, as a representative
+
+Speaker 3
+of the United States that was not, not complicit in dropping a bomb on another country, um, I would like to say you won.
+
+Speaker 3
+Me. I would like to say you're the best to the nation of Japan. But I would like to say exactly. I would like to
+
+Speaker 2
+say great job to the nation of Japan. I think you need to say to the nation of Japan that like, listen.
+
+Speaker 2
+How can I get their attention? I'll drop another bomb. Why did this happen to Japan? Like, this is what we need to
+
+Speaker 2
+realize right now. Like, so this happened. Because Japan followed, because Japan followed Hitler. But like, before Hitler
+
+Speaker 3
+there was Japan. Before. Right. But Japan joined the axis and joined Hitler's side. That's why we bind them.
+
+Speaker 2
+And that's why Hitler's such a big controversy today. I get it.
+
+Speaker 3
+But like, in, even in Japan's incredible media,
+
+Speaker 3
+incredible technological media and creativity that they created by being the smartest, most disciplined, most advanced country, most advanced people in the world. Because we could bomb their ass.
+
+Speaker 3
+Because we what? Probably because we bombed their ass. I would say, I would say, I would say almost, almost definitely because we bombed their ass.
+
+Speaker 2
+Is there a way that they have and forced them to fucking like, take the information that they already got? Yeah.
+
+Speaker 2
+And the people that they know? Yeah. And, uh, present it to the world in a way more efficient manner. Way more efficient manner.
+
+Speaker 2
+In a manner that you wouldn't have thought possible. That's what Japan did.
+
+Speaker 2
+And like, that's what the people, now we should accept that as people and use it individually to see how we can better the life for ourselves and everyone else in August. That's what it should mean. That's what it should mean. You know what I mean? Yeah.
+
+Speaker 2
+I think that's awesome, dude.
+
+Speaker 2
+But I don't think, like, there's no difference between Japanese and the African-American kids that don't have a mom or dad.
+
+Speaker 2
+Right, right, right, right.
+
+Speaker 3
+So, but I think it's interesting as a...
+
+Speaker 3
+as a... someone who challenged inadvertently, in a joking manner, because I didn't understand, because I hadn't thought it through.
+
+Speaker 3
+Essentially, the pride of Japan, which is a country known for its pride, the Disney of Japan, right?
+
+Speaker 3
+The most beloved representative of Japan puts me in a unique position to establish an organization called United Beats as a literal message.
+
+Speaker 3
+Like, great job, guys.
+
+Speaker 2
+So, here's what we do.
+
+Speaker 2
+Do you see what I'm... does that make sense?
+
+Speaker 2
+Yeah, I do, I do.
+
+Speaker 2
+Because, like, here's what... do you think that Max came up with United Beats because of Japan?
+
+Speaker 2
+No, no.
+
+Speaker 2
+I think that's what we should do to help complement that whole title.
+
+Speaker 2
+Right.
+
+Speaker 2
+Let's just back it on.
+
+Speaker 3
+I don't think that he did, but in my... if by me stealing it, the way that Steve Jobs stole the Beatles, which that's what he did, he stole the Beatles, right?
+
+Speaker 2
+Okay.
+
+Speaker 2
+Yeah, I'm listening.
+
+Speaker 2
+Steve Jobs stole the Beatles.
+
+Speaker 2
+But, but, but, but, and his company, Apple, spent decades in legal battles that, you know what I'm saying?
+
+Speaker 3
+With Apple records, right?
+
+Speaker 3
+Now, if Steve Jobs had just come out at the beginning and said, I'm stealing the Beatles, guys, because you're so fucking cool, I can't believe it.
+
+Speaker 3
+Maybe the Beatles wouldn't have sued him.
+
+Speaker 2
+Okay, so can we just be a little bit more to, uh, direct with our emotions that are so, like, mysterious?
+
+Speaker 3
+I'm, I'm not trying to be mysterious.
+
+Speaker 3
+I'm kind of not.
+
+Speaker 3
+I'm literally trying to communicate that as best I can.
+
+Speaker 2
+I know, but, like, I don't think the way that you're doing it is, like, it's confusing.
+
+Speaker 3
+You haven't even read it, though.
+
+Speaker 2
+What do you mean?
+
+Speaker 2
+You literally haven't even looked at it.
+
+Speaker 2
+I feel like we can, we don't have to put all these other, like, deep meanings into it.
+
+Speaker 2
+I feel like we can make it more, like, great to the point.
+
+Speaker 2
+It has deep meanings.
+
+Speaker 1
+It has deep meanings to it, though.
+
+Speaker 2
+It's important we can connect that, your intention, with Max's intention, with the intentions that we're trying to arrive at way better.
+
+Speaker 2
+That's what I'm saying.
+
+Speaker 1
+I don't think it fucking matters.
+
+Speaker 2
+It matters, dude.
+
+Speaker 2
+Because you say it don't matter, but the bomb was dropped, so that don't matter.
+
+Speaker 1
+I mean, I didn't drop an actual bomb.
+
+Speaker 1
+You didn't?
+
+Speaker 1
+Right, it's a metaphorical bomb.
+
+Speaker 2
+There was a bomb that was dropped, though.
+
+Speaker 1
+But I didn't do that.
+
+Speaker 1
+I didn't do that.
+
+Speaker 1
+And I'm a representative of that group.
+
+Speaker 2
+You're not.
+
+Speaker 1
+But I wasn't, I wasn't complicit with that group.
+
+Speaker 2
+And that's what people should know.
+
+Speaker 2
+People should know.
+
+Speaker 2
+They already know that.
+
+Speaker 2
+Right, but no one has said it.
+
+Speaker 2
+So just say it straight.
+
+Speaker 2
+I did.
+
+Speaker 2
+With what?
+
+Speaker 1
+Show me.
+
+Speaker 1
+It's on my blog.
+
+Speaker 2
+All right, show me right now.
+
+Speaker 2
+Tell me where, where, where do you say that?
+
+Speaker 1
+In the text, which is all over my blog.
+
+Speaker 2
+Lots and lots and lots of text.
+
+Speaker 1
+It's written there many times.
+
+Speaker 1
+In many places.
+
+Speaker 2
+That direct fucking thing you just said.
+
+Speaker 2
+Where does it say it in black and white?
+
+Speaker 2
+In plain English.
+
+Speaker 2
+Show me.
+
+Speaker 2
+Okay.
+
+Speaker 2
+Right here.
+
+Speaker 2
+Nuke three, number three, bitch.
+
+Your evilness.
+
+You look terrible.
+
+Speaker 1
+And then I crossed it out.
+
+Speaker 1
+And I said, no, that's still, that's still pretty tasty.
+
+Speaker 2
+Oh, is this what we did that night?
+
+Speaker 3
+That's still somewhat tasteless.
+
+Speaker 2
+Is that why you did that that night?
+
+Speaker 2
+Yeah.
+
+Speaker 2
+Try a Red Bull.
+
+Speaker 2
+It's devilish.
+
+Speaker 2
+I understand why you did that.
+
+Speaker 2
+Okay.
+
+Speaker 2
+So that's how you did that night.
+
+Speaker 2
+Okay.
+
+Speaker 2
+That's all I needed to say.
+
+Speaker 2
+Is that hard?
+
+Speaker 2
+Oh, no.
+
+Speaker 2
+I can be easy.
+
+Speaker 2
+Right?
+
+Speaker 2
+Yeah.
+
+Speaker 2
+Because I understand it.
+
+Speaker 2
+And I just think that people should be able to understand the fullness of this and be able
+
+Speaker 2
+to let it resonate within their self and let them pass it on.
+
+Speaker 2
+Ear to ear.
+
+Speaker 2
+Mouth to mouth.
+
+Speaker 2
+Eye to eye.
+
+Speaker 2
+Hug to hug.
+
+Speaker 2
+Get it?
+
+Speaker 2
+And like, you're a conduit for that.
+
+Speaker 2
+And I feel like we should be doing it that way, man.
+
+Speaker 2
+Like, in a more direct approach.
+
+Speaker 2
+In a more harmonic, direct approach.
+
+Speaker 2
+Because, like, when you're teaching me about coding, oh my god, dude.
+
+Speaker 2
+That was, that's amazing, dude.
+
+Speaker 2
+Like, how everything, like, how the smallest thing matters.
+
+Speaker 2
+That's what I'm saying, man.
+
+Speaker 2
+The smallest thing matters.
+
+Speaker 2
+And that's what detail is, right?
+
+Speaker 3
+Well, I'm missing some of the smallest things right now because I'm halfway distracted.
+
+Speaker 2
+You realize what you're missing.
+
+It's okay.
+
+Speaker 2
+It's coming together, man.
+
+Speaker 2
+The way it fits.
+
+Speaker 2
+I don't worry about it.
+
+Speaker 2
+Thank you, man.
+
+Speaker 2
+That was a really good life lesson.
+
+Speaker 2
+Which one?
+
+Speaker 2
+That we just went through.
+
+Speaker 2
+Oh.
+
+Speaker 1
+You're welcome.
+
+Speaker 1
+Thank you for listening.
+
+Speaker 1
+And understanding.
+
+Speaker 2
+You're welcome, man.
+
+Speaker 2
+So, right at that point, like, where you took this down on your game.
+
+Speaker 2
+So, it's important to me.
+
+Speaker 2
+Like, because I was with you.
+
+Speaker 3
+It's important to me because I came across United Beats myself while, like, that, and I saw it and I was like, Eureka!
+
+Speaker 3
+Like, that's exactly, like, the impression that I want to give, that conveys the information that I want to convey to Japan that, hey, guys, I grew up, like, obsessed with your output because it's so good.
+
+Speaker 3
+And I'm smart and I understand what you're conveying on your end.
+
+Speaker 3
+And here's my answer to that as a representative.
+
+Speaker 3
+Yeah.
+
+Speaker 3
+Right?
+
+Speaker 3
+And I don't see anyone else acknowledging it.
+
+Speaker 2
+That's fine.
+
+Speaker 2
+They don't have to.
+
+Speaker 2
+And they'll go, go, go acknowledge it in their own time.
+
+Speaker 2
+But, like, here's what I'm trying to tell you is that at least you realize that you see the purpose of it.
+
+Speaker 2
+Which I believe the very purpose of Sony, smartly, to send that message out, no matter how they sent it out, in a time capsule, through a pigeon with a freaking scroll, or, like, a text message, and we're, like, arranging fireworks in the sky and laying them off at the same time to spell a word.
+
+Speaker 3
+Yeah, right.
+
+Speaker 2
+With an explosion.
+
+Speaker 2
+Yeah.
+
+Speaker 2
+Yeah, no, man.
+
+Speaker 2
+Like, it's everything that we do.
+
+Speaker 2
+Yeah.
+
+Speaker 2
+And it's so straightforward and it's so easy.
+
+Speaker 2
+But for everyone to attach onto that, the basis of the intention of that love for one another is different.
+
+Speaker 2
+But, like, it's all the same.
+
+Speaker 2
+And so, like, your breadcrumbs, for someone to realize that, are special in its own way.
+
+Speaker 2
+You know what I mean?
+
+Speaker 2
+And that's why we need to align ourselves with our brother and sister on the same page, dude, with love.
+
+Speaker 2
+You know what I mean?
+
+Speaker 2
+Because nobody is different.
+
+Speaker 2
+Like, if they understood the consequences of that entire situation, then, you know, I believe that it wouldn't have happened.
+
+Speaker 2
+And it happened, though.
+
+Speaker 2
+And now we're coming back onto, like, the point of, like, we either work together or not, again.
+
+Speaker 2
+You know?
+
+Speaker 2
+Let's not be enemies again.
+
+Speaker 2
+Let's make this work.
+
+Speaker 2
+Let's make this work.
+
+Speaker 2
+Right.
+
+Speaker 2
+I'm just going to finish the video.
+
+Speaker 2
+Okay.
+
+Speaker 2
+Okay.
+
+Speaker 2
+That's a beautiful thing, man.
+
+Speaker 2
+And, like, I feel like even though we don't know, we're working towards that, man.
+
+Speaker 2
+And, like, our passion, our intent is love and being put together in the form of love, however it needs to be in whoever's life.
+
+Speaker 2
+Family, friend, foe, enemy, brother, anything.
+
+Speaker 2
+Like, we can all get along, man.
+
+Speaker 2
+And it doesn't have to be so hard.
+
+Speaker 2
+But there are some things in life that you have to learn for yourself to get on the other side of.
+
+Speaker 2
+You know?
+
+Speaker 2
+And, like, we're all, like, aides in that.
+
+Speaker 2
+We're all helpers and teachers in that aspect.
+
+Speaker 2
+Not one man can do it.
+
+Speaker 2
+Because if that was possible, Donald Trump, he couldn't just elect him and everything should have been done.
+
+Speaker 2
+So, no.
+
+Speaker 2
+Like, there's a struggle.
+
+Speaker 2
+He's seen a vision.
+
+Speaker 2
+He got into it.
+
+Speaker 2
+And now he's working it out.
+
+Speaker 2
+Right?
+
+Speaker 2
+Yeah.
+
+Speaker 2
+But it's just not him.
+
+Speaker 2
+There's so many people that go into that.
+
+Speaker 2
+Right?
+
+Speaker 2
+Yeah.
+
+Speaker 2
+But being a leader, you have to be responsible.
+
+Speaker 2
+Because it's just, like, not your life, man.
+
+Speaker 2
+It's not your life.
+
+Speaker 2
+Your life is not your home.
+
+Speaker 2
+Okay.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 1
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 1
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 1
+I love you, not.
+
+I love you, not.
+
+Speaker 3
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 3
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 3
+I love you, not.
+
+Speaker 2
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 1
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 2
+I love you, not.
+
+Speaker 4
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.
+
+I love you, not.

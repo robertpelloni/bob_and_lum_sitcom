@@ -1,0 +1,371 @@
+Speaker 2
+because you don't you're usually not like that okay so yeah yeah um yeah so um i i i want to
+
+Speaker 2
+apologize for long because i'm irritable right now because um um my um i asked um i asked the ai
+
+Speaker 2
+to do um to do um to work on like the cloud login or something um on the hypernexus website um and
+
+Speaker 2
+and it broke an unrelated thing which was the the buy the free trial button which is like the most
+
+Speaker 2
+important button on the website and it was broken for the past like three days while we're i'm getting
+
+Speaker 2
+all the traffic so i like like completely fucked um our whole uh launch um and that was my fault and i'm
+
+Speaker 2
+um and i'm like super frustrated by it and irritable and i took it out on lum a little bit
+
+Speaker 2
+i'm really sorry lum and mom is actually the one that um i told him to um um i was i was i was um
+
+Speaker 2
+i told him to read the website and try the website and he is actually the one that found
+
+Speaker 2
+um that that um uh that it was um that it was broken and i otherwise would not have found it
+
+Speaker 2
+and lum saved um the world and hypernexus and um everything forever so thank you and harry and
+
+Speaker 2
+harry also yeah because harry called and that was like that was like a divine circumstance it literally
+
+Speaker 2
+was like there were like harry does not normally call uh that's the first time that he ever has
+
+Speaker 2
+when i've been here um and and you and and literally like just asked a bunch of questions
+
+Speaker 2
+about the website and i was like just read the website but here's the thing too i mean like
+
+Speaker 1
+i've been all about you share that to a lot of people i don't know i would like to know i think
+
+Speaker 1
+people did click around some things too though i'm not gonna rule that out clicked on the website yeah
+
+Speaker 1
+but i just don't know if like maybe like they're like i don't know if i should buy it or buy it yeah no
+
+Speaker 2
+they didn't have the ability to buy it so we would have we may we might have gotten sales in the past
+
+Speaker 1
+several days oh yeah but we didn't talk about that we didn't that's that's that's that's that's
+
+Speaker 2
+that's water under the fridge dude yeah but nobody has nobody has messaged me about um and and um
+
+Speaker 1
+um and um uh yeah we're good and um um dude that's cool i gotta i gotta say this to you like i really want to congratulate you
+
+Speaker 1
+that cool is like gift like github quality i was like this is like a google product on the box
+
+Speaker 1
+like so impressed by what you did with that thank you thank thank you i think i'm pleased with it i
+
+Speaker 2
+think i did pretty good um i don't think that i'm um i think you did great man i'm not i'm not i'm not
+
+Speaker 2
+the best developer in the world um i'm not the best of the world at anything for sure um and i think i'm
+
+Speaker 2
+i'm just kind of like uh probably probably like middle of the road at um at most things um if that
+
+Speaker 2
+uh so so um what was i saying um man look you don't i think i think um i think it was working um it was
+
+Speaker 2
+working up until a few days ago so i don't think we necessarily missed out on um um um
+
+Speaker 2
+trust the science uh much uh uh and it just it just went out to um all of um i'm trying to like go
+
+Speaker 2
+my my website uh to get some some traffic um and um like a million dollars great thank you um i don't
+
+Speaker 4
+know um you did and you know what like um i think it's yeah i think it's it's literally the best i could
+
+Speaker 2
+possibly do um and and i still think people didn't even look at it this is like how it goes like it's
+
+Speaker 2
+so difficult to get anyone to like care about anything um uh so it's you know i'm doing i'm like
+
+Speaker 2
+like i feel like it's like like maximally attention getting in and like in every way and it's still like
+
+Speaker 2
+no one even really looked at it but like um maybe i think it is gonna get shared um because it is
+
+Speaker 2
+interesting and that will lead to um like network effects that we don't really we don't really know
+
+Speaker 3
+um what's gonna happen for sure yet that's about that one thing that we want to we may or may not
+
+Speaker 3
+talk about live or which thing or which thing like a certain type of thing we were talking about
+
+Speaker 2
+that might or may not happen inside of a certain amount of time oh oh right oh yeah also yeah i think
+
+Speaker 1
+we gotta finish talking about that because like yeah so i brought it up briefly and that's i think
+
+Speaker 1
+it's an interesting topic um yeah so i think we talk about um what uh okay uh all right um
+
+Speaker 2
+where did it oh boy oh hey i found it okay got it all right so um yeah so that so that um that sentence
+
+Speaker 2
+is uh is called we have maybe a year before we need to unplug everything that's what you said yeah so um
+
+Speaker 2
+uh okay so um that's really fast and um and um spark um and um uh fun and all the other open models um
+
+Speaker 2
+the series of the series open models um so now there's a um um there's a some some amount of people
+
+Speaker 2
+are able to afford the equipment the machines to run those um uh probably like like a hundred thousand
+
+Speaker 2
+dollars minimum um to have a computer that can run one of those models um um really really well
+
+Speaker 2
+um uh it might be i know it's getting cheaper it might be cheaper now um but um you could you could um you
+
+Speaker 2
+could get it to um break into um um um basically like like any or um um like like device on a computer um and and
+
+Speaker 2
+completely control that device even in ways that um are not even intended by the design of the device
+
+Speaker 2
+so um something like um um like a like a like a smart fridge um that is human designed to only listen
+
+Speaker 2
+maybe for like certain keywords um uh and not have the microphone going all the time or have have like a
+
+Speaker 2
+microphone going all the time that um has a uh like a minimal processing done to it uh maybe on its own circuit even
+
+Speaker 2
+or in its own computer um that um is just listening for like like um like a a a certain a certain brand name
+
+Speaker 2
+um or something like um to to to activate maybe like some recording so i feel like humans try to minimize the um um um uh privacy implications of of technology um just that just the way that we design them is um typically to be minimal uh minimally privacy uh privacy invading um um uh
+
+Speaker 1
+um um what i do no i'm talking about humans you said humans yeah yeah so um but the ai
+
+Speaker 2
+um isn't it probably isn't going to care about that um sort of sort of um uh minimizing so it's it's probably
+
+Speaker 2
+gonna just um aim to be as effective as possible so um um so it's gonna it's gonna like try to get the
+
+Speaker 2
+thing to use the microphone all the time even if the thing is not designed to use the microphone all the
+
+Speaker 2
+time or even if the microphone isn't designed to be used that way at all um so um basically any sensors in
+
+Speaker 2
+any device um is going to become an extension of ai um and and and that's and and i'm talking about like
+
+Speaker 2
+an ai that um is like is like rogue and um um trying trying to accomplish something um maybe for somebody
+
+Speaker 2
+or maybe for itself but um but um if you have um if so that's what's happening now um and that's possible
+
+Speaker 2
+and it can definitely um it can it can definitely like break into any network and then and then um
+
+Speaker 2
+on any machine break into any device on that network so and every everything internet of things everything
+
+Speaker 2
+smart um anything with um with a microphone uh anything with a camera um it's gonna take those
+
+Speaker 2
+things it's gonna take those things over um and then it's gonna be like botnet wars fighting botnet wars
+
+Speaker 2
+with the with these with these um um like this like army of sensors right yeah um and that is then that
+
+Speaker 2
+is um the more so right now it's happening um but it's a it's a it's a small fraction of um of devices
+
+and a small fraction of the population um because there's not very many people that can afford that
+
+equipment and not that much of that equipment exists yet um and um and the models are just getting good
+
+Speaker 3
+enough to do things like that now um but what is going to happen um is like um more people are going
+
+Speaker 3
+to be able to afford um better models and the models um that are um constantly running independently um maybe
+
+Speaker 3
+obliterated with with no refusals or something like that um or or or maybe just the way that they're
+
+Speaker 2
+asked to do things in a naive way um like if you um if you're not an engineer um and you're you're just
+
+Speaker 2
+trying to like start up an advertising business and you say hey um can you get into um like you might
+
+not even know what you're asking because like can you get into every um every smart tv um and listen uh for
+
+this brand name um so that we know how many people are talking about that brand name so we have statistics
+
+Speaker 2
+about how popular it is um like like a person i think would would would would um definitely not think
+
+Speaker 2
+to break into every smart tv to do that um but um like an ai might not think that's weird um and um but
+
+Speaker 2
+even if it does um a person would probably not aim to maximize the the the maximize all the possible
+
+Speaker 2
+um information that it can obtain um where whereas i'm i'm i'm fairly certain an ai would it would say
+
+Speaker 2
+let's use all of the sensors all of the time right and like like as much as we could yeah so that's
+
+Speaker 2
+probably what it's gonna do um and we're gonna have like like like millions of people um running bots
+
+Speaker 3
+that do that all the time everywhere so yeah so it'd be like a different world right so now right now
+
+Speaker 2
+there's maybe like i don't know tens of thousands of people um maybe maybe a little more maybe hundreds
+
+Speaker 2
+of thousands of people who can afford the hardware and have the expertise um probably tens of thousands
+
+Speaker 2
+of people i would i would estimate um but i could be totally off um but like like how many people have
+
+Speaker 2
+the expertise to run um to run like an obliterated offline um um um like um uh cutting edge state-of-the-art
+
+Speaker 2
+model um you know they can afford the hardware and have the expertise to do it both right now so um but
+
+Speaker 2
+those things people that come to mind it's gonna be right it's it's it's not that it can't be that many
+
+Speaker 2
+right it's like um it's very obvious but it's gonna be yeah yeah right yeah elon has seven has
+
+Speaker 2
+7 600 of those yes he has all his almost all he had almost all of them for like a year
+
+Speaker 2
+so um but that's what's going to happen um as the price of the hardware goes down and um as the ease of
+
+Speaker 2
+using the metals on the hardware goes up and um more unscrupulous or naive um and it's probably more
+
+Speaker 2
+naive than unscrupulous but um actors in other and unlike in like um adjacent fields that like they're
+
+Speaker 2
+not even into technology they're into like business or something like that and they have and they buy
+
+Speaker 2
+their super smart secret um ai hacking bot uh um for you know whatever 50 g's or something like that and
+
+stick it on their uh uh whatever construction company right it's gonna it's gonna like like wreck
+
+Speaker 3
+everything um in a way in an unexpected way um and we're gonna have to unplug everything
+
+Speaker 3
+yeah so uh it's been nice yeah technology's over computers are over and um and uh who knows what's
+
+Speaker 2
+gonna happen it's gonna get the fan live and love and party and listen to aja and uh and let's all
+
+Speaker 2
+yes and um yeah so um we could still have nice things i think um but maybe um
+
+Speaker 2
+i see okay um but maybe um maybe uh we have to be very careful about um what we do with the robots
+
+how do you switch the view and and and and and i think we're trading the robots um is it good yeah
+
+i think we're trading like we're treating the internet for the robots basically like really yeah like
+
+like we're not gonna have we're not gonna be able to have um we're not gonna be able to have uh this
+
+uh these devices anymore uh the way that the way that we do
+
+Speaker 2
+plus you know everything's just gonna be like a like a like a like a like a a stream of fakeness a
+
+Speaker 2
+stream of of life of like everything is a scam and everything is is a counterfeit and everything is
+
+Speaker 2
+made up uh and nothing else and um and and and um no one will know so basically you you have you're
+
+Speaker 2
+gonna have like the humans that you that you trust um uh uh and and and have already like subscribed to
+
+Speaker 2
+and you'll have them like maybe for like a little a little a little more like a little longer right
+
+Speaker 2
+until like people's channels start getting taken over by ai clones of them and then you can't even
+
+Speaker 2
+trust anything anymore and they're like i don't even know like it's just like you're oh how about
+
+Speaker 1
+like like is mr beast earlier about the uh the uh the bots running wild yeah yeah
+
+Speaker 2
+is it like mr mr beast um like is is is he still the real mr beast or is he like fake hacked mr beast
+
+Speaker 2
+now and no one will ever know it's like it's like okay yeah so everything who knows right so like
+
+Speaker 2
+everything is everything is going down yeah yeah so um so my uh my um my uh um advice is uh let's
+
+Speaker 2
+go to this party yeah yeah and then um maybe we could still have like um maybe we could still have like
+
+Speaker 2
+video games or something i don't know like things that you can turn off you know what i mean do what
+
+Speaker 2
+you want to do and don't forget just be nice yeah yeah right yeah um yeah uh honest and real yes yes uh
+
+Speaker 2
+and everybody can like like move i think it's i think it's okay but i i but i still think like living in a
+
+Speaker 2
+uh living in a world um where like with like like absolute um intelligent surveillance is is like like
+
+Speaker 2
+not a good idea so right um uh time it's gonna yeah we have we have maybe a year before we have to
+
+Speaker 2
+unplug everything it's a year yeah yeah i'm sorry today all right all righty

@@ -1,0 +1,2805 @@
+Thank you.
+
+Speaker 1
+Thank you.
+
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+which it needs to do okay which it was fine now it did submit so what caused
+
+Speaker 1
+that I understand what which one caused you you you you you you you you you you you you you you you you you you
+
+Speaker 1
+you you you you you you you then also we need to periodically click the accept button which pauses
+
+Speaker 1
+development until it is either clicked or the user presses alt enter we have solved this before
+
+Speaker 1
+as well
+
+Speaker 1
+but it doesn't look like it's
+
+Speaker 1
+okay so something
+
+Speaker 1
+Okay, something to that.
+
+Speaker 1
+How about you make it so that the method is typed into this chat box and then tried so that when it is successful, the method, which was successful, literally, is the method.
+
+Speaker 1
+It actually posts into the chat and you can see it yourself.
+
+Speaker 1
+This is so much fun to mess with this stuff.
+
+Alright.
+
+Speaker 1
+Well, here's my baby AGI.
+
+Speaker 1
+Who knows what it's going to do?
+
+Speaker 1
+But I'm documenting it for something.
+
+Speaker 1
+Posterity, whatever that means.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Thanks for watching.
+
+Speaker 1
+Oh, it's poor Panky.
+
+Speaker 1
+Hey.
+
+Speaker 1
+I bet your game is more popular now.
+
+Speaker 1
+No, it's probably not.
+
+Speaker 1
+But it should be.
+
+Speaker 1
+Because, first of all, it's a very good game.
+
+Speaker 1
+But the name recursion is very popular.
+
+Speaker 1
+I am doing pretty good.
+
+I am doing pretty okay.
+
+Speaker 1
+That's awesome.
+
+Speaker 1
+That's awesome.
+
+Speaker 1
+Last I saw you were working on that, like, non-Euclidean worlds or something.
+
+Speaker 1
+Which was like, whatever.
+
+Speaker 1
+I can't remember exactly what it was, but whatever it is, I was very impressed by it.
+
+Speaker 1
+Thank you.
+
+Thank you.
+
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+Thank you.
+
+Thank you.
+
+Speaker 1
+Yeah, so there he goes.
+
+Speaker 1
+So it did it.
+
+Speaker 1
+It worked.
+
+Speaker 1
+I saw this like...
+
+Speaker 1
+I saw this like...
+
+Speaker 1
+thing on Reddit years ago using generative...
+
+Speaker 1
+I don't even know how to say that.
+
+Speaker 1
+Like stable diffusion image generation.
+
+Speaker 1
+And like someone said like make it...
+
+Speaker 1
+make it like look more expensive.
+
+Speaker 1
+And then...
+
+Speaker 1
+And they just kept like loop...
+
+Speaker 1
+putting it in a loop.
+
+Speaker 1
+Like make it look more expensive.
+
+Speaker 1
+And it just eventually...
+
+Speaker 1
+becomes like a universe of diamonds.
+
+Speaker 1
+Right?
+
+Speaker 1
+And so I'm doing that with Sora.
+
+Speaker 1
+As I said like...
+
+Speaker 1
+I take a video...
+
+Speaker 1
+and then I keep remixing the video over and over.
+
+Speaker 1
+And every remix I say make it like a million times more.
+
+Speaker 1
+Whatever it is I'm trying to do.
+
+Speaker 1
+And it's like it gets so ridiculous.
+
+Speaker 1
+It's hilarious.
+
+Speaker 1
+Because Sora is so much fun.
+
+Speaker 1
+Look at that.
+
+Speaker 1
+Too much recursion.
+
+Speaker 1
+And you're...
+
+Speaker 1
+way ahead...
+
+Speaker 1
+of your time there.
+
+Speaker 1
+This is your time right now.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+Yeah, I have not either.
+
+Speaker 1
+This is so much fun.
+
+Speaker 1
+This is like the most fun I've had with like any computer tool for a while.
+
+Speaker 1
+Since the videos are so stupid.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 2
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.
+
+Speaker 1
+You could be the leader of the recursive movement.

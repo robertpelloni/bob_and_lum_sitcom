@@ -1,0 +1,431 @@
+Speaker 1
+Cerebrus gets one, but how many chips does a standard CPU get from the wafer? How many
+
+Speaker 1
+chips does AMD get out of a wafer? How many chips does an AMD wafer get out of a processor? Correct? How many AMD processors? It's going to fuck it up. Let me just back it up. I don't want it to be right. I don't want to confuse it.
+
+Speaker 2
+But it probably already knows what I just put in there. Okay, you ready? Yeah. Okay, how many AMD processors do they normally get from a wafer?
+
+Speaker 1
+I always see the reddit reddit. Oh my boy. From a standard 300mm silicon wafer, a company like AMD typically gets anywhere from 60 to over 700 processors. So that's like a lot of models. Out of a single wafer, depending entirely on the type of chip they are making, right?
+
+Speaker 1
+Okay, so like one can make probably 700. One can make... Wow, yeah. That's pretty cool, man. Okay, so it says, unlike Cerebrus, which uses the entire wafer as one signal piece, AMD cuts their wafers. It's a small individual squares called dyes. Isn't that the type thing you were talking about, Loans? It's like dyes. Yes.
+
+Speaker 1
+The exact number depends on how AMD builds their modern processors using a chip width design. Wow. Instead of making one huge expensive piece of silicon, they carve out smaller, highly efficient mini chips called CCDs or core complexes and stitch them together on a circuit board layer.
+
+Speaker 2
+So what? How did they even do that, man? Like, how... They cut the chip into pieces. Okay. And then make the pieces separately and then wire them together. Oh, so it's like a separate component. And then they know where it goes and then they put it together. Yeah. And so they can... It's like more reliable or something. Okay. Wow. Wow, man. That's cool.
+
+Speaker 1
+So it says, like, so it says, like, consumer desktop chips. Example, Ryzen 5,000, 7,000, 9,000. What? I was thinking, like, oh, they probably have a model, like, right here, where they're, like, 700 processors. Now they have, like, the consumer desktop chips, okay? From Ryzen, 5,000, 7,000, 9,000. Yeah. Like, I don't know. Yeah. Maybe it's funny, dude. But those are so many different models. Yeah. Okay.
+
+Speaker 1
+What's on the wafer? Small 8-core CPU chiplets. What are those, man? What can we do with those?
+
+Speaker 2
+I mean, uh, AMD... Chiplets. Yeah. That's like AMD's, AMD's design. I don't know.
+
+Speaker 1
+It fits the... Wait a minute. Total pieces and... What? Use tiny 8-core chiplets, but pack many of them into a single product package.
+
+Speaker 1
+What? Silicon Valley, right? But, like, I think they're, like, maximizing... They're pretty efficient, dude.
+
+Speaker 1
+But, like, I feel like... Maybe I'm not understanding how it works, you know? But I kind of do.
+
+Speaker 1
+Completely... I just think of... There's a way to power these to, uh... Maybe, like, have the light...
+
+Speaker 1
+Hit it a different way multiple times. Because, like, each one has data, right?
+
+Speaker 1
+Can you put... Like, what does a chip do? Like, where does the data, like, the memory go? Like, on a...
+
+Speaker 2
+So, it's essentially... It's essentially an electronic version of the mechanical calculator.
+
+Speaker 2
+Oh, okay. So, you put... So, you take a... A number... And then an instruction... And then another number... And then it, like, calculates that.
+
+Speaker 2
+So, like, so, like, if you want, like, to add two numbers together... Okay. So, you put a number in register one... And then you put a number in register two... And then you set it to addition. And then turn the crank... And then... And it cranks out the number for you. Okay. So, you don't have to do the math on paper.
+
+Speaker 1
+And then, like, just, like, complex mathematics and those strings, right? That you were talking about. Yes. And, like, that's what the AI would be great at. Like, taking, like... To that next level to see how...
+
+Speaker 1
+It can use other... Mathematical, simple... Like, incorporate everything into it, you know? And, like, and see if there's any other way to bend or...
+
+Speaker 1
+Stack or... I don't know, like... Or maybe even to present that light in a different kind of, like... Arrangement of stencils that already have, like... Whatever it's transmitting, right? The data? Like, what is it transmitting when it hits the chip?
+
+Speaker 2
+It would never finish. The light. What does that do? Oh, so... So, they coat the... They coat the silicon with... With... With... With... That high... Like, like, for the... When the light hits it, it protects it, right? Yes. Yes. But then it, like... It... It hardens. And then... And then... Yeah, yeah, yeah. And it pushes that left side. And then the rest of it... The rest of it gets washed off with acid or something. Okay. Okay. Okay.
+
+Speaker 1
+And so... And it leaves... It leaves just the... The power coating or, like... The stencil. Yeah. Yeah. I've seen that. But, like, now... You've said this to me before, but I'm asking now because I... What... You know, when the light hits... Hits it. Like, where... What is it doing? Like, essentially, like...
+
+Speaker 1
+How does that whole thing work with the memory, the chip, the silicon printed chip... Yeah. Right? How... What does that do? Like, how... How does the electricity or whatever...
+
+Speaker 1
+Work to read, like, what's on that chip? Work to read what's on the chip? Yeah. Okay. So... It's... It is... It's an... It's an electronic version...
+
+Speaker 2
+Of... Of... Of... The same mechanical levers... Of the mechanical calculator.
+
+Speaker 1
+But, like, it just has different designs from, like, different stuff. Like, people who, like, wrote, like...
+
+Speaker 1
+Like, Microsoft... Or, like, different code. And... No, no, no, no. It's... It's just the calculator machine.
+
+Speaker 1
+So... It's just there to, like, process whatever you input.
+
+Speaker 2
+It... It... It calculates numbers. That's it. Yeah.
+
+Speaker 1
+And everything's numbers. Yeah.
+
+Speaker 2
+It... It is literally an... It is literally a math machine. It's a calculator.
+
+Speaker 1
+It's fucking sweet, man. I mean, I didn't know that.
+
+Speaker 1
+I did, but I... I kind of, like, think about it at a different...
+
+Speaker 1
+Like, 'cause, like, with a design like that, I was thinking about, like...
+
+Speaker 1
+It came about, like, through different levels, Bill. Like, with, like... Especially... When was it? Uh...
+
+Speaker 1
+A couple weeks ago, when we had... I didn't even get a chance to finish talking about the Connect.
+
+Speaker 1
+Saying that you had the idea that you could... We, like, we were sitting right here.
+
+Speaker 1
+Yeah. And, like... Your vision. Oh, right. Yeah.
+
+Speaker 1
+Oh, my God, man. Yeah. Yeah.
+
+Speaker 1
+Yeah. That, like, really, like... Made so much sense, because you explained to me that technology.
+
+Speaker 1
+Yeah. And, um... I was always fascinated with, like, what you did in... With Alex over there in California.
+
+Speaker 1
+Yeah. And, like, it just made me think, like... Instead of having screens, and, like...
+
+Speaker 1
+Well, you had screens, but we could, like, maximize them, like, have a different, like, computer experience.
+
+Speaker 1
+You know? Through, like, different technologies like that.
+
+Speaker 1
+But, like, we're always compressing things, right? Like, from what I get from it, like...
+
+Speaker 1
+Isn't there a way to, like, technically make something smaller... And, like, way more powerful by stacking it, right?
+
+Speaker 1
+And, like, having the... The whole... It's like a new... You're always gonna probably have hardware, right?
+
+Speaker 1
+Unless, like, there's a way to, like, not have hardware. Right?
+
+Speaker 1
+Like, there's always gonna have something. Yeah. Like, you need power. Right.
+
+Speaker 2
+And, like, um... Well, the limit is us. The... That's it. We're the limit.
+
+Speaker 2
+Okay. How? That's the... We're the technology limit.
+
+Speaker 1
+Man, we just, like... We are? Yeah.
+
+Speaker 1
+So, like, why don't we just do things differently with what we know we have, and, like, make things work together?
+
+Speaker 1
+Like, Elon's probably wanted to do that. With, like, what can we do with, like, if we came up with a new hardware
+
+Speaker 1
+that's so much smaller and efficient and, like, somehow figure out how to give it way more memory, you know?
+
+Speaker 1
+And, like, to make it more powerful through our cell phones and, like, stack... Maybe, like, we could do that by making this, like, these devices a little bit more powerful by stacking those chips, right?
+
+Speaker 2
+And, like, making them work at a different... Yeah. Let's assume we can do that. Let's assume that we can implement anything that you say.
+
+Speaker 2
+Okay. Yeah.
+
+Speaker 2
+So, don't worry about the hardware and don't worry about the software. Don't worry about how it's gonna work.
+
+Speaker 1
+Yeah, I think, like, if we could have something like that, like, that's what I'm asking, like, can it be, like...
+
+Speaker 1
+How does that... How does this... Like, kind of like how, uh... I just wanna know, like, how can... What I wanted to ask you was, how can...
+
+Speaker 1
+Elon's supercomputer with all those decks... Power things, you know? What kind of energy... Is needed?
+
+Speaker 2
+To power that? Yes. That's a lot. Yeah. Yeah, it's a lot. So, he has, he has those, he has those, like, those giant, like, natural gas turbines...
+
+Speaker 2
+Yeah. Running... Yeah, I get it. Yeah, he had to install his own, um, power plant.
+
+Speaker 1
+And that, like, runs a lot of shit, you know? Yeah. So, like... With memory and, like, a way to... Like, when you put... How does the internet work with that? Can you explain that?
+
+Speaker 1
+How does the internet work with that? Yeah, like, uh... Like, this connection that I have here, right? Yeah. And it's, like, this device. Yeah. Yeah, how does that work? How does it work? Yeah. Um, so it's a... So it's a radio signal.
+
+Speaker 2
+It transmits, um, it's, it's, it's, it's light. It transmits light waves at a frequency... Again. Like, it's a super... Invisible, yeah. It, um, and, like, radio waves are light. Yeah. And sound is light. Like, everything is, everything is light.
+
+Speaker 2
+Is ultraviolet faster than that? Why is that transmitting thing? Okay, I don't know if that's... Wait, sound is... I don't, no, sound... I don't think sound is light.
+
+Speaker 1
+No, that's why I'm asking you that. I'm sorry. Like... Oh, maybe it is. I'm just asking, like, is it... Maybe it is. Is the ultraviolet... I think it is. ... faster than this, like, signal? The radio signal?
+
+Speaker 1
+Ultraviolet? No. How they, like, how fast, like, that radio signal is, like... Maybe it's not, 'cause there's a lag all the time and it's not perfect. So it can be broken quickly. Like, this internet signal.
+
+Speaker 2
+Um, I know, like, they're, they're, they're very large waves. I know that. Everything's a wave. Like, you're, you've taught me a minute. Yeah, right. So, and, and the waves are invisible.
+
+Speaker 2
+And they go through everything. Yeah. Until they're into the, into the visible spectrum. And then, you, and then, then they, they start bouncing.
+
+Speaker 1
+Like, the narrow network. Like, all the time, those dots that you, you're talking about. And, like, the connects. Like, that technology. You know what I mean? Is, like, sensing your body, right? Like, and your movements. You know what I mean? So, like, if you could, like...
+
+Speaker 1
+If we could come up with, like, this different hardware that has, like, really good memory and it's fast and, like, can be, like, powered by anything that's, like, efficient. You know what I mean? Like, with Elon's, like, different, like, ways of power. Every kind of way of power. You know? Like, the, like... We gotta... make a...
+
+Speaker 1
+We gotta, like, get rid of the keyboard. Maybe. Like, in an aspect. I think, like, it should always be around because I love the keyboard so much. I don't know. But, like...
+
+Speaker 1
+With the way... What triggered me, too, is this, with that. Uh, the... I don't know who came out with the test about the Gen Z not. Like, they're just learning different, dude. They're learning different. And, like, we're becoming... We already see, like, we can, like, talk.
+
+Speaker 1
+Talk. You know? And, like, it... Talk text. You know what I mean? Like, I just think that... If we can develop something that takes, like... Your hands. You know what I mean? It's, like, nothing to do with your...
+
+Speaker 1
+Your brain and, like, use that technology to, like, pop up your desktop user experience anywhere. You know what I mean? So, like, maybe it has, like, a built-in, like...
+
+Speaker 1
+Kind of, like, a Raspberry Pi projection thing on the back at the same time. But I was thinking about Alex's technology, too, because, like...
+
+Speaker 1
+I still don't even know how that works. You know? With... In comparison to... Um...
+
+Speaker 1
+The connection of getting to that projection with his... Whatever, like...
+
+Speaker 1
+He's running, you know? And what he's seeing. Like, what kind of chip is he running there? Is that an Apple?
+
+Speaker 2
+Yeah. So, it's the same chip that's in the iPhone. So... It's the same one? And the same one is in the...
+
+Speaker 2
+In the Macs now. Okay. They put the... They put the iPhone chips in the Macs. Wow.
+
+Speaker 2
+It's, like, all the same chips. That's amazing. Yeah. I mean, the iPhone's one... The iPhone ones are, like, are, like, slightly gimped.
+
+Speaker 2
+They're, like, the A series versus the M series. But it's all the same chip now.
+
+Speaker 1
+Wow. So... He's on his, like... So, okay, like... Whatever he's on right there, what is he connecting to? Or is that his computer?
+
+Speaker 2
+That's his computer. Is it? Yeah, I think it... He syncs it with his Macbook or something.
+
+Speaker 1
+He does. Yeah, yeah. There's a way to sync it. Yeah. So, we could sync our, like, new desktop to, like...
+
+Speaker 1
+Your phone, but, like, you can, like... Sync it... You could, like, pull it up is basically what I'm saying.
+
+Speaker 1
+Like, a new interface broke through Kinect technology and, like, some kind of projection, like the Raspberry Pi, which it's all connected.
+
+Speaker 1
+And you can, like, totally talk to it and see, like, what's going on and control everything that way.
+
+Speaker 1
+Like, you know what I mean? But you could project it maybe through your phone or, like, some kind of wearable, like, Alex has.
+
+Speaker 1
+Or, like, even something more fashionable, like the Ray-Bans or, like, the Meta glasses that, you know, I always was talking about.
+
+Speaker 1
+Like that, dude. Like, boom. You know what I mean? Like, you're already wearing, like, Apple already has, uh...
+
+Speaker 1
+They already did a good job with the... What are those called? The Earpads? I... These... I... I don't know.
+
+Speaker 1
+Yeah, AirPods. Yeah, they did a great job with that. But, like, can we, like, take something that's small, even...
+
+Speaker 1
+Because it has a built-in projection. It has way more memory. And it can connect with other devices to be even more powerful.
+
+Speaker 1
+You know, like the fucking AMD way. Okay. So we gotta find a way to, like, make it more powerful and to be able to, like, stack.
+
+Speaker 2
+I see what you're saying. So, so, like, so, like, all of your devices would mesh together with their...
+
+Speaker 1
+It would stack it all the way to Elon's fucking, uh... With their, like...
+
+Speaker 2
+Super computer.
+
+Speaker 2
+...computing power. Yeah.
+
+Speaker 2
+...wirelessly. Yeah.
+
+Speaker 2
+Working together to do all your compute. Yeah. Yeah. Yeah. Yeah. That's great. That's a great idea. That's...
+
+Speaker 1
+No more keyboard, though. Like, no more, like, floppy disks. DJ floppy disks. You know? Like, it's... It's all cloud, too. We're all cloud. Like, at a certain point, yeah. We need the cloud, right? But, like...
+
+Speaker 1
+I see a way where we can power these devices as well. And, like, kind of like a Unity. You know what I mean? But, like, what would it take for that? And, like, how can we, like... You can project from your phone. You know what I mean? Like, what does that do for apps? You know what I mean?
+
+Speaker 1
+Like, you can project your app on the fucking thing. Just like your desktop computer experience. Yeah. This is what I'm saying. You have... You have... You have... You have... You have...
+
+Speaker 1
+You have... You have... You have everything in one, dude. Like, you don't need it. And it's, like... You got, like, fucking... HyperNexus fucking dropping tools to whatever fucking AI you got connected to your experience. You know what I mean? Like, I really fucking respect that because developing that CRM, man... Fuck. I didn't think I could... I didn't know what was gonna come out. Fucking... But I threw your... I said, I want...
+
+Speaker 1
+HyperNexus to be the hardest soul of it. And I fucking did it, dude. And, like... It only gave me some basic shit at first. And, like, you saw that. But, like, then I... I went back. And I didn't tell you the other results. I'll tell you. Like, it's... It's crazy, dude. Like... And that's what became of the other, like, ways to, like, see how good HyperNexus is. Okay? That was really good. I... I want to show it to you tomorrow. But, um... For this technology, though, you see that. The stacks. That's...
+
+Speaker 2
+That's really important. But, like, just a whole new computer experience in general. Yeah. You're... You're... You're literally, like, blowing the minds of the entire computer industry. You know. Yes. You are. I mean, look at DJs. You know? Yeah. Yeah. Like... Like... Like... Like... You... You have a vision that is unique. And it's... And it's very important. We really do that, though, can we? Yeah. With... No one else thinks of those... Like... Ideas like that. It's, like, really... And then, like...
+
+Speaker 1
+Like, you can even ease people into it. And you still have a market for it. Right? Like... Because everybody is, like... Needs, maybe, their phone. And they're so used to the, like, keyboard and everything like that. Right? But then, like... I don't know. I just... I just feel like it would be so much easier.
+
+Speaker 1
+But you can also offer, like, things that give people that security of seeing how the technology works. Because I've always had a problem with that. You know? And I think that's what, like...
+
+Speaker 1
+Like... People need to, like... Have that... A transition. You know? Like... Some people get it. You know what I mean? And, like... How do you present it to people for everybody to, like...
+
+Speaker 1
+Understand how to use it? That's the thing. You can't just give people, like, one way. You know what I mean? So, like... What I'm saying is, like...
+
+Speaker 1
+You release the hardware, like, you release the hardware, okay? And, like, you connect with your phone. And, like, you're projecting. And, like, we're doing apps in a different way now. And, like...
+
+Speaker 1
+It's just, like, a different experience, man. Like, when you can, like, just, like... Take it off of your phone or, like, your desktop. And, like, put it anywhere you want. Through your phone. Or, through...
+
+Speaker 1
+The new desktop. That has the Kinect technology that knows what's going on with you. And, it can even benefit your health. It can benefit... Like, you get a full read. And, like, connects to, like, fucking, like, doctors. Or, like, whatever. Dude. Right there. Popped up. Right there. You know what I mean? Like... Or, like...
+
+Speaker 1
+You can even be, like... Hey! My weed dispensary person. I love you. Here's five dollars. And, then, you can transfer money that up quickly. So, like, a... You're saying, like, a visual...
+
+Speaker 2
+But, you can do it like this, like... Social connect. Like, a visual social connect. Yeah, dude. Maybe. Yeah. I don't know.
+
+Speaker 1
+I'm just saying, like... What I'm saying is, like, replacing the... The standard, like... Missionary... LCD screen that's bulky. That everybody, like, tries to, like, make look good. Right? But, it's just this big square.
+
+Speaker 1
+Like, why don't we just take, like... That... You can either, like, paint the video... Like, your desktop experience as a circle or triangle. However you want. Like, however you want it. Or, like, arrange apps on the...
+
+Speaker 1
+Wherever it's projecting. That you touch. And, like... Could you imagine, like, face chatting that way? Holy shit. Dude, through Connect? I don't know, man.
+
+Speaker 1
+That's pretty cool, I think. But, like, stacking it and, like, being able to do... Everything. I think that you would need to do in the digital world.
+
+Speaker 2
+Yeah. But, like, that's getting a little bit ahead of ourselves, right? No. I mean, whatever... Whatever vision you have, describe it the best that you can in as much detail as you can.
+
+Speaker 2
+Okay. Because I got a little off topic with the chips. That's okay. Yeah. It doesn't matter. It's, like... You don't have to know everything about every technology that is used to build your vision.
+
+Speaker 2
+And the vision itself. Just describe it the best you can with the words the best you can. It doesn't really matter.
+
+Speaker 1
+So, these are almost as good as, like, the laptop. Like, these are almost as good... These are, like, the laptops, right? Yes.
+
+Speaker 2
+Oh. So, why do we have laptops? They're still, um, higher... They can put higher power chips... Chipsets in them. Chips. Um...
+
+Speaker 1
+What if we turn the laptop into the fucking new, like, box that has... That's what Apple did. Okay. Yeah. Yeah. I don't know. But, like, I'm talking about with... Without the screens and shit, dude. You know what I mean? Yeah. And, like, connecting through various other ways. Yeah. And being able to, like, have that... Instead of, like, a laptop with a screen and everything, like... That's a lot of, like... I feel like you could...
+
+Speaker 1
+Like, you could make it more powerful by, like, stacking... Maybe making these, like... Isn't, like, two better than one? AMD has proven that. Like, with the stackable things. You know what I mean? So, like, can we... Get rid of the laptop, maybe? I'm just, like, very, like, going fringe right now, dude. But, like, the laptop... That's more powerful than this, right? A little bit. Like, it has a different chip, right? Um... Yeah.
+
+Speaker 1
+So, this is essentially as powerful as a laptop. Yeah. As powerful as the laptop was, like, five years ago or ten years ago. Okay. So, not too long ago. Not too long ago, yeah. So, like, what is, like, in these laptops that make, like, more powerful than this phone chip? Um... They can just run...
+
+Speaker 1
+They can run it hotter, uh, with more energy. Okay. And, like... Oh, those laptops are, like, what, this big? Yeah. Yeah. So, like... You could probably, like, get rid of, like... You could compress that, right? And, like, add double the power...
+
+Speaker 1
+To run this new hardware... This new, like, desktop vision thing, right? Where it's just, like, a small hardware cube. You know what I mean? So, that would be a desktop CPU...
+
+Speaker 2
+Is, uh, is, like... A desktop computer is, like, the highest power usage...
+
+Speaker 2
+Right.
+
+Speaker 2
+...intil... But then, there's also, like, then data center racks, which is, like, that...
+
+Speaker 1
+You could connect to them, right? Right. So, uh...
+
+Speaker 2
+So, that's what... Yeah, I think that's what they're...
+
+Speaker 1
+I think that's just making it easier to connect to the data center for that power and for the new experience through, like, a little black box, maybe. You know? That... I don't know what kind of chips you would put in there. What kind of... How you would, like, do the memory. You know? How that would be. But I always resort back to, like, what AMD did with the Spark. Because it's just fascinating how you can stack those like that. And, like, maybe get more power. You said it's not that much more, but...
+
+Speaker 2
+Yeah, I mean, you can, you can chain them... Chain them? Chain them? Well, cluster them, chain them, whatever. That's what I want to say. To have more memory. But it's... The link between them is slow. So the... So the... The end result is the late... The speed of the model is not very good.
+
+Speaker 1
+Okay, so we don't, like... I feel like if you add another chip that it could be, like, for, like, your gaming experience or something and it would be so badass. Like, if you have, like, these stacked chips, you know, in a compressed fucking... Like, uh, hardware.

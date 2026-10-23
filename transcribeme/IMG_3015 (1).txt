@@ -1,0 +1,704 @@
+Speaker 1
+Okay, so we were talking about Rust. Yeah, man. Mozilla. Okay, yeah. So Rust. That's so fascinating. Yeah. So because of Mozilla making that programming language, that's the programming language that the AI is best at doing. Okay. It's like it can. It ain't all the other ones, right? Like you said. Yeah. It's like really good at building stuff in Go and Rust. Okay. Go and Go.
+
+Speaker 1
+So they have different properties. So like Rust is more like... Efficient? Efficient. Optimized? Yes. Better at everything. Yes. Rust is very, it's like very, very efficient. Yes. It's optimized. Sounds like it's the best choice. Whereas like Go is like loose and like floppy.
+
+Speaker 2
+Kind of like the project Gavin Wood did with Polkadot, the cryptocurrency. Yeah. So they have like, that's a beautiful project, you know, with the fairies hands and like how the blockchain works. But then they have like the abstract one called Kusama, you know, where it's just all loose and like just wild dots and like cool computer like cryptography and coding developers coming together to like...
+
+Speaker 1
+Like take that and do it a different way. You know? That's amazing, dude. You know? Yeah. And it's like, rust and go. Right? Yeah. All right. Let's go back to the... Play the next part of the other thing.
+
+Speaker 1
+Because I'm going to make sure... Yeah. Because like we like talked about a lot of things, man. Like... Yeah. I feel like it's important for us to like cover certain, certain technology bases like...
+
+Speaker 3
+Like I love them. I love that guy and I love the Linux guy too. He's just such a boss. Yeah. He's just... He's arrived at so many different levels, dude. Yeah. Like so many. Yeah. That we... That I think we understand. But like...
+
+Speaker 3
+Like... It is really like... How do you... You... Similar to what you have went through. But like... Wow. You know? I'm just amazed that like... I would have never thought about this...
+
+Speaker 3
+Without you, dude. And I really appreciate it. Because it's opened my life and my mind up to...
+
+Speaker 3
+Just how awesome and amazing we could... Things we could do with technology, dude. Like... The stuff that you've done and like dedicated yourself to gives me so much freaking motivation, dude. Because like...
+
+Speaker 3
+I know the truth. I know like what you've been through, man. You know? And you know mine. And that's so fucking special to me. So I'll play this. All right. Yeah, man.
+
+Speaker 4
+Okay. I think you wanted to say 100% better at coding than humans. But you said 90%. So at least 10% of the human population that is smarter than the AI at coding right now. So what does that tell you?
+
+Speaker 4
+The AI is better at... But the AI is better at... Like sophisticated... And complex genes... Of... Okay. Of like... Really, really abstract... Oh my gosh. Oh my gosh. Hold on.
+
+Speaker 4
+I know. That's so amazing. Yeah. Okay. Wow. Okay. And like...
+
+Speaker 3
+He also slipped in there... There's a six. So... Is that exponentially getting smarter? Or like... What? Is it just a different version? I don't know, man. He's got like that hardware.
+
+Speaker 1
+Yeah. So Elon Musk has... Well, yeah. He bought... He has like all the machines. He has all the AI... All like the giant refrigerator computers that you need to run Mythos.
+
+Speaker 1
+Yeah. Like the 10 trillion models. Like he has them all. So he could... Elon Musk could like easily hack all of the banks and take all of the money. Yeah. Easily. Easily.
+
+Speaker 1
+They've already tested it. Like with that Mythos, right? The 12 largest companies. So he's already proved it. Yeah. There's no... Yeah. Like Elon Musk won. Elon Musk won everybody. Like for sure.
+
+Speaker 3
+Like what we've talked about before in my journey with you and like... I always liked Elon Musk. He's great. He's amazing.
+
+Speaker 3
+Like how cool this guy is. I mean he's on a podcast with Joe Rogan smoking fucking weed. No. I'm being a cool man. Like down to earth, bro. He probably clubs like...
+
+Speaker 3
+He's fabulous. Like wicked style. You know? How do I look, honey? You know? Like he could do that because he's the fucking man. Right? Right? Right. Like oh. Right.
+
+Speaker 3
+He could fucking wear makeup if he wanted to and still be the coolest motherfucker in the world, dude. Yeah. Yeah.
+
+Speaker 1
+I mean like... How are we hating on this motherfucker? How are we hating on this motherfucker? How are we hating on this motherfucker? How are we hating on this motherfucker?
+
+Speaker 1
+Elon Musk, you have to get fucked by black eyes. Oh my God, dude. Do whatever you want to do, Elon. Don't give a fuck. You're allowed... Like you're cool, man. Oh my gosh. I think like...
+
+Speaker 3
+Those Waymo vehicles are fucking funny. They're great. Every time we go downtown, we always see that Waymo thing, right? Right? Right. Right. And like we talk about that and I'm like...
+
+Speaker 3
+I'm like...
+
+Speaker 3
+Like so fascinated with the Tesla's technology, dude. Yeah. Yeah. And like...
+
+Speaker 3
+Tesla's... Tesla's definitely one on that. Like... So like... He's so... Like... Okay. For X-ing out those two models, the luxury... I... You know, the... What is it? The X? No, the Y? The X... No, the Y is the...
+
+Speaker 3
+The X in the three? S or something. I don't know. But the two higher end ones. Yeah. So they only sell the... The luxury sedan. They only sell the...
+
+Speaker 3
+What? The... The Y and the three? Yeah. Like... Yes. Okay. So...
+
+Speaker 3
+And where everything's at. And that's why I just asked you about like... This like...
+
+Speaker 3
+This like... Vision I have. You know? About like... His power. And like... Making the new... desktop and computer experience for everyone. Yeah. You know? That's like... Super fucking efficient. I think we can... Like... Put that together. Yeah. You know? Yeah. And...
+
+Speaker 1
+So you have... You have a unique vision for that. That is... You say that. That... I'm telling you... That's true.
+
+Speaker 3
+That's true. No one has that vision but you. Okay. So like... Everything we've learned about the neural network, man. Yeah. Okay.
+
+Speaker 3
+I see... I see... And like... Just like last month, man. When we were... When we came up with our video game idea... Using the technology... That you fucking had... Uh... Known about. And like... I always like... I'm like... Fascinated with what you and Alex have done, man. You know? Especially with your journey there, bro. Like... That's so... That's another story.
+
+Speaker 1
+that's another story yeah yeah i just think it's amazing nintendo invented virtual reality
+
+Speaker 1
+for one game like for one game they made one game that was so finely crafted that they invented
+
+Speaker 2
+virtual reality to make it i think they started out nintendo that way with the duck hunting thing
+
+Speaker 2
+if you think about it because you're like shooting and no bullets are coming out but
+
+Speaker 2
+like you're knocking ducks out on the on the game yeah on your rc bubble screen yeah yeah right yeah how
+
+Speaker 2
+how did they do that it was very magical oh that was what was that plugged in it wasn't plugged in was it
+
+Speaker 2
+it was yeah it was plugged into the the the the duck hunting gun yes yes oh but that's still pretty cool
+
+Speaker 2
+like holy mo yeah like how it wasn't shooting bullets think about that right is it's it's an
+
+Speaker 1
+optical sensor and in the and the display shows it flashes with blocks of um light light colored blocks
+
+Speaker 1
+um where the enemies are and so the and then the there's an optical sensor in the zapper yeah which
+
+Speaker 1
+sees that flash the flash frame and can and can identify like the position of the white dots
+
+Speaker 1
+to each other and then calculate the angle that the gun must be from pointing from that's exactly what you
+
+Speaker 3
+just said the other day with the canceling out theory and like how google honors it like when you search
+
+Speaker 3
+for it it's the same kind of thing we cancel what do you mean that guy that invented that um thing
+
+Speaker 3
+where you kind of like minecraft but it it cancels it out right the code like it's like an area of squares you said
+
+Speaker 1
+okay and like if you land here it cancels these out oh conway's game of life yeah yes conway's game of
+
+Speaker 1
+life yeah okay in a way yeah you're right right wow yeah it's like a fun like a fundamental
+
+Speaker 1
+technology concept it's kind of like how a chip would probably work
+
+Speaker 1
+so yeah i mean we can read a chip we can make whatever your vision is but your vision is
+
+Speaker 1
+unique and special and you have it and no one else does so you so please describe it in as much detail as possible
+
+Speaker 3
+okay i gotta describe it the way that i i know and like and like what why though you know what i mean and
+
+Speaker 3
+like part of that is like from the beginning dude you know and like that's i can't describe it in any
+
+Speaker 3
+other way but like the the hardware with like ai being so efficient and now like you're telling me about rust
+
+Speaker 3
+and go um what does that do i wanted to ask you that before i talk about this because i want to know
+
+Speaker 1
+okay what kind of implications does that have for the computing world okay rust is rust is um
+
+Speaker 1
+is is is like memory safe that's the the point of it so okay it is is you can you can you can build a
+
+Speaker 1
+machine and prove that the machine is secure and cannot be and cannot break down and cannot be broken into
+
+Speaker 2
+that's like super valuable yes so how does that data play into that what data like so you like everybody's
+
+Speaker 3
+scared about like data like being breached and like it is oh cert like for sure um everybody working at
+
+Speaker 1
+every company um is very cautious about data protection and privacy and they they definitely are um they
+
+Speaker 1
+definitely are organizing the company um to make it very difficult for as as difficult as as possible for
+
+Speaker 1
+employees to have data access i see that to private customer data that's very like and everyone everyone's
+
+Speaker 3
+doing their best sorry i'm sorry i'm sorry i feel like oh i i'm sorry to cut you off but like they're
+
+Speaker 1
+doing their best to do what everyone is doing their best to protect everyone's privacy in every case
+
+Speaker 3
+and it's like you just said everyone is trying so like how many like out of everyone have the same kind of
+
+Speaker 3
+vision what kind of vision so like make it more private like we're all trying to do it at the same time
+
+Speaker 3
+there has to be some kind of like very similar or if not like all roads leading to the same kind of like
+
+Speaker 3
+way we should do that like if we were to take the like everyone's beautiful minds and you know this
+
+Speaker 3
+technology game world and like put it together i don't know i mean like we should like
+
+Speaker 3
+look at that like how many people's like theories or ways or like solutions
+
+Speaker 3
+line up to be like essentially the same right and can we agree on that like is there a different way
+
+Speaker 3
+to do that you know i believe that there is i mean look at what you just discovered with the browser
+
+Speaker 3
+thing today that was like slick i mean it was a couple day thing but like you totally found another
+
+Speaker 3
+solution with your you know like you did like that was sweet dude oh you're talking about like the vpn my
+
+Speaker 3
+god no i don't know what you did oh like you told me multiple browsers you sent the screenshot
+
+Speaker 3
+and like i got it or you showed me at the office like what you were working on oh yeah i was trying
+
+Speaker 1
+to use i was seeing if i could like make an astroturfing machine by by like by like having each tab
+
+Speaker 1
+be a new ip address that was so cool yeah and like it's it is possible but it wasn't possible the way
+
+Speaker 1
+that i was doing it um but with yeah because it's so difficult to to to say to get anything to introduce
+
+Speaker 1
+anything onto any platform and probably the fairest platform right now is twitter it probably actually is
+
+Speaker 1
+and facebook and facebook and like so though so there's you can you can you can work with their
+
+Speaker 1
+algorithm you can make it work for you you can it will it will detect what you're doing and handle it
+
+Speaker 3
+appropriately i mean i respect it all you know like i see it through the journey that we have been through
+
+Speaker 3
+and like i put i i even see it from your perspective you know not even mine and i put myself in your
+
+Speaker 3
+shoes and like your mindset with that like with what we've done and like the man around you and like
+
+Speaker 3
+feeling all this and like seeing what you just said man it really like makes you think about like
+
+Speaker 3
+different things man and like how to make things better dude like everybody and i think we're all
+
+Speaker 3
+thinking the same type of thing you know so let's just do it and i think that's what like we're trying
+
+Speaker 3
+to like elon musk is trying to do you know yeah and like what alex is trying to do and like what
+
+Speaker 1
+new year's bridge is trying to do and like man i i was man that was just like blew my mind bob when
+
+Speaker 3
+we talked to alex and like i didn't realize what these fools were dude and like how cool they are
+
+Speaker 3
+and what they they stand for man and like to just be around you and have that opportunity is just like
+
+Speaker 1
+pop up like you know that's like i i it's fun doing this with you man yeah it's likewise it's literally
+
+Speaker 1
+the same because like like i i've and i honestly like honored to be around yeah honored to be around
+
+Speaker 1
+you like because your design is important your design is really important okay so the spark right how does that work
+
+Speaker 1
+um okay so it's a uh the spark is like first of all it's amd i'm sorry like and like nvidia that was
+
+Speaker 3
+another thing that like blew my mind but like okay the spark has that what is it like it's for ai yeah
+
+Speaker 1
+so it's so so so it has like a ridiculous gpu and more importantly it has it has a ridiculous amount of
+
+Speaker 1
+gpu memory that's what it is yeah and um and bandwidth between the g between the the gpu processor and the gpu
+
+Speaker 1
+gpu memory um it it's it's it's it has to have like enough data lanes to to handle enough memory
+
+Speaker 3
+like it's it's so it is it's how many percent do you think it like it'll get up to you and like what can
+
+Speaker 3
+power like with that that like maximum capacity what can it do like what can it power what like the spark as
+
+Speaker 1
+it is now like with that system with that system yeah like not that much like like like like a
+
+Speaker 1
+like 100 100 billion model or something what can it run like 150 billion model or like maybe a little
+
+Speaker 1
+bit bigger than that but it's not going to run like it's not going to run like um
+
+Speaker 3
+like a trillion what fascinated me with that is like the way that you can use that cable
+
+Speaker 3
+and how they you can like connect them to add more power right yes yeah you can string them yes you
+
+Speaker 1
+can cluster you run off a cluster okay so so if if you had a if you clustered them you could run kimi
+
+Speaker 1
+k3 you could run glm 5.3 okay um meta is open sourcing theirs um and then um uh that's beautiful
+
+Speaker 2
+what's uh what's uh the spark you could run that whole open source kimi three yes with like six of
+
+Speaker 1
+the uh yeah it would learn it would run really slow but it would really yeah it wouldn't be very
+
+Speaker 1
+fast but it would run really yeah so you would need 12. i don't know i don't know how many but yeah
+
+Speaker 1
+so i mean people can definitely calculate that for sure about off hand i don't know now like does it
+
+Speaker 3
+have to be hardwired or can they share power wi-fi uh i don't know i don't know look it up
+
+Speaker 1
+interesting so okay can the amd spark share power through wi-fi in a cluster
+
+Speaker 2
+now no but let's see the amd raisin ai halo amd's counterpart often compared to nvidia's developer
+
+Speaker 2
+boxes are those the boxes we always talked about like this no the box is a system okay cannot share
+
+Speaker 2
+electrical power through wi-fi wi-fi is strictly a radio frequency data protocol
+
+Speaker 3
+and lacks the physical capacity to transmit there is there is wireless power there is there is such a
+
+Speaker 1
+thing that does that but i i i think it's like not that powerful right now wireless signals cannot
+
+Speaker 1
+transfer electrical current power hardware they can there there's a way to do it that's what it just
+
+Speaker 1
+said yeah there is what there is a way to do it yeah how about that like technology i was like totally
+
+Speaker 3
+off topic but i really thinking about something uh do you remember that open source thing i asked you
+
+Speaker 3
+about and sent you with the um the wire the phone network oh what is it how you connect to and talk to
+
+Speaker 1
+people from a different like it's an open source telephone like wireless network right but it's not
+
+Speaker 1
+wireless i'm like using a different kind of a mesh network you're talking about a mesh network i think so
+
+Speaker 1
+yeah okay that's exactly yeah yeah so instead of connecting to the internet all of all of the
+
+Speaker 1
+communication would happen from phone to phone could it do that yes would that be more powerful no okay
+
+Speaker 1
+what would that do it would just be a slower internet would it be good for like some kind of emergency
+
+Speaker 1
+for something yes okay yeah um i'm just like the reason why i ask is like i think it's a beautiful thing
+
+Speaker 3
+like that they built that that bot like the spark looks sexy i think yeah like you just want to buy
+
+Speaker 3
+it but like um i'm just saying like how you like because it's like so expensive man yeah i know i think
+
+Speaker 1
+that the the larger like desktop ones can run oh they have a larger one yeah they they i think they just
+
+Speaker 1
+really they just announced like these like desktop like sized computers that um are essentially like the
+
+Speaker 1
+refrigerator in desktop size it's like a mini version of the refrigerator in desktop size yeah i think
+
+Speaker 2
+they're in there like a hundred thousand dollars compressed yeah that's what we're gonna do yeah
+
+Speaker 1
+yeah yeah that one actually will work like that will do it that will compress like that kind of power
+
+Speaker 2
+it's just something like smaller right and to make it like
+
+Speaker 3
+ai and like we said it can run like everything else right like like what we that was it that was
+
+Speaker 1
+the idea okay that that was the thing now that okay the thing was the thing was
+
+Speaker 1
+they're at this okay the chips the chips i think they got as small as they can go i don't know if
+
+Speaker 1
+they can go small they can go smaller now because it's they're powerful in numbers like us it's because
+
+Speaker 1
+the nanometer is the the wavelength of the uv light they're working at half the wavelength um width
+
+Speaker 1
+already and so they're so so they have to they had like modify the the lithography process yeah
+
+Speaker 1
+how i don't know that i don't know yeah so so they're only using they're using the half of it
+
+Speaker 1
+beams of beams of uv light and only half of the wave to do the etching that's how small it is
+
+Speaker 1
+so they can't get they can't get smaller than that how can they replicate that same cavern
+
+Speaker 3
+compress it into what is before i have like is it three eights or is it a quarter
+
+Speaker 1
+what is it what is what okay yeah they they're using half of that right yeah is that like the
+
+Speaker 1
+pattern like that they're using how are they what are they using no so so the the it's it's the the uv
+
+Speaker 1
+light beam it the the the the uh photon itself like travels in a wave yes right and and it's it's
+
+Speaker 1
+ultraviolet it's ultra ultraviolet so it's like it's it's the it's the small it's the like the
+
+Speaker 1
+wider the the wave the the different that's what makes the colors different right so like so they
+
+Speaker 1
+have to like so ultra ultra yeah so ultraviolet is the thinnest light beam right so so they're they're
+
+Speaker 1
+already using the thinnest possible light wave and they're using half of it
+
+Speaker 1
+what if they could split it how can they yeah it's like there's no there's kind of there's like nowhere
+
+Speaker 1
+to go there's nowhere there's nowhere else to go because they i don't know like what is it doing
+
+Speaker 2
+what is that light transmitting it's the size
+
+Speaker 1
+it's the side the size of the features of the stencil
+
+Speaker 3
+and it knows enough to take that what's on that stencil through like a very compressed light
+
+Speaker 3
+to rewrite to write it right it's kind of like we said it's kind of like the context window like when
+
+Speaker 3
+you compress it right but like it has everything still like compressed yeah going forward yes yeah
+
+Speaker 1
+yeah i don't know how i don't know how that process how that works at all but i know that they're at
+
+Speaker 1
+the they're at that's where they're at is they're using the fittest the fittest possible light and
+
+Speaker 1
+they're using only half of the wave to make it thinner to make it even thinner yes
+
+Speaker 2
+but what if they could do more with like spreading that taking that whole light
+
+Speaker 3
+i don't super smaller chips and like spreading that like cutting it like a tomato dicer and having it
+
+Speaker 2
+that like split out it's a smaller chips i don't know how would you compress like what that pattern is
+
+Speaker 2
+on that silicon chip into a smaller context window compressing the context right we just can't we can't weave it
+
+Speaker 1
+using light anymore we have to we have to find another another so it's going this way
+
+Speaker 2
+manufacturing mechanism this way too is it going every way what in a chip like or is it just like
+
+Speaker 1
+one way through that there's it's it is many many many many layers so what if you put them together but
+
+Speaker 3
+like they're so small but we don't need to make them any smaller but like what if we put them together
+
+Speaker 3
+like in a way and like have the light hit them to read the patterns like you know and extend the patterns
+
+Speaker 3
+of like memory or data like in a u right with these chips kind of like a maze like a u and amazing like
+
+Speaker 3
+like how how does that light hit the the stencil in that shift and how is it like presented you know
+
+Speaker 2
+what i mean is there a different way where we can like just like the amd spark it's together right
+
+Speaker 2
+like you could connect them together to make yes be more powerful yes a shift aligned in a sequence
+
+Speaker 2
+right that's getting something from the light like couldn't they like make it way i don't know man
+
+Speaker 2
+i'm trying to think about how to make chips more powerful working together that's what i'm talking
+
+Speaker 1
+about okay right right right right right that's essentially what they're trying to do
+
+Speaker 3
+like and it's the it's where do they have to have like a dome of like you like hitting it from like
+
+Speaker 3
+different directions working at the same time
+
+Speaker 1
+i don't know yeah i don't know i don't know that's that's wild that's wild you're i mean you're so
+
+Speaker 1
+creative you're like imagining if you you might have like some like a revolutionary idea somebody that
+
+Speaker 3
+like knows like that stuff could probably see that and maybe look at it from a different way and just
+
+Speaker 3
+like i always wondered this because like i respect neuroscientists so much you do too yeah this is
+
+Speaker 3
+near this is neuroscience man and like sometimes i feel like
+
+Speaker 3
+when you're taking when you get like you're working on something so hard
+
+Speaker 3
+and like you just feel like you're running out of solutions and like you just drop it and like enjoy
+
+Speaker 3
+like a little bit with your family or something or just like go and dance uh and you go back
+
+Speaker 3
+and you pick it back up and you you see things differently right or like maybe from that time you
+
+Speaker 3
+you put it down on your journey in life you know it gives you some like different way for your mind to
+
+Speaker 3
+like actually give into uh doing things a different way or realizing things a different way you know so
+
+Speaker 3
+i don't know just going off topic here i guess so um we were talking about the the tech man like i see it
+
+Speaker 3
+like the neural networks but like can we stack chips can we make them more powerful by like or like extend
+
+Speaker 3
+that pattern through those chips somehow and make it like a larger make it larger like so that's what
+
+Speaker 1
+that's what cerebras is trying to do okay so they're making the chip much larger that's amazing how are
+
+Speaker 1
+they doing that um they're using the entire they're they're using the entire silicon wafer so normally
+
+Speaker 1
+they print to be economical they print the same design like thousands of times on the same on one
+
+Speaker 1
+wafer that's like the wafers are this big right yeah right how big are they like like this big seriously
+
+Speaker 1
+that big this big like a pizza yeah okay so and so they so they so they etch um just like a repeating
+
+Speaker 1
+chip pattern on on it and then they slice it into the chips oh and then they take the ones that work
+
+Speaker 1
+the best and and sell them as the highest end com um components and most of them don't work
+
+Speaker 1
+perfectly so and the and the slice that pizza up yes and this the circuits are designed to fail
+
+Speaker 1
+gracefully so then they just sell it as the the weaker like a g-force you know 500 instead of a 600
+
+Speaker 1
+yeah yeah with less power less gig whatever yeah like we're sold yeah because it because it has the
+
+Speaker 1
+the the mem the memory section which is broken is disabled but it's they're all the same more memory
+
+Speaker 1
+it only could go up to a certain amount of yeah yeah so all the chips so all the graphics cards
+
+Speaker 1
+all the processors are actually the same they just have disabled they just have sections of it disabled
+
+Speaker 1
+that's a waste but right but that's that's it's it's a right it's a part of the manufacturing process
+
+Speaker 2
+i just think about like how they print like what you described about that how they do that with the
+
+Speaker 1
+printing yeah um that's like looms yeah it's like so it's like the technology of the 1400s was is it was
+
+Speaker 1
+it was it was it was a uh a status symbol to have like fancy clothing so what if they did that bro the
+
+Speaker 3
+same thing like layered on top and like it hits a different sequence on the reflection
+
+Speaker 3
+to build more memory and power with stack done that way they're doing that they're doing they're doing
+
+Speaker 1
+um yeah stack chips yeah they're doing that now that's the um that's a new technology you're right
+
+Speaker 2
+so they're already doing that yeah
+
+Speaker 2
+yeah i like the cube it's like the circle and the square yeah and it's like it's you can have like
+
+Speaker 3
+different they're probably doing it dimensional because you feel like a crossword puzzle boom boom boom boom boom
+
+Speaker 3
+in a cube with like whatever the circle is you know transmitting like the light maybe in a circle
+
+Speaker 3
+that's coming down into the cube to make it work you know like if they're stacking them like this i'm
+
+Speaker 3
+talking about like like having it uh stacked in a different sequence man like where this amount right
+
+Speaker 3
+that's where the ai would be better i think like at uh you said like it takes the before that ship
+
+Speaker 1
+shorted out or whatever you said what cerebrus is doing okay so how do i explain this to you i feel like
+
+Speaker 1
+we're super lost um i just i see it like in my head so let me just try to back it up
+
+Speaker 3
+some makes outside of it i'm sorry you're good no you're great keep going i confused you and i no
+
+Speaker 3
+you're good keep going okay so what are they doing like at cerebrus again just can you say that one more
+
+Speaker 1
+time so they're using the entire wafer to make one like you said like a pizza yeah okay so how many chips
+
+Speaker 3
+do they get out of that wafer like how many like a thousand how many that's it yeah well that's kind
+
+Speaker 1
+of a lot i don't know i don't i think it's i think that's right i don't know i mean like that's a good comparison

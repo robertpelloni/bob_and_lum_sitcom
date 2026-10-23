@@ -1,0 +1,1266 @@
+Speaker 1
+The one guy was uh...
+
+His car he waited to leave?
+
+Speaker 1
+He did.
+
+Speaker 1
+Was that him?
+
+Speaker 1
+Wait wait wait I don't know.
+
+Speaker 1
+No it was somewhere else.
+
+Mmmmm.
+
+*laughs*
+
+Aw.
+
+Yeah.
+
+Alright.
+
+Mmmmm.
+
+Come on man.
+
+Yeah I don't know how to like turn off weather.
+
+Uh it must be...
+
+I think there's a setting for him actually.
+
+Yeah.
+
+Yeah.
+
+Yeah it's this one.
+
+Yeah it's this one.
+
+And Jimmy Crack Corn and I don't care.
+
+Yeah.
+
+Speaker 1
+There you go.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Alright.
+
+Speaker 2
+Alright.
+
+Speaker 2
+Sweet.
+
+Speaker 1
+Okay.
+
+Speaker 1
+Did we succeed?
+
+Speaker 1
+I succeeded.
+
+Speaker 1
+You're done.
+
+Speaker 1
+Done waiting.
+
+Success.
+
+Speaker 1
+Good job.
+
+Speaker 1
+So.
+
+Speaker 1
+Uh.
+
+Speaker 1
+Interesting.
+
+Speaker 1
+Trivia for you.
+
+Speaker 1
+I feel like I just met your girlfriend or something.
+
+Speaker 1
+Did I?
+
+Speaker 1
+Sure.
+
+Speaker 1
+Who was it?
+
+Speaker 1
+B?
+
+Speaker 2
+you're done. done waiting. success. good job. so uh interesting trivia for you. i feel like i just met your girlfriend or something. did i? sure. who was it? me? that was so crazy. isn't it a mindfuck?
+
+Speaker 1
+i just felt like i met your girlfriend bro. yeah it's a mindfuck. what the fuck? i just had to say that out loud. i'm glad you did. it's a mindfuck. okay so let's see. render. um oh.
+
+Speaker 1
+trivia. firefox. youtube. yeah. right there. down to the bottom left. firefox. youtube. okay. ublock. origin.
+
+I don't know.
+
+Speaker 1
+Okay. It might already be done by default. So there's something here. I'm going to go ahead and see.
+
+Speaker 1
+I'll tell you a little bit about it. Okay.
+
+Speaker 1
+The way that Firefox renders websites is a little bit different than the way that Chrome does
+
+because they're both completely separate. They're both built to do the same thing,
+
+but they're built completely independently. There is no shared anything in between them.
+
+Okay. So even though they do the same thing, it's done in a completely different way.
+
+Speaker 1
+For everything. So there's a, there's a web standard called manifest. I don't even know what it does.
+
+Speaker 1
+It's like the, it's like the something about the order of how the website gets like downloaded and then constructed underneath.
+
+Speaker 1
+And then like, yeah, I get that. And then like drawn. Right. So like, it comes alive. Yeah. So like, when it downloads the website, it breaks it into, into components.
+
+Speaker 1
+components and like there's like image components and like link components and
+
+Speaker 1
+text components and layout components and like audio yeah it's in it and it
+
+Speaker 1
+constructs a scene graph which is like which is a scene grass scene graph is is a tree of elements that the
+
+Speaker 1
+website is made out of so here so if I go to so anyway I go to a website at 12 here's the scene graph okay
+
+Speaker 1
+so it's a list and it's a hierarchical list so you can see if you when you mouse over the elements it
+
+Speaker 1
+shows you um what how this corresponds to this for each component so okay so everything in the website is
+
+Speaker 1
+inside of this collapsible tree okay okay wow and then when I uncollapse the tree to go into those
+
+Speaker 1
+sub elements now when I mouse over it you can see the individual elements that are contained in that
+
+Speaker 1
+section of the tree
+
+Speaker 1
+something there no it's like down for yeah this one is that wow that's cool as fun for each one of these
+
+Speaker 1
+elements so I'll select the main element this one here which is like most of the page I can uncollapse that
+
+Speaker 1
+one because it's a tree and then and then that has sub elements
+
+Speaker 1
+and then I'll uncollapse
+
+Speaker 3
+the main one this is the main one so I'll uncollapse that and I'll look at the elements in there it looks like it's collapsed as main ones a few times here we go now we're getting into the chunks
+
+Speaker 3
+chunks I'll uncollapse that chunk drill into that you get the idea right and then eventually you'll drill down to like this all right
+
+Speaker 1
+all right there's one of these buttons so I have to piss so bad oh okay excuse me all right excuse me excuse me okay
+
+Speaker 1
+oh man I'm sorry I'm just trying to explain one
+
+Speaker 1
+fucking I um little detail it's not your fault no it's a but it's so hard to explain it hey no no no listen
+
+Speaker 2
+to me yeah I want to do this and I'm going to do this okay that's whatever okay shut up
+
+Speaker 1
+What the fucker? I had to pee so bad. I know, it's not your fault. Just...
+
+Speaker 1
+Sorry, bud. You're good. You're so mad. No, I'm not mad. You're so mad at me. No, I'm not mad. I don't care. Here. Let's finish it. Okay, so, anyway. Where's my phone? Fuck. Yeah. I'm gonna record you. No, please don't. No, but where is my phone? Fuck. Record. Okay, you don't matter. Okay. It's somewhere around here. Yeah, make sure to take the gas card. Okay. Where is the gas card? It's right there. Yeah, yeah. Okay, so,
+
+Speaker 1
+So, the whole point of telling you that and teaching you about this stupid hierarchy or whatever, right? Yeah. Is there's a standard for how to, like, for, like, the order to build that tree in, right? This is the highest one. Give me an idea of some of these people, like, what you're talking about. The hierarchy. No, the tree. Yeah. This.
+
+Speaker 1
+This is a hierarchy. This is a hierarchy. A hierarchical tree structure. Yeah. With, like, you understand, it's a tree, like, you can uncollapse sections. Yeah. And it, it, like, collapses and uncollapses. You know what that is? Have you ever seen a tree structure before? Yeah. Oh, no. Not like this. Like, what do you mean? Arrows that collapse and uncollapse. Yeah, yeah. And it's, like, it's laid out like a
+
+Speaker 1
+tree. Yeah, yeah. Yeah. Okay. That's a tree structure. So, and so, on the web, there's standards for everything. And then, so, the standard for organizing this tree and the order in which, how you organize it has a name and a standard. And it's, like, there's manifest.
+
+Speaker 1
+there's standards for everything and then so the standard for organizing this tree and the order
+
+Speaker 1
+in which how you organize it as a name and a standard and it's like there's manifest
+
+Speaker 1
+manifest is the name of the standard and there's like a committee that that
+
+Speaker 1
+that controls it right and Firefox uses manifest version 2 in manifest version 2 the ordering of the
+
+Speaker 1
+website being drawn is such that it is possible to it is possible to prevent
+
+Speaker 1
+branches in the tree from being downloaded before the tree is complete enough to draw the entire thing to
+
+Speaker 1
+the screen then Google made Chrome and Google pushed the committee there's no way you can understand it's okay
+
+Speaker 1
+okay anyway you can block you can block ads on YouTube okay on Firefox okay yes and Google used politics
+
+Speaker 1
+come on how we'll use politics how to to with like what to to to bully or influence or manipulate the
+
+Speaker 1
+the standards committee to to change man the way the manifest was made so that it's not possible so that it's not so that it's not possible to do that it's not possible to draw the website from the tree before it downloads all the branches first
+
+Speaker 1
+it has to download all the branches first then it can draw the website but it used to be in the in the older version that you can draw the tree before all the branches are downloaded that's important because it's that's how you would block advertisements is
+
+Speaker 1
+so you can cut off the branch before the website is finished even downloading but you can still use the website so you can so you can so you can cut off advertisements
+
+Speaker 1
+you know man you're so you're so you're so gone it's okay it's okay I kind of hear what you're saying yeah yeah yeah I just I get like you should get the gist I'm trying to like get the gist yeah yeah yeah so what did we do a good enough job tonight yes we did great we did fantastic we should have done no you're great you're fantastic anyway so Firefox Google
+
+Speaker 1
+Google has worked over Firefox because now Firefox can never upgrade to the new manifest because Google paid or manipulated to change the manifest they influenced the committee Google got the committee to change the way websites work so that they couldn't block ads on YouTube
+
+Speaker 1
+Google got the new manifest that's what happened that's what happened wow yes so so you can block ads on YouTube on Firefox but not Chrome no way it was the same way but it's a because it's a bullshit limitation that Google skis their way into it so fire Google changed
+
+Speaker 1
+Google changed the way that websites work so that they could prevent people from blocking ads on YouTube it's kind of dirty very it's dirty
+
+Speaker 1
+I'm glad that you understood you got the gist of the whole thing wait I'm gonna watch you do this okay wait you know how much you're doing yeah it's a lot no this is probably about your normal yeah yeah lift up the straw yeah yeah yeah oh yeah that's all right good get it good
+
+Speaker 1
+get it good get it good get it good all right good I'll stay awake just to watch you I am really fucked up right now oh yeah you're good yeah you're fine you're awesome you're awesome don't accept me to be top notch
+
+Speaker 1
+I'm so glad you understood it all anyway you're good I might have understood it all yeah you did you did you got it but what if I wake up and I don't fucking remember I don't know who cares you'll remember some of it
+
+Speaker 1
+I don't know who cares you're good I don't know who cares you're good I don't know who cares you're good I know it's all better but anyway yes um um it probably still works so let's see if we can just use Firefox
+
+Speaker 1
+Firefox. What do you think about that? If we just play music on Firefox. What's the difference now? Firefox can block the ads. Yeah. So yeah, if you just play all of your YouTube in Firefox, it should be fine. It could still do it? It should block the ads, yeah. That's pretty cool, man.
+
+Speaker 1
+Thanks, bro. You're welcome. And that's the reason why. And Google is trying to stop it from being able to do that, but they can't. But they can't because they don't control Firefox. They only control Chrome. So they went as far as sabotaging the committee that oversees how websites work.
+
+Speaker 1
+So that Google could block ads on YouTube. Yeah. Yeah. Yeah. Here it is. Here it is, baby. Found it. Baja. Oh, man.
+
+Speaker 2
+No. Bounce on a dick. Baja. Bounce on that fucking forest cure.
+
+Speaker 2
+Hey, yeah, yeah, yeah, yeah. I'm sure there's guys, fucking guys, and you know, boys, fucking boys, and girls, fucking girls, and women, fucking women, and women, fucking guys. And guys, fucking women, and then, uh, it all goes crazy again. Up there. Whoa, it's nuts. What happens? What happens, bro?
+
+Speaker 2
+With what?
+
+Speaker 1
+I don't know. I don't know. I don't know. I don't know. I don't know if there's a lot of fuck in there. Maybe there is. It seems like there would be. I never thought about it.
+
+Speaker 1
+I feel like I would not be, like, good at that. So I wouldn't do it. All right.
+
+Speaker 1
+All right. I'm playing it in Firefox. Whoa. Whoa. Whoa. Hold on. That's about here. Okay.
+
+Speaker 1
+My shit's so burnt, dude. What? What? Shit's so burnt. What is burnt? Uh, vape. Your vape is burnt? Fuck, yeah. Oh, you have two of them. Huh? You have two of them. You have this one, and this one, but I don't know if this one's...
+
+Speaker 1
+I don't know if this one's burnt, which one's not. This one's a little better. Thank you. Thank you. You're welcome. I don't know what I did. You reminded me of I have two vapes. Cool. You got one of them. This one was on the fridge. It was probably on the fridge for good reason. I'm gonna put it back.
+
+Speaker 1
+No, this one was, but, uh... No, I think it was the green one. The green one was on the... The green one is the same kind that you have. Yeah. Yeah. Didn't you get a new one? You got a new one. I got... I used the same one as you, like, the same time. I know. I think you... Mine's dead, though, now. I think you ran out. Mine's almost dead. So... Oh, okay. But it's okay. I have the liquid.
+
+Speaker 1
+Okay. I'm okay as long as I have something. Okay. It doesn't even matter what it is.
+
+Speaker 1
+I'm gonna give you, like... Like... Viagra.
+
+Speaker 1
+And then, like... Encourage you to pass out.
+
+Speaker 2
+You're a fucking asshole. I heard you, dude.
+
+Speaker 1
+Oh, God. I'm so sorry. That's so funny. I'm so sorry. I would not do that.
+
+Speaker 1
+It's very... It's funny. It's a funny idea, though.
+
+Speaker 1
+Oh, motherfucker. The files are still not on here. What the fuck?
+
+Speaker 2
+Even with my phone. This doesn't make any sense.
+
+Speaker 1
+I don't understand. That's dumb as fuck, bro. I don't understand. I do not understand why they're not showing up.
+
+Speaker 1
+Oh, my gosh. I don't understand them.
+
+Speaker 1
+It's making us go insane. It's making me go insane. Or... It's making me go insane-er.
+
+Speaker 2
+Let me see something here. Let me see if I can even have them. Because if I have them, then we're okay.
+
+Speaker 2
+But that's kind of fucked up that you can't get them.
+
+Speaker 1
+Right? Wait. Wait. No, they should be on here still. Okay. Okay.
+
+Speaker 1
+Yeah? Please. Yeah. Let me please copy these. This is driving me nuts now.
+
+Speaker 2
+What are you talking about? Okay. I know. It's not your fault. Copy what? The videos.
+
+Speaker 4
+I need everything. What are you going to do? I need the videos. I don't know why they're not...
+
+Speaker 4
+I thought you said this was not the way to do it. It's... It's not. I should just get them right off your phone.
+
+Speaker 1
+I should get them off my phone. Here's my phone. I don't even know where they are. Here they are. Okay.
+
+Speaker 2
+Can you get them on my phone? I will get them off your phone too. But don't delete those. I'm not going to delete them.
+
+Speaker 1
+You need them. It's the last one. Yes. Yeah. I'm not going to do it.
+
+Speaker 4
+That's so stupid.
+
+Speaker 1
+Are they in here? No. They're not even in here. I'm here. What the fuck? What are you talking about, bro?
+
+Speaker 1
+They're not in the folder on the USB stick. Even on the computer that I fucking copied them.
+
+Speaker 1
+All right. I'm not copying them in the folder. Now I'm copying them right to the drive.
+
+Speaker 1
+We ran into a Windows glitch.
+
+Speaker 4
+How do you... That's a pretty big glitch.
+
+Speaker 1
+Yeah. Should we expose our ass? No.
+
+Yeah. Oh yeah. Oh yeah. Oh yeah.
+
+Speaker 1
+Yeah. Oh yeah.
+
+Speaker 1
+Oh yeah, I mean...
+
+Speaker 1
+Mediac! Mediac!
+
+What up, brother?
+
+Yeah!
+
+Speaker 1
+Mediac! Mediac!
+
+Speaker 4
+Oh, there's our shows?
+
+Speaker 1
+I don't know Korean.
+
+Speaker 2
+Korean? Yeah.
+
+Speaker 2
+Oh, you're trying to do K-pop?
+
+Speaker 2
+I don't know.
+
+Speaker 2
+Oh, I wouldn't have noticed.
+
+Speaker 2
+Sorry.
+
+Speaker 2
+You K-pop Negro.
+
+Speaker 2
+You K-pop Negro.
+
+Speaker 2
+You need to let me go.
+
+Speaker 2
+Oh, this is home.
+
+Speaker 1
+Oh, it's Mars.
+
+Speaker 1
+Wait, here it isn't like Mars.
+
+Speaker 1
+Here it is in the morning.
+
+Speaker 2
+Oh, voila.
+
+Speaker 2
+What?
+
+Speaker 2
+Swept, weed, relax and shit.
+
+Speaker 1
+Alright, so the videos are on the USB drive.
+
+Speaker 1
+Did you get them for real?
+
+Speaker 1
+Refreshing.
+
+Speaker 1
+It looks like they're on there.
+
+Speaker 1
+Good for you.
+
+Speaker 1
+I'm gonna eject it.
+
+Speaker 1
+I'm gonna eject this drive properly.
+
+Speaker 1
+Help my view, please.
+
+Speaker 1
+That wasn't...
+
+Speaker 2
+That wasn't...
+
+Speaker 2
+I can't believe I did that.
+
+Speaker 2
+Eject.
+
+Speaker 1
+No, it wasn't your fault.
+
+Speaker 1
+It actually didn't help.
+
+Speaker 1
+So it wasn't the issue.
+
+Speaker 1
+Eject to the end time.
+
+Speaker 1
+It wasn't...
+
+Speaker 1
+What?
+
+Speaker 1
+It did not help.
+
+Speaker 2
+Yeah, it did.
+
+Speaker 2
+It did.
+
+Speaker 1
+It did.
+
+Speaker 1
+It wasn't the issue.
+
+Speaker 1
+So my whole lesson about...
+
+Speaker 1
+Ejecting was...
+
+Speaker 2
+Okay, so everything's good now?
+
+Speaker 2
+Everything's good.
+
+Speaker 1
+Everything's good.
+
+Speaker 1
+I think...
+
+Speaker 1
+I think I have all of them.
+
+Speaker 2
+I think?
+
+Speaker 2
+I don't like that.
+
+Speaker 1
+I think I have them all.
+
+Speaker 1
+I think we should clean off your phone.
+
+Speaker 1
+Yeah, I'll do that later.
+
+Speaker 2
+Get all the videos off your phone onto your laptop.
+
+Speaker 2
+Yeah.
+
+Speaker 2
+Tomorrow, let's do it.
+
+Speaker 1
+Do, do, do, do, do, do, do.
+
+Speaker 1
+Alright.
+
+What?
+
+Speaker 2
+I feel like there's three of us in here.
+
+Speaker 1
+The other one is in the box.
+
+Speaker 1
+She's in the box.
+
+Speaker 1
+I feel like the other human with a bathroom or something.
+
+Speaker 1
+Yeah, she's in the box.
+
+Speaker 1
+Are you fucking nuts with me?
+
+What?
+
+Is that crazy with you?
+
+What?
+
+Like, I think that there's three of us in here.
+
+Uh...
+
+Speaker 1
+No?
+
+Speaker 1
+Because it...
+
+Speaker 1
+There was like another persona.
+
+Speaker 1
+Yeah.
+
+Speaker 1
+Yeah.
+
+Speaker 1
+I get it.
+
+Speaker 1
+Yeah, I got the videos.
+
+Speaker 1
+You do?
+
+Speaker 1
+Yeah.
+
+Speaker 1
+Alright.
+
+Speaker 1
+Oh, thank gosh.
+
+Speaker 1
+Okay.
+
+Speaker 1
+What did I get?
+
+Speaker 1
+Did I get...
+
+Speaker 1
+I don't fucking know.
+
+Speaker 1
+What?
+
+Speaker 1
+Oh, yeah.
+
+Speaker 1
+You don't know?
+
+Speaker 1
+What?
+
+Speaker 1
+Did you get what?
+
+Speaker 1
+Did I get...
+
+Speaker 1
+Did I get the dicks?
+
+Speaker 1
+The dicks?
+
+Speaker 1
+Hell yeah, I did.
+
+Speaker 2
+Okay, good.
+
+Speaker 2
+Thank God.
+
+Speaker 2
+You got the money shots.
+
+Speaker 1
+Fuck yeah.
+
+Speaker 1
+Good for you.
+
+Speaker 2
+Oh, wait.
+
+Speaker 2
+Oh, you're showing it now.
+
+Speaker 2
+Yeah, let me see.
+
+Speaker 2
+I was trying to explain the money shots.
+
+Speaker 1
+It's like...
+
+Speaker 1
+That's a pretty good...
+
+Speaker 1
+That looks pretty hot.
+
+Speaker 1
+I just said...
+
+Speaker 2
+Keep doing it.
+
+Speaker 2
+Yeah.
+
+Speaker 2
+You're like...
+
+Speaker 2
+Are you still recording?
+
+Speaker 1
+It's like kind of hot.
+
+Speaker 1
+I'm gonna...
+
+Speaker 1
+I'm gonna clip like a couple seconds of that.
+
+Speaker 1
+And send it to Kim.
+
+Speaker 1
+Yeah.
+
+Speaker 1
+Just like straight up.
+
+Speaker 2
+Send it to the world first.
+
+Speaker 2
+No, you don't send anything to Kim.
+
+Speaker 2
+No, no more.
+
+Speaker 2
+Why not?
+
+Speaker 1
+Send it to the porn site and get it uploaded on a porn site.
+
+Speaker 1
+That'd be like semi-tour.
+
+Speaker 1
+From the porn site?
+
+Speaker 2
+Yeah.
+
+Speaker 1
+Okay, yeah, yeah, yeah.
+
+Speaker 1
+I'll do that.
+
+Speaker 1
+That's a good idea.
+
+Speaker 1
+Thank you.
+
+Speaker 1
+That's a great idea.
+
+Speaker 1
+I don't know I don't know what frame rate it is. Probably not 60. 60 what? Frames a second? Hey hey hey what? 60 second what?
+
+Speaker 1
+Go ahead man. Is it? I don't know. Well that's what I was asking. Is it 60fps or is it 30fps? I don't know. I don't know. I don't know. I don't know. I can like open it and like look at the properties or something. Okay. Yeah that came out nice. Oh 30. Okay it's 30fps.
+
+Speaker 1
+Okay well I don't have 60fps material. So I shouldn't have done 60fps. But I don't know what matters. I don't know. Okay so then I'm going to do this. And I'm going to do this.
+
+Speaker 1
+Like that. And do this. Like that. And then I'm going to get. Yeah. Just one. Okay. But wait. Is there like a hotter position? A better look.
+
+Speaker 1
+Okay. Okay. Okay. That was interesting. I wanted to see the like prone bone. You know what I need? High heels. Yeah. Yeah. Like high. Ha ha ha.
+
+Speaker 1
+How you doing? Good. Good. Good.
+
+Speaker 2
+I was thinking about doctors. What? I was thinking about a doctor. What kind of doctor? I had a pain doctor and I got into a personal and then into his sons and then all his sons got into something to rescue something with a Xanax pill and it all came down to like this, I don't know. It was so weird. What the fuck happened? I don't fucking know. What happened? I died. What? What happened? I was just out of it, bro. What happened? I don't know. I can't remember now. Oh, shit. Oh, you were having like a dream.
+
+Speaker 2
+Oh, okay. Shit. It's cool. You ever have those? Dreams? Yeah. Daydreams? Yeah. Yeah? Wait. A, B, C, D, E, F, G, H, I, J, K, L, M, N, O. Okay. D? Yeah. Why? Why? What does that have to do with anything?
+
+Speaker 1
+Nothing? Okay. It does, but I think it does. Okay. I mean, it is the alphabet, so it kind of relates to everything. I guess it is always relevant in a sense.
+
+okay
+
+Speaker 1
+well yeah what i'm gonna try this shit okay so here i'm gonna change my i'm gonna change it
+
+Speaker 1
+okay all right man grok does a good job look at this
+
+Speaker 1
+i can i'm gonna change the i'm gonna turn off this what do we need natural in here temperature
+
+Speaker 1
+what okay it's too cold or i'm fine i'm fine however it is are you yeah it's never been
+
+Speaker 1
+uncomfortable in here for me if it it was like briefly when i was here by myself like in the
+
+Speaker 1
+middle of the day yeah i did
+
+Speaker 1
+okay so we decided to make candy with nicotine salt liquid with the highest concentrate with highest
+
+Speaker 1
+ish concentration nicotine salt vape liquid what we only need to inject it with one
+
+Speaker 1
+like 25 micro ball 105 micrograms of lsd yeah two yeah right two milligrams ah here we go um
+
+Speaker 1
+to make with highest concentrations nicotine salt vape liquid um and measure it measure it to two milligrams
+
+Speaker 1
+and then learn to make candy really really well. Say that again? I'm typing in the food.
+
+Speaker 1
+And make nicotine. What's that? Oh, that's all. No, thank you. I was just curious. Make nicotine. Oh, thank you. Thank you. You're welcome.
+
+Speaker 1
+I'm going to make nicotine. I'm going to make it really well. I'm going to make nicotine.
+
+Speaker 1
+Sour Patch Kids and... And...
+
+Speaker 1
+Whoa. What? What? What?
+
+Speaker 1
+Nothing. What? What? Nothing. What? What? What? Nothing. Okay. What other candies? What are the best candies? I don't know.
+
+Speaker 1
+What? What are the candies as far as what? Okay. So, I'm going to say Sour Patch Kids. Yeah, Sour Patch Kids. Sour Patch Kids needs more flavors.
+
+Speaker 1
+They do. They need, like, two more, at least, two more, like, default flavor combinations. Yeah. Like, the whole bag. If there's, like, the green bag, there should be, like, an orange bag. That's, like, just, like, different flavors. But not tropical ones because they suck.
+
+Speaker 1
+Mmm. They have tropical ones because they suck.
+
+Speaker 1
+What else? I mean, there's, like, what else? I mean, there's a, okay, so I'm going to say that Sour Patch Kids win the gummy category. So nothing, nothing like it. But, like, let's say, um, the next up, I would say is, um, Sweet Tarts. Sweet Tart Chewy's. And chewy Sweet Tarts. And, okay, so that's another category. So, I'm going to say that Sour Patch Kids win the gummy category. So, nothing like it. But, like, let's say, um, the next up, I would say is Sweet Tarts. Sweet Tarts. Sweet Tarts. Chewy's. And, chewy Sweet Tarts.
+
+Speaker 1
+and okay so that's another category so then what's up what's another category for us
+
+Speaker 1
+all right man i don't know if we can make mint we can try we can try let's try let's try like mint
+
+Speaker 1
+lifesavers let's try wintergreen lifesavers and i don't know if it'll come out good but we'll try and then um
+
+Speaker 1
+what other candies what do we usually get looks good
+
+look
+
+Speaker 1
+i like jelly rangers but
+
+Speaker 1
+they're too hard to eat like i don't know why they just left it there dude i don't like it when a product
+
+Speaker 1
+is like almost good it's like almost good right it's got like something wrong and they can easily fix it and
+
+Speaker 1
+like when they just don't it makes me it makes me upset
+
+Speaker 1
+what up bro what's up bro what's up how you doing homie
+
+Speaker 2
+you all right yeah i'm good what's up how you doing i'm good i was just thinking about the pro you know
+
+Speaker 1
+like what you were talking about yeah well you're buzzing oh you're like buzzing but i'm curious like
+
+Speaker 1
+what if i'm bothering you're not i don't want to bother you you're bothering me now but you're not really
+
+Speaker 2
+bothering me because i was thinking about what you said okay all right all right i'm sorry it's okay
+
+Speaker 2
+it shows me there's an open end i'm just gonna leave it at that there's an open end to everything then yeah open it
+
+Speaker 1
+oh rock is refusing
+
+Speaker 1
+oh
+
+Speaker 1
+suck my balls pussy
+
+oh
+
+oh
+
+Speaker 1
+Yeah, yeah, yeah, yeah, yeah.
+
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+
+Yeah, yeah, yeah, yeah, yeah.
+
+Yeah, yeah, yeah, yeah.
+
+Yeah, yeah, yeah, yeah.
+
+Yeah, yeah, yeah.
+
+Yeah, yeah, yeah.
+
+Yeah, yeah, yeah.
+
+Speaker 1
+Yeah, yeah, yeah.
+
+Speaker 1
+Yeah, yeah, yeah, yeah.
+
+Speaker 1
+Yeah, yeah, yeah, yeah, yeah.
+
+Speaker 1
+Yeah, yeah, yeah, yeah, yeah.
+
+Speaker 1
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+
+Speaker 1
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+
+Speaker 1
+Yeah, yeah, yeah, yeah.
+
+Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+
+All right.
+
+Speaker 1
+How you doing, brother?
+
+Speaker 1
+You doing all right, bro?
+
+Speaker 1
+Yo, just lay down.
+
+Speaker 1
+Why?
+
+Speaker 1
+Guys, you're passing out.
+
+Speaker 2
+I am.
+
+Speaker 1
+I know.
+
+Speaker 2
+I'm so tired, man.
+
+Speaker 1
+Yeah, lay down, bro.
+
+Speaker 1
+Take us to sleep.
+
+Speaker 1
+You're out, turn the lights off.
+
+Speaker 2
+I love you, bro.
+
+Speaker 2
+What?
+
+Speaker 2
+Did I do a good job?
+
+Speaker 1
+You did a great job.
+
+Speaker 1
+You fucking nailed it, dude.
+
+Speaker 2
+Do you know why I interview the way I interview you?
+
+Speaker 2
+Does that understand you?
+
+Speaker 2
+I don't know.
+
+Speaker 1
+Huh?
+
+Speaker 1
+I don't know, but you did a good job.
+
+Speaker 2
+That's what you said in that last interview.
+
+Speaker 2
+You're like, hey.
+
+Speaker 2
+I forget how you said it.
+
+Speaker 2
+You said, hey, bye.
+
+Speaker 2
+Like, I don't know.
+
+Speaker 2
+Just in case you want to use this.
+
+Speaker 2
+I don't know.
+
+Speaker 1
+Yeah, bro.
+
+Speaker 1
+You nailed it.
+
+Speaker 1
+You're doing a fucking fantastic job.
+
+Speaker 1
+You're doing great at everything you do.
+
+Speaker 1
+You do great at everything you do.
+
+Speaker 2
+You think you could put your wings at a Walmart and a China place right now?
+
+Speaker 2
+What?
+
+Speaker 2
+You make some motherfucking money.
+
+Speaker 2
+Right.
+
+Speaker 2
+We're going to steal some wings?
+
+Speaker 2
+We're going to go break in the Walmart and steal wings?
+
+Speaker 2
+I didn't say that.
+
+Speaker 2
+I thought it was wings.
+
+Speaker 2
+I don't know.
+
+Speaker 2
+I thought it was wings.
+
+Speaker 2
+I don't know.
+
+Speaker 2
+I thought it was wings.
+
+Speaker 2
+I don't know.
+
+Speaker 2
+I thought it was wings.
+
+Speaker 2
+I don't know.
+
+Speaker 2
+I thought it was wings.
+
+Speaker 1
+You might.
+
+Speaker 1
+What were you saying?
+
+Speaker 2
+No.
+
+Speaker 2
+I don't know.
+
+Speaker 2
+I don't know what you were saying either.
+
+Speaker 1
+You said something, something, wings, something China place or Walmart right now?
+
+Speaker 1
+Yeah.
+
+Speaker 2
+I'm so high.
+
+Speaker 2
+You're good.
+
+Speaker 2
+You're good, bro.
+
+Speaker 2
+Can you help me find my phone, man?
+
+Speaker 2
+Oh, it's right here.
+
+Speaker 1
+Thank God.
+
+Speaker 1
+Your phone?
+
+Speaker 2
+Yeah.
+
+Speaker 2
+Where?
+
+Speaker 2
+I got it.
+
+Speaker 2
+Oh, oh, are you recording me?
+
+Speaker 2
+I don't know.
+
+Speaker 2
+Someone was recording for 49 minutes.
+
+Speaker 2
+Holy shit, bro.
+
+Speaker 2
+I'm so high.
+
+Speaker 2
+You're good.
+
+Speaker 2
+You're good.
+
+Speaker 1
+You're good, bro.
+
+Speaker 1
+Can you help me find my phone, man?
+
+Speaker 1
+Oh, it's right here.
+
+Speaker 2
+Thank God.
+
+Speaker 2
+Your phone?
+
+Speaker 2
+Yeah.
+
+Speaker 2
+Where?
+
+Speaker 1
+I got it.

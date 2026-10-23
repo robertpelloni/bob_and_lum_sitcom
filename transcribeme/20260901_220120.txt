@@ -1,0 +1,169 @@
+because nothing else does this so hypernexus nothing else there is nothing else in in the
+
+same category as hypernexus right now hypernexus is is the standard okay so so what okay let me
+
+okay okay so what is hypernexus and how does it fit into the average everyday ai model okay like
+
+chat like chat gpt gemini and all that yeah okay so um open ai has codex right if you want to use
+
+open ai you have to download the codex application and run it on your computer and you open codex and
+
+you use codex okay if you want to use um gemini you have to download anti-gravity and you can only
+
+use anti-gravity and there is no other option except for anti-gravity they used to have gemini cli
+
+but they shut it down i think they just came out with a cli but we'll look into it well they do have
+
+an anti-gravity cli but but it's not the same as the gemini i missed them right so but anti-gravity is
+
+the replacement for gemini cli so if you use if you want to use gemini you have to use anti-gravity
+
+if you want to use chat gpt you have to use codex if you want to use claude you have to use claude code
+
+or claude desktop or claude code in claude desktop right so if i want to use her me agents do i have
+
+to use them too so yeah so all of these companies are not trying to improve interrupt interoperability right
+
+so they're not so google is never going to make it so that the memory between anti-gravity and claude is
+
+shared and claude is never going to make it so that claude can access anti-gravity's gemini memory and
+
+gemini is never going to be able to access claude's memory right but there's no reason that they can't
+
+the only reason that they can't is because the companies want to keep you um in their in their like
+
+products ecosystem their products in their ecosystem so um so there is a need for a for an open source
+
+standard um like like software that is like a glue that combines all of those ecosystems together in a
+
+standardized way with standardized features that that all that everyone that in the community agrees
+
+all of those tools should have equally so it is an equalizer so if anti-gravity happens to have a function
+
+that google puts into it that codex does not have or quad does not have right hypernexus
+
+can have that function and then can equalize it so that quad does have that ability and and uh codex does
+
+have that that ability now so it gives all of the abilities of all of the tools to all of the tools
+
+at any moment yes that's what it is so hypernexus is the glue that is the it is the the tool that glues
+
+together or combines together all of the other ai tools in the in the different you don't even have
+
+to like say like block builder it's a glue for real because like it how about the memory how about the
+
+memory so like security so people's always asking about security so that is so the memory is a is is a good
+
+question uh security yeah it's two questions my bad security is less is is less um prominent of a
+
+question at this particular moment because um we haven't done that much diving into memory into
+
+security but um security is is completely fucked uh like like regardless how about for uh hypernaxis
+
+okay so just in general computer security is fucked i know computers are over so
+
+oh um back for another day yeah yeah that's already that's already a thing so so um
+
+uh but okay so for memory like like all of the clients all of the different clients are adding
+
+memory to their to their platform um but nobody is adding in unified memory that connects the memory
+
+between the platforms and so that is still important memory is still important that's like one of the most
+
+coolest fucking things so that is that is like one of the primary features right now and the other most
+
+primary feature is mcp and skill um uh tool progressive disclosure uh and and tool prediction so um instead of
+
+instead of like like at the beginning of the conversation um with ai um normally uh a like a naive client
+
+uh like codex or something or flawed code or anti-gravity would just like tell the ai like all of the
+
+tools that it has available right and so if you give it the entire like home depot full of tools
+
+at the beginning of every conversation it just dumps the entire cattle catalog onto the ai and it's like
+
+i have all of these tools available to me right boom boom and the ai doesn't do anything with it because it's just
+
+overwhelmed and it's and it's wasteful it wastes tokens and it wastes contacts yeah wow so what you
+
+actually want is you want like a secondary ai that is that is like in that's like a local ai that it
+
+doesn't need to be very smart but it needs to be able to watch your con to read the conversation and
+
+then suggest the most useful tools when they're most needed i need hence the uh what was that uh we have
+
+downloaded at the office um to do that the smaller lm oh uh local lm lm studio okay is that what you're
+
+talking about uh yes okay yeah yeah so so yeah something like that so um we're on like glm yeah so
+
+so if so you're having your normal conversation with your ai about doing about uh making your crm or
+
+whatever right and um you and you start talking about doing like a billing page or something right yeah and
+
+so so so hypernexus would then go through all the different like the tool catalog and find everything
+
+related to like banking and billing okay and like and then be like okay the most useful set of tools
+
+is is like is like you know these things and like dump it in front in in front of um the ai during
+
+the conversation so the ai sees it oh my god so that's how i have it set up so instead of right
+
+instead of at the beginning of the conversation it just goes here's the whole store of tools and like
+
+like assuming hoping that the ai like remembers oh yeah like i have a chainsaw you know what i mean like
+
+like that you set it in front of the ai when it needs it most and then it just i mean it just picks
+
+it up and uses it yeah that's it and it and you know that's that's very powerful for a lot of other
+
+things too and not just the crm because i noticed in my coding yeah which i i know what the issue is i
+
+gotta uh restart my uh alum studios but that's what the problem was i was trying to ask you about i answered
+
+the questions my head right there for hypernexus but like man i'm noticing uh i'm noticing these things
+
+you're talking about on the coding level as well like how powerful it is you know what i mean especially
+
+like if you get lost in your workspace and you're you know you ask your your model several questions and
+
+like you run whatever prompts you're running and you need to find like a specific chunk of information
+
+or data from a specific date or like from a specific timeline regarding like whatever like it does it
+
+man you know you can have hypernexus pull it up i don't know that hypernexus is necessarily going to do
+
+that hypernexus i think so what it will do is it will like track it does it does automatically um
+
+harvest the context memory so it so as you talk to it that's what that is okay as you talk to it it
+
+automatically thinks to remember the most important things you talk about but then what if it doesn't
+
+think that it's important so so ai is pretty good at deciding which things are important and which
+
+things are are like fluff so like it it really it will condense down the details of your conversation
+
+as much as possible to where it knows what it was and then it will keep the most important parts of that
+
+automatically all the time but we've had to dig for some important vital information on the humania
+
+pipeline together together yeah but you're like you're like trying to prompt it all for like three
+
+days as as as you use hypernexus with it it that shouldn't be an issue anymore it should learn and
+
+it should exactly remember all those that's what it does yeah i learned that yay that's awesome because
+
+i'm using it on every project that i'm coding right now that's awesome did you have any pizza yeah just
+
+take one of my slices dude it's really good did you want to get that sauce man not yet you want that
+
+butter bar that yeah i already it's it goes down so quickly you had like two pieces you have two pieces
+
+you have two pieces of pizza i'm gonna have one of yours i'm gonna have one of yours yeah take two
+
+i'm taking one i cannot believe you only have two pieces
+
+you can't believe that you know how i eat no here use this that's some good um i will dude i had a
+
+shit ton of candy too man like an asshole yeah my mom would have kicked my head in dude huh i'm just kidding
+
+i don't know i got some
