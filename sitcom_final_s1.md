@@ -8,19 +8,19 @@
 
 ## CHARACTER SHEETS
 
-**BOB (Robert Pelloni):** Detroit accent leaking through every sentence. Genius and golden retriever in one body — sometimes in the same minute. Hoodie, always. Builds AI companies at 4 AM. Ate yogurt out of the container while explaining the meaning of God. **Lives on yogurt, coffee, and pizza** — sometimes holds a slice of stale pizza like a cigarette. 15,000 hours on a C++ game engine. Lived in his car. Sold 1,400 doses and got caught. Worked five months at Dollar Tree at $13.75/hr so Shonna could pay her credit cards. His father Gregory restored a 1964 Corvette Sting Ray from a barn and never talked about Papu's business. Bob keeps a *list* of the dead. He has never once been right about why they died, and he has never once stopped counting.
+**BOB (Robert Pelloni):** Detroit accent leaking through every sentence. Genius and golden retriever in one body — sometimes in the same minute. Hoodie, always. Builds AI companies at 4 AM. Ate yogurt out of the container while explaining the meaning of God. **Lives on yogurt, coffee, and pizza** — sometimes holds a slice of stale pizza like a cigarette. 15,000 hours on a C++ game engine. Lived in his car. Carried USB flash drives to the library for music — the whole distribution fit in his pocket. Received 1,400 extra doses once — ate half of them, threw half away. Worked five months at Dollar Tree at $13.75/hr so Shonna could pay her credit cards. His father Gregory restored a 1964 Corvette Sting Ray from a barn and never talked about Papu's business. Bob keeps a *list* of the dead. He has never once been right about why they died, and he has never once stopped counting.
 
-**LUM (Lumbros Korlous):** Dry. Deadpan. Occasionally cracks into warmth and it ruins everyone nearby. County jail veteran — honey buns, suboxone, solitary, "I draw. Even when the world is ending." Owns the post-iPhone ancestry: burner phones, StarTAC flips, USB flash drives to the library for music. He was *there* the night Noah died. He has never made it about himself, which is how you know it destroyed him. Creative left brain. He is the one who said *"we are the perfect balanced brain."*
+**LUM (Lumbros Korlous):** Dry. Deadpan. Occasionally cracks into warmth and it ruins everyone nearby. County jail veteran — honey buns, suboxone, solitary, "I draw. Even when the world is ending." Owns the flip-phone ancestry with Harry — gas-station burner phones, Nokias, StarTAC flips. (Bob's music ritual was carrying USB flash drives to the library.) He was *there* the night Noah died. He has never made it about himself, which is how you know it destroyed him. Creative left brain. He is the one who said *"we are the perfect balanced brain."*
 
 **CHRIS PAPA:** Dead. Seven feet tall, or remembered that way. Angel investor with a 5,000% ROI delusion and a different colored blazer every scene. Carried a big old bag of shrooms and a bigger bag of heart. Took Bob's side in a fight against *Nintendo* that had absolutely no reason to exist. **"Chris died for us both."** Not for Bob. For us *both*. That is the whole point and Bob still hasn't absorbed it.
 
 **NOAH:** Dead. Died *next to Lum*. On a motorcycle night that nobody in this apartment will describe accurately. Bob has been saying it wrong for fourteen years.
 
-**CRYSTAL:** Childhood orbit. Bob knew her at 13–14. Her alcoholic father — "was such a good man that he died to save me." A separate sacrifice. A separate man. Do not merge the bodies.
+**CRYSTAL:** Childhood orbit. Bob knew her at 13–14. Her alcoholic father, Mike Tobin — "was such a good man that he died to save me." He died to save Bob *and* Crystal, his daughter — spiritually, where at the end of everything there's only love (love and hate are the same spectrum; anyone would die to save another's soul). A dying man already on the brink, he spent his death as a message — "look what you made me do" — and it *divinely* rehabilitated Bob, pulling a boy from a conservative family that wanted him ignorant and safe into kinship with all humanity. God's plan — Godwin's Law, "God *wins*" (extra funny because Godwin's Law is about Hitler). A separate sacrifice. A separate man. Do not merge the bodies.
 
 **SHONNA:** The bills. The utilities. The reason Bob stood at a Dollar Tree register for five months without telling anyone it was heroic.
 
-**HARRY (Halalambos, son of Christos):** The membrane. "The membrane that keeps it honest, that keeps it pure." Not a brain. Not a heart. The *interface* between two men who each think they're the whole show.
+**HARRY (Halalambos, son of Christos):** Lum's younger brother (42) and Bob's friend. The membrane. "The membrane that keeps it honest, that keeps it pure." Not a brain. Not a heart. The *interface* between two men who each think they're the whole show. Shares the flip-phone ancestry with Lum — the Nokias, the StarTAC flips, the gas-station burner phones.
 
 **GREGORY:** Bob's father. Air Force. Silence as a love language. Barn-find 1964 Corvette Sting Ray restored to show-winner. Hunting trips where nothing was said and everything was said. Won't talk about Papu's business that was supposed to be Bob's.
 
@@ -35,7 +35,7 @@
 | # | Title | Dark Theme | Core |
 |---|-------|-----------|------|
 | 1 | "Yogurt, Coffee, and Pizza" | Food as sacrament; the dashboard as liturgy; two men and a ritual | ★★★ |
-| 2 | "1,400 Doses" | The dealing, the FBI bust, "jail is honest about owning you" | ★★ |
+| 2 | "1,400 Doses" | A windfall of 1,400 extra doses — ate half, threw half away; "jail is honest about owning you" | ★★ |
 | 3 | "County Honey Buns" | Lum's county jail; drawing through the end of the world | ★★ |
 | 4 | "The Adapter" | "God is using me as an adapter"; the Hannibal Lecter government | ★★★ |
 | 5 | "The Sting Ray" | Gregory's 1964 Corvette; barn-find resurrection; Air Force silence | ★★★ |
@@ -251,7 +251,7 @@ Prompt: Two men on a couch at dawn, empty yogurt container and open pizza box on
 
 ## EPISODE 2: "1,400 DOSES"
 
-*Based on: the dealing past, the FBI, and the honesty of incarceration.*
+*Based on: a windfall of 1,400 extra doses — ate half, threw half away — and the honesty of incarceration.*
 
 ### TEASER
 
@@ -279,19 +279,19 @@ Give or take *what*? A hundred? A felony?
 **INT. BOB'S APARTMENT — CONTINUOUS**
 
 **BOB:**
-They were free samples. Triad. 1,400 little envelopes of somebody else's decision. I was a *courier of poor choices*. That's logistics. That's *startup*.
+They were free samples. I ordered research chemicals and the Triad threw in an extra 1,400 doses for *no reason*. Somebody else's decision.
 
 **LUM:**
-You were a drug dealer.
+So you were *drowning* in it.
 
 **BOB:**
-I was a *freelance pharmaceutical redistribution specialist* and the FBI disagreed with my title.
+I was *buried*. 1,400 hits I never even asked for. I ate half of them and threw the other half away.
 
 **LUM:**
-The FBI disagreed with your *freedom*.
+You *threw away* seven hundred doses?
 
 **BOB:**
-...Yeah. That's the part that stung.
+...And I don't even remember most of the half I ate. That's the part that stung.
 
 *Bob holds up two identical empty jars. Puts them in a line.*
 
@@ -1686,7 +1686,7 @@ I'm going to read it *aloud*.
 ...Okay. Read it.
 
 **BOB:**
-Noah. Died next to Lum. Chris. Died for us both. Crystal's dad. Died to save me. *Three men*. Three prepositions. One *room*. And the room is *full*.
+Noah. Died next to Lum. Chris. Died for us both. Crystal's dad. Died to save us both. *Three men*. Three prepositions. One *room*. And the room is *full*.
 
 *He folds the list. Puts it away.*
 

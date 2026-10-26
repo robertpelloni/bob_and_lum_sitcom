@@ -10,9 +10,9 @@
 ## CAST (post-canon)
 
 - **BOB** — analytical right brain. The adapter. Yogurt, coffee, pizza. Keeps the list. Getting the prepositions right at last.
-- **LUM** — creative left brain. The protocol. Post-iPhone ancestry. Was *there* when Noah died. Said *"we are the perfect balanced brain."*
+- **LUM** — creative left brain. The protocol. The flip-phone ancestry (gas-station burner phones, StarTAC flips — his and Harry's). Was *there* when Noah died. Said *"we are the perfect balanced brain."*
 - **CHRIS PAPA** — dead. Angel investor. Died for us both. The bit outlived the man. Blazer changes color every scene.
-- **HARRY (Halalambos, son of Christos)** — the membrane. Romans 8:28 as a compiler. Crime to synapse.
+- **HARRY (Halalambos, son of Christos)** — Lum's younger brother and Bob's friend. The membrane. Romans 8:28 as a compiler. Crime to synapse.
 - **NOAH** — died next to Lum. A Tuesday. Not for anyone.
 - **CRYSTAL** — 13–14. Her dad died *near* Bob. Separate body.
 - **GREGORY** — 1964 Sting Ray. Air Force silence. Papu's business, locked.
@@ -132,7 +132,7 @@ Prompt: Pizza box, coffee mug, and yogurt container arranged as a religious stil
 ## EPISODE 4: CRYSTAL'S DAD
 
 ### SCENE 1
-Three names on the list. Noah died next to Lum — correct. Chris died for us both — correct. Crystal's dad died to save me — *that* one's the problem.
+Three names on the list. Noah died next to Lum — correct. Chris died for us both — correct. Crystal's dad died to save us both — *that* one's the problem.
 
 ### SCENE 2
 **LUM** audits the preposition. "To save me" puts Bob at the center. Bob has always been at the *edge*. The word is *near*. Crystal's dad died *near* you. That's not a save, that's a *witness*. The witness has responsibilities.
@@ -162,13 +162,13 @@ Prompt: Hand writing ALIVE then PROMISE beneath it. Definitive, cinematic.
 **LUM** lays out dead tech like a museum. StarTAC. Blackberry. USB drive. Shoebox. We started from a box. The box is the origin. Technology is the box getting smaller and then *disappearing* into your hand.
 
 ### SCENE 2
-USB flash drives to the library for music. Downloading went extinct and nobody noticed, because streaming is downloading that *never finishes*. The box that stays open. **BOB**: that's haunting. **LUM**: that's *post-iPhone*.
+Bob's ritual — USB flash drives to the library for music. Downloading went extinct and nobody noticed, because streaming is downloading that *never finishes*. The box that stays open. **BOB**: that's haunting. **LUM**: that's *post-iPhone*.
 
 ### SCENE 3
 Emulator handhelds. A 1994 SNES game from 1998 middle school. The box with a screen that holds everything that ever mattered. You can't put it on a slide. **BOB**: you can put it on a *show*.
 
 ### SCENE 4
-Burner phones. The *flip*. The moment the box closes and you're alone with it. **LUM** remembers the old box. **BOB** builds the new one. That's the balance. The tower is in the box.
+Burner phones. The *flip* — mine and Harry's. The moment the box closes and you're alone with it. **LUM** remembers the old box. **BOB** builds the new one. That's the balance. The tower is in the box.
 
 ### KLING AI SCENE PROMPTS (VIDEO GENERATION)
 
@@ -176,7 +176,7 @@ Burner phones. The *flip*. The moment the box closes and you're alone with it. *
 Prompt: Table of dead tech laid out like a museum, one man curating. Archaeological tenderness.
 
 **SCENE PROMPT 2: THE DRIVE**
-Prompt: Hand plugging a USB drive into a library computer, warm nostalgic light. Post-iPhone ancestry.
+Prompt: Hand plugging a USB drive into a library computer, warm nostalgic light. Bob's pre-iPhone music ritual.
 
 **SCENE PROMPT 3: THE FLIP**
 Prompt: StarTAC flip phone closing with a snap, light dying with the flip. Sacred technology.

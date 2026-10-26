@@ -2459,7 +2459,7 @@ The supernova isn't going to build itself.
 | 6 | "The Glue That Eats Everything" | transcript2 + transcript4 | HyperNexus, 5 billion/sec, AI hacking offline PCs, botnet prophecy, "the fire is thinking" |
 | 7 | "Everyone's Running in the Same Direction" | Psytrance Live | Google dark patterns, identical AI tools, "smartest baby of 1983," broken products |
 | 8 | "The Supernova" | ALL SOURCE MATERIAL | The vision, the void, "the track is the only thing keeping the void at bay" || 9 | "The Sting Ray" | corvette chat + Great Lakes 5 + 20260930_213859 | Gregory's 1964 Corvette, barn-find resurrection, Air Force silence, Papu's business, hunting with Dad |
-| 10 | "Noah Died Next to Lum" | Great Lakes 5 + Great Lakes 19 + Voice 261001 | Death visions, Crystal's dad ('he died to save me'), full moon drum circle, frequencies |
+| 10 | "Noah Died Next to Lum" | Great Lakes 5 + Great Lakes 19 + Voice 261001 | Death visions, Crystal's dad ('he died to save us both'), full moon drum circle, frequencies |
 | 11 | "Dollar Tree, Baby" | Voice 260927_192903 + Great Lakes 11 | .75/hr, Shonna's bills, the model that puts you in jail, five months of quiet heroism |
 | 12 | "For No Reason" | Naylor St + Voice 260927_205538 | shrooms with Chris, Nintendo the villain for no reason, the movie idea |
 | 13 | "The Fingerprint" | October skit conception + Voice 261001 | The comedy act on tape — 'we're the perfect balanced brain'; the podcast that is this sitcom |

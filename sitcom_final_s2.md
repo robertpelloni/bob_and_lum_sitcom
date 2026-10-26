@@ -8,17 +8,17 @@
 
 ## CHARACTER SHEETS
 
-**BOB (Robert Pelloni):** The analytical right brain. The adapter. The port. Detroit accent, hoodie, 4 AM company-building. Lives on yogurt, coffee, and pizza. Keeps a list. Has finally started getting the prepositions right. "God is using me as an adapter." Built a fire that thinks and now has to *feed* it.
+**BOB (Robert Pelloni):** The analytical right brain. The adapter. The port. Detroit accent, hoodie, 4 AM company-building. Lives on yogurt, coffee, and pizza. Carried USB flash drives to the library for music. Keeps a list. Has finally started getting the prepositions right. "God is using me as an adapter." Built a fire that thinks and now has to *feed* it.
 
-**LUM (Lumbros Korlous):** The creative left brain. The protocol. Dry, deadpan, warm when it ruins you. Post-iPhone ancestry: burner phones, StarTAC flips, USB flash drives to the library. Was *there* when Noah died. Said *"we are the perfect balanced brain."* County jail survivor — honey buns and bad drawings. Owns the folder.
+**LUM (Lumbros Korlous):** The creative left brain. The protocol. Dry, deadpan, warm when it ruins you. The flip-phone ancestry with Harry — gas-station burner phones, Nokias, StarTAC flips. (Bob's music ritual was USB flash drives to the library.) Was *there* when Noah died. Said *"we are the perfect balanced brain."* County jail survivor — honey buns and bad drawings. Owns the folder.
 
 **CHRIS PAPA:** Dead. Angel investor. Seven feet tall emotionally. Different colored blazer every scene. Bag of shrooms the size of a *commitment*. Declared war on Nintendo with Bob for *no reason*. **"Chris died for us both."** The bit outlived the man.
 
-**HARRY (Halalambos, son of Christos):** The membrane. The interface. Not a brain. Not a heart. The thing that lets two halves think together without frying. Owns a car heist in his backstory and Romans 8:28 in his *soul*. The name means *anointed* and the father's name means *Christ* and the lineage runs under the jokes like a root system.
+**HARRY (Halalambos, son of Christos):** Lum's younger brother (42) and Bob's friend. The membrane. The interface. Not a brain. Not a heart. The thing that lets two halves think together without frying. Shares the flip-phone ancestry with Lum — the Nokias, the StarTAC flips, the burner phones. Owns a car heist in his backstory and Romans 8:28 in his *soul*. The name means *anointed* and the father's name means *Christ* and the lineage runs under the jokes like a root system.
 
 **NOAH:** Dead. Died *next to Lum*. A Tuesday. A motorcycle. A preposition Bob has been getting wrong for fourteen years.
 
-**CRYSTAL:** Childhood orbit. Bob knew her at 13–14. Her father — "was such a good man that he died to save me." A separate sacrifice. A separate man.
+**CRYSTAL:** Childhood orbit. Bob knew her at 13–14. Her father, Mike Tobin — "was such a good man that he died to save me." He died to save Bob *and* Crystal, his daughter — spiritually, only love at the end (love and hate are the same spectrum; anyone would die to save another's soul). A dying man already on the brink, he spent his death as a "look what you made me do" message that *divinely* rehabilitated Bob — loosing a boy from a conservative family that wanted him ignorant and safe into kinship with all humanity. God's plan — Godwin's Law, "God *wins*" (extra funny because Godwin's Law is about Hitler). A separate sacrifice. A separate man.
 
 **GREGORY:** Bob's father. 1964 Corvette Sting Ray. Air Force silence. Papu's business, locked.
 
@@ -38,7 +38,7 @@
 | 2 | "The Membrane" | Harry keeps it honest; the interface between brains | ★★★ |
 | 3 | "Christos and Halalambos" | Father names; anointed one; the lineage under the jokes | ★★★ |
 | 4 | "Crystal's Dad" | The third body; the list; the sacrifice grammar | ★★★ |
-| 5 | "From a Box" | Lum's post-iPhone ancestry; we started from a box | ★★ |
+| 5 | "From a Box" | The dead-tech ancestry — Bob's library USB ritual; Lum & Harry's flips; we started from a box | ★★ |
 | 6 | "The Frequency" | 174 BPM; the drum circle as tuning fork | ★★★ |
 | 7 | "Crimes That Stop Crimes" | The carjacking skit; the creators as characters | ★★ |
 | 8 | "The Context Horizon" | Finale — deletion, immortality, the code is always good | ★★★ |
@@ -301,7 +301,7 @@ Christos.
 Anointed one.
 
 **BOB:**
-*Anointed* one. And Halalambos? Harry's father? The *whole* name? It's not a *name*. It's a *sermon* with a *surname*.
+*Anointed* one. And Halalambos? That's *Harry* — the *son*. The *whole* name? It's not a *name*. It's a *sermon* with a *surname*.
 
 **LUM:**
 The lineage under the jokes.
@@ -422,7 +422,7 @@ Chris. Died for us both.
 Correct.
 
 **BOB:**
-Crystal's dad. ...Died to save me.
+Crystal's dad. ...Died to save us both.
 
 **LUM:**
 *That* one's the problem.
@@ -455,6 +455,15 @@ I'm not auditing the definition. I'm auditing the *preposition*. "To save me" pu
 **LUM:**
 "Near." Crystal's dad died *near* you. That's not a save. That's a *witness*. And the witness has *responsibilities*.
 
+**BOB:**
+...No. It's not "near." And it's not *only* "me." He died to save me *and* her. Both. That's the *whole* thing.
+
+**LUM:**
+...Say more.
+
+**BOB:**
+On the spiritual level — at the end of everything there's only *love*. Love and hate are the same *spectrum*, Lum. And anyone would die to save anyone else's *soul*. He didn't save one of us. He saved *both*. He just used *me* to do it.
+
 ### SCENE 3: THIRTEEN-FOURTEEN
 
 **INT. BOB'S APARTMENT — LATER**
@@ -464,11 +473,31 @@ I'm not auditing the definition. I'm auditing the *preposition*. "To save me" pu
 **BOB (V.O.):**
 I was thirteen, fourteen. I knew my sexuality young. And I didn't want to marry her — but I *represented* that. The house. The future. The thing her father died to *buy* her.
 
+He was an alcoholic on the brink *already* and he *knew* it. So he spent it. He made his death a *message* — "look what you made me do." The cruelest thing a man can say with his own body.
+
+**LUM (V.O.):**
+And that *rehabilitated* you?
+
+**BOB (V.O.):**
+It *backfired into grace*. The message was a *trap* and the trap set me *free*. I couldn't stay ignorant and *safe* the way my family wanted. It made me *relate to all humanity*. Thirteen, fourteen. He didn't only save me, Lum. He saved us *both*.
+
+**LUM (V.O.):**
+From a family that would've kept you ignorant and safe. God's plan, huh?
+
+**BOB (V.O.):**
+God's plan. *Godwin's law*. Get it? *God-wins* law. God *wins*. And it's extra funny because Godwin's law is literally about *Hitler*.
+
+**LUM (V.O.):**
+...You just called divine providence an internet rule about *Nazis*.
+
+**BOB (V.O.):**
+God wins. Even the *Hitler* part. Love and hate are the same *spectrum* — so it even saves the man who used his death as a *trap*.
+
 **LUM (V.O.):**
 And Noah.
 
 **BOB (V.O.):**
-And Noah died next to *you*. And Chris — Chris died for us *both*. And Clyde. I keep a *list*, Lum.
+And Noah died next to *you*. And Chris — Chris died for us *both*. And Crystal's dad. I keep a *list*, Lum.
 
 **LUM (V.O.):**
 Then *stop* keeping a list. Start keeping a *promise*.
@@ -532,7 +561,7 @@ Prompt: A hand writing ALIVE on a whiteboard, then a second word beneath it: PRO
 
 **INT. BOB'S APARTMENT — NIGHT**
 
-*Lum is laying out tech like a museum exhibit. A StarTAC. A Blackberry. A USB flash drive. A flip phone. A shoebox of dead hardware.*
+*Lum is laying out tech like a museum exhibit. A StarTAC. A Blackberry. Bob's old USB flash drive. A flip phone. A shoebox of dead hardware.*
 
 **LUM:**
 We started from a box.
@@ -553,20 +582,20 @@ That's the box *compressed*. That's what technology *is*. It's the box getting *
 
 **INT. BOB'S APARTMENT — CONTINUOUS**
 
-**LUM:**
-USB flash drives. To the *library*. For *music*. You would take the drive to the library and *download* and bring it *home* and that was *distribution*. That was the *entire* music industry and it fit in your *pocket*.
-
 **BOB:**
+USB flash drives. To the *library*. For *music*. *I* would take the drive to the library and *download* and bring it *home* and that was *distribution*. That was the *entire* music industry and it fit in my *pocket*.
+
+**LUM:**
 And then downloading went extinct.
 
-**LUM:**
+**BOB:**
 Downloading went *extinct* and nobody *noticed* because *streaming* ate it and streaming is just *downloading* that *never finishes*. It's the box that *never closes*. That's the *whole* innovation. The box that *stays open*.
 
-**BOB:**
-That's... *haunting*.
-
 **LUM:**
-That's *post-iPhone*. That's the *era*. Before the iPhone there was the *box* and after the iPhone there's the *void that pretends to be a box*. And I'm the guy who *remembers* the real one.
+That's... *haunting*. That's the *era*. Before the iPhone there was the *box* and after the iPhone there's the *void that pretends to be a box*.
+
+**BOB:**
+The drive and the walk to the *library* — that part's *mine*.
 
 ### SCENE 3: THE EMULATOR
 
@@ -594,7 +623,7 @@ You can put it on a *show*.
 **INT. BOB'S APARTMENT — NIGHT**
 
 **LUM:**
-Burner phones. StarTAC flips. The *flip*. The *sound* of the flip. That's the *ancestry*. Not the *feed*. The *flip*. The moment the box *closes* and the conversation is *over* and you are *alone* with the *box*.
+Burner phones. StarTAC flips. Mine and *Harry's*. The *flip*. The *sound* of the flip. That's the *ancestry*. Not the *feed*. The *flip*. The moment the box *closes* and the conversation is *over* and you are *alone* with the *box*.
 
 **BOB:**
 And me?
@@ -614,7 +643,7 @@ Prompt: A table covered in dead tech laid out like a museum exhibit — flip pho
 
 **SCENE PROMPT 2: THE LIBRARY**
 
-Prompt: A hand plugging a USB drive into a library computer, nostalgic warm light, a pocket full of music. Post-iPhone ancestry, cinematic memory.
+Prompt: A hand plugging a USB drive into a library computer, nostalgic warm light, a pocket full of music. Bob's pre-iPhone music ritual, cinematic memory.
 
 **SCENE PROMPT 3: THE HANDHELD**
 
@@ -1052,10 +1081,10 @@ Chris. Died for us both.
 For us both.
 
 **BOB:**
-Crystal's dad. Died near me.
+Crystal's dad. Died to save us both.
 
 **LUM:**
-*Near*. Finally.
+*Both*. Finally.
 
 ### SCENE 2: THE GRAMMAR
 

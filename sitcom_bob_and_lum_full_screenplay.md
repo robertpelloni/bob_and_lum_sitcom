@@ -1521,10 +1521,10 @@ Did you have a cell phone?
 No. Well — those pre-iPhone burner phones. The ones with buttons. Gas station phones.
 
 **LUM:**
-The old Nokias and StarTAC flips.
+The old Nokias and StarTAC flips. *Mine and Harry's* — those were never yours.
 
 **BOB:**
-Exactly. So I locked myself away from society and cut off any outside source.
+Exactly. I had the *library* — the USB flash drive and the walk home — not the phones. So I locked myself away from society and cut off any outside source.
 
 **LUM:**
 *(quietly)*
@@ -3055,7 +3055,7 @@ The supernova isn't going to build itself.
 | 6 | "5 Billion Per Second" | Recording.txt | CPU history, AI security, the mortgage call |
 | 7 | "Everyone's Running in the Same Direction" | Psytrance Live | AI tools, Google pricing, smartest baby of 1983 |
 | 8 | "The Supernova" | ALL SOURCE MATERIAL | The vision, the friendship, the future || 9 | "The Sting Ray" | corvette chat + Great Lakes 5 + 20260930_213859 | Gregory's 1964 Corvette, barn-find resurrection, Air Force silence, Papu's business, hunting with Dad |
-| 10 | "Noah Died Next to Lum" | Great Lakes 5 + Great Lakes 19 + Voice 261001 | Death visions, Crystal's dad ('he died to save me'), full moon drum circle, frequencies |
+| 10 | "Noah Died Next to Lum" | Great Lakes 5 + Great Lakes 19 + Voice 261001 | Death visions, Crystal's dad ('he died to save us both'), full moon drum circle, frequencies |
 | 11 | "Dollar Tree, Baby" | Voice 260927_192903 + Great Lakes 11 | .75/hr, Shonna's bills, the model that puts you in jail, five months of quiet heroism |
 | 12 | "For No Reason" | Naylor St + Voice 260927_205538 | shrooms with Chris, Nintendo the villain for no reason, the movie idea |
 | 13 | "The Fingerprint" | October skit conception + Voice 261001 | The comedy act on tape — 'we're the perfect balanced brain'; the podcast that is this sitcom |

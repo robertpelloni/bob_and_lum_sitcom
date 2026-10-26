@@ -25,14 +25,14 @@
 
 | Character | Description |
 |-----------|-------------|
-| **BOB** (Robert Pelloni) | 43, Detroit-born solo developer and "tech polymath." Intense, fast-talking, prone to grandiose declarations and sudden vulnerability. Wears the same hoodie. Has lived multiple lives — from addiction and jail to building AI companies. Yogurt, coffee, and pizza connoiseur. Father Gregory (1964 Sting Ray). "Noah died next to Lum." "Chris died for us both." Crystal's dad "died to save me." Dollar Tree five months for Shonna's bills. Took on Nintendo. "God is using me as an adapter." Co-created the comedy act / podcast — but it was *Lum* who said "we're the perfect balanced brain." |
-| **LUM** | Bob's best friend and creative partner. Calm, dry-witted counterweight. The one who says "I know" when Bob says "The dashboard is broken." Carries his own heavy history but processes it through humor. Korean mother + Greek father. Post-iPhone era: gas station burner phones and StarTAC flips, USB flash drives to the library for music. Owns the creative-left half of "the perfect balanced brain." |
+| **BOB** (Robert Pelloni) | 43, Detroit-born solo developer and "tech polymath." Intense, fast-talking, prone to grandiose declarations and sudden vulnerability. Wears the same hoodie. Has lived multiple lives — from addiction and jail to building AI companies. Yogurt, coffee, and pizza connoiseur. Carried USB flash drives to the library for music. Father Gregory (1964 Sting Ray). "Noah died next to Lum." "Chris died for us both." Crystal's dad (Mike Tobin) "died to save us both." Dollar Tree five months for Shonna's bills. Took on Nintendo. "God is using me as an adapter." Co-created the comedy act / podcast — but it was *Lum* who said "we're the perfect balanced brain." |
+| **LUM** | Bob's best friend and creative partner. 44. Calm, dry-witted counterweight. The one who says "I know" when Bob says "The dashboard is broken." Carries his own heavy history but processes it through humor. Korean mother + Greek father. The flip-phone ancestry — gas-station burner phones and StarTAC flips — is Lum's and Harry's (Bob's music ritual was USB flash drives to the library). Owns the creative-left half of "the perfect balanced brain." |
 | **GREGORY** | Bob's father. Barn-find 1964 Corvette Sting Ray restored by hand to show-winner. Air Force. Hunting trips. Won't talk about Papu's business. |
 | **SHONNA** | Foreclosure on one end, credit-card bills on the other. Bob's quiet engine. |
 | **NOAH** | The friend who died next to Lum. |
 | **CHRIS PAPA** | Dead. "Chris died for us both." The real sacrifice. |
 | **CRYSTAL** | Childhood orbit at 13-14. Alcoholic father whose sacrifice "saved" Bob. |
-| **HARRY** | Street-tech specialist. Real name Halalambos — father Christos. "Step on the Tongue of the Devil." The membrane that keeps Bob and Lum honest. |
+| **HARRY** | Street-tech specialist. Real name Halalambos — father Christos. "Step on the Tongue of the Devil." Lum's younger brother (42) and Bob's friend. The membrane that keeps Bob and Lum honest. |
 | **AGATHI** | Family. Greek fire via video call. Deeply protective of Lum. |
 
 ---
@@ -593,7 +593,7 @@ The dashboard becomes a metaphor for life:
 | 2 | "The Membrane" | Harry keeps it honest |
 | 3 | "Christos and Halalambos" | The root system under the lawn |
 | 4 | "Crystal's Dad" | Three names, three prepositions |
-| 5 | "From a Box" | Lum's post-iPhone ancestry |
+| 5 | "From a Box" | The dead-tech ancestry — Bob's library-USB ritual; Lum & Harry's flips |
 | 6 | "The Frequency" | 174 BPM; the door is open |
 | 7 | "Crimes That Stop Crimes" | The Chevy Cruze Doctrine |
 | 8 | "The Context Horizon" | Deletion; the code is good in the end |
