@@ -18,7 +18,7 @@
 
 **NOAH:** Dead. Died *next to Lum*. A Tuesday. A motorcycle. A preposition Bob has been getting wrong for fourteen years.
 
-**CRYSTAL:** Childhood orbit. Bob knew her at 13–14. Her father, Mike Tobin — "was such a good man that he died to save me." He died to save Bob *and* Crystal, his daughter — spiritually, only love at the end (love and hate are the same spectrum; anyone would die to save another's soul). A dying man already on the brink, he spent his death as a "look what you made me do" message that *divinely* rehabilitated Bob — loosing a boy from a conservative family that wanted him ignorant and safe into kinship with all humanity. God's plan — Godwin's Law, "God *wins*" (extra funny because Godwin's Law is about Hitler). A separate sacrifice. A separate man.
+**CRYSTAL:** Childhood orbit. Bob knew her at 13–14. Her father — "was such a good man that he died to save me." He died to save Bob *and* Crystal, his daughter — spiritually, only love at the end (love and hate are the same spectrum; anyone would die to save another's soul). A dying man already on the brink, he spent his death as a "look what you made me do" message that *divinely* rehabilitated Bob — loosing a boy from a conservative family that wanted him ignorant and safe into kinship with all humanity. God's plan — Godwin's Law, "God *wins*" (extra funny because Godwin's Law is about Hitler). A separate sacrifice. A separate man.
 
 **GREGORY:** Bob's father. 1964 Corvette Sting Ray. Air Force silence. Papu's business, locked.
 
@@ -468,10 +468,10 @@ On the spiritual level — at the end of everything there's only *love*. Love an
 
 **INT. BOB'S APARTMENT — LATER**
 
-*Cutaway: grainy memory. Two kids on bikes. Crystal. Kim. A house that felt like a trap.*
+*Cutaway: grainy memory. A cluster of gifted kids on bikes in a Michigan subdivision. Crystal and Kim among them — peers, not close. A house that felt like a trap.*
 
 **BOB (V.O.):**
-I was thirteen, fourteen. I knew my sexuality young. And I didn't want to marry her — but I *represented* that. The house. The future. The thing her father died to *buy* her.
+I was thirteen, fourteen. We were all in the gifted track together — MST at Utica Community Schools, Macomb County; SAGE before that — a whole *cluster* of smart kids who knew each other and none of us were really close. I knew my sexuality young. And I didn't want to marry her — but I *represented* that. The house. The future. The thing her father died to *buy* her.
 
 He was an alcoholic on the brink *already* and he *knew* it. So he spent it. He made his death a *message* — "look what you made me do." The cruelest thing a man can say with his own body.
 
@@ -547,7 +547,7 @@ Prompt: Two-shot, one man correcting another's grammar of grief, serious and ten
 
 **SCENE PROMPT 3: THE BIKE MEMORY**
 
-Prompt: Grainy nostalgic flashback of two kids on bikes at dusk, a small house in the background, dream-like film-grain. Childhood as evidence.
+Prompt: Grainy nostalgic flashback of a cluster of gifted kids on bikes at dusk, a small house in the background, dream-like film-grain. Childhood as evidence.
 
 **SCENE PROMPT 4: THE WORD**
 

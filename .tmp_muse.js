@@ -70,6 +70,11 @@ function makeSender(ws) {
     })()`;
     const v = await send('Runtime.evaluate', { expression: expr, returnByValue: true });
     console.log(typeof v === 'string' ? v : JSON.stringify(v, null, 2));
+  } else if (mode === 'search') {
+    const needle = process.argv[4] || 'verification packet';
+    const expr2 = "(() => { const t = document.body.innerText; const idx = t.lastIndexOf('" + needle.replace(/'/g, '') + "'); if (idx < 0) return JSON.stringify({found:false, len:t.length, tail:t.slice(-400)}); return JSON.stringify({found:true, len:t.length, after:t.slice(idx, idx+5000)}); })()";
+    const v2 = await send('Runtime.evaluate', { expression: expr2, returnByValue: true });
+    console.log(typeof v2 === 'string' ? v2 : JSON.stringify(v2, null, 2));
   }
 
   try { ws.close(); } catch (e) {}

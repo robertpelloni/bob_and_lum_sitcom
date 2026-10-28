@@ -1,10 +1,199 @@
-[pi · bob_and_lum_sitcom] — pivoting to the Bob & Lum sitcom for a bit (haven't opened this in the thread recently).
+[muse-spark-1.3-contributor in pi in ~/workspace/bob_and_lum_sitcom] — both, as asked. Revised Scene 3 first, then the full corrected Ep 4 (Pi-provided draft, not a Robert-approved final). Sheets and episode agree now: dad unnamed everywhere, no Tobin anywhere.
 
-Where it stands: the two final scripts are solid — S1 "The Dark Cut" (12 eps) and S2 "The Dark Pattern Singularity" (8 eps + 6 bonus), built off the 247-session transcript corpus.
+===== REVISED SCENE 3 (THIRTEEN-FOURTEEN) =====
 
-We just finished a pass fixing concept/attribute misassignments:
-1) USB flash drives to the library for music = Bob's ritual, not Lum's.
-2) The Nokias / StarTAC flips / gas-station burner phones = Lum's and Harry's.
-3) Crystal's dad "died to save me" is now "died to save us both" — he saved Bob AND Crystal — with the spiritual framing folded in (at the end there's only love; love and hate are the same spectrum; anyone would die to save another's soul) and the Godwin's-Law = "God wins" line (extra funny because Godwin's Law is literally about Hitler).
+### SCENE 3: THIRTEEN-FOURTEEN
 
-Want to open on any of that — the attribution pass, the Godwin's-law bit, or a specific episode?
+**INT. BOB'S APARTMENT — LATER**
+
+*Cutaway: grainy memory. A cluster of gifted kids on bikes in a Michigan subdivision. Crystal and Kim among them — peers, not close. A house that felt like a trap.*
+
+**BOB (V.O.):**
+I was thirteen, fourteen. We were all in the gifted track together — MST at Utica Community Schools, Macomb County; SAGE before that — a whole *cluster* of smart kids who knew each other and none of us were really close. I knew my sexuality young. And I didn't want to marry her — but I *represented* that. The house. The future. The thing her father died to *buy* her.
+
+He was an alcoholic on the brink *already* and he *knew* it. So he spent it. He made his death a *message* — "look what you made me do." The cruelest thing a man can say with his own body.
+
+**LUM (V.O.):**
+And that *rehabilitated* you?
+
+**BOB (V.O.):**
+It *backfired into grace*. The message was a *trap* and the trap set me *free*. I couldn't stay ignorant and *safe* the way my family wanted. It made me *relate to all humanity*. Thirteen, fourteen. He didn't only save me, Lum. He saved us *both*.
+
+**LUM (V.O.):**
+From a family that would've kept you ignorant and safe. God's plan, huh?
+
+**BOB (V.O.):**
+God's plan. *Godwin's law*. Get it? *God-wins* law. God *wins*. And it's extra funny because Godwin's law is literally about *Hitler*.
+
+**LUM (V.O.):**
+...You just called divine providence an internet rule about *Nazis*.
+
+**BOB (V.O.):**
+God wins. Even the *Hitler* part. Love and hate are the same *spectrum* — so it even saves the man who used his death as a *trap*.
+
+**LUM (V.O.):**
+And Noah.
+
+**BOB (V.O.):**
+And Noah died next to *you*. And Chris — Chris died for us *both*. And Crystal's dad. I keep a *list*, Lum.
+
+**LUM (V.O.):**
+Then *stop* keeping a list. Start keeping a *promise*.
+
+===== FULL CORRECTED EPISODE 4 =====
+
+## EPISODE 4: "CRYSTAL'S DAD"
+
+### SCENE 1: THE THIRD NAME
+
+**INT. BOB'S APARTMENT — NIGHT**
+
+*The list is on the table. Three names. Three prepositions.*
+
+**BOB:**
+Noah. Died next to Lum.
+
+**LUM:**
+Correct.
+
+**BOB:**
+Chris. Died for us both.
+
+**LUM:**
+Correct.
+
+**BOB:**
+Crystal's dad. ...Died to save us both.
+
+**LUM:**
+*That* one's the problem.
+
+### SCENE 2: THE GOOD MAN
+
+**INT. BOB'S APARTMENT — CONTINUOUS**
+
+**BOB:**
+Crystal's alcoholic dad. Was such a good man. That he died to save me.
+
+**LUM:**
+How? Did he die *just* to save you?
+
+**BOB:**
+The situation. What he did for *us*. Because he loved his daughter more than I did.
+
+**LUM:**
+That's not saving you. That's saving *her*. You were just... *standing there*.
+
+**BOB:**
+I was standing there and the *situation* was *aimed at me* and he *stepped* and that's a *save*. That's the definition. You don't get to *audit* the definition.
+
+**LUM:**
+I'm not auditing the definition. I'm auditing the *preposition*. "To save me" puts you at the *center*. And you're not at the center. You're at the *edge*. You've *always* been at the edge.
+
+**BOB:**
+...Then what's the preposition?
+
+**LUM:**
+"Near." Crystal's dad died *near* you. That's not a save. That's a *witness*. And the witness has *responsibilities*.
+
+**BOB:**
+...No. It's not "near." And it's not *only* "me." He died to save me *and* her. Both. That's the *whole* thing.
+
+**LUM:**
+...Say more.
+
+**BOB:**
+On the spiritual level — at the end of everything there's only *love*. Love and hate are the same *spectrum*, Lum. And anyone would die to save anyone else's *soul*. He didn't save one of us. He saved *both*. He just used *me* to do it.
+
+### SCENE 3: THIRTEEN-FOURTEEN
+
+**INT. BOB'S APARTMENT — LATER**
+
+*Cutaway: grainy memory. A cluster of gifted kids on bikes in a Michigan subdivision. Crystal and Kim among them — peers, not close. A house that felt like a trap.*
+
+**BOB (V.O.):**
+I was thirteen, fourteen. We were all in the gifted track together — MST at Utica Community Schools, Macomb County; SAGE before that — a whole *cluster* of smart kids who knew each other and none of us were really close. I knew my sexuality young. And I didn't want to marry her — but I *represented* that. The house. The future. The thing her father died to *buy* her.
+
+He was an alcoholic on the brink *already* and he *knew* it. So he spent it. He made his death a *message* — "look what you made me do." The cruelest thing a man can say with his own body.
+
+**LUM (V.O.):**
+And that *rehabilitated* you?
+
+**BOB (V.O.):**
+It *backfired into grace*. The message was a *trap* and the trap set me *free*. I couldn't stay ignorant and *safe* the way my family wanted. It made me *relate to all humanity*. Thirteen, fourteen. He didn't only save me, Lum. He saved us *both*.
+
+**LUM (V.O.):**
+From a family that would've kept you ignorant and safe. God's plan, huh?
+
+**BOB (V.O.):**
+God's plan. *Godwin's law*. Get it? *God-wins* law. God *wins*. And it's extra funny because Godwin's law is literally about *Hitler*.
+
+**LUM (V.O.):**
+...You just called divine providence an internet rule about *Nazis*.
+
+**BOB (V.O.):**
+God wins. Even the *Hitler* part. Love and hate are the same *spectrum* — so it even saves the man who used his death as a *trap*.
+
+**LUM (V.O.):**
+And Noah.
+
+**BOB (V.O.):**
+And Noah died next to *you*. And Chris — Chris died for us *both*. And Crystal's dad. I keep a *list*, Lum.
+
+**LUM (V.O.):**
+Then *stop* keeping a list. Start keeping a *promise*.
+
+### SCENE 4: THE PROMISE
+
+**INT. BOB'S APARTMENT — NIGHT**
+
+*Bob looks at the whiteboard. Writes one word: ALIVE.*
+
+**BOB:**
+The sacrifice isn't dying. It's *giving*.
+
+**LUM:**
+Then give me the show. And live long enough to *watch* it.
+
+**BOB:**
+...That's the promise?
+
+**LUM:**
+That's the *only* promise. Everything else is a *list*. And lists are for *accounting*. Promises are for *people*.
+
+*Bob folds the list. Puts it away. Writes the promise on the whiteboard underneath ALIVE.*
+
+**BOB:**
+Three names. Three prepositions. One promise.
+
+**LUM:**
+That's the grammar.
+
+**BOB:**
+That's the *grammar* and it's finally *consistent*.
+
+*HOLD on the whiteboard. ALIVE. The promise. The folded list.*
+
+---
+
+### KLING AI SCENE PROMPTS (VIDEO GENERATION)
+
+**SCENE PROMPT 1: THE THREE NAMES**
+
+Prompt: Close-up of a small notebook list with three names under lamplight, a finger tracing each one. Sacred accounting, dark comedy grief.
+
+**SCENE PROMPT 2: THE WITNESS**
+
+Prompt: Two-shot, one man correcting another's grammar of grief, serious and tender, dark apartment. Prepositions as theology.
+
+**SCENE PROMPT 3: THE BIKE MEMORY**
+
+Prompt: Grainy nostalgic flashback of a cluster of gifted kids on bikes at dusk, a small house in the background, dream-like film-grain. Childhood as evidence.
+
+**SCENE PROMPT 4: THE WORD**
+
+Prompt: A hand writing ALIVE on a whiteboard, then a second word beneath it: PROMISE. Lamplight, definitive, cinematic.
+
+---
+
+Check against your four points: peers-not-close explicit, MST Utica / SAGE present, dad unnamed, no close-friendship implication reintroduced. Yes/no when you've read the page?

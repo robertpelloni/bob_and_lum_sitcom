@@ -16,7 +16,7 @@
 
 **NOAH:** Dead. Died *next to Lum*. On a motorcycle night that nobody in this apartment will describe accurately. Bob has been saying it wrong for fourteen years.
 
-**CRYSTAL:** Childhood orbit. Bob knew her at 13–14. Her alcoholic father, Mike Tobin — "was such a good man that he died to save me." He died to save Bob *and* Crystal, his daughter — spiritually, where at the end of everything there's only love (love and hate are the same spectrum; anyone would die to save another's soul). A dying man already on the brink, he spent his death as a message — "look what you made me do" — and it *divinely* rehabilitated Bob, pulling a boy from a conservative family that wanted him ignorant and safe into kinship with all humanity. God's plan — Godwin's Law, "God *wins*" (extra funny because Godwin's Law is about Hitler). A separate sacrifice. A separate man. Do not merge the bodies.
+**CRYSTAL:** Childhood orbit. Bob knew her at 13–14. Her alcoholic father — "was such a good man that he died to save me." He died to save Bob *and* Crystal, his daughter — spiritually, where at the end of everything there's only love (love and hate are the same spectrum; anyone would die to save another's soul). A dying man already on the brink, he spent his death as a message — "look what you made me do" — and it *divinely* rehabilitated Bob, pulling a boy from a conservative family that wanted him ignorant and safe into kinship with all humanity. God's plan — Godwin's Law, "God *wins*" (extra funny because Godwin's Law is about Hitler). A separate sacrifice. A separate man. Do not merge the bodies.
 
 **SHONNA:** The bills. The utilities. The reason Bob stood at a Dollar Tree register for five months without telling anyone it was heroic.
 
