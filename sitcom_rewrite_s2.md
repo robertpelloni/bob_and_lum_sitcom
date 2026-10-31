@@ -14,7 +14,7 @@
 - **CHRIS PAPA** — dead. Angel investor. Died for us both. The bit outlived the man. Blazer changes color every scene.
 - **HARRY (Halalambos, son of Christos)** — Lum's younger brother and Bob's friend. The membrane. Romans 8:28 as a compiler. Crime to synapse.
 - **NOAH** — died next to Lum. A Tuesday. Not for anyone.
-- **CRYSTAL** — 13–14. Her dad died *near* Bob. Separate body.
+- **CRYSTAL** — 13–14, gifted-track cluster (MST at Utica, SAGE before that) — peers, not close. Her alcoholic father, unnamed — "was such a good man that he died to save me." He died to save Bob *and* Crystal, both. A dying man on the brink, he spent it as "look what you made me do" — a trap that backfired into grace, *divinely* rehabilitating Bob out of a family that wanted him ignorant and safe. Love and hate, same spectrum. Godwin's Law: God *wins*. Separate body.
 - **GREGORY** — 1964 Sting Ray. Air Force silence. Papu's business, locked.
 - **SHONNA** — Dollar Tree. $13.75. Five months.
 - **FOOD** — yogurt, coffee, pizza (Bob). Honey buns (Lum). Never Pop-Tarts.
@@ -135,10 +135,10 @@ Prompt: Pizza box, coffee mug, and yogurt container arranged as a religious stil
 Three names on the list. Noah died next to Lum — correct. Chris died for us both — correct. Crystal's dad died to save us both — *that* one's the problem.
 
 ### SCENE 2
-**LUM** audits the preposition. "To save me" puts Bob at the center. Bob has always been at the *edge*. The word is *near*. Crystal's dad died *near* you. That's not a save, that's a *witness*. The witness has responsibilities.
+**LUM** audits the preposition. "To save me" puts Bob at the center. Bob has always been at the *edge*. The word is *near*. Crystal's dad died *near* you. That's not a save, that's a *witness*. The witness has responsibilities. **BOB**: not *near*, not *only* me — me *and* her, both; at the end only love, same spectrum.
 
 ### SCENE 3
-Thirteen, fourteen. Crystal. Kim. The house that felt like a trap. The thing her father died to *buy* her. And Noah — who died next to *you*. And Chris — who died for us *both*. **LUM**: stop keeping a list. Start keeping a *promise*.
+Thirteen, fourteen. Gifted-track cluster — MST at Utica, SAGE before that — smart kids who knew each other, none close. Crystal and Kim among them — peers, not close. Bob knew his sexuality young; didn't want to marry her but *represented* that — the house, the future, the thing her father died to *buy* her. Her alcoholic father, unnamed, on the brink already — spent his death as "look what you made me do," a trap that backfired into grace, *divinely* rehabilitating Bob out of a family that wanted him ignorant and safe. God's plan — Godwin's Law, God *wins* (funnier because it's about Hitler). Love and hate, same spectrum — so it saves both kids and even the man who set the trap. And Noah — who died next to *you*. And Chris — who died for us *both*. **LUM**: stop keeping a list. Start keeping a *promise*.
 
 ### SCENE 4
 Whiteboard: ALIVE. Under it: PROMISE. **BOB**: the sacrifice isn't dying, it's giving. **LUM**: then give me the show and live long enough to *watch* it. Three names. Three prepositions. One promise. The grammar is finally consistent.
@@ -151,7 +151,10 @@ Prompt: Finger tracing three names on a notebook list under lamplight. Sacred ac
 **SCENE PROMPT 2: THE WITNESS**
 Prompt: Two-shot, one man correcting another's grammar of grief. Prepositions as theology.
 
-**SCENE PROMPT 3: THE WHITEBOARD**
+**SCENE PROMPT 3: THE CLUSTER**
+Prompt: Grainy nostalgic flashback of a cluster of gifted kids on bikes at dusk, a small house in the background, dream-like film-grain. Childhood as evidence.
+
+**SCENE PROMPT 4: THE WHITEBOARD**
 Prompt: Hand writing ALIVE then PROMISE beneath it. Definitive, cinematic.
 
 ---

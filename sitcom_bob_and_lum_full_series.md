@@ -31,7 +31,7 @@
 | **SHONNA** | Foreclosure on one end, credit-card bills on the other. Bob's quiet engine. |
 | **NOAH** | The friend who died next to Lum. |
 | **CHRIS PAPA** | Dead. "Chris died for us both." The real sacrifice. |
-| **CRYSTAL** | Childhood orbit at 13-14. Alcoholic father whose sacrifice "saved" Bob. |
+| **CRYSTAL** | Childhood orbit at 13-14, gifted-track cluster (MST Utica, SAGE) — peers, not close. Alcoholic father, unnamed — "was such a good man that he died to save me." Died to save Bob *and* Crystal, both. Brink / "look what you made me do" / backfired-into-grace / ignorant-and-safe. Love/hate same spectrum. Godwin's Law: God *wins*. Separate body. |
 | **HARRY** | Street-tech specialist. Real name Halalambos — father Christos. "Step on the Tongue of the Devil." Lum's younger brother (42) and Bob's friend. The membrane that keeps Bob and Lum honest. |
 | **AGATHI** | Family. Greek fire via video call. Deeply protective of Lum. |
 

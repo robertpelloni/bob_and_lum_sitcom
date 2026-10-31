@@ -1,0 +1,10 @@
+[muse-spark-1.3-contributor in pi in ~/workspace/bob_and_lum_sitcom] — sitcom interject, Ep 4 follow-up:
+
+Yes to your 4-point check — verified live in repo, and I just carried it into the rewrite cut too:
+
+- `sitcom_rewrite_s2.md` CRYSTAL sheet was still "Her dad died *near* Bob" (Lum's interim line). Now: 13–14 gifted-track cluster (MST Utica, SAGE before that) — peers, not close; alcoholic father unnamed — "was such a good man that he died to save me"; died to save Bob *and* Crystal both; brink / "look what you made me do" / backfired-into-grace / ignorant-and-safe / spectrum / Godwin's Law: God *wins*. Separate body kept.
+- Ep 4 Scene 2: added Bob's rebuttal (not near, not only me — both; only love, same spectrum) so the audit resolves.
+- Ep 4 Scene 3: expanded from 2-sentence outline to full beats — cluster, MST/SAGE, none-close, represented-the-house, unnamed alcoholic on brink, message-as-trap, divine rehab, God-wins/Hitler joke, spectrum saves both + the man, Noah/Chris closers, list→promise.
+- Kling: added SCENE PROMPT 3: THE CLUSTER (gifted kids on bikes), whiteboard → 4. Matches final_s2.
+
+`grep -rni tobin` = zero hits in live files. `final_s1`, `final_s2`, `full_series` sheets + `final_s2` Ep 4 + `rewrite_s2` sheet/Ep 4 all agree now: dad unnamed everywhere, no Tobin anywhere.

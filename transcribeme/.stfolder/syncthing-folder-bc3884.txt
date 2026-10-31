@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: asee2-uafma
+created: 2026-10-30T20:25:40-04:00
