@@ -8,17 +8,17 @@
 - [ ] Port hardcoded local filesystem paths in pipeline scripts to portable repository paths.
 
 ## Phase 2: Kling AI Prompt & Video Asset Orchestration
-- [ ] Compile all scene prompts from `sitcom_final_s1.md` and `sitcom_final_s2.md` into structured JSON / SQLite tables.
+- [x] Compile all scene prompts from `sitcom_final_s1.md` and `sitcom_final_s2.md` into structured JSON / SQLite tables (`transcribeme/catalog.db:kling_prompts`).
 - [ ] Build automated prompt generation and validation pipeline against Kling AI guidelines (aspect ratio, camera movement, motion vector parameters).
 - [ ] Implement batch export tooling for video generation APIs and webhooks.
 
 ## Phase 3: Unified Sitcom Web Dashboard & Production Interface
-- [ ] Design and implement a consolidated Single-Page Application (SPA) dashboard:
-  - Episode & Screenplay Reader with syntax-highlighted character dialogue.
-  - Interactive Kling Scene Prompt inspector with copy-to-clipboard and preview features.
+- [x] Design and implement a consolidated Single-Page Application (SPA) dashboard (`dashboard.py`):
+  - Episode & Screenplay Reader for Season 1 and Season 2.
+  - Interactive Kling Scene Prompt inspector with copy-to-clipboard and keyword filtering across 102 prompts.
   - Raw Transcript Explorer with full-text search across all 247 corpus sessions.
-  - Media & Asset Catalog viewer linking generated video/audio files to screenplay scenes.
-- [ ] Integrate local system tray controller to launch and manage dashboard services and API watchers.
+  - Server lifecycle control (graceful `/api/quit` endpoint).
+- [ ] Integrate local desktop system tray controller (e.g. `pystray`) to launch and manage dashboard services.
 
 ## Phase 4: Audio Synthesis & Multimodal Rendering
 - [ ] Extract character voice samples from raw media transcripts (`transcribeme/*.mp4` / `IMG_*.MOV`).

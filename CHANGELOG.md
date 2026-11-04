@@ -3,6 +3,11 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.3.0] - 2026-11-04
+### Added
+- Created `dashboard.py`: Consolidated, single-page application local HTTP dashboard server providing unified access to Screenplay Reader (S1 & S2), Kling AI Scene Prompts explorer with instant clipboard copy, full-text transcript corpus search, and service controls (quit/rebuild).
+- Created `transcribeme/extract_kling_prompts.py`: Automated extractor indexing 102 Kling AI video scene prompts into SQLite catalog (`catalog.db:kling_prompts`).
+
 ## [1.2.0] - 2026-11-04
 ### Added
 - Created foundational project governance documentation:
