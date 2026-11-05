@@ -19,3 +19,8 @@
 
 # Keep transcribeme tracked
 !transcribeme/
+
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+*$py.class
