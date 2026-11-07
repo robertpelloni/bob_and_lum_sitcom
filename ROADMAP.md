@@ -4,8 +4,6 @@
 - [x] Standardize Season 1 (12 episodes) and Season 2 (8+6 episodes) scripts.
 - [x] Consolidate master conversation script (247 sessions, 5.9MB corpus).
 - [x] Establish strict character rules (no Pop-Tarts, distinct death narratives, USB vs burner phones).
-- [x] Reconcile all feature branches (2026-11-07 sync): `jules-*` empty tip merged; `backup/` MONOREPO.md preserved without image deletions; reverse-merged main back into both branches.
-- [x] Register `autositcom/` submodule (`096e276`) with structural map in `MONOREPO.md`.
 - [ ] Align older secondary drafts (`sitcom_bob_and_lum_DARK_KLING.md`, `sitcom_bob_and_lum_episode1*.md`, `full_series_kling.md`) to the unified 12-episode canonical standard.
 - [ ] Port hardcoded local filesystem paths in pipeline scripts to portable repository paths.
 
@@ -20,7 +18,7 @@
   - Interactive Kling Scene Prompt inspector with copy-to-clipboard and keyword filtering across 102 prompts.
   - Raw Transcript Explorer with full-text search across all 247 corpus sessions.
   - Server lifecycle control (graceful `/api/quit` endpoint).
-- [ ] Integrate local desktop system tray controller (e.g. `pystray`) to launch and manage dashboard services.
+- [x] Integrate local desktop system tray controller (`tray_runner.py`) using `pystray` and `PIL` with actions to launch dashboard, start/stop/restart servers, check corpus integrity, and quit all services.
 
 ## Phase 4: Audio Synthesis & Multimodal Rendering
 - [ ] Extract character voice samples from raw media transcripts (`transcribeme/*.mp4` / `IMG_*.MOV`).

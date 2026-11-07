@@ -3,15 +3,9 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
-## [1.3.1] - 2026-11-07
+## [1.4.0] - 2026-11-04
 ### Added
-- Restored `MONOREPO.md`: monorepo structure doc cherry-picked from `backup/wip-leader-sync-20261107` (selective, without its 29 destructive `transcribeme/IMG_*` deletions) and updated with verified submodule map.
-- Registered `autositcom/` as a git submodule (`096e276`, `https://github.com/robertpelloni/autositcom.git`) via new `.gitmodules`; nested working tree verified clean with its `origin/task-1-config-schemas-5640157944374514955` already merged.
-- Tracked `.opencode/` session skills (hypernexus, hypernexus-ops, hypernexus-orchestrator, hypernexus-workflows) so agent session tooling is versioned.
-- Forward-merged `origin/jules-12770174946235540910-6ac5fcac` tip `86f25ec` (empty commit, same tree as `8c121ad`) into `main`; reverse-merged updated `main` back into both `jules-*` and `backup/` branches to prevent drift.
-
-### Not merged (intentional)
-- `backup/wip-leader-sync-20261107` deletions of 29 `transcribeme/IMG_*` binaries were rejected to preserve media progress; main retains all images.
+- Created `tray_runner.py`: Cross-platform desktop system tray controller with options to launch the dashboard in a browser, start/stop/restart dashboard processes, run corpus integrity audits, and quit all running services.
 
 ## [1.3.0] - 2026-11-04
 ### Added
