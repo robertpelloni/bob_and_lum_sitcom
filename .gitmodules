@@ -1,0 +1,3 @@
+[submodule "autositcom"]
+	path = autositcom
+	url = https://github.com/robertpelloni/autositcom.git
