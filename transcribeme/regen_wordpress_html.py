@@ -1,9 +1,23 @@
 """Regenerate CONVERSATION_SCRIPT_COMPLETE.wordpress.html from the combined corpus."""
 import html
+import os
+import re
 from pathlib import Path
 
-SRC = Path(r"C:\Users\hyper\Downloads\sitcom script.txt")
-OUT = Path(r"C:\Users\hyper\Downloads\CONVERSATION_SCRIPT_COMPLETE.wordpress.html")
+# Resolve repo root directory dynamically
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+# Support environment override or default to repository files
+SRC_ENV = os.environ.get("SITCOM_SCRIPT_SRC")
+OUT_ENV = os.environ.get("SITCOM_SCRIPT_OUT")
+
+SRC = Path(SRC_ENV) if SRC_ENV else (REPO_ROOT / "sitcom script.txt")
+if not SRC.exists():
+    fallback_src = REPO_ROOT / "CONVERSATION_SCRIPT_COMPLETE.txt"
+    if fallback_src.exists():
+        SRC = fallback_src
+
+OUT = Path(OUT_ENV) if OUT_ENV else (REPO_ROOT / "CONVERSATION_SCRIPT_COMPLETE.wordpress.html")
 
 text = SRC.read_text(encoding="utf-8", errors="replace")
 
@@ -16,11 +30,8 @@ parts.append(
     "speakers assigned; ASR loops / punctuation / name canon.</p>\n"
 )
 
-import re
-
 # split sessions on the ===== header blocks
 chunks = re.split(r"\n(?===+\n+\[\d+\])", text)
-header_written = False
 for ch in chunks:
     ch = ch.strip("\n")
     if not ch.strip():

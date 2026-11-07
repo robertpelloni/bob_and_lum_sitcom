@@ -8,9 +8,18 @@ import re
 import hashlib
 from pathlib import Path
 
-SRC = Path(r"C:\Users\hyper\Downloads\transcribeme")
-OUT = Path(r"C:\Users\hyper\Downloads\sitcom script.txt")
-OUT_COPY = Path(r"C:\Users\hyper\Downloads\CONVERSATION_SCRIPT_COMPLETE.txt")
+import os
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+SRC_DIR_ENV = os.environ.get("SITCOM_SRC_DIR")
+SRC = Path(SRC_DIR_ENV) if SRC_DIR_ENV else (REPO_ROOT / "transcribeme")
+
+OUT_FILE_ENV = os.environ.get("SITCOM_OUT_FILE")
+OUT = Path(OUT_FILE_ENV) if OUT_FILE_ENV else (REPO_ROOT / "sitcom script.txt")
+
+OUT_COPY_ENV = os.environ.get("SITCOM_OUT_COPY")
+OUT_COPY = Path(OUT_COPY_ENV) if OUT_COPY_ENV else (REPO_ROOT / "CONVERSATION_SCRIPT_COMPLETE.txt")
 
 # Per-file speaker maps from self-ID / address cues.
 # October: S2 addresses Bob ("How are we gonna do it, Bob?") -> S2=Lum; S1=Bob;
