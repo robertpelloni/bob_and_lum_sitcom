@@ -4,6 +4,8 @@
 - [x] Standardize Season 1 (12 episodes) and Season 2 (8+6 episodes) scripts.
 - [x] Consolidate master conversation script (247 sessions, 5.9MB corpus).
 - [x] Establish strict character rules (no Pop-Tarts, distinct death narratives, USB vs burner phones).
+- [x] Reconcile all feature branches (2026-11-07 sync): `jules-*` empty tip merged; `backup/` MONOREPO.md preserved without image deletions; reverse-merged main back into both branches.
+- [x] Register `autositcom/` submodule (`096e276`) with structural map in `MONOREPO.md`.
 - [ ] Align older secondary drafts (`sitcom_bob_and_lum_DARK_KLING.md`, `sitcom_bob_and_lum_episode1*.md`, `full_series_kling.md`) to the unified 12-episode canonical standard.
 - [ ] Port hardcoded local filesystem paths in pipeline scripts to portable repository paths.
 

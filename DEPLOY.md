@@ -17,6 +17,10 @@ This repository contains the scripts, conversation corpus, and video-generation 
 ├── sitcom script.txt                         # Byte-identical copy of master corpus
 ├── sitcom_final_s1.md                        # Season 1 Screenplay (12 episodes)
 ├── sitcom_final_s2.md                        # Season 2 Screenplay (8+6 episodes)
+├── MONOREPO.md                               # Monorepo map: show repo + autositcom submodule
+├── .gitmodules                               # Submodule registration (autositcom)
+├── autositcom/                               # Submodule: generic media pipeline (096e276)
+├── .opencode/                                # Tracked agent session skills
 ├── transcribeme/                             # Raw transcripts and ingestion tooling
 │   ├── deep_clean_rebuild.py                 # Core text cleaning & speaker attribution
 │   ├── extract_kling_prompts.py              # Ingests Kling scene prompts into SQLite
