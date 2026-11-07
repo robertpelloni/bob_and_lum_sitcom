@@ -16,4 +16,4 @@
 ## Documentation & Version Governance
 - [x] Create core governance suite: `VERSION.md`, `ROADMAP.md`, `VISION.md`, `MEMORY.md`, `DEPLOY.md`, `IDEAS.md`, `CHANGELOG.md`.
 - [x] Configure `.gitignore` to prevent Python compilation cache leakage (`__pycache__/`, `*.pyc`).
-- [ ] Document all script utilities in `DEPLOY.md`.
+- [x] Document all script utilities and dashboard runner in `DEPLOY.md`.
