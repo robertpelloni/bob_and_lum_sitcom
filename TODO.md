@@ -1,10 +1,10 @@
 # TODO: Immediate Tasks & Granular Fixes
 
 ## Script Maintenance & Canon Fixes
-- [ ] Scan and eliminate any legacy references attributing Pop-Tarts to Bob in older auxiliary files.
-- [ ] Review speaker naming in raw transcripts: normalize legacy "Rob" mentions in scripts to canonical "Bob".
-- [ ] Fix stale season footer counts in `sitcom_rewrite_s2.md`.
-- [ ] Ensure `CONVERSATION_SCRIPT_COMPLETE.txt` and `sitcom script.txt` remain strictly byte-identical.
+- [x] Scan legacy Pop-Tarts references (verified 2026-11-08: all hits are `Never Pop-Tarts` canon lines, zero Bob-eats violations).
+- [x] Review speaker naming Rob->Bob (verified 2026-11-08: zero `\bRob\b` hits in *.md outside MEMORY/TODO canon notes).
+- [x] Fix stale season footer counts (fixed 2026-11-08: `sitcom_final_s1.md` 60->51 prompts to match 51 SCENE PROMPTs; verified `sitcom_final_s2.md` 14 total 8+6 and `sitcom_rewrite_s2.md` 8+6=14 correct).
+- [x] Ensure byte-identical corpus (verified 2026-11-08: both 5905406 bytes, Compare-Object clean).
 
 ## Pipeline & Python Tooling
 - [x] Fix path resolution in `transcribeme/deep_clean_rebuild.py` to use repository-relative paths instead of Windows `C:\Users\hyper\Downloads\`.

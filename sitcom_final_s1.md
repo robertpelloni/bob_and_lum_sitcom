@@ -1752,7 +1752,7 @@ Prompt: Wide shot of the drum circle from above, the full moon dominating, two s
 
 ## SEASON 1 COMPLETE
 
-*12 episodes. 60 Kling scene prompts. Three dead men, one broken dashboard, and the pizza is the credits.*
+*12 episodes. 51 Kling scene prompts. Three dead men, one broken dashboard, and the pizza is the credits.*
 
 *Next: Season 2 — The Dark Pattern Singularity.*
 
