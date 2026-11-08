@@ -79,3 +79,9 @@ $p = Start-Process python -ArgumentList 'transcribeme/manage_corpus.py --check' 
 (Get-Process -Name python,ffmpeg -ErrorAction SilentlyContinue).PriorityClass = 'BelowNormal'
 ```
 
+
+### 7. Headless / No-Popup Rule (2026-11-08)
+- Never auto-open a browser or console popup. `dashboard.py` has no `webbrowser.open` (verified). Logs go to `dashboard.log`.
+- Launch hidden: double-click `start_dashboard_hidden.vbs` or run `start_dashboard_hidden.ps1` (pythonw, Hidden, BelowNormal, single-instance guard on port 8080, binds 127.0.0.1).
+- Stop: open `http://127.0.0.1:8080/api/quit` or stop the pythonw process. Nothing in this repo may add itself to Startup without explicit approval.
+
