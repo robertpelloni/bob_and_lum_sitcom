@@ -22,6 +22,23 @@ import sys
 import urllib.parse
 from pathlib import Path
 
+
+def lower_self_priority():
+    import os
+    try:
+        if os.name == 'nt':
+            import ctypes
+            BELOW_NORMAL_PRIORITY_CLASS = 0x00004000
+            ctypes.windll.kernel32.SetPriorityClass(ctypes.windll.kernel32.GetCurrentProcess(), BELOW_NORMAL_PRIORITY_CLASS)
+        else:
+            try:
+                os.nice(10)
+            except Exception:
+                pass
+    except Exception:
+        pass
+
+
 REPO_ROOT = Path(__file__).resolve().parent
 DB_PATH = REPO_ROOT / "transcribeme" / "catalog.db"
 CORPUS_PATH = REPO_ROOT / "CONVERSATION_SCRIPT_COMPLETE.txt"
@@ -572,6 +589,7 @@ class DashboardHandler(http.server.BaseHTTPRequestHandler):
 
 
 def run_server(port=8080, host="0.0.0.0"):
+    lower_self_priority()
     socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer((host, port), DashboardHandler) as httpd:
         print(f"🎬 Bob & Lum Dashboard Server listening on http://{host}:{port}/")
@@ -586,6 +604,7 @@ def main():
     parser.add_argument("--port", type=int, default=8080, help="Server port (default: 8080)")
     parser.add_argument("--host", type=str, default="0.0.0.0", help="Bind address (default: 0.0.0.0)")
     args = parser.parse_args()
+    lower_self_priority()
     run_server(port=args.port, host=args.host)
 
 

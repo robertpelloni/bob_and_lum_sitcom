@@ -28,3 +28,10 @@
 - `CONVERSATION_SCRIPT_COMPLETE.txt` / `sitcom script.txt`: Master verbatim 247-session corpus (byte-identical pair).
 - `CONVERSATION_SCRIPT_COMPLETE.wordpress.html`: HTML formatted transcript reader.
 - `transcribeme/`: Directory containing raw input transcript files, SQLite catalog database, and data cleaning/ingestion utilities.
+
+## Runtime Process Priority Rule (2026-11-08)
+- All heavyweight project processes (dashboard server, corpus rebuilds, Kling batch, ffmpeg renders, bulk Python scripts) must run at BelowNormal priority so they never hang the system.
+- `dashboard.py` and `transcribeme/manage_corpus.py` self-lower via `lower_self_priority()` (Windows BELOW_NORMAL_PRIORITY_CLASS, Unix nice +10).
+- Manual PowerShell launch: `Start-Process python -ArgumentList 'dashboard.py --port 8080'` then `(Get-Process -Name python | Sort-Object StartTime -Descending | Select-Object -First 1).PriorityClass = 'BelowNormal'`.
+- Never raise agent runtime (node/codex) above Normal; only lower project workers.
+

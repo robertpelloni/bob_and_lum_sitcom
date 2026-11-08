@@ -71,3 +71,11 @@ Verify all scripts in the repository:
 ```bash
 for f in dashboard.py transcribeme/*.py; do python3 -m py_compile "$f"; done
 ```
+
+### 6. Process Priority (BelowNormal rule, 2026-11-08)
+Heavyweight jobs must not hang the desktop. `dashboard.py` and `manage_corpus.py` lower themselves automatically. For anything else (ffmpeg, batch exports, rebuilds), launch then lower:
+```powershell
+$p = Start-Process python -ArgumentList 'transcribeme/manage_corpus.py --check' -PassThru; $p.PriorityClass = 'BelowNormal'
+(Get-Process -Name python,ffmpeg -ErrorAction SilentlyContinue).PriorityClass = 'BelowNormal'
+```
+

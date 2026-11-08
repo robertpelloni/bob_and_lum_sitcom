@@ -12,6 +12,23 @@ import re
 import sys
 from pathlib import Path
 
+
+def lower_self_priority():
+    import os
+    try:
+        if os.name == 'nt':
+            import ctypes
+            BELOW_NORMAL_PRIORITY_CLASS = 0x00004000
+            ctypes.windll.kernel32.SetPriorityClass(ctypes.windll.kernel32.GetCurrentProcess(), BELOW_NORMAL_PRIORITY_CLASS)
+        else:
+            try:
+                os.nice(10)
+            except Exception:
+                pass
+    except Exception:
+        pass
+
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 MASTER_FILE = REPO_ROOT / "CONVERSATION_SCRIPT_COMPLETE.txt"
 SITCOM_FILE = REPO_ROOT / "sitcom script.txt"
@@ -115,6 +132,7 @@ def main():
     parser.add_argument("--build-html", action="store_true", help="Regenerate HTML viewer.")
     parser.add_argument("--stats", action="store_true", help="Show corpus statistics.")
 
+    lower_self_priority()
     args = parser.parse_args()
 
     if not (args.check or args.build_html or args.stats):
