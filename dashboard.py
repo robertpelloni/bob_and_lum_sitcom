@@ -159,7 +159,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       overflow-y: auto;
       padding: 24px;
     }
-    .tab-pane.active { display: block; }
+    .tab-pane.active { display: block; }`n    /* Single-page mode (2026-11-08): stacked sections, no tab switching */`n    main { display: block !important; overflow-y: auto !important; }`n    .tab-pane { display: block !important; height: auto !important; overflow: visible !important; padding: 0 0 32px 0 !important; scroll-margin-top: 12px; }
 
     /* Overview metrics */
     .metric-grid {
@@ -291,11 +291,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <span style="font-size: 0.8rem; color: #8b949e;">Autopilot Dashboard</span>
     </div>
     <div class="nav-tabs">
-      <button class="tab-btn active" onclick="showTab('overview')">Overview</button>
-      <button class="tab-btn" onclick="showTab('prompts')">Kling Prompts (102)</button>
-      <button class="tab-btn" onclick="showTab('screenplay-s1')">Season 1 Screenplay</button>
-      <button class="tab-btn" onclick="showTab('screenplay-s2')">Season 2 Screenplay</button>
-      <button class="tab-btn" onclick="showTab('transcripts')">Corpus Search</button>
+      <a class="tab-btn" href="#sec-s1" title="Read Season 1 screenplay, highest value first">Season 1</a>
+      <a class="tab-btn" href="#sec-s2" title="Read Season 2 plus bonus screenplay">Season 2</a>
+      <a class="tab-btn" href="#sec-prompts" title="Browse and copy all 102 Kling video prompts">Kling Prompts (102)</a>
+      <a class="tab-btn" href="#sec-corpus" title="Full-text search across 258350 transcript lines">Corpus Search</a>
+      <a class="tab-btn" href="#sec-overview" title="Metrics, canon, and pipeline actions">Overview</a>
     </div>
     <div class="header-actions">
       <button class="btn" onclick="fetchStatus()">🔄 Refresh</button>
@@ -305,7 +305,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
   <main>
     <!-- OVERVIEW TAB -->
-    <div id="tab-overview" class="tab-pane active">
+    <div id="sec-overview" class="tab-pane">
       <div class="metric-grid">
         <div class="metric-card">
           <div class="metric-sub">Master Corpus Size</div>
@@ -330,7 +330,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       </div>
 
       <div class="section-card">
-        <h2>System Architecture & Lore Canon</h2>
+        <h2 title="Immutable character and canon rules">System Architecture & Lore Canon <span style="cursor:help" title="Bob yogurt coffee pizza never Pop-Tarts. Chris for both, Noah next to Lum, Crystal dad saves both. USB is Bob, burners are Lum and Harry.">?</span></h2>
         <ul style="margin-left: 20px; line-height: 1.8;">
           <li><strong>Bob's Sacraments:</strong> Yogurt, coffee, and pizza. <em>Never Pop-Tarts</em>. Holds cold pizza slices like cigarettes.</li>
           <li><strong>The Sacrifices:</strong> Chris Papa died for <em>both</em> Bob & Lum; Noah died <em>next to Lum</em>; Crystal's dad died as a divine rehabilitation message saving Bob and Crystal.</li>
@@ -340,7 +340,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       </div>
 
       <div class="section-card">
-        <h2>Quick Automation & Pipeline Actions</h2>
+        <h2 title="One-click jobs run BelowNormal in background, logs to dashboard.log">Quick Automation & Pipeline Actions <span style="cursor:help" title="Rebuild HTML viewer or re-index Kling prompts without blocking the dashboard.">?</span></h2>
         <p style="margin-bottom: 12px; color: #8b949e;">Trigger autonomous routines directly from this interface:</p>
         <button class="btn" onclick="runAction('/api/rebuild-html')">Rebuild WordPress HTML</button>
         <button class="btn" onclick="runAction('/api/extract-prompts')">Re-index Kling Prompts</button>
@@ -348,7 +348,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <!-- PROMPTS TAB -->
-    <div id="tab-prompts" class="tab-pane">
+    <div id="sec-prompts" class="tab-pane">
       <div class="prompt-filters">
         <select id="season-filter" class="input-control" onchange="filterPrompts()">
           <option value="all">All Seasons</option>
@@ -363,23 +363,23 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <!-- SCREENPLAY S1 TAB -->
-    <div id="tab-screenplay-s1" class="tab-pane">
+    <div id="sec-s1" class="tab-pane">
       <div class="screenplay-container" id="s1-content">
         Loading Season 1 Screenplay...
       </div>
     </div>
 
     <!-- SCREENPLAY S2 TAB -->
-    <div id="tab-screenplay-s2" class="tab-pane">
+    <div id="sec-s2" class="tab-pane">
       <div class="screenplay-container" id="s2-content">
         Loading Season 2 Screenplay...
       </div>
     </div>
 
     <!-- TRANSCRIPTS TAB -->
-    <div id="tab-transcripts" class="tab-pane">
+    <div id="sec-corpus" class="tab-pane">
       <div class="section-card">
-        <h2>Full-Text Corpus Search</h2>
+        <h2 title="Search all 258350 lines of the 247-session corpus">Full-Text Corpus Search <span style="cursor:help" title="Type a phrase and press Enter. Example queries: adapter, Sting Ray, hologram, blazer.">?</span></h2>
         <div style="display: flex; gap: 8px; margin-bottom: 12px;">
           <input type="text" id="corpus-query" class="input-control search-box" placeholder="Search across 258,350 lines (e.g. 'adapter', 'Sting Ray', 'hologram', 'blazer')..." onkeydown="if(event.key==='Enter') searchCorpus()">
           <button class="btn" onclick="searchCorpus()">Search</button>
@@ -473,7 +473,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       }
     }
 
-    async function fetchStatus() {
+    document.addEventListener('DOMContentLoaded', () => { loadPrompts(); loadScreenplay(1); loadScreenplay(2); });`n`n    async function fetchStatus() {
       location.reload();
     }
   </script>

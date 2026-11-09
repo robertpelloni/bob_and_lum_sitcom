@@ -24,3 +24,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
+ 
+# Local audio recovery 2026-11-08, never commit 
+transcribeme/_recovered_20261108/ 
