@@ -287,7 +287,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <header>
     <div class="brand">
       <h1>🎬 Bob & Lum Sitcom</h1>
-      <span class="badge" title="Active release version">v1.3.0</span>
+      <span class="badge" title="Active release version">v1.4.0</span>
       <span style="font-size: 0.8rem; color: #8b949e;">Autopilot Dashboard</span>
     </div>
     <div class="nav-tabs">

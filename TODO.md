@@ -12,9 +12,9 @@
 - [x] Add unified CLI script runner (`transcribeme/manage_corpus.py`) to run integrity checks, header normalizations, and HTML regenerations cleanly.
 - [x] Build automated Kling AI scene prompt indexer (`transcribeme/extract_kling_prompts.py`) into SQLite `catalog.db`.
 - [x] Implement local unified dashboard server (`dashboard.py`) with screenplay viewer, prompt laboratory, corpus search, and graceful shutdown controls.
+- [x] Implement desktop system tray runner (`tray_runner.py`) using `pystray` and `PIL` with server start/stop/restart/quit and browser launcher.
 
 ## Documentation & Version Governance
 - [x] Create core governance suite: `VERSION.md`, `ROADMAP.md`, `VISION.md`, `MEMORY.md`, `DEPLOY.md`, `IDEAS.md`, `CHANGELOG.md`.
 - [x] Configure `.gitignore` to prevent Python compilation cache leakage (`__pycache__/`, `*.pyc`).
 - [x] Document all script utilities and dashboard runner in `DEPLOY.md`.
-- [x] Sync 2026-11-07: cherry-pick `MONOREPO.md`, register `autositcom` submodule, track `.opencode/` skills, bump to v1.3.1.
