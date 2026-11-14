@@ -106,7 +106,8 @@ def print_stats():
     lum_cues = len(re.findall(r"^Lum:\s+", content, re.M))
     speaker_cues = len(re.findall(r"^Speaker\s*\d+:\s+", content, re.M))
 
-    print(f"Total Bytes:       {len(content.encode('utf-8')):,}")
+    # stat() is ground truth: read_text() translates CRLF->LF, undercounting bytes.
+    print(f"Total Bytes:       {MASTER_FILE.stat().st_size:,}")
     print(f"Total Lines:       {len(lines):,}")
     print(f"Total Sessions:    {len(sessions):,}")
     print(f"Bob Dialog Cues:   {bob_cues:,}")

@@ -1,175 +1,129 @@
 #!/usr/bin/env python3
-"""Desktop System Tray Controller for Bob & Lum Sitcom Dashboard & Services.
+"""Desktop System Tray Controller for Bob & Lum Sitcom Dashboard.
 
-Features:
-  - Generates custom system tray icon with Bob & Lum brand colors.
-  - Controls local dashboard HTTP server (Start / Stop / Restart).
-  - Open Dashboard directly in the default web browser.
-  - Run automated corpus verification check.
-  - Safely quit all backend processes.
+Tray menu: Open Dashboard / Start / Stop / Restart / Check Corpus Integrity /
+View Log / Quit All (stops dashboard + tray). Dashboard child runs hidden,
+BelowNormal, bound to 127.0.0.1, logging to dashboard.log.
 
-Usage:
-  python3 tray_runner.py [--port 8080] [--headless]
+Usage: python tray_runner.py [--port 8765] [--headless]
+Windows: tray mode by default (DISPLAY is a Unix concept - do not gate on it).
 """
-import argparse
-import os
-import signal
-import subprocess
-import sys
-import threading
-import time
-import webbrowser
+import argparse, json, os, subprocess, sys, threading, time, urllib.request, webbrowser
 from pathlib import Path
-
 REPO_ROOT = Path(__file__).resolve().parent
 DASHBOARD_SCRIPT = REPO_ROOT / "dashboard.py"
 MANAGE_SCRIPT = REPO_ROOT / "transcribeme" / "manage_corpus.py"
-
+LOG_PATH = REPO_ROOT / "dashboard.log"
+DEFAULT_PORT = 8765
 dashboard_process = None
 server_lock = threading.Lock()
 
+def dashboard_alive(port):
+    try:
+        with urllib.request.urlopen(f"http://127.0.0.1:{port}/api/status", timeout=2) as r:
+            return json.loads(r.read().decode()).get("app") == "bob-and-lum-dashboard"
+    except Exception:
+        return False
 
 def create_tray_image():
-    """Dynamically generate a 64x64 icon for the system tray."""
     try:
         from PIL import Image, ImageDraw
         img = Image.new("RGBA", (64, 64), color=(0, 0, 0, 0))
-        draw = ImageDraw.Draw(img)
-        # Background circle
-        draw.ellipse([4, 4, 60, 60], fill=(22, 27, 34), outline=(88, 166, 255), width=3)
-        # 'B' & 'L' in gold and blue
-        draw.text((14, 18), "B", fill=(88, 166, 255))
-        draw.text((36, 18), "L", fill=(227, 179, 65))
+        d = ImageDraw.Draw(img)
+        d.ellipse([4, 4, 60, 60], fill=(22, 27, 34), outline=(88, 166, 255), width=3)
+        d.text((14, 20), "B", fill=(88, 166, 255)); d.text((36, 20), "L", fill=(227, 179, 65))
         return img
     except Exception:
         return None
 
-
-def start_server(port=8080):
+def start_server(port=DEFAULT_PORT):
     global dashboard_process
     with server_lock:
         if dashboard_process and dashboard_process.poll() is None:
-            print(f"Dashboard server is already running (PID: {dashboard_process.pid})")
-            return
-        cmd = [sys.executable, str(DASHBOARD_SCRIPT), "--port", str(port)]
-        dashboard_process = subprocess.Popen(cmd, cwd=str(REPO_ROOT))
-        print(f"Started Bob & Lum Dashboard on http://localhost:{port} (PID: {dashboard_process.pid})")
-
+            print(f"Dashboard already running (PID {dashboard_process.pid})"); return
+        if dashboard_alive(port):
+            print(f"Dashboard already answering on http://127.0.0.1:{port} (external process)"); return
+        flags = 0
+        if os.name == "nt":
+            flags = getattr(subprocess, "CREATE_NO_WINDOW", 0x08000000) | 0x00004000  # no window + BELOW_NORMAL
+        log = open(LOG_PATH, "a", encoding="utf-8")
+        dashboard_process = subprocess.Popen([sys.executable, str(DASHBOARD_SCRIPT), "--port", str(port), "--host", "127.0.0.1"],
+            cwd=str(REPO_ROOT), stdout=log, stderr=log, creationflags=flags)
+        print(f"Started dashboard http://127.0.0.1:{port} (PID {dashboard_process.pid}, BelowNormal, log dashboard.log)")
 
 def stop_server():
     global dashboard_process
     with server_lock:
         if dashboard_process and dashboard_process.poll() is None:
-            print(f"Stopping dashboard server (PID: {dashboard_process.pid})...")
             dashboard_process.terminate()
-            try:
-                dashboard_process.wait(timeout=3)
-            except subprocess.TimeoutExpired:
-                dashboard_process.kill()
-            dashboard_process = None
-            print("Dashboard server stopped.")
+            try: dashboard_process.wait(timeout=3)
+            except subprocess.TimeoutExpired: dashboard_process.kill()
+            print("Dashboard stopped."); dashboard_process = None
         else:
-            print("Dashboard server is not running.")
+            print("Dashboard child not running (external instances are left alone - use Quit on their page).")
 
-
-def restart_server(port=8080):
-    stop_server()
-    time.sleep(0.5)
-    start_server(port)
-
-
-def open_browser(port=8080):
-    url = f"http://localhost:{port}"
-    print(f"Opening browser to {url}...")
-    webbrowser.open(url)
-
+def restart_server(port=DEFAULT_PORT):
+    stop_server(); time.sleep(0.5); start_server(port)
 
 def run_integrity_check():
-    print("Running corpus integrity check...")
-    subprocess.run([sys.executable, str(MANAGE_SCRIPT), "--check"], cwd=str(REPO_ROOT))
+    print("Running corpus integrity check (BelowNormal child)...")
+    flags = 0x00004000 if os.name == "nt" else 0
+    try: subprocess.run([sys.executable, str(MANAGE_SCRIPT), "--check"], cwd=str(REPO_ROOT), creationflags=flags)
+    except Exception as e: print(f"check failed: {e}")
 
+def view_log():
+    try:
+        if os.name == "nt": os.startfile(str(LOG_PATH))  # type: ignore[attr-defined]
+        else: subprocess.Popen(["xdg-open", str(LOG_PATH)])
+    except Exception: print(f"Log: {LOG_PATH}")
 
 def quit_all(icon=None):
-    print("Shutting down all Bob & Lum services...")
+    print("Shutting down Bob & Lum dashboard + tray...")
     stop_server()
-    if icon:
-        icon.stop()
-    sys.exit(0)
+    if icon: icon.stop()
+    os._exit(0)
 
-
-def setup_tray(port=8080):
+def setup_tray(port):
     try:
         import pystray
         from pystray import MenuItem as item
     except ImportError:
-        print("pystray is not installed. Running in CLI mode.")
-        return False
-
+        print("pystray not installed. Run: pip install pystray pillow"); return None
     image = create_tray_image()
     if not image:
-        return False
-
-    def on_open(icon, _):
-        open_browser(port)
-
-    def on_start(icon, _):
-        start_server(port)
-
-    def on_stop(icon, _):
-        stop_server()
-
-    def on_restart(icon, _):
-        restart_server(port)
-
-    def on_check(icon, _):
-        run_integrity_check()
-
-    def on_quit(icon, _):
-        quit_all(icon)
-
+        print("Pillow not installed / icon failed. Run: pip install pillow"); return None
     menu = (
-        item("Open Sitcom Dashboard", on_open, default=True),
-        item("Start Dashboard Server", on_start),
-        item("Stop Dashboard Server", on_stop),
-        item("Restart Dashboard Server", on_restart),
-        item("Check Corpus Integrity", on_check),
-        item("Quit All", on_quit),
+        item("Open Sitcom Dashboard", lambda i, _: webbrowser.open(f"http://127.0.0.1:{port}"), default=True),
+        item("Start Dashboard Server", lambda i, _: start_server(port)),
+        item("Stop Dashboard Server", lambda i, _: stop_server()),
+        item("Restart Dashboard Server", lambda i, _: restart_server(port)),
+        item("Check Corpus Integrity", lambda i, _: threading.Thread(target=run_integrity_check, daemon=True).start()),
+        item("View dashboard.log", lambda i, _: view_log()),
+        item("Quit All", lambda i, _: quit_all(i)),
     )
-
-    icon = pystray.Icon("bob_and_lum", image, "Bob & Lum Sitcom", menu)
-    return icon
-
+    return pystray.Icon("bob_and_lum", image, f"Bob & Lum Sitcom (:{port})", menu)
 
 def main():
-    parser = argparse.ArgumentParser(description="Bob & Lum Sitcom System Tray Controller")
-    parser.add_argument("--port", type=int, default=8080, help="Dashboard server port (default: 8080)")
-    parser.add_argument("--headless", action="store_true", help="Run without graphical system tray (CLI mode)")
-    args = parser.parse_args()
-
-    # Automatically start dashboard server on launch
-    start_server(args.port)
-
-    if args.headless or not os.environ.get("DISPLAY"):
-        print("Graphical display not detected or --headless specified. Running in CLI daemon mode.")
-        print("Press Ctrl+C to stop services and exit.")
+    ap = argparse.ArgumentParser(description="Bob & Lum Sitcom System Tray Controller")
+    ap.add_argument("--port", type=int, default=DEFAULT_PORT)
+    ap.add_argument("--headless", action="store_true", help="CLI daemon mode, no tray icon")
+    a = ap.parse_args()
+    start_server(a.port)
+    # BUGFIX (v1.5.0): old code required $DISPLAY, which never exists on Windows -> tray never appeared.
+    want_tray = not a.headless and (sys.platform == "win32" or bool(os.environ.get("DISPLAY")) or sys.platform == "darwin")
+    if not want_tray:
+        print("Headless/CLI mode. Ctrl+C to stop.")
         try:
-            while True:
-                time.sleep(1)
-        except KeyboardInterrupt:
-            quit_all()
+            while True: time.sleep(1)
+        except KeyboardInterrupt: quit_all()
     else:
-        icon = setup_tray(args.port)
+        icon = setup_tray(a.port)
         if icon:
-            print("System tray icon running. Right click for options.")
+            print(f"System tray icon running (dashboard :{a.port}). Right-click for Open/Start/Stop/Restart/Check/Log/Quit.")
             icon.run()
         else:
-            print("Could not initialize system tray. Running in fallback mode.")
+            print("Tray init failed; CLI mode. Ctrl+C to stop.")
             try:
-                while True:
-                    time.sleep(1)
-            except KeyboardInterrupt:
-                quit_all()
-
-
-if __name__ == "__main__":
-    main()
+                while True: time.sleep(1)
+            except KeyboardInterrupt: quit_all()
+if __name__ == "__main__": main()
