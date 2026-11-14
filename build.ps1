@@ -15,6 +15,12 @@ if ($failed) { exit 1 }
 Write-Host "-- corpus integrity check --"
 python transcribeme\manage_corpus.py --check
 if (-not $?) { exit 1 }
+Write-Host "-- canon lint gate --"
+python transcribeme\canon_lint.py
+if (-not $?) { exit 1 }
+Write-Host "-- unit tests --"
+python -m unittest discover -s tests
+if (-not $?) { exit 1 }
 Write-Host "-- corpus stats --"
 python transcribeme\manage_corpus.py --stats
 Write-Host "-- re-index Kling prompts --"

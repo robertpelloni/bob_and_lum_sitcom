@@ -60,6 +60,7 @@ SCRIPT_DESCS = {
  "transcribeme/manage_corpus.py": "Corpus CLI: --check integrity, --stats, --build-html.",
  "transcribeme/extract_kling_prompts.py": "Re-index 102 Kling prompts from final S1/S2 into catalog.db.",
  "transcribeme/regen_wordpress_html.py": "Rebuild CONVERSATION_SCRIPT_COMPLETE.wordpress.html from corpus.",
+ "transcribeme/canon_lint.py": "Canon gate: fails on Pop-Tarts/Rob/Lung/Noah violations in sitcom*.md (runs in build.ps1).",
  "transcribeme/deep_clean_rebuild.py": "Deep-clean new transcripts, assign speakers, append to corpus.",
  "transcribeme/rebuild_combined.py": "Rebuild combined corpus from unique transcribeme sessions.",
  "transcribeme/normalize_headers.py": "Normalize session headers in combined corpus.",
@@ -83,14 +84,19 @@ def sha12(p):
         for chunk in iter(lambda: f.read(65536), b""): h.update(chunk)
     return h.hexdigest()[:12]
 
+_stats_cache = {}
 def corpus_stats():
     if not CORPUS_PATH.exists(): return {}
+    st = CORPUS_PATH.stat(); key = (st.st_mtime_ns, st.st_size)
+    if _stats_cache.get("key") == key: return _stats_cache["val"]
     text = CORPUS_PATH.read_text(encoding="utf-8", errors="replace")
     twin = REPO_ROOT / "sitcom script.txt"
-    return {"bytes": CORPUS_PATH.stat().st_size, "lines": text.count("\n")+1,
+    # Cache by (mtime,size): /api/status is polled and must not re-hash 6MB per call.
+    val = {"bytes": st.st_size, "lines": text.count("\n")+1,
       "sessions": len(re.findall(r"^\[\d+\]\s+.+$", text, re.M)),
       "bob_cues": len(re.findall(r"^Bob:\s+", text, re.M)), "lum_cues": len(re.findall(r"^Lum:\s+", text, re.M)),
       "sha12": sha12(CORPUS_PATH), "twin_identical": twin.exists() and sha12(twin) == sha12(CORPUS_PATH)}
+    _stats_cache.update({"key": key, "val": val}); return val
 
 def db_stats():
     if not DB_PATH.exists(): return {}
@@ -149,7 +155,8 @@ main{max-width:1180px;margin:0 auto;padding:18px} section{scroll-margin-top:80px
 input,select{background:var(--code);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:6px;font-size:.9rem}
 .prompt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:12px}.prompt-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px}
 .prompt-body{font-family:monospace;font-size:.85rem;background:var(--code);border:1px solid #21262d;border-radius:6px;padding:10px;max-height:150px;overflow:auto;white-space:pre-wrap;margin:8px 0}
-pre.viewer{white-space:pre-wrap;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px;line-height:1.55;max-height:70vh;overflow:auto}
+.viewer{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px;line-height:1.55;max-height:70vh;overflow:auto}
+.viewer h1,.viewer h2,.viewer h3{color:var(--head);margin:16px 0 8px}.viewer p{margin:0 0 10px}.viewer ul{margin:0 0 10px 20px}.viewer code{background:var(--code);padding:1px 5px;border-radius:4px}.viewer pre{background:var(--code);padding:12px;border-radius:6px;white-space:pre-wrap;margin:0 0 10px}.viewer hr{border:0;border-top:1px solid var(--border);margin:16px 0}.viewer table{margin:0 0 12px}
 table{width:100%;border-collapse:collapse;font-size:.85rem} td,th{border-bottom:1px solid var(--border);padding:6px 8px;text-align:left;vertical-align:top}
 .result-item{padding:10px;border-bottom:1px solid var(--border)} .sp-Bob{color:var(--bob);font-weight:700}.sp-Lum{color:var(--lum);font-weight:700}
 #action-log{white-space:pre-wrap;background:var(--code);border:1px solid var(--border);border-radius:6px;padding:12px;max-height:260px;overflow:auto;font-size:.8rem}
@@ -178,11 +185,14 @@ table{width:100%;border-collapse:collapse;font-size:.85rem} td,th{border-bottom:
 <p class="sub" style="margin-bottom:10px">All writing in one place - no hunting through the folder. Start with Season 1 (final).</p>
 <div style="display:flex;gap:8px;flex-wrap:wrap"><select id="doc-select" title="Choose a screenplay or document to read"></select>
 <button class="btn" onclick="loadDoc()" title="Load the selected file into the viewer below">Load</button>
+<select id="doc-mode" onchange="renderDoc()" title="Rendered formats headings/bold/lists; Plain shows the raw markdown"><option value="md">Rendered</option><option value="plain">Plain text</option></select>
+<select id="doc-speaker" onchange="renderDoc()" title="Filter dialogue: show only Bob lines, only Lum lines, or everything (headings always kept)"><option value="all">All speakers</option><option value="Bob">Bob lines only</option><option value="Lum">Lum lines only</option></select>
 <span class="sub" id="doc-meta"></span></div></div>
-<pre class="viewer" id="doc-viewer">Select a document and press Load.</pre></section>
+<div class="viewer" id="doc-viewer">Select a document and press Load.</div></section>
 
 <section id="sec-prompts"><div class="card"><h2>Kling Prompts <span class="help" title="102 prompts indexed in transcribeme/catalog.db (51 per season) from final S1/S2. DARK/episode1/full-series Kling files are readable in the viewer above but not yet indexed - see TODO.">?</span></h2>
 <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px">
+<select id="prompt-source" onchange="loadPrompts()" title="Canonical = 102 prompts from final S1/S2 in catalog.db. Historical = pre-final DARK/episode1/full-series prompts, indexed separately and labelled by source file"><option value="canonical">Canonical (final S1/S2)</option><option value="historical">Historical archive</option></select>
 <select id="season-filter" onchange="filterPrompts()" title="Filter by season"><option value="all">All seasons</option><option value="1">Season 1</option><option value="2">Season 2</option></select>
 <input id="prompt-search" placeholder="Filter prompts by keyword..." oninput="filterPrompts()" title="Matches title, episode and prompt text" style="flex:1;min-width:200px">
 <button class="btn" onclick="copyAllPrompts()" title="Copy every currently filtered prompt to the clipboard">Copy filtered</button>
@@ -192,7 +202,7 @@ table{width:100%;border-collapse:collapse;font-size:.85rem} td,th{border-bottom:
 <section id="sec-corpus"><div class="card"><h2>Corpus Search <span class="help" title="Case-insensitive substring search over CONVERSATION_SCRIPT_COMPLETE.txt (247 sessions). Returns first 50 hits with line numbers. Try: adapter, Sting Ray, hologram, blazer, dashboard">?</span></h2>
 <div style="display:flex;gap:8px"><input id="corpus-query" placeholder="Search 258k lines..." style="flex:1" onkeydown="if(event.key==='Enter')searchCorpus()" title="Type a phrase, press Enter">
 <button class="btn" onclick="searchCorpus()" title="Run the search">Search</button></div>
-<div class="sub" id="search-status" style="margin:8px 0"></div><div id="search-results"></div></div></section>
+<div class="sub" id="search-status" style="margin:8px 0"></div><div style="display:flex;gap:8px;margin-bottom:8px"><button class="btn" id="search-prev" onclick="pageSearch(-1)" title="Previous 50 hits" disabled>Previous 50</button><button class="btn" id="search-next" onclick="pageSearch(1)" title="Next 50 hits" disabled>Next 50</button></div><div id="search-results"></div></div></section>
 
 <section id="sec-files"><div class="card"><h2>Library / Files <span class="help" title="Every root document/script and every transcribeme pipeline script, with size and role. Raw transcripts (620 .txt in transcribeme/) feed the corpus; they are data, not pages.">?</span></h2>
 <input id="file-filter" placeholder="Filter files..." oninput="renderFiles()" title="Filter by name or description" style="width:100%;margin-bottom:10px">
@@ -245,23 +255,46 @@ async function loadStatus(){ try{ const r=await fetch('/api/status'); statusData
  sel.innerHTML=Object.entries(statusData.docs).map(([k,v])=>'<option value="'+k+'">'+esc(v.group)+' - '+esc(v.label)+(v.exists?'':' (missing)')+'</option>').join('');
  if(cur) sel.value=cur;
  }catch(e){ document.getElementById('livepill').textContent='status failed: '+e; } }
+let currentDocRaw='';
 async function loadDoc(){ const k=document.getElementById('doc-select').value; if(!k) return;
- const r=await fetch('/api/doc?name='+encodeURIComponent(k)); const t=await r.text();
- document.getElementById('doc-viewer').textContent=t;
+ const r=await fetch('/api/doc?name='+encodeURIComponent(k)); currentDocRaw=await r.text(); renderDoc();
  const d=(statusData&&statusData.docs[k])||{}; document.getElementById('doc-meta').textContent=(d.file||'')+' - '+(d.bytes||0)+' bytes - '+(d.desc||''); }
-async function loadPrompts(){ const r=await fetch('/api/prompts'); allPrompts=await r.json(); filterPrompts(); }
+function filteredDoc(){ const sp=document.getElementById('doc-speaker').value; if(sp==='all') return currentDocRaw;
+ return currentDocRaw.split('\n').filter(l=>/^#|^\s*$/.test(l)||l.includes(sp.toUpperCase()+':')||l.includes(sp+':')||l.includes('**'+sp.toUpperCase())).join('\n'); }
+function mdInline(s){ return esc(s).replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>').replace(/(^|[^*])\*([^*]+)\*/g,'$1<i>$2</i>').replace(/`([^`]+)`/g,'<code>$1</code>'); }
+function renderMarkdown(t){ const out=[]; let inCode=false, list=false;
+ for(const line of t.split('\n')){ if(line.trim().startsWith('```')){ out.push(inCode?'</pre>':'<pre>'); inCode=!inCode; continue; }
+  if(inCode){ out.push(esc(line)); continue; }
+  const h=line.match(/^(#{1,3})\s+(.*)/); if(h){ if(list){out.push('</ul>');list=false;} out.push('<h'+h[1].length+'>'+mdInline(h[2])+'</h'+h[1].length+'>'); continue; }
+  if(/^\s*---+\s*$/.test(line)){ if(list){out.push('</ul>');list=false;} out.push('<hr>'); continue; }
+  if(/^\|.*\|$/.test(line)){ if(list){out.push('</ul>');list=false;} if(!/^\|[\s:|-]+\|$/.test(line)) out.push('<p>'+mdInline(line.replace(/^\||\|$/g,'').replace(/\|/g,' | '))+'</p>'); continue; }
+  const li=line.match(/^\s*[-*]\s+(.*)/); if(li){ if(!list){out.push('<ul>');list=true;} out.push('<li>'+mdInline(li[1])+'</li>'); continue; }
+  if(list){ out.push('</ul>'); list=false; }
+  if(line.trim()) out.push('<p>'+mdInline(line)+'</p>'); }
+ if(list) out.push('</ul>'); if(inCode) out.push('</pre>'); return out.join('\n'); }
+function renderDoc(){ const v=document.getElementById('doc-viewer'); if(!currentDocRaw){ v.textContent='Select a document and press Load.'; return; }
+ const t=filteredDoc();
+ if(document.getElementById('doc-mode').value==='plain'){ v.innerHTML='<pre style="white-space:pre-wrap">'+esc(t)+'</pre>'; }
+ else { v.innerHTML=renderMarkdown(t); } }
+async function loadPrompts(){ const src=document.getElementById('prompt-source').value; const r=await fetch('/api/prompts?source='+encodeURIComponent(src)); allPrompts=await r.json(); filterPrompts(); }
 function filterPrompts(){ const s=document.getElementById('season-filter').value, q=document.getElementById('prompt-search').value.toLowerCase();
  const f=allPrompts.filter(p=>(s==='all'||String(p.season)===s)&&(!q||(p.prompt_title+' '+p.prompt_text+' '+p.episode_title).toLowerCase().includes(q)));
  document.getElementById('prompt-count').textContent=f.length+' / '+allPrompts.length+' prompts';
- document.getElementById('prompts-container').innerHTML=f.map((p,i)=>'<div class="prompt-card"><div><div style="color:var(--acc);font-weight:700;font-size:.85rem">S'+esc(p.season)+' E'+esc(p.episode_num)+' - '+esc(p.episode_title)+' - Prompt '+esc(p.prompt_num)+'</div><div style="font-weight:700;color:var(--head)">'+esc(p.prompt_title)+'</div><div class="prompt-body">'+esc(p.prompt_text)+'</div></div><button class="btn" onclick="copyOne('+allPrompts.indexOf(p)+')" title="Copy the full raw prompt block">Copy prompt</button></div>').join('')||'<p class="sub">No prompts match.</p>'; }
+ document.getElementById('prompts-container').innerHTML=f.map((p,i)=>'<div class="prompt-card"><div><div style="color:var(--acc);font-weight:700;font-size:.85rem">'+(p.source_file? esc(p.episode_title)+' - '+esc(p.episode_num) : 'S'+esc(p.season)+' E'+esc(p.episode_num)+' - '+esc(p.episode_title)+' - Prompt '+esc(p.prompt_num))+'</div><div style="font-weight:700;color:var(--head)">'+esc(p.prompt_title)+'</div><div class="prompt-body">'+esc(p.prompt_text)+'</div></div><button class="btn" onclick="copyOne('+allPrompts.indexOf(p)+')" title="Copy the full raw prompt block">Copy prompt</button></div>').join('')||'<p class="sub">No prompts match.</p>'; }
 function copyOne(i){ navigator.clipboard.writeText(allPrompts[i].raw_block); }
 function copyAllPrompts(){ const s=document.getElementById('season-filter').value, q=document.getElementById('prompt-search').value.toLowerCase();
  const f=allPrompts.filter(p=>(s==='all'||String(p.season)===s)&&(!q||(p.prompt_title+' '+p.prompt_text+' '+p.episode_title).toLowerCase().includes(q)));
  navigator.clipboard.writeText(f.map(p=>p.raw_block).join('\n\n')); alert('Copied '+f.length+' prompts'); }
-async function searchCorpus(){ const q=document.getElementById('corpus-query').value.trim(); if(!q) return;
+let searchOffset=0, searchTotal=0;
+function pageSearch(dir){ searchOffset=Math.max(0, searchOffset+dir*50); searchCorpus(true); }
+async function searchCorpus(keepOffset){ const q=document.getElementById('corpus-query').value.trim(); if(!q) return;
+ if(!keepOffset) searchOffset=0;
  document.getElementById('search-status').textContent='Searching...';
- const r=await fetch('/api/search?q='+encodeURIComponent(q)); const d=await r.json();
- document.getElementById('search-status').textContent='Found '+d.matches.length+' hit(s)'+(d.truncated?' (first 50 shown)':'')+' for "'+q+'"';
+ const r=await fetch('/api/search?q='+encodeURIComponent(q)+'&offset='+searchOffset); const d=await r.json();
+ searchTotal=d.total||0; searchOffset=d.offset||0;
+ document.getElementById('search-status').textContent='Found '+searchTotal+' hit(s) for "'+q+'" - showing '+(searchTotal? (searchOffset+1)+'-'+(searchOffset+d.matches.length):'0');
+ document.getElementById('search-prev').disabled=searchOffset<=0;
+ document.getElementById('search-next').disabled=!(searchTotal>searchOffset+d.matches.length);
  document.getElementById('search-results').innerHTML=d.matches.map(m=>{ let t=esc(m.text); t=t.replace(/^Bob:/,'<span class="sp-Bob">Bob:</span>').replace(/^Lum:/,'<span class="sp-Lum">Lum:</span>'); return '<div class="result-item"><span class="sub">Line '+m.line_num+'</span><p>'+t+'</p></div>'; }).join('')||'<p class="sub">No hits.</p>'; }
 async function loadFiles(){ const r=await fetch('/api/files'); allFiles=await r.json(); renderFiles();
  document.getElementById('script-list').innerHTML=allFiles.filter(f=>f.kind==='.py').map(f=>'<div><b>'+esc(f.name)+'</b> - '+esc(f.desc||'')+'</div>').join(''); }
@@ -298,7 +331,11 @@ class Handler(http.server.BaseHTTPRequestHandler):
             data = []
             if DB_PATH.exists():
                 conn = sqlite3.connect(DB_PATH); conn.row_factory = sqlite3.Row
-                try: data = [dict(r) for r in conn.execute("SELECT season,episode_num,episode_title,prompt_num,prompt_title,prompt_text,raw_block FROM kling_prompts ORDER BY season,prompt_num").fetchall()]
+                try:
+                    if q.get("source", ["canonical"])[0] == "historical":
+                        data = [dict(r) for r in conn.execute("SELECT 0 AS season, shot_id AS episode_num, source_file AS episode_title, id AS prompt_num, title AS prompt_title, prompt_text, raw_block, source_file FROM kling_prompts_historical ORDER BY source_file, id").fetchall()]
+                    else:
+                        data = [dict(r) for r in conn.execute("SELECT season,episode_num,episode_title,prompt_num,prompt_title,prompt_text,raw_block FROM kling_prompts ORDER BY season,prompt_num").fetchall()]
                 except Exception: data = []
                 conn.close()
             return self.send_json(data)
@@ -306,14 +343,16 @@ class Handler(http.server.BaseHTTPRequestHandler):
             key = "s1" if q.get("season", ["1"])[0] == "1" else "s2"; return self._doc(key)
         if path == "/api/doc": return self._doc(q.get("name", ["s1"])[0])
         if path == "/api/search":
-            query = q.get("q", [""])[0].strip().lower(); matches = []
+            query = q.get("q", [""])[0].strip().lower()
+            try: offset = max(0, int(q.get("offset", ["0"])[0]))
+            except Exception: offset = 0
+            all_matches = []
             if query and CORPUS_PATH.exists():
                 with open(CORPUS_PATH, encoding="utf-8", errors="replace") as f:
                     for i, line in enumerate(f, 1):
-                        if query in line.lower():
-                            matches.append({"line_num": i, "text": line.strip()})
-                            if len(matches) >= 50: break
-            return self.send_json({"matches": matches, "truncated": len(matches) >= 50})
+                        if query in line.lower(): all_matches.append({"line_num": i, "text": line.strip()})
+            page = all_matches[offset:offset+50]
+            return self.send_json({"matches": page, "total": len(all_matches), "offset": offset, "truncated": len(all_matches) > offset + 50})
         return self.send_text("not found", code=404)
     def _doc(self, key):
         if key not in DOCS: return self.send_text("unknown doc", code=404)

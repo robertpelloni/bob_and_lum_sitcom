@@ -3,6 +3,13 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.6.0] - 2026-11-13
+### Added
+- Historical Kling indexing: `extract_kling_prompts.py` now parses DARK (table format, 114), episode-1 (14) and full-series (49) into `kling_prompts_historical` (177 total); dashboard prompt explorer gains a Canonical/Historical source toggle.
+- `transcribeme/canon_lint.py` canon gate (Pop-Tarts negation, Rob/Lung labels, Noah conflation) wired into `build.ps1`.
+- Maintained tests `tests/test_dashboard.py` (5 stdlib unittest cases: search pagination, historical source, traversal guard, canon lint, all three historical formats) run by `build.ps1`.
+- Screenplay viewer renders markdown (headings/bold/lists/code/tables) with Plain toggle and Bob/Lum speaker filter; corpus search paginates (total + Previous/Next 50).
+
 ## [1.5.0] - 2026-11-13
 ### Added
 - Dashboard consolidated into one high-value-ordered page (Overview → Screenplays & Docs → Kling Prompts → Corpus Search → Library/Files → Pipeline & Scripts → Canon → System) with 36 tooltip/help markers, live `/api/status` (version from `VERSION.md`, corpus sha/parity, DB counts, uptime), one viewer for all 19 screenplays/Kling sources/docs (`/api/doc`, allowlisted), `/api/files` inventory (47 files with roles), real job output for check/stats/re-index/rebuild (exit code + stdout, never faked success), speaker highlighting in corpus search, and `/api/log`.

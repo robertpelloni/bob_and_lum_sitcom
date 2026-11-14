@@ -1,6 +1,6 @@
 # HANDOFF — Bob & Lum Sitcom (Session State & Autopilot Summary)
 
-_Updated 2026-11-13 by [muse-wonder-1.0 in Muse Code in C:\Users\hyper\workspace\bob_and_lum_sitcom on laptop] — v1.5.0_
+_Updated 2026-11-13 by [muse-wonder-1.0 in Muse Code in C:\Users\hyper\workspace\bob_and_lum_sitcom on laptop] — v1.6.0 (adds: 177 historical Kling prompts indexed with dashboard toggle, canon-lint gate, 5 maintained tests in build.ps1, markdown screenplay viewer with Bob/Lum filter, paginated corpus search, cached /api/status)_
 
 ## What changed this session (v1.5.0)
 - **Dashboard consolidated to one page** (`dashboard.py`, stdlib only): Overview (live `/api/status`) → Screenplays & Docs (one viewer, 19 allowlisted files) → Kling Prompts (102, filter/copy/copy-filtered) → Corpus Search (speaker highlight) → Library/Files (47 files with roles) → Pipeline & Scripts (real job output) → Canon → System (log/quit/tray help). 36 tooltips. Dead `showTab`, hardcoded metrics/version, and prompt-XSS fixed.
