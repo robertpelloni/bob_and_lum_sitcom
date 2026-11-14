@@ -3,6 +3,10 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.7.2] - 2026-11-14
+### Added
+- Restored 108 missing transcripts into `transcribeme/` (from the Vibe migration's F: MP3-backup transcripts, rendered from whisper `vibe.json`; body-only to match repo `.txt` convention, no overwrites — 27 duplicate-named files already existed). These are raw inputs only: the master corpus (247 sessions) is **not** rebuilt; folding them in via `rebuild_combined.py`/deep-clean is a separate canon step for owner review. Full pairing report: `J:\Vibe_archive\VIBE_BACKUP_REPORT.md`.
+
 ## [1.7.1] - 2026-11-14
 ### Fixed
 - Strengthened all 17 validator-weak canonical Kling prompts (additive camera/lighting cue appended, original wording untouched): `validate_prompts.py` now reports canonical 102/102 with cue, 0 weak. Historical archive prompts (20 weak) intentionally left as-is for archive fidelity.
