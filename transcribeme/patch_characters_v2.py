@@ -2,7 +2,7 @@
 from pathlib import Path
 import re
 
-DL = Path(r"C:\Users\hyper\Downloads")
+DL = Path(__file__).resolve().parent.parent  # repo root (files used to live in Downloads)
 
 BOB_ADD = (
     " Late-discovered voice: Lum's pitch that Bob is the analytical right brain and Lum the creative left — "

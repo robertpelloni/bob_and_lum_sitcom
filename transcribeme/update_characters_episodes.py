@@ -1,7 +1,7 @@
 """Update character definitions and episode guides in sitcom_final_s1.md and sitcom_final_s2.md."""
 from pathlib import Path
 
-DL = Path(r"C:\Users\hyper\Downloads")
+DL = Path(__file__).resolve().parent.parent  # repo root (files used to live in Downloads)
 
 # --- shared additions ---
 BOB_ADD = (

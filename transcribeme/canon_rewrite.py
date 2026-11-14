@@ -12,7 +12,7 @@ from pathlib import Path
 import re
 import shutil
 
-DL = Path(r"C:\Users\hyper\Downloads")
+DL = Path(__file__).resolve().parent.parent  # repo root (files used to live in Downloads)
 
 CORPUS = DL / "sitcom script.txt"
 CORPUS_TWIN = DL / "CONVERSATION_SCRIPT_COMPLETE.txt"

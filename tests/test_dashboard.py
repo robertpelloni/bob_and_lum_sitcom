@@ -47,6 +47,14 @@ class DashboardApiTests(unittest.TestCase):
         s, _ = get(self.port, "/api/doc?name=../../dashboard.py")
         self.assertEqual(s, 404)
 
+class PortablePathsTests(unittest.TestCase):
+    def test_no_hardcoded_downloads_paths(self):
+        bad = []
+        for p in sorted((ROOT / "transcribeme").glob("*.py")):
+            if "C:\\Users\\hyper\\Downloads" in p.read_text(encoding="utf-8", errors="replace"):
+                bad.append(p.name)
+        self.assertEqual(bad, [], f"hardcoded Downloads paths remain: {bad}")
+
 class ValidatePromptsTests(unittest.TestCase):
     def test_validate_canonical_prompts(self):
         sys.path.insert(0, str(ROOT / "transcribeme"))

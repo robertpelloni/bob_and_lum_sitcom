@@ -5,7 +5,7 @@ S2: bonus 2-7 before '## SEASON 2 COMPLETE'
 """
 from pathlib import Path
 
-DL = Path(r"C:\Users\hyper\Downloads")
+DL = Path(__file__).resolve().parent.parent  # repo root (files used to live in Downloads)
 
 S1_EPISODES = r'''
 ## EPISODE 9: "THE STING RAY"

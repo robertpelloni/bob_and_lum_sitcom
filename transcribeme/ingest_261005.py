@@ -7,10 +7,10 @@ import re
 import sys
 from pathlib import Path
 
-sys.path.insert(0, r"C:\Users\hyper\Downloads\transcribeme")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from deep_clean_rebuild import deep_clean_text, render_session, OUT, OUT_COPY
 
-SRC = Path(r"C:\Users\hyper\Downloads\transcribeme\Voice 261005_224228.txt")
+SRC = Path(__file__).resolve().parent / "Voice 261005_224228.txt"
 
 # Speaker cues: S1 says "Bob and I are going to be characters" -> Lum.
 # S2/S3 co-pitch the same episode idea (diarization split) -> Bob.

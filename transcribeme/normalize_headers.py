@@ -12,7 +12,7 @@ canonical block so split-based tooling (regen_wordpress_html.py) works:
 from pathlib import Path
 import re
 
-DL = Path(r"C:\Users\hyper\Downloads")
+DL = Path(__file__).resolve().parent.parent  # repo root (files used to live in Downloads)
 FILES = [DL / "sitcom script.txt", DL / "CONVERSATION_SCRIPT_COMPLETE.txt"]
 
 HDR = re.compile(

@@ -3,10 +3,10 @@ import re, hashlib
 from pathlib import Path
 from collections import defaultdict
 
-SRC = Path(r"C:\Users\hyper\Downloads\transcribeme")
-EXISTING = Path(r"C:\Users\hyper\Downloads\sitcom script.txt")
-OUT = Path(r"C:\Users\hyper\Downloads\sitcom script.txt")
-OUT_COPY = Path(r"C:\Users\hyper\Downloads\CONVERSATION_SCRIPT_COMPLETE.txt")
+SRC = Path(__file__).resolve().parent
+EXISTING = Path(__file__).resolve().parent.parent / "sitcom script.txt"
+OUT = Path(__file__).resolve().parent.parent / "sitcom script.txt"
+OUT_COPY = Path(__file__).resolve().parent.parent / "CONVERSATION_SCRIPT_COMPLETE.txt"
 
 # --- load existing combined ---
 existing = EXISTING.read_text(encoding="utf-8", errors="replace")

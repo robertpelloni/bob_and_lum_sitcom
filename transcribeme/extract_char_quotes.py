@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
 
-src = Path(r"C:\Users\hyper\Downloads\transcribeme")
+src = Path(__file__).resolve().parent
 files = [
     "Voice 260921_211718.txt", "Voice 260925_000559.txt", "Voice 260927_125841.txt",
     "Voice 260924_214139.txt", "Voice 260927_205538.txt", "Voice 260927_192903.txt",

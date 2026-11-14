@@ -5,7 +5,7 @@
 - [x] Consolidate master conversation script (247 sessions, 5.9MB corpus).
 - [x] Establish strict character rules (no Pop-Tarts, distinct death narratives, USB vs burner phones).
 - [ ] Align older secondary drafts (`sitcom_bob_and_lum_DARK_KLING.md`, `sitcom_bob_and_lum_episode1*.md`, `full_series_kling.md`) to the unified 12-episode canonical standard.
-- [x] Port hardcoded local filesystem paths in pipeline scripts to portable repository paths (verified 2026-11-13: no `C:\Users`/Downloads hits in `transcribeme/*.py`).
+- [x] Port hardcoded local filesystem paths in pipeline scripts to portable repository paths (completed 2026-11-14 v1.7.3: 14 scripts fixed + guard test; the 2026-11-13 check missed them — search error, corrected).
 
 ## Phase 2: Kling AI Prompt & Video Asset Orchestration
 - [x] Compile all scene prompts from `sitcom_final_s1.md` and `sitcom_final_s2.md` into structured JSON / SQLite tables (`transcribeme/catalog.db:kling_prompts`).

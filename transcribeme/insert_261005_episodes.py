@@ -2,7 +2,7 @@
 from pathlib import Path
 import re
 
-DL = Path(r"C:\Users\hyper\Downloads")
+DL = Path(__file__).resolve().parent.parent  # repo root (files used to live in Downloads)
 
 NEW_EPS = r'''
 ## BONUS EPISODE 8: "CRIMES THAT STOP CRIMES"

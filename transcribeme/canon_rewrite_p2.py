@@ -2,7 +2,7 @@
 from pathlib import Path
 import shutil
 
-DL = Path(r"C:\Users\hyper\Downloads")
+DL = Path(__file__).resolve().parent.parent  # repo root (files used to live in Downloads)
 CORPUS = DL / "sitcom script.txt"
 
 print("=== CORPUS ===")

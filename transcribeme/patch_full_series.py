@@ -1,7 +1,7 @@
 """Update full_series.md season bible with new cast and episode rows."""
 from pathlib import Path
 
-p = Path(r"C:\Users\hyper\Downloads\sitcom_bob_and_lum_full_series.md")
+p = Path(__file__).resolve().parent.parent / "sitcom_bob_and_lum_full_series.md"
 t = p.read_text(encoding="utf-8", errors="replace")
 
 old_bob = '| **BOB** (Robert Pelloni) | 42, Detroit-born solo developer and "tech polymath." Intense, fast-talking, prone to grandiose declarations and sudden vulnerability. Wears the same hoodie. Has lived multiple lives — from addiction and jail to building AI companies. Pop-Tart connoisseur. |'

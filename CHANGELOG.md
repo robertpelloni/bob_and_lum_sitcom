@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.7.3] - 2026-11-14
+### Fixed
+- Ported hardcoded `C:\Users\hyper\Downloads\...` paths to repo-relative paths in 14 pipeline scripts (`canon_rewrite*`, `diff_new_sessions`, `extract_char_quotes`, `ingest_261005`, `insert_*`, `normalize_headers`, `patch_*`, `rebuild_combined`, `update_characters_episodes`) — they were dead on this machine. Guarded by a new test (7 cases total). Corrects a v1.7.0 roadmap note that wrongly claimed no Downloads paths remained.
+### Added
+- `CORPUS_FOLD_PREVIEW.md`: read-only diff showing a corpus rebuild would append **136 new unique sessions (4.32 MB)** as sessions 248+. Not executed — owner decision.
+
 ## [1.7.2] - 2026-11-14
 ### Added
 - Restored 108 missing transcripts into `transcribeme/` (from the Vibe migration's F: MP3-backup transcripts, rendered from whisper `vibe.json`; body-only to match repo `.txt` convention, no overwrites — 27 duplicate-named files already existed). These are raw inputs only: the master corpus (247 sessions) is **not** rebuilt; folding them in via `rebuild_combined.py`/deep-clean is a separate canon step for owner review. Full pairing report: `J:\Vibe_archive\VIBE_BACKUP_REPORT.md`.

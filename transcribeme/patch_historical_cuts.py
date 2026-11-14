@@ -2,7 +2,7 @@
 from pathlib import Path
 import re
 
-DL = Path(r"C:\Users\hyper\Downloads")
+DL = Path(__file__).resolve().parent.parent  # repo root (files used to live in Downloads)
 
 BANNER = (
     "> **HISTORICAL CUT (canon applied 2026-10-13).** "

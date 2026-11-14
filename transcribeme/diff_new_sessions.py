@@ -2,8 +2,8 @@ import re, hashlib
 from pathlib import Path
 from collections import defaultdict
 
-src = Path(r"C:\Users\hyper\Downloads\transcribeme")
-combined = Path(r"C:\Users\hyper\Downloads\sitcom script.txt").read_text(encoding="utf-8", errors="replace")
+src = Path(__file__).resolve().parent
+combined = (Path(__file__).resolve().parent.parent / "CONVERSATION_SCRIPT_COMPLETE.txt").read_text(encoding="utf-8", errors="replace")
 
 headers = re.findall(r"^\[\d+\]\s+(.+)$", combined, re.M)
 names = []

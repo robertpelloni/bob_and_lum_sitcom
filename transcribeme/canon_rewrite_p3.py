@@ -1,7 +1,7 @@
 """Canon pass 3 — remaining Pop-Tarts in full_screenplay.md."""
 from pathlib import Path
 
-p = Path(r"C:\Users\hyper\Downloads\sitcom_bob_and_lum_full_screenplay.md")
+p = Path(__file__).resolve().parent.parent / "sitcom_bob_and_lum_full_screenplay.md"
 t = p.read_text(encoding="utf-8", errors="replace")
 pairs = [
     ("You ate a Pop-Tart for dinner and stayed up until 4 AM",

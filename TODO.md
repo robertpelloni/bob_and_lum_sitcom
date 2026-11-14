@@ -21,7 +21,7 @@
 - [x] Corpus search pagination + session-name context per hit (done v1.6.0/v1.7.0).
 - [ ] Tray: visually confirm icon on the desktop (process verified BelowNormal; icon pixels not sighted by agent). Live state done v1.7.0 (`Dashboard Status` menu + `--status`).
 - [x] Restore missing transcripts from Vibe backup (done v1.7.2: 108 new `transcribeme/*.txt`; 42 repo transcripts still have no audio anywhere found — see `J:\Vibe_archive\VIBE_BACKUP_REPORT.md` section B).
-- [ ] Owner decision: fold the 108 restored transcripts into the master corpus (rebuild_combined + deep-clean + speaker assignment + canon pass), which would take the corpus past 247 sessions.
+- [ ] Owner decision: fold new sessions into the master corpus — preview in `CORPUS_FOLD_PREVIEW.md` (136 new unique sessions, 4.32 MB, sessions 248+ via `rebuild_combined.py`, now path-fixed; speaker assignment is heuristic, canon pass needed after).
 - [x] Strengthen the 17 weak canonical Kling prompts (done v1.7.1: additive camera cues only, validate 102/102; owner can tweak wording in `sitcom_final_s*.md` and re-index). Historical 20 weak left untouched for fidelity.
 
 ## Documentation & Version Governance
