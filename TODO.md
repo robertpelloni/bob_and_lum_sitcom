@@ -14,6 +14,13 @@
 - [x] Implement local unified dashboard server (`dashboard.py`) with screenplay viewer, prompt laboratory, corpus search, and graceful shutdown controls.
 - [x] Implement desktop system tray runner (`tray_runner.py`) using `pystray` and `PIL` with server start/stop/restart/quit and browser launcher.
 
+## Dashboard v1.5.0 follow-ups (2026-11-13)
+- [ ] Index or explicitly supersede non-DB Kling files (`DARK_KLING`, `episode1_kling`, `full_series_kling` — readable in viewer, not in `kling_prompts`).
+- [ ] Decide disposition of legacy `catalog.db` tables (`published_mcp_servers` 82 rows, `links_backlog`, `published_skills`) — HyperNexus residue, not sitcom data; do not delete without owner OK.
+- [ ] Markdown-render screenplays in viewer (headings, BOB/LUM colour filters); currently plain text.
+- [ ] Corpus search: pagination beyond first 50 + session-name context per hit.
+- [ ] Tray: visually confirm icon on the desktop (process verified BelowNormal; icon pixels not sighted by agent) and add live Running/Stopped state to menu.
+
 ## Documentation & Version Governance
 - [x] Create core governance suite: `VERSION.md`, `ROADMAP.md`, `VISION.md`, `MEMORY.md`, `DEPLOY.md`, `IDEAS.md`, `CHANGELOG.md`.
 - [x] Configure `.gitignore` to prevent Python compilation cache leakage (`__pycache__/`, `*.pyc`).

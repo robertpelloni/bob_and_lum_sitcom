@@ -1,41 +1,28 @@
 # HANDOFF — Bob & Lum Sitcom (Session State & Autopilot Summary)
 
-_Updated 2026-11-04 by Jules (v1.4.0)_
+_Updated 2026-11-13 by [muse-wonder-1.0 in Muse Code in C:\Users\hyper\workspace\bob_and_lum_sitcom on laptop] — v1.5.0_
 
-## 1. Executive Summary & Codebase State
-- **Corpus Health**:
-  - `CONVERSATION_SCRIPT_COMPLETE.txt` and `sitcom script.txt` are **strictly byte-identical** (5,905,406 bytes, 247 sessions, 258,350 lines).
-  - `CONVERSATION_SCRIPT_COMPLETE.wordpress.html` is fully generated and synchronized (7,643,029 bytes).
-  - Transcripts cover sessions from 2025-02-25 through 2026-10-05.
-- **Screenplay & Canon Status**:
-  - Season 1: `sitcom_final_s1.md` (12 canonical episodes with 51 Kling AI scene generation prompts).
-  - Season 2: `sitcom_final_s2.md` (8 canonical episodes + 6 bonus episodes with 51 Kling AI scene generation prompts).
-  - Character canon held: Bob lives on yogurt, coffee, and pizza (never Pop-Tarts); Chris Papa died for both Bob and Lum; Noah died next to Lum; Crystal's dad died to save Bob and Crystal; USB flash drives belong to Bob; burner phones belong to Lum and Harry.
-- **Governance Standards Implemented**:
-  - `VERSION.md` (v1.4.0)
-  - `VISION.md`, `MEMORY.md`, `ROADMAP.md`, `TODO.md`, `DEPLOY.md`, `IDEAS.md`, `CHANGELOG.md`
-  - `.gitignore` updated with Python cache rules (`__pycache__/`, `*.pyc`).
+## What changed this session (v1.5.0)
+- **Dashboard consolidated to one page** (`dashboard.py`, stdlib only): Overview (live `/api/status`) → Screenplays & Docs (one viewer, 19 allowlisted files) → Kling Prompts (102, filter/copy/copy-filtered) → Corpus Search (speaker highlight) → Library/Files (47 files with roles) → Pipeline & Scripts (real job output) → Canon → System (log/quit/tray help). 36 tooltips. Dead `showTab`, hardcoded metrics/version, and prompt-XSS fixed.
+- **Port 8080 → 8765 everywhere**: 8080 is `node server/ai_proxy.js` (another project, PID-owned, BelowNormal) — left running untouched. Dashboard binds `127.0.0.1:8765`.
+- **Tray fixed**: Windows `$DISPLAY` gate removed (tray could never appear); child hidden/BelowNormal/logged; menu Open/Start/Stop/Restart/Check/View log/Quit All. Tray process launched and verified BelowNormal this session; icon pixels not visually sighted by agent.
+- **Scripts**: new `build.ps1` (compile+check+stats+re-index+HTML); hidden launchers identity-check `/api/status`; `.tmp_*.txt` archived to `archive/tmp_20261113/` (restorable, not deleted); `dashboard.log` gitignored; `manage_corpus --stats` byte count fixed (CRLF undercount).
+- **Coordination (Edge CDP 9222)**: tabs confirmed muse.ai, ChatGPT, Gemini. Identity check-in sent to Muse and Gemini. ChatGPT composer contained another lane's unsent HyperNexus draft — deliberately not overwritten/sent.
 
-## 2. Dashboard and System Tray Status
-- **Unified Single-Page Dashboard (`dashboard.py`)**:
-  - Implemented a zero-dependency, local dashboard web server (`python3 dashboard.py --port 8080`).
-  - Consolidated single-page layout: Overview metrics, Kling Prompts explorer (102 prompts with 1-click copy), S1 & S2 Screenplay Reader, 258k-line Corpus Search, and server shutdown endpoint.
-- **Desktop System Tray Controller (`tray_runner.py`)**:
-  - Built cross-platform desktop system tray runner (`python3 tray_runner.py [--port 8080] [--headless]`).
-  - Features right-click menu:
-    - Open Sitcom Dashboard in browser
-    - Start / Stop / Restart Dashboard Server
-    - Check Corpus Integrity
-    - Quit All Services cleanly
-  - Automatically falls back to CLI daemon mode on headless/non-GUI machines.
+## Verified live (2026-11-13 evening)
+- Corpus: 6,163,756 bytes, 247 sessions, 258,350 lines, sha `c719b1dbd333`, twin byte-identical; `build.ps1 -SkipHtml` green; prompts re-indexed 51+51=102.
+- Dashboard `http://127.0.0.1:8765`: `/`, `/api/status|prompts|search|doc|screenplay|files|log`, `POST /api/check` all 200; traversal `/api/doc?name=../../dashboard.py` → 404. Running BelowNormal (pythonw, via hidden launcher). Note: processes started this session stop when the agent session ends — restart with `python dashboard.py` / `start_dashboard_hidden.vbs`, then open http://127.0.0.1:8765 in a browser.
+- An external Protocol process committed the code half mid-session as `750beb4 chore: track dirty state (Protocol #291)`; docs/version/archive half is committed separately as v1.5.0. No submodules exist in this repo (no `.gitmodules`); local `main` was already in sync with `origin/main`, Jules/backup branches were already merged (history #281).
 
-## 3. Tooling & Pipeline Additions
-- `transcribeme/extract_kling_prompts.py`: Parses all 102 Kling video prompts into `catalog.db:kling_prompts`.
-- `transcribeme/manage_corpus.py`: Unified CLI runner for corpus integrity, stats, and HTML viewer rebuilding.
-- Portable path resolution in `deep_clean_rebuild.py` and `regen_wordpress_html.py`.
-- All 18 Python scripts pass `python3 -m py_compile`.
+## Not working / not running — needs decisions
+1. Non-final Kling files (DARK/episode1/full-series) are readable but **not indexed** in `kling_prompts` — index or mark superseded?
+2. `catalog.db` legacy HyperNexus tables (82 MCP servers etc.) — keep, export, or drop? (Untouched.)
+3. No Kling/TTS keys or render pipeline — Phase 4 needs owner accounts/choices.
+4. Screenplays render as plain text; proper markdown + BOB/LUM filters are TODO.
+5. Tray icon needs a human glance to confirm it renders on the desktop.
 
-## 4. Next Priorities for Autopilot / Successor
-1. **Auxiliary Draft Harmonization**: Check secondary drafts (`sitcom_bob_and_lum_DARK_KLING.md`, `full_series_kling.md`) to align them completely with the final 12-episode Season 1 canon.
-2. **Kling Prompt Database**: Extract all Kling video prompts from `sitcom_final_s1.md` and `sitcom_final_s2.md` into structured SQLite tables in `transcribeme/catalog.db`.
-3. **Web Dashboard & Tray Runner**: If the user desires a self-contained web dashboard in this repo, implement a lightweight local server (e.g. FastAPI / Flask / Node) serving an interactive screenplay reader and corpus search UI.
+## Next (in order)
+1. Human: open http://127.0.0.1:8765, confirm tray icon, skim TODO follow-ups.
+2. Index/supersede non-final Kling; canon-lint gate in `build.ps1`.
+3. Markdown screenplay rendering; corpus search pagination/session context.
+4. Phase 4 scoping: Kling queue + voice table reads (owner picks providers).

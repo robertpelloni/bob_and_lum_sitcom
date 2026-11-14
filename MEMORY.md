@@ -29,6 +29,12 @@
 - `CONVERSATION_SCRIPT_COMPLETE.wordpress.html`: HTML formatted transcript reader.
 - `transcribeme/`: Directory containing raw input transcript files, SQLite catalog database, and data cleaning/ingestion utilities.
 
+## Dashboard Runtime Facts (2026-11-13, v1.5.0)
+- Dashboard default port is **8765** (`127.0.0.1` only). Port 8080 on this laptop is `node server/ai_proxy.js` (another project, BelowNormal) — never kill/reuse it for this repo. Old docs/scripts saying 8080 are stale.
+- Corpus ground truth 2026-11-13: 6,163,756 bytes, 247 sessions, 258,350 lines (dashboard counts 258,351 with trailing newline), sha256 `c719b1dbd333…`, twin files byte-identical. Older docs citing 5,905,406 bytes counted CRLF-translated text.
+- `catalog.db` also contains legacy HyperNexus tables (`published_mcp_servers`, etc.) — not sitcom data, leave alone pending owner decision.
+- Coordination identity used in Edge CDP chats: `[muse-wonder-1.0 in Muse Code in C:\Users\hyper\workspace\bob_and_lum_sitcom on laptop]`; Muse + Gemini tabs received it 2026-11-13, ChatGPT composer held another lane's unsent draft and was left untouched.
+
 ## Runtime Process Priority Rule (2026-11-08)
 - All heavyweight project processes (dashboard server, corpus rebuilds, Kling batch, ffmpeg renders, bulk Python scripts) must run at BelowNormal priority so they never hang the system.
 - `dashboard.py` and `transcribeme/manage_corpus.py` self-lower via `lower_self_priority()` (Windows BELOW_NORMAL_PRIORITY_CLASS, Unix nice +10).

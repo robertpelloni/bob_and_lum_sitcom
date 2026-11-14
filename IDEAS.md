@@ -24,5 +24,12 @@
 - Train custom voice models capturing Bob's rapid, breathless golden-retriever delivery and Lum's gravelly, slow-paced deadpan timing.
 - Generate synchronized multi-character audio dialogue per episode to accompany video renders.
 
+## 5. Aggressive next leaps (2026-11-13)
+- **Kling render queue in-dashboard**: per-prompt Generate/status/download, `kling_renders` table, clip thumbnails on prompt cards (needs Kling account/API decision from owner).
+- **Voice-cloned table reads**: ElevenLabs/local TTS Bob/Lum voices reading any episode in the viewer, export MP3 per episode.
+- **Canon linter as a gate**: `build.ps1` fails on Pop-Tarts/Rob/Noah-conflation regressions across all cuts, not just finals.
+- **Corpus → episode miner**: cluster 247 sessions by topic, propose S3 episode outlines with source line links.
+- **Static export**: one-file offline HTML (screenplays + prompts + search index) for sharing without the server.
+
 ## 4. Comic Book / Storyboard Previsualization
 - Convert Kling scene prompts into panel-by-panel comic / storyboard graphics using Flux or Midjourney for fast visual review before full video rendering.

@@ -27,3 +27,7 @@ __pycache__/
  
 # Local audio recovery 2026-11-08, never commit 
 transcribeme/_recovered_20261108/ 
+
+# Runtime logs (generated)
+dashboard.log
+dashboard.log.err

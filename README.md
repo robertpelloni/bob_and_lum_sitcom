@@ -4,7 +4,7 @@ A dark-comedy sitcom derived from hundreds of hours of raw transcribed real-life
 
 ## Status
 
-**Active writing/production project (v1.4.0).** Last significant activity: **2026-11-12** — merges of a Jules branch and a leader-sync backup (Protocol #281). Nov 7–9 work shipped v1.4.0 (desktop system tray controller), a single-page dashboard with stacked sections and anchor nav, headless no-popup launchers, and script fixes.
+**Active writing/production project (v1.5.0).** 2026-11-13: dashboard consolidated into one high-value-ordered page (live status, one viewer for all screenplays/docs, Kling prompts, corpus search, file library, pipeline jobs, canon, system/tray) at `http://127.0.0.1:8765` (8765, not 8080 — 8080 belongs to another local service). Tray icon fixed on Windows. See [DEPLOY.md](DEPLOY.md) for the manual.
 
 No produced episodes are in the repo — this is scripts, transcripts, and video-generation prompts, not a finished show.
 
@@ -18,4 +18,4 @@ No produced episodes are in the repo — this is scripts, transcripts, and video
 - `transcribeme/` — transcription tooling
 - Working docs: `VISION.md`, `ROADMAP.md`, `TODO.md`, `HANDOFF.md`, `MEMORY.md`, `CHANGELOG.md`, `DEPLOY.md`
 
-Note: several `.tmp_*.txt` scratch files are committed at the root; the Nov 9 cleanup removed some CDP helper scripts but left others.
+Note: root `.tmp_*.txt` scratch files were archived (not deleted) to `archive/tmp_20261113/` on 2026-11-13. Start the dashboard with `python dashboard.py` or `start_dashboard_hidden.vbs`, then open `http://127.0.0.1:8765` in a browser.

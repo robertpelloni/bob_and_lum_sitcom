@@ -19,6 +19,9 @@
   - Raw Transcript Explorer with full-text search across all 247 corpus sessions.
   - Server lifecycle control (graceful `/api/quit` endpoint).
 - [x] Integrate local desktop system tray controller (`tray_runner.py`) using `pystray` and `PIL` with actions to launch dashboard, start/stop/restart servers, check corpus integrity, and quit all services.
+- [x] v1.5.0 (2026-11-13): one consolidated page ordered by value, live `/api/status`, all 19 docs/screenplays in one viewer, file+script library, honest pipeline job output, tray Windows fix, port 8765, `build.ps1`.
+- [ ] Index non-final Kling files (DARK/episode1/full-series) into `catalog.db` or mark them superseded in the dashboard.
+- [ ] Render screenplay markdown properly (headings/dialogue) instead of plain `<pre>`, with Bob/Lum filters from IDEAS.
 
 ## Phase 4: Audio Synthesis & Multimodal Rendering
 - [ ] Extract character voice samples from raw media transcripts (`transcribeme/*.mp4` / `IMG_*.MOV`).

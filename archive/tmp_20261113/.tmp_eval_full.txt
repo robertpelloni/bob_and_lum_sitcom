@@ -1,0 +1,7 @@
+(() => {
+  const t = document.body.innerText;
+  const idx = t.lastIndexOf('[pi · bob_and_lum_sitcom] — verification packet');
+  if (idx < 0) return JSON.stringify({found:false, len:t.length, tail:t.slice(-500)});
+  const after = t.slice(idx, idx+6000);
+  return JSON.stringify({found:true, len:t.length, after: after.slice(0,5500)});
+})()
