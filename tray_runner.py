@@ -92,8 +92,15 @@ def setup_tray(port):
     image = create_tray_image()
     if not image:
         print("Pillow not installed / icon failed. Run: pip install pillow"); return None
+    def on_status(icon, _):
+        alive = dashboard_alive(port)
+        state = f"RUNNING on http://127.0.0.1:{port}" if alive else f"STOPPED (nothing answering on :{port})"
+        icon.title = f"Bob & Lum Sitcom - dashboard {state}"
+        try: icon.notify(f"Dashboard is {state}", "Bob & Lum Sitcom")
+        except Exception: print(f"Dashboard status: {state}")
     menu = (
         item("Open Sitcom Dashboard", lambda i, _: webbrowser.open(f"http://127.0.0.1:{port}"), default=True),
+        item("Dashboard Status (check)", on_status),
         item("Start Dashboard Server", lambda i, _: start_server(port)),
         item("Stop Dashboard Server", lambda i, _: stop_server()),
         item("Restart Dashboard Server", lambda i, _: restart_server(port)),
@@ -107,7 +114,11 @@ def main():
     ap = argparse.ArgumentParser(description="Bob & Lum Sitcom System Tray Controller")
     ap.add_argument("--port", type=int, default=DEFAULT_PORT)
     ap.add_argument("--headless", action="store_true", help="CLI daemon mode, no tray icon")
+    ap.add_argument("--status", action="store_true", help="Print dashboard RUNNING/STOPPED for the port and exit (starts nothing)")
     a = ap.parse_args()
+    if a.status:
+        print(f"Dashboard {'RUNNING' if dashboard_alive(a.port) else 'STOPPED'} on http://127.0.0.1:{a.port}")
+        return
     start_server(a.port)
     # BUGFIX (v1.5.0): old code required $DISPLAY, which never exists on Windows -> tray never appeared.
     want_tray = not a.headless and (sys.platform == "win32" or bool(os.environ.get("DISPLAY")) or sys.platform == "darwin")

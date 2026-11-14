@@ -5,12 +5,12 @@
 - [x] Consolidate master conversation script (247 sessions, 5.9MB corpus).
 - [x] Establish strict character rules (no Pop-Tarts, distinct death narratives, USB vs burner phones).
 - [ ] Align older secondary drafts (`sitcom_bob_and_lum_DARK_KLING.md`, `sitcom_bob_and_lum_episode1*.md`, `full_series_kling.md`) to the unified 12-episode canonical standard.
-- [ ] Port hardcoded local filesystem paths in pipeline scripts to portable repository paths.
+- [x] Port hardcoded local filesystem paths in pipeline scripts to portable repository paths (verified 2026-11-13: no `C:\Users`/Downloads hits in `transcribeme/*.py`).
 
 ## Phase 2: Kling AI Prompt & Video Asset Orchestration
 - [x] Compile all scene prompts from `sitcom_final_s1.md` and `sitcom_final_s2.md` into structured JSON / SQLite tables (`transcribeme/catalog.db:kling_prompts`).
-- [ ] Build automated prompt generation and validation pipeline against Kling AI guidelines (aspect ratio, camera movement, motion vector parameters).
-- [ ] Implement batch export tooling for video generation APIs and webhooks.
+- [~] Build automated prompt validation pipeline against Kling guidelines (v1.7.0: `validate_prompts.py` camera/lighting/length report, 17 canonical weak spots listed; aspect-ratio/motion params still TODO).
+- [x] Batch export tooling (dashboard: Copy-filtered for any prompt selection; full API/webhook generation still needs a Kling account decision).
 
 ## Phase 3: Unified Sitcom Web Dashboard & Production Interface
 - [x] Design and implement a consolidated Single-Page Application (SPA) dashboard (`dashboard.py`):

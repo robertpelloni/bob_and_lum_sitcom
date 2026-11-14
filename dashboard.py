@@ -61,6 +61,7 @@ SCRIPT_DESCS = {
  "transcribeme/extract_kling_prompts.py": "Re-index 102 Kling prompts from final S1/S2 into catalog.db.",
  "transcribeme/regen_wordpress_html.py": "Rebuild CONVERSATION_SCRIPT_COMPLETE.wordpress.html from corpus.",
  "transcribeme/canon_lint.py": "Canon gate: fails on Pop-Tarts/Rob/Lung/Noah violations in sitcom*.md (runs in build.ps1).",
+ "transcribeme/validate_prompts.py": "Kling prompt validation report: camera/lighting cue + length coverage for canonical + historical prompts.",
  "transcribeme/deep_clean_rebuild.py": "Deep-clean new transcripts, assign speakers, append to corpus.",
  "transcribeme/rebuild_combined.py": "Rebuild combined corpus from unique transcribeme sessions.",
  "transcribeme/normalize_headers.py": "Normalize session headers in combined corpus.",
@@ -214,6 +215,8 @@ table{width:100%;border-collapse:collapse;font-size:.85rem} td,th{border-bottom:
 <button class="btn" onclick="runAction('/api/stats','Corpus stats')" title="manage_corpus.py --stats: lines, sessions, Bob/Lum cues">Corpus stats</button>
 <button class="btn" onclick="runAction('/api/extract-prompts','Re-index Kling prompts')" title="extract_kling_prompts.py: rebuild kling_prompts table from final S1/S2">Re-index Kling prompts</button>
 <button class="btn" onclick="runAction('/api/rebuild-html','Rebuild WordPress HTML')" title="regen_wordpress_html.py: rebuild the HTML corpus reader">Rebuild WordPress HTML</button>
+<button class="btn" onclick="runAction('/api/validate-prompts','Validate Kling prompts')" title="validate_prompts.py: counts canonical + historical prompts missing camera/lighting cues or too short (report only)">Validate Kling prompts</button>
+<button class="btn" onclick="runAction('/api/canon-lint','Canon lint')" title="canon_lint.py: Pop-Tarts / Rob-Lung / Noah-conflation gate over sitcom*.md">Canon lint</button>
 <p class="sub" style="margin:12px 0 6px">All pipeline scripts (also listed under Library):</p><div id="script-list" class="sub"></div>
 <h3 style="color:var(--head);margin:14px 0 6px;font-size:.95rem">Job output</h3><div id="action-log">No job run yet this session.</div></div></section>
 
@@ -295,7 +298,7 @@ async function searchCorpus(keepOffset){ const q=document.getElementById('corpus
  document.getElementById('search-status').textContent='Found '+searchTotal+' hit(s) for "'+q+'" - showing '+(searchTotal? (searchOffset+1)+'-'+(searchOffset+d.matches.length):'0');
  document.getElementById('search-prev').disabled=searchOffset<=0;
  document.getElementById('search-next').disabled=!(searchTotal>searchOffset+d.matches.length);
- document.getElementById('search-results').innerHTML=d.matches.map(m=>{ let t=esc(m.text); t=t.replace(/^Bob:/,'<span class="sp-Bob">Bob:</span>').replace(/^Lum:/,'<span class="sp-Lum">Lum:</span>'); return '<div class="result-item"><span class="sub">Line '+m.line_num+'</span><p>'+t+'</p></div>'; }).join('')||'<p class="sub">No hits.</p>'; }
+ document.getElementById('search-results').innerHTML=d.matches.map(m=>{ let t=esc(m.text); t=t.replace(/^Bob:/,'<span class="sp-Bob">Bob:</span>').replace(/^Lum:/,'<span class="sp-Lum">Lum:</span>'); return '<div class="result-item"><span class="sub">Line '+m.line_num+(m.session?' - '+esc(m.session):'')+'</span><p>'+t+'</p></div>'; }).join('')||'<p class="sub">No hits.</p>'; }
 async function loadFiles(){ const r=await fetch('/api/files'); allFiles=await r.json(); renderFiles();
  document.getElementById('script-list').innerHTML=allFiles.filter(f=>f.kind==='.py').map(f=>'<div><b>'+esc(f.name)+'</b> - '+esc(f.desc||'')+'</div>').join(''); }
 function renderFiles(){ const q=(document.getElementById('file-filter').value||'').toLowerCase();
@@ -348,9 +351,12 @@ class Handler(http.server.BaseHTTPRequestHandler):
             except Exception: offset = 0
             all_matches = []
             if query and CORPUS_PATH.exists():
+                session = ""
                 with open(CORPUS_PATH, encoding="utf-8", errors="replace") as f:
                     for i, line in enumerate(f, 1):
-                        if query in line.lower(): all_matches.append({"line_num": i, "text": line.strip()})
+                        m = re.match(r"^\[(\d+)\]\s+(.+)$", line.strip())
+                        if m: session = line.strip()
+                        if query in line.lower(): all_matches.append({"line_num": i, "text": line.strip(), "session": session})
             page = all_matches[offset:offset+50]
             return self.send_json({"matches": page, "total": len(all_matches), "offset": offset, "truncated": len(all_matches) > offset + 50})
         return self.send_text("not found", code=404)
@@ -361,7 +367,8 @@ class Handler(http.server.BaseHTTPRequestHandler):
         return self.send_text(p.read_text(encoding="utf-8", errors="replace"))
     def do_POST(self):
         routes = {"/api/check": ["transcribeme/manage_corpus.py", "--check"], "/api/stats": ["transcribeme/manage_corpus.py", "--stats"],
-                  "/api/rebuild-html": ["transcribeme/regen_wordpress_html.py"], "/api/extract-prompts": ["transcribeme/extract_kling_prompts.py"]}
+                  "/api/rebuild-html": ["transcribeme/regen_wordpress_html.py"], "/api/extract-prompts": ["transcribeme/extract_kling_prompts.py"],
+                  "/api/validate-prompts": ["transcribeme/validate_prompts.py"], "/api/canon-lint": ["transcribeme/canon_lint.py"]}
         if self.path == "/api/quit":
             self.send_json({"message": "shutting down"})
             threading.Thread(target=lambda: (time.sleep(0.5), os._exit(0)), daemon=True).start(); return

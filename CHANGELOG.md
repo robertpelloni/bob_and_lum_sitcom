@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.7.0] - 2026-11-13
+### Added
+- Corpus search hits now carry their session header (`[N] ...`) in API + UI.
+- `transcribeme/validate_prompts.py` Kling validation report (dashboard Pipeline button too): canonical 102 → 85 with camera/lighting cue, 17 weak; historical 177 → 157 with cue, 20 weak. Report-only, non-gating.
+- Tray: `Dashboard Status (check)` menu item (notification + tooltip state) and `tray_runner.py --status` CLI.
+
 ## [1.6.0] - 2026-11-13
 ### Added
 - Historical Kling indexing: `extract_kling_prompts.py` now parses DARK (table format, 114), episode-1 (14) and full-series (49) into `kling_prompts_historical` (177 total); dashboard prompt explorer gains a Canonical/Historical source toggle.

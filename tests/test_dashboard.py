@@ -37,9 +37,24 @@ class DashboardApiTests(unittest.TestCase):
         s2, b2 = get(self.port, "/api/prompts")
         self.assertEqual(len(json.loads(b2)), 102)
 
+    def test_search_hits_carry_session_context(self):
+        s, b = get(self.port, "/api/search?q=lum")
+        d = json.loads(b); self.assertEqual(s, 200)
+        self.assertTrue(all("session" in m for m in d["matches"]))
+        self.assertTrue(any(m["session"] for m in d["matches"]), "some hit should name its session")
+
     def test_doc_allowlist_blocks_traversal(self):
         s, _ = get(self.port, "/api/doc?name=../../dashboard.py")
         self.assertEqual(s, 404)
+
+class ValidatePromptsTests(unittest.TestCase):
+    def test_validate_canonical_prompts(self):
+        sys.path.insert(0, str(ROOT / "transcribeme"))
+        import validate_prompts
+        rep = validate_prompts.validate()
+        self.assertEqual(rep["canonical"]["total"], 102)
+        self.assertIn("with_camera_or_light", rep["canonical"])
+        self.assertEqual(rep["historical"]["total"], 177)
 
 class CanonLintTests(unittest.TestCase):
     def test_canon_lint_clean_and_dirty(self):

@@ -18,8 +18,9 @@
 - [x] Index non-DB Kling files (done 2026-11-13 v1.6.0: 177 historical prompts in `kling_prompts_historical`, dashboard Canonical/Historical toggle).
 - [ ] Decide disposition of legacy `catalog.db` tables (`published_mcp_servers` 82 rows, `links_backlog`, `published_skills`) — HyperNexus residue, not sitcom data; do not delete without owner OK.
 - [x] Markdown-render screenplays in viewer (done v1.6.0: rendered/plain + Bob/Lum filter).
-- [x] Corpus search pagination (done v1.6.0: total + Prev/Next 50). Remaining: session-name context per hit.
-- [ ] Tray: visually confirm icon on the desktop (process verified BelowNormal; icon pixels not sighted by agent) and add live Running/Stopped state to menu.
+- [x] Corpus search pagination + session-name context per hit (done v1.6.0/v1.7.0).
+- [ ] Tray: visually confirm icon on the desktop (process verified BelowNormal; icon pixels not sighted by agent). Live state done v1.7.0 (`Dashboard Status` menu + `--status`).
+- [ ] Strengthen the 17 weak canonical Kling prompts (no camera/lighting cue, per `validate_prompts.py`) — creative edit, needs owner review of wording.
 
 ## Documentation & Version Governance
 - [x] Create core governance suite: `VERSION.md`, `ROADMAP.md`, `VISION.md`, `MEMORY.md`, `DEPLOY.md`, `IDEAS.md`, `CHANGELOG.md`.
