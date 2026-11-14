@@ -20,7 +20,7 @@
 - [x] Markdown-render screenplays in viewer (done v1.6.0: rendered/plain + Bob/Lum filter).
 - [x] Corpus search pagination + session-name context per hit (done v1.6.0/v1.7.0).
 - [ ] Tray: visually confirm icon on the desktop (process verified BelowNormal; icon pixels not sighted by agent). Live state done v1.7.0 (`Dashboard Status` menu + `--status`).
-- [ ] Strengthen the 17 weak canonical Kling prompts (no camera/lighting cue, per `validate_prompts.py`) — creative edit, needs owner review of wording.
+- [x] Strengthen the 17 weak canonical Kling prompts (done v1.7.1: additive camera cues only, validate 102/102; owner can tweak wording in `sitcom_final_s*.md` and re-index). Historical 20 weak left untouched for fidelity.
 
 ## Documentation & Version Governance
 - [x] Create core governance suite: `VERSION.md`, `ROADMAP.md`, `VISION.md`, `MEMORY.md`, `DEPLOY.md`, `IDEAS.md`, `CHANGELOG.md`.

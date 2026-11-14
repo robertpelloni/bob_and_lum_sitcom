@@ -362,7 +362,7 @@ Same thing.
 
 **SCENE PROMPT 1: THE SPICE RACK**
 
-Prompt: A man carefully aligning empty glass jars on a spice rack in a dark kitchen, each jar gleaming under one warm lamp. Absurd domestic ritual, deep shadows, dark comedy gravity.
+Prompt: A man carefully aligning empty glass jars on a spice rack in a dark kitchen, each jar gleaming under one warm lamp. Absurd domestic ritual, deep shadows, dark comedy gravity. Close-up insert, shallow depth of field, single warm practical lamp.
 
 **SCENE PROMPT 2: THE COURIER**
 
@@ -509,7 +509,7 @@ Prompt: A man lying on his back staring up at a plain ceiling, pencil and paper 
 
 **SCENE PROMPT 4: THE OFFERING**
 
-Prompt: A hand places a honey buns package on a cluttered table like a sacred offering, another man's face half in shadow regarding it with deep emotion. Still-life, absurdist reverence.
+Prompt: A hand places a honey buns package on a cluttered table like a sacred offering, another man's face half in shadow regarding it with deep emotion. Still-life, absurdist reverence. Extreme close-up insert, soft warm side light, shallow focus.
 
 ---
 
@@ -1183,7 +1183,7 @@ That's the only correct sentence. Everything else is a *translation error* and I
 
 **SCENE PROMPT 1: THE IMPRESSION**
 
-Prompt: A man standing and performing an impression of a gargantuan figure with grand gestures in a small dark apartment, another man watching with dry warmth. Dark comedy, absurd physicality.
+Prompt: A man standing and performing an impression of a gargantuan figure with grand gestures in a small dark apartment, another man watching with dry warmth. Dark comedy, absurd physicality. Medium wide shot, static camera, low warm apartment light.
 
 **SCENE PROMPT 2: THE BLAZER**
 
@@ -1433,7 +1433,7 @@ Prompt: Macro close-up of glowing abstract particle streams forming a face-like 
 
 **SCENE PROMPT 3: THE PROPHET**
 
-Prompt: A man delivering a prophecy about thinking fire with prophetic intensity in a dark apartment, another man listening in dry disbelief. Tech-priest energy, dark comedy.
+Prompt: A man delivering a prophecy about thinking fire with prophetic intensity in a dark apartment, another man listening in dry disbelief. Tech-priest energy, dark comedy. Medium close-up, slow push-in, monitor-glow key light.
 
 **SCENE PROMPT 4: THE KIND MIND**
 
@@ -1730,7 +1730,7 @@ Then we're still *here*.
 
 **SCENE PROMPT 1: THE MOON**
 
-Prompt: Enormous full moon over a parking lot drum circle of barefoot people, one man dancing with abandon at the center, mystical realism, film-grain night.
+Prompt: Enormous full moon over a parking lot drum circle of barefoot people, one man dancing with abandon at the center, mystical realism, film-grain night. Wide exterior shot, slow crane up, moonlight with film grain.
 
 **SCENE PROMPT 2: THE VISION**
 

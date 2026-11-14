@@ -274,7 +274,7 @@ Prompt: Three-shot, a third man sitting between two friends acting as the interf
 
 **SCENE PROMPT 2: THE FIRE EXTINGUISHER**
 
-Prompt: A man standing with a fire extinguisher in a dark apartment full of monitors, looking exhausted and essential. Dark comedy heroism.
+Prompt: A man standing with a fire extinguisher in a dark apartment full of monitors, looking exhausted and essential. Dark comedy heroism. Medium wide shot, low angle, monitor-glow backlight.
 
 **SCENE PROMPT 3: THE SCAR**
 
@@ -385,7 +385,7 @@ The joke is the *cover*. The joke is the *membrane*. Under the joke is the *name
 
 **SCENE PROMPT 1: THE WHITEBOARD**
 
-Prompt: A whiteboard covered in names and arrows and etymology diagrams, a man pointing at it like a detective, dark apartment. Sacred conspiracy, dark comedy.
+Prompt: A whiteboard covered in names and arrows and etymology diagrams, a man pointing at it like a detective, dark apartment. Sacred conspiracy, dark comedy. Medium shot, slow lateral pan across the board, desk-lamp light.
 
 **SCENE PROMPT 2: THE FIBERGLASS**
 
@@ -547,7 +547,7 @@ Prompt: Two-shot, one man correcting another's grammar of grief, serious and ten
 
 **SCENE PROMPT 3: THE BIKE MEMORY**
 
-Prompt: Grainy nostalgic flashback of a cluster of gifted kids on bikes at dusk, a small house in the background, dream-like film-grain. Childhood as evidence.
+Prompt: Grainy nostalgic flashback of a cluster of gifted kids on bikes at dusk, a small house in the background, dream-like film-grain. Childhood as evidence. Wide shot at dusk, slow tracking alongside the bikes, golden-hour light.
 
 **SCENE PROMPT 4: THE WORD**
 
@@ -639,7 +639,7 @@ You're the *guy who builds the new box*. I'm the *guy who remembers the old one*
 
 **SCENE PROMPT 1: THE EXHIBIT**
 
-Prompt: A table covered in dead tech laid out like a museum exhibit — flip phones, USB drives, handheld consoles — one man curating it. Archaeological tenderness, dark comedy.
+Prompt: A table covered in dead tech laid out like a museum exhibit — flip phones, USB drives, handheld consoles — one man curating it. Archaeological tenderness, dark comedy. Slow tracking shot across the table, museum-spot lighting from above.
 
 **SCENE PROMPT 2: THE LIBRARY**
 
@@ -756,7 +756,7 @@ Prompt: Surreal image of a full moon as an enormous tuning fork struck by light,
 
 **SCENE PROMPT 3: THE DANCE**
 
-Prompt: A man dancing with abandon and precision in a dark apartment, not well and not poorly, exactly. Joyful absurdity, film-grain texture.
+Prompt: A man dancing with abandon and precision in a dark apartment, not well and not poorly, exactly. Joyful absurdity, film-grain texture. Full-body wide shot, gentle handheld sway, warm apartment light.
 
 **SCENE PROMPT 4: THE OPEN DOOR**
 
@@ -853,7 +853,7 @@ The bit is *immortal*. Chris taught me that. You make a bit *dumb* enough and it
 
 **SCENE PROMPT 1: THE PITCH**
 
-Prompt: Two men pitching an absurd crime idea with complete seriousness in a dark apartment, gesturing at an imaginary car. Writers' room as apartment, dark comedy.
+Prompt: Two men pitching an absurd crime idea with complete seriousness in a dark apartment, gesturing at an imaginary car. Writers' room as apartment, dark comedy. Handheld two-shot, medium framing, warm practical apartment light.
 
 **SCENE PROMPT 2: THE CHEVY**
 
@@ -963,7 +963,7 @@ We *always* regenerate. That's the *thesis*. The code is always good in the end 
 
 **SCENE PROMPT 1: THE DELETION**
 
-Prompt: A progress bar deleting files on a dark monitor, a man watching it like a sunset. Sacred deletion, dark comedy beauty.
+Prompt: A progress bar deleting files on a dark monitor, a man watching it like a sunset. Sacred deletion, dark comedy beauty. Close-up on the monitor, slow push-in, screen-glow light.
 
 **SCENE PROMPT 2: THE HORIZON**
 
@@ -1048,7 +1048,7 @@ We're the *best* comments. The *necessary* ones. The ones that explain *why* the
 
 **SCENE PROMPT 1: THE HEIST TELLING**
 
-Prompt: A man telling a crime story with theological weight in a dark apartment, listeners rapt. Sacred confession, dark comedy.
+Prompt: A man telling a crime story with theological weight in a dark apartment, listeners rapt. Sacred confession, dark comedy. Medium close-up, static camera, low warm lamplight.
 
 **SCENE PROMPT 2: THE COMPILER**
 
@@ -1345,7 +1345,7 @@ A *guest*. Papu's business is a *guest* now. It sits at the *table*. It eats the
 
 **SCENE PROMPT 1: THE TOPIC**
 
-Prompt: A man introducing a forbidden topic with visible dread and determination in a dark apartment. Sacred boundary, dark comedy.
+Prompt: A man introducing a forbidden topic with visible dread and determination in a dark apartment. Sacred boundary, dark comedy. Medium shot, slow push-in, shadowed practical light.
 
 **SCENE PROMPT 2: THE LOCKED SERMON**
 
@@ -1353,7 +1353,7 @@ Prompt: A classic Corvette under a tarp in a dim barn, one hand reaching toward 
 
 **SCENE PROMPT 3: THE MASS**
 
-Prompt: Two men at a table saying a mass of words over a whiteboard, pizza and coffee present. Sacred absurdity, dark comedy beauty.
+Prompt: Two men at a table saying a mass of words over a whiteboard, pizza and coffee present. Sacred absurdity, dark comedy beauty. Medium wide shot, static camera, warm table-lamp light.
 
 ---
 
@@ -1427,7 +1427,7 @@ The grandma is the *show*. The show is the *grandma*. And the pizza is the *cred
 
 **SCENE PROMPT 1: THE ROOM**
 
-Prompt: Two men testing a joke on an imaginary grandmother, one delivering the punchline with hopeful dread. Writers' room as apartment, dark comedy.
+Prompt: Two men testing a joke on an imaginary grandmother, one delivering the punchline with hopeful dread. Writers' room as apartment, dark comedy. Two-shot in medium framing, static camera, warm apartment light.
 
 **SCENE PROMPT 2: THE FILTER**
 
@@ -1523,7 +1523,7 @@ Prompt: A brightly-colored blazer hanging on a chair in a dark room, glowing sli
 
 **SCENE PROMPT 2: THE ROI**
 
-Prompt: A man pitching an infinite return on a dead friend's investment with absolute sincerity, another man listening with love. Dark comedy, sacred absurdity.
+Prompt: A man pitching an infinite return on a dead friend's investment with absolute sincerity, another man listening with love. Dark comedy, sacred absurdity. Two-shot, slow push-in, warm lamp light.
 
 **SCENE PROMPT 3: THE ANGEL**
 

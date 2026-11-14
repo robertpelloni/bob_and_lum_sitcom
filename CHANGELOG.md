@@ -3,6 +3,10 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.7.1] - 2026-11-14
+### Fixed
+- Strengthened all 17 validator-weak canonical Kling prompts (additive camera/lighting cue appended, original wording untouched): `validate_prompts.py` now reports canonical 102/102 with cue, 0 weak. Historical archive prompts (20 weak) intentionally left as-is for archive fidelity.
+
 ## [1.7.0] - 2026-11-13
 ### Added
 - Corpus search hits now carry their session header (`[N] ...`) in API + UI.
