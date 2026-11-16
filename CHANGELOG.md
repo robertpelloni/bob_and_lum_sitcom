@@ -3,6 +3,10 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.7.4] - 2026-11-14
+### Added
+- Sandbox fold verdict in `CORPUS_FOLD_PREVIEW.md`: rebuild mechanics verified (349 sessions in a TEMP copy) but new sessions lack Bob/Lum labels — fold blocked on a speaker-assignment pass. Canonical corpus untouched.
+
 ## [1.7.3] - 2026-11-14
 ### Fixed
 - Ported hardcoded `C:\Users\hyper\Downloads\...` paths to repo-relative paths in 14 pipeline scripts (`canon_rewrite*`, `diff_new_sessions`, `extract_char_quotes`, `ingest_261005`, `insert_*`, `normalize_headers`, `patch_*`, `rebuild_combined`, `update_characters_episodes`) — they were dead on this machine. Guarded by a new test (7 cases total). Corrects a v1.7.0 roadmap note that wrongly claimed no Downloads paths remained.
