@@ -3,6 +3,10 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.7.5] - 2026-11-14
+### Added
+- `SPEAKER_CUES.md`: machine-extracted self-ID/address cue evidence (with timestamps) for the 108 restored transcripts. Result: 33 files have lexical cues usable for per-file speaker maps; 75 have none and need listening/audio diarization. No labels invented — fold remains blocked on this, by design.
+
 ## [1.7.4] - 2026-11-14
 ### Added
 - Sandbox fold verdict in `CORPUS_FOLD_PREVIEW.md`: rebuild mechanics verified (349 sessions in a TEMP copy) but new sessions lack Bob/Lum labels — fold blocked on a speaker-assignment pass. Canonical corpus untouched.
