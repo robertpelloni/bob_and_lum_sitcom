@@ -1,5 +1,10 @@
 ﻿# Corpus Fold Preview (2026-11-14, read-only diff)
 
+## Sandbox rebuild result (2026-11-14, TEMP copy, canonical corpus untouched)
+- `rebuild_combined.py` ran clean in a sandbox: **102 sessions appended (248–349), corpus 6,163,756 → 10,506,181 bytes**. (Diff counted 136 new unique hashes; rebuild skips tiny/non-conversation/empty files, hence 102.)
+- **Blocker:** appended sessions are raw whisper text with **no Bob/Lum speaker labels** (restored transcripts have no diarization), unlike the existing corpus. Folding now would dilute speaker attribution (currently Bob 25,431 / Lum 17,532 cues).
+- Recommendation: do **not** fold yet. First run a speaker-assignment pass (deep-clean style) over the 108 restored transcripts, spot-check 3–5 sessions by ear against the F: MP3s, then fold + canon pass.
+
 `diff_new_sessions.py` vs the 247-session master corpus: 376 unique content hashes in `transcribeme/`, 240 already in corpus, **136 NEW unique sessions (4,324,796 bytes)** would be appended as sessions 248+ by `rebuild_combined.py`. NOT executed - folding changes the canonical corpus and needs owner approval (speaker assignment in rebuild is heuristic; canon pass required after).
 
 ```
