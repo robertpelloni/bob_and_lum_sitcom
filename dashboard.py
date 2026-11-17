@@ -52,6 +52,8 @@ DOCS = {
  "deploy": ("DEPLOY.md", "DEPLOY / Manual", "Docs", "Setup, run, build, troubleshooting manual."),
  "changelog": ("CHANGELOG.md", "CHANGELOG", "Docs", "Every release, by version."),
  "handoff": ("HANDOFF.md", "HANDOFF", "Docs", "Session state for successor models."),
+ "fold_preview": ("CORPUS_FOLD_PREVIEW.md", "Corpus fold preview", "Docs", "136 new sessions diff + sandbox verdict: fold blocked on speaker labels."),
+ "speaker_cues": ("SPEAKER_CUES.md", "Speaker cue worklist", "Docs", "Cue evidence for 108 restored transcripts: 33 text-assignable, 75 need listening."),
  "readme": ("README.md", "README", "Docs", "Honest project overview."),
 }
 SCRIPT_DESCS = {

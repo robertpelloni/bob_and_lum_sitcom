@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.7.6] - 2026-11-14
+### Added
+- Dashboard viewer now includes `CORPUS_FOLD_PREVIEW.md` and `SPEAKER_CUES.md` (21 docs/screenplays total; every root `.md` is represented in the viewer or file library). Guarded by a new test (8 cases).
+### Fixed
+- Restarted the system tray (it had been running pre-v1.7 code since 2026-11-13) — verified its command line before stopping, new tray on current code, dashboard untouched.
+
 ## [1.7.5] - 2026-11-14
 ### Added
 - `SPEAKER_CUES.md`: machine-extracted self-ID/address cue evidence (with timestamps) for the 108 restored transcripts. Result: 33 files have lexical cues usable for per-file speaker maps; 75 have none and need listening/audio diarization. No labels invented — fold remains blocked on this, by design.

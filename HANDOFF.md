@@ -1,6 +1,6 @@
 # HANDOFF — Bob & Lum Sitcom (Session State & Autopilot Summary)
 
-_Updated 2026-11-13 by [muse-wonder-1.0 in Muse Code in C:\Users\hyper\workspace\bob_and_lum_sitcom on laptop] — v1.7.0 (adds on v1.6.0: search hits carry session headers, validate_prompts.py Kling coverage report — 17 canonical weak prompts listed in TODO — tray Dashboard Status item + --status CLI)_
+_Updated 2026-11-14 by [muse-wonder-1.0 in Muse Code in C:\Users\hyper\workspace\bob_and_lum_sitcom on laptop] — v1.7.6. Since v1.7.0: 17 weak Kling prompts strengthened (102/102), 14 scripts ported off Downloads paths, 108 transcripts restored from the Vibe migration (441 MP3s on F:, 456 originals on J:, C: 5.5→289 GB free, Vibe folder empty; report `J:\Vibe_archive\VIBE_BACKUP_REPORT.md`), corpus fold sandbox-verified but blocked on speaker labels (`CORPUS_FOLD_PREVIEW.md`, `SPEAKER_CUES.md`: 33/108 text-assignable). Dashboard + tray both running BelowNormal on 8765 at handoff; Gemini/ChatGPT Edge tabs have closed, muse.ai check-ins continue._
 
 ## What changed this session (v1.5.0)
 - **Dashboard consolidated to one page** (`dashboard.py`, stdlib only): Overview (live `/api/status`) → Screenplays & Docs (one viewer, 19 allowlisted files) → Kling Prompts (102, filter/copy/copy-filtered) → Corpus Search (speaker highlight) → Library/Files (47 files with roles) → Pipeline & Scripts (real job output) → Canon → System (log/quit/tray help). 36 tooltips. Dead `showTab`, hardcoded metrics/version, and prompt-XSS fixed.

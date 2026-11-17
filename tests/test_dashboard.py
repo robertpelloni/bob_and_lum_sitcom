@@ -43,6 +43,11 @@ class DashboardApiTests(unittest.TestCase):
         self.assertTrue(all("session" in m for m in d["matches"]))
         self.assertTrue(any(m["session"] for m in d["matches"]), "some hit should name its session")
 
+    def test_new_docs_in_viewer(self):
+        for name in ("fold_preview", "speaker_cues"):
+            s, b = get(self.port, f"/api/doc?name={name}")
+            self.assertEqual(s, 200, name); self.assertGreater(len(b), 200, name)
+
     def test_doc_allowlist_blocks_traversal(self):
         s, _ = get(self.port, "/api/doc?name=../../dashboard.py")
         self.assertEqual(s, 404)
