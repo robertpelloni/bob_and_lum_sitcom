@@ -5,6 +5,7 @@
 - [x] Review speaker naming Rob->Bob (verified 2026-11-08: zero `\bRob\b` hits in *.md outside MEMORY/TODO canon notes).
 - [x] Fix stale season footer counts (fixed 2026-11-08: `sitcom_final_s1.md` 60->51 prompts to match 51 SCENE PROMPTs; verified `sitcom_final_s2.md` 14 total 8+6 and `sitcom_rewrite_s2.md` 8+6=14 correct).
 - [x] Ensure byte-identical corpus (verified 2026-11-08: both 5905406 bytes, Compare-Object clean).
+- [x] Parity twin disposition — DECIDED 2026-11-19: KEEP `sitcom script.txt` as the intentional parity twin checked by `dashboard.py`; it is not accidental duplication.
 
 ## Pipeline & Python Tooling
 - [x] Fix path resolution in `transcribeme/deep_clean_rebuild.py` to use repository-relative paths instead of Windows `C:\Users\hyper\Downloads\`.
@@ -14,14 +15,14 @@
 - [x] Implement local unified dashboard server (`dashboard.py`) with screenplay viewer, prompt laboratory, corpus search, and graceful shutdown controls.
 - [x] Implement desktop system tray runner (`tray_runner.py`) using `pystray` and `PIL` with server start/stop/restart/quit and browser launcher.
 
-## Dashboard v1.5.0 follow-ups (2026-11-13)
+## Dashboard v1.5.0 follow-ups (2026-11-13) — DASHBOARD FROZEN 2026-11-19, no new dashboard work
 - [x] Index non-DB Kling files (done 2026-11-13 v1.6.0: 177 historical prompts in `kling_prompts_historical`, dashboard Canonical/Historical toggle).
-- [ ] Decide disposition of legacy `catalog.db` tables (`published_mcp_servers` 82 rows, `links_backlog`, `published_skills`) — HyperNexus residue, not sitcom data; do not delete without owner OK.
+- [ ] Drop legacy `catalog.db` tables — DECIDED 2026-11-19: DROP `published_mcp_servers` (82 rows, verified), `links_backlog` (7 rows, verified), `published_skills` (0 rows) — HyperNexus residue, not queried by `dashboard.py` (it only reads `kling_prompts` / `kling_prompts_historical`). Execution: do this in a local checkout with sqlite, re-index, and verify kling_prompts = 102 and kling_prompts_historical = 177 before pushing the binary DB. Not done yet — the decision is made, the drop is queued.
 - [x] Markdown-render screenplays in viewer (done v1.6.0: rendered/plain + Bob/Lum filter).
 - [x] Corpus search pagination + session-name context per hit (done v1.6.0/v1.7.0).
 - [ ] Tray: visually confirm icon on the desktop (process verified BelowNormal; icon pixels not sighted by agent). Live state done v1.7.0 (`Dashboard Status` menu + `--status`).
 - [x] Restore missing transcripts from Vibe backup (done v1.7.2: 108 new `transcribeme/*.txt`; 42 repo transcripts still have no audio anywhere found — see `J:\Vibe_archive\VIBE_BACKUP_REPORT.md` section B).
-- [ ] Corpus fold (blocked on speaker labels): preview in `CORPUS_FOLD_PREVIEW.md`; cue evidence in `SPEAKER_CUES.md` — 33/108 restored files are text-assignable, 75 need listening or audio diarization (e.g. pyannote, needs model download + owner OK). Then fold + canon pass.
+- [ ] Corpus fold — DECIDED 2026-11-19: FROZEN. Canonical corpus stays at 247 sessions. Do not fold the 33 text-assignable restored files alone (it would create a half-labelled corpus) and diarization (pyannote etc.) is NOT approved. Preview in `CORPUS_FOLD_PREVIEW.md`; cue evidence in `SPEAKER_CUES.md` (33/108 text-assignable, 75 need listening/diarization). Unfreeze only for a single fold pass when all 108 have speaker assignments.
 - [x] Strengthen the 17 weak canonical Kling prompts (done v1.7.1: additive camera cues only, validate 102/102; owner can tweak wording in `sitcom_final_s*.md` and re-index). Historical 20 weak left untouched for fidelity.
 
 ## Documentation & Version Governance
