@@ -3,6 +3,16 @@
 All notable changes to this project are documented in this file.
 Version format adheres to Semantic Versioning as defined in `VERSION.md`.
 
+## [1.7.7] - 2026-11-19
+### Fixed
+- README status corrected from v1.5.0 to match the actual release line (core content v1.7.6, 2026-11-17); canonical vs historical scripts labelled.
+- HANDOFF rewritten: its old "Next" list asked for work already shipped in v1.6.0/v1.7.0 (historical Kling indexing, canon-lint gate, markdown rendering, search pagination) — removed; only real blockers remain.
+### Decided
+- Dashboard/tray FROZEN — feature-complete, no further dashboard versions; Phase 4 (production) is the only active phase.
+- Parity twin KEPT: `sitcom script.txt` is the intentional byte-parity check twin for the corpus, used by `dashboard.py`.
+- Corpus fold FROZEN at 247 sessions: no partial fold of the 33 text-assignable transcripts, no diarization approval; fold only in one pass when all 108 restored transcripts have speaker assignments.
+- Legacy `catalog.db` tables to be DROPPED (`published_mcp_servers` 82, `links_backlog` 7, `published_skills` 0 — verified counts, not used by the dashboard); execution queued for a local checkout session with re-index verification (102 + 177 Kling prompts).
+
 ## [1.7.6] - 2026-11-14
 ### Added
 - Dashboard viewer now includes `CORPUS_FOLD_PREVIEW.md` and `SPEAKER_CUES.md` (21 docs/screenplays total; every root `.md` is represented in the viewer or file library). Guarded by a new test (8 cases).
