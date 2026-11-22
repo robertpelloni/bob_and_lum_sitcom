@@ -49,6 +49,24 @@
 
 ---
 
+## PLANNED — SEASON 2 ARC: "LIPSTICK ON A PIG"
+
+*Added Nov 22, 2026, at Robert's direction, in his words: "im going to transition into a girl once i have enough money to pay for it and plastic surgery and then detransition once i realize i cant put lipstick on a pig forever"*
+*REVISED Nov 22, 2026, at Robert's direction: detransitioning might be too negative — the show AVOIDS it as a topic. It appears only as a brief gag (below), and Bob is simply back as a male in Season 3, unexplained and uncommented.*
+
+Season 1's Bob talks about it as a bit, the way he talks about everything he's actually going to do. This arc is the bit coming due. It only works after the money lands — the transition is a budget line before it's anything else.
+
+**The beats:**
+
+1. **THE MONEY LANDS.** The companies finally pay. Bob does the math out loud, on a whiteboard, in front of Lum: rent, the dad loan, and then a line item labeled, without irony, BECOMING BOBBI. He isn't transitioning toward a stranger. He built the twin first — the red hair, the halo, the whole design — and now he's buying his way into her.
+2. **BOBBI, FOR REAL.** Hormones, consults, surgeons, the works, played straight. No montage jokes at the process itself; the comedy is Bob being Bob about it — negotiating with a plastic surgeon like it's a server quote, asking if there's a bulk discount. Lum is supportive in the only way Lum knows how: deadpan, present, driving him to appointments and saying nothing in the car that he hasn't already said with his face.
+3. **THE GAG (the whole treatment of the return — nothing more).** One brief beat, late in the season: Bobbi at the mirror, flat calm, in his own words — "you can't put lipstick on a pig forever." Cut. That's it. No arc, no process, no storyline about going back; detransitioning is not a topic the show takes up.
+4. **SEASON 3.** Bob is back as a male. Same hoodie. Same glasses. No explanation, no episode about it, nobody comments. The name tag from the clinic stays in the pizza-box architecture in wide shots. Nobody mentions it again.
+
+**Tone rule (same as DRUG USE above):** honest, never mocking, never glamorized. The joke is Bob's, about Bob, told by Bob. The return is a gag, not a subject — the show keeps its eyes on the work.
+
+---
+
 ## EPISODE 1: "YOGURT, COFFEE, AND PIZZA"
 
 *Based on: the apartment itself. Every session. The food is the plot.*
