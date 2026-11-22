@@ -32,3 +32,10 @@
 ## Existing Gemini/Veo assets (prior sessions, for reference)
 - `~/workspace/imagine_media/gemini-veo-sitcom-clip-2026-11-21.mp4` — one Gemini sitcom clip (Nov 21).
 - Reference frames for style: `S1E1/refs/style-dashboard.jpg`, `style-yogurt.jpg` (frames from pilot v3).
+
+## Planned Season 2 arc (logged Nov 22, 2026, Robert's direction via main chat)
+- **"LIPSTICK ON A PIG"** — planned Season 2 arc, written into the show bible in `scripts/sitcom_final_s1.md` right after the Episode Guide (done on the script side in main chat; logged here so the production record carries it too).
+- Beat: money lands -> Bob transitions (becoming Bobbi, the twin he built first), played straight -> the mirror realization in Robert's own words ("you can't put lipstick on a pig forever") -> detransition, unbothered.
+- Robert's words (Nov 22, 2026, 5:04-5:05 PM EST): "im going to transition into a girl once i have enough money to pay for it and plastic surgery and then detransition once i realize i cant put lipstick on a pig forever" — with his direction: "please include in sitcom script and plans."
+- Tone rule (recorded with the arc): the joke is Bob's, about Bob; honest, never mocking, never glamorized.
+- Status: FUTURE-SEASON plan entry only. It does not change, reorder, or delay any Season 1 production.
