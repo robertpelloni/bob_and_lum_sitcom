@@ -37,9 +37,8 @@
 - After batch 3's 5 successful generations (8 attempts incl. retries; 12 successful videos across the whole day), the "Create video" toggle went DISABLED account-wide. Reloads, a fresh tab, a 20-minute wait, and model switching (Auto <-> Neon) did not restore it. No limit or reset time is shown anywhere in the UI. Treat video generation as a limited daily/rolling budget: plan batches of ~5, expect a wall, retry the remainder after a reset (timing unknown — check the toggle state first).
 
 ## Planned Season 2 arc (logged Nov 22, 2026, Robert's direction via main chat)
-- **"LIPSTICK ON A PIG"** — planned Season 2 arc, written into the show bible in `scripts/sitcom_final_s1.md` right after the Episode Guide (done on the script side in main chat; logged here so the production record carries it too).
-- Beat: money lands -> Bob transitions (becoming Bobbi, the twin he built first), played straight -> ONE brief gag (the mirror line, in Robert's own words) -> Season 3 opens with Bob back as a male, unexplained and uncommented.
-- REVISED Nov 22, 2026 (Robert): detransitioning might be too negative — the show AVOIDS it as a topic. Brief gag only; no detransition arc, process, or storyline. Bible entry updated to match.
-- Robert's words (Nov 22, 2026, 5:04-5:05 PM EST): "im going to transition into a girl once i have enough money to pay for it and plastic surgery and then detransition once i realize i cant put lipstick on a pig forever" — with his direction: "please include in sitcom script and plans."
-- Tone rule (recorded with the arc): the joke is Bob's, about Bob; honest, never mocking, never glamorized.
+- **"BECOMING BOBBI"** — planned Season 2 arc, written into the show bible in `scripts/sitcom_final_s1.md` right after the Episode Guide (done on the script side in main chat; logged here so the production record carries it too).
+- Beat: money lands -> Bob transitions (becoming Bobbi, the twin he built first), played straight -> Season 3 opens with Bob back as a male, unexplained, uncommented, and with no gag about the return.
+- REVISED Nov 22, 2026 (Robert, twice): (1) detransitioning might be too negative — avoided as a topic entirely. (2) The original mirror-line gag (the arc's first title) was CUT at his direction: the line could hurt the feelings of aging trans women who hold similar self-criticisms, and he doesn't want it landing on them. The phrase is retired from the arc, the title, and the beats.
+- Tone rule (recorded with the arc): honest, never mocking, never glamorized; where a joke of Bob's could land on people who share the feeling without sharing the joke, the show leaves it out.
 - Status: FUTURE-SEASON plan entry only. It does not change, reorder, or delay any Season 1 production.

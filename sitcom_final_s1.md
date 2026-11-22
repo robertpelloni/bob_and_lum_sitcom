@@ -49,10 +49,10 @@
 
 ---
 
-## PLANNED — SEASON 2 ARC: "LIPSTICK ON A PIG"
+## PLANNED — SEASON 2 ARC: "BECOMING BOBBI"
 
-*Added Nov 22, 2026, at Robert's direction, in his words: "im going to transition into a girl once i have enough money to pay for it and plastic surgery and then detransition once i realize i cant put lipstick on a pig forever"*
-*REVISED Nov 22, 2026, at Robert's direction: detransitioning might be too negative — the show AVOIDS it as a topic. It appears only as a brief gag (below), and Bob is simply back as a male in Season 3, unexplained and uncommented.*
+*Added Nov 22, 2026, at Robert's direction: once he has the money for it, Bob transitions — and the show plans the arc.*
+*REVISED Nov 22, 2026, at Robert's direction (twice): (1) detransitioning might be too negative — the show AVOIDS it as a topic; Bob is simply back as a male in Season 3, unexplained and uncommented. (2) The original mirror-line gag was CUT: in Robert's judgment the line could hurt the feelings of aging trans women who hold similar self-criticisms about themselves, and the show doesn't want that line landing on them. The arc keeps the becoming, drops the punchline at his own expense.*
 
 Season 1's Bob talks about it as a bit, the way he talks about everything he's actually going to do. This arc is the bit coming due. It only works after the money lands — the transition is a budget line before it's anything else.
 
@@ -60,10 +60,9 @@ Season 1's Bob talks about it as a bit, the way he talks about everything he's a
 
 1. **THE MONEY LANDS.** The companies finally pay. Bob does the math out loud, on a whiteboard, in front of Lum: rent, the dad loan, and then a line item labeled, without irony, BECOMING BOBBI. He isn't transitioning toward a stranger. He built the twin first — the red hair, the halo, the whole design — and now he's buying his way into her.
 2. **BOBBI, FOR REAL.** Hormones, consults, surgeons, the works, played straight. No montage jokes at the process itself; the comedy is Bob being Bob about it — negotiating with a plastic surgeon like it's a server quote, asking if there's a bulk discount. Lum is supportive in the only way Lum knows how: deadpan, present, driving him to appointments and saying nothing in the car that he hasn't already said with his face.
-3. **THE GAG (the whole treatment of the return — nothing more).** One brief beat, late in the season: Bobbi at the mirror, flat calm, in his own words — "you can't put lipstick on a pig forever." Cut. That's it. No arc, no process, no storyline about going back; detransitioning is not a topic the show takes up.
-4. **SEASON 3.** Bob is back as a male. Same hoodie. Same glasses. No explanation, no episode about it, nobody comments. The name tag from the clinic stays in the pizza-box architecture in wide shots. Nobody mentions it again.
+3. **SEASON 3.** Bob is back as a male. Same hoodie. Same glasses. No explanation, no episode about it, nobody comments, and there is no gag about the return either — the show simply doesn't make the return a subject. The name tag from the clinic stays in the pizza-box architecture in wide shots. Nobody mentions it again.
 
-**Tone rule (same as DRUG USE above):** honest, never mocking, never glamorized. The joke is Bob's, about Bob, told by Bob. The return is a gag, not a subject — the show keeps its eyes on the work.
+**Tone rule (same as DRUG USE above):** honest, never mocking, never glamorized. The joke is Bob's, about Bob — and where a joke of Bob's could land on people who share the feeling without sharing the joke, the show leaves it out.
 
 ---
 
