@@ -20,6 +20,11 @@
 - E1-04..18: queued, same pipeline, after first batch verifies (character consistency + dialogue accuracy + download integrity).
 - Assembly: ffmpeg concat in clip order, title card first; verify duration, stream specs, frame-check each segment boundary.
 
+## Gemini behavior learned (Nov 22, corrected-refs batch)
+- With corrected refs (real photos + commercial frame), likeness is RIGHT: Bob glasses/stubble/hoodie/chain; Lum slim, clean-shaven, grey V-neck, koi sleeve visible.
+- Same-chat generations are CUMULATIVE: E1-01 came out 10s, E1-02 20s, E1-03 30s, with later clips replaying earlier dialogue. E1-02's dialogue is present but jumbled/repeated. For clean clips, generate each clip in its OWN fresh chat (refs re-attached), or plan to trim tails.
+- Downloads through Robert's device Chrome land on HIS PC; the harness download capture failed both batches (download_unreadable_discarded) — no clip files in the Muse workspace yet. Files must come from Robert's Downloads folder, or future batches should try the cloud browser so downloads are capturable.
+
 ## S1E2 "1,400 Doses"
 - Script secured (same file, lines 252-380). Breakdown starts after S1E1 pipeline is proven.
 - Content note: episode centres on the 1,400-dose windfall (script's own framing: ate half, threw half away, never glamorized). Watch for generator refusals on drug-adjacent dialogue; log any refusal verbatim in the tracker instead of silently rewriting lines.
