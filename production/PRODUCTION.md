@@ -33,6 +33,9 @@
 - `~/workspace/imagine_media/gemini-veo-sitcom-clip-2026-11-21.mp4` — one Gemini sitcom clip (Nov 21).
 - Reference frames for style: `S1E1/refs/style-dashboard.jpg`, `style-yogurt.jpg` (frames from pilot v3).
 
+## Gemini quota wall (observed Nov 22, 2026)
+- After batch 3's 5 successful generations (8 attempts incl. retries; 12 successful videos across the whole day), the "Create video" toggle went DISABLED account-wide. Reloads, a fresh tab, a 20-minute wait, and model switching (Auto <-> Neon) did not restore it. No limit or reset time is shown anywhere in the UI. Treat video generation as a limited daily/rolling budget: plan batches of ~5, expect a wall, retry the remainder after a reset (timing unknown — check the toggle state first).
+
 ## Planned Season 2 arc (logged Nov 22, 2026, Robert's direction via main chat)
 - **"LIPSTICK ON A PIG"** — planned Season 2 arc, written into the show bible in `scripts/sitcom_final_s1.md` right after the Episode Guide (done on the script side in main chat; logged here so the production record carries it too).
 - Beat: money lands -> Bob transitions (becoming Bobbi, the twin he built first), played straight -> ONE brief gag (the mirror line, in Robert's own words) -> Season 3 opens with Bob back as a male, unexplained and uncommented.

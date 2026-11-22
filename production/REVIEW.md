@@ -21,8 +21,9 @@ Last updated: Nov 22, 2026.
 | Title card | ✅ Done locally, correct text — in repo at `production/S1E1/title-card.mp4` |
 | E1-01 teaser establishing | ✅ Rendered (Gemini), likeness correct |
 | E1-02 "It's four in the morning" | ✅ Regenerated clean — exactly 10s, dialogue in exact order |
-| E1-03 "This is my dinner" | ❌ Only a flawed 30s cumulative version exists; clean regen failed twice (generic Gemini errors) — retry pending |
-| E1-04 … E1-18 | ⏳ Not yet generated (fresh chat per clip is the working method) |
+| E1-03 "This is my dinner" | ✅ Rendered clean (10s, dialogue exact) |
+| E1-04 … E1-10 | ✅ All rendered (10s each, dialogue verified from captions, likeness correct) |
+| E1-11 … E1-18 | ⏳ Not yet generated — Gemini's video toggle hit an account quota wall on Nov 22 after 12 successful videos that day; retry after it resets (no reset time shown) |
 
 ## Episode 2 — "1,400 Doses" status
 - Title card ✅ in repo at `production/S1E2/title-card.mp4`. All 14 clips ⏳ not yet generated.
@@ -30,6 +31,7 @@ Last updated: Nov 22, 2026.
 ## Where the rendered clips live
 Generated clips are in Robert's Gemini chats and his Chrome Downloads folder (the browser harness cannot pull them into the workspace):
 - Corrected batch (E1-01, flawed E1-02/E1-03): https://gemini.google.com/app/8dcb325b6144ec37
+- Clean clips: E1-03 cb2d624c3087874d, E1-05 786bfda90cc5fe20, E1-08 6b0153d9be8056f0, E1-09 1bb59644dc798e60, E1-10 9bb0efbaedd83076 (plus E1-04 b09c78997fd62aa5, E1-06 2dcca676178fe55b, E1-07 73da54264e17deec)
 - E1-02 clean regeneration: https://gemini.google.com/app/fa5338e057674c65
 - E1-03 failed attempts: https://gemini.google.com/app/fb6584e292c622b2
 
